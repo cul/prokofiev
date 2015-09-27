@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<ProkoMasterTwos>
    <c level="file">
       <did>
          <container type="Box" label="Box">1</container>
@@ -15,7 +16,7 @@
             <p>Standard title: Autumn</p>
             <p>SPA ID: 1</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Uncertain</p>
             <p>Binding: Unbound</p>
@@ -50,7 +51,7 @@
             <p>Standard title: Sonata for Two Violins</p>
             <p>SPA ID: 2</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Uncertain</p>
             <p>Binding: Unbound</p>
@@ -84,7 +85,7 @@
             <p>Standard title: Thoughts, for Piano</p>
             <p>SPA ID: 3</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Uncertain</p>
             <p>Binding: Unbound</p>
@@ -120,7 +121,7 @@
             <p>Standard title: Overture on Hebrew Themes</p>
             <p>SPA ID: 4</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Publications</p>
             <p>Binding: Bound</p>
             <p>Annotations: pencil</p>
@@ -152,7 +153,7 @@
             <p>Standard title: Three Pieces, for piano (No. 3: Sonatine pastorale)</p>
             <p>SPA ID: 5</p>
             <p>Document type: Notated music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Uncertain</p>
             <p>Binding: Unbound</p>
@@ -185,7 +186,7 @@
             <p>Standard title: Two Sonatinas for Piano (No. 1)</p>
             <p>SPA ID: 6</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Uncertain</p>
             <p>Binding: Unbound</p>
@@ -216,7 +217,7 @@
             <p>Standard title: Two Sonatinas for Piano (No. 2)</p>
             <p>SPA ID: 7</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Uncertain</p>
             <p>Binding: Unbound</p>
@@ -247,7 +248,7 @@
             <p>Standard title: Seven, They Are Seven</p>
             <p>SPA ID: 8</p>
             <p>Document type: Notated music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript; Publications</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Bound; Unbound</p>
@@ -293,7 +294,7 @@
             <p>Standard title: Suite from The Prodigal Son</p>
             <p>SPA ID: 9</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -327,7 +328,7 @@
             <p>Standard title: Symphony No. 3</p>
             <p>SPA ID: 10</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -364,7 +365,7 @@
             <p>Standard title: The Prodigal Son</p>
             <p>SPA ID: 11</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -398,7 +399,7 @@
             <p>Standard title: String Quartet No. 1</p>
             <p>SPA ID: 12</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -435,7 +436,7 @@
             <p>Standard title: Divertimento</p>
             <p>SPA ID: 13</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -472,7 +473,7 @@
             <p>Standard title: Six Pieces, for Piano</p>
             <p>SPA ID: 14</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Uncertain</p>
             <p>Binding: Unbound</p>
@@ -513,7 +514,7 @@
             <p>Standard title: Egyptian Nights [Incidental Music]</p>
             <p>SPA ID: 15</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -545,7 +546,7 @@
             <p>Standard title: Egyptian Nights [Incidental Music]</p>
             <p>SPA ID: 16</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -578,7 +579,7 @@
             <p>Standard title: Egyptian Nights [Incidental Music]</p>
             <p>SPA ID: 17</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Copyist</p>
             <p>Binding: Unbound</p>
@@ -616,7 +617,7 @@
             <p>Standard title: Symphonic Song</p>
             <p>SPA ID: 18</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -649,7 +650,7 @@
             <p>Standard title: Arrangement of Twelve Russian Folk Songs (No. 4: White Snow)</p>
             <p>SPA ID: 19</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -685,7 +686,7 @@
             <p>Standard title: Four Portraits and 'Dénouement' from The Gambler</p>
             <p>SPA ID: 20</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -719,7 +720,7 @@
             <p>Standard title: Sur le Borysthène</p>
             <p>SPA ID: 21</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -756,7 +757,7 @@
             <p>Standard title: Sur le Borysthène</p>
             <p>SPA ID: 22</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -795,7 +796,7 @@
             <p>Standard title: Concerto for Piano No. 4</p>
             <p>SPA ID: 23</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -833,7 +834,7 @@
             <p>Standard title: Concerto for Piano No. 5</p>
             <p>SPA ID: 24</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -868,7 +869,7 @@
             <p>Standard title: Sonata for Piano No. 4</p>
             <p>SPA ID: 25</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Publications</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Bound</p>
@@ -902,7 +903,7 @@
             <p>Standard title: Andante from Sonata for Piano No.4 [for orchestra]</p>
             <p>SPA ID: 26</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -935,7 +936,7 @@
             <p>Standard title: Symphony No. 4</p>
             <p>SPA ID: 27</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -971,7 +972,7 @@
             <p>Standard title: Concerto for Piano No. 4</p>
             <p>SPA ID: 28</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -1007,7 +1008,7 @@
             <p>Standard title: Egyptian Nights [symphonic suite]</p>
             <p>SPA ID: 29</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -1040,7 +1041,7 @@
             <p>Standard title: Sketchbook (1)</p>
             <p>SPA ID: 30</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Bound</p>
@@ -1070,7 +1071,7 @@
             <p>Standard title: Sketchbook (2)</p>
             <p>SPA ID: 31</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Bound</p>
@@ -1100,7 +1101,7 @@
             <p>Standard title: Sketchbook (3)</p>
             <p>SPA ID: 32</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Bound</p>
@@ -1132,7 +1133,7 @@
             <p>Standard title: Six Pieces, for Piano (No. 1: Intermezzo)</p>
             <p>SPA ID: 33</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -1164,7 +1165,7 @@
             <p>Standard title: Sonata for Two Violins</p>
             <p>SPA ID: 34</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -1195,7 +1196,7 @@
             <p>Standard title: Two Sonatinas for Piano (No.1)</p>
             <p>SPA ID: 35</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -1230,7 +1231,7 @@
             <p>Standard title: Two Sonatinas for Piano (No. 2)</p>
             <p>SPA ID: 36</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -1263,7 +1264,7 @@
             <p>Standard title: Six Pieces, for Piano (No. 2: Rondo)</p>
             <p>SPA ID: 37</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -1295,7 +1296,7 @@
             <p>Standard title: Six Pieces, for Piano (No. 4: Scherzino)</p>
             <p>SPA ID: 38</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -1326,7 +1327,7 @@
             <p>Standard title: Symphonic Song</p>
             <p>SPA ID: 39</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -1357,7 +1358,7 @@
             <p>Standard title: Three Pieces, for Piano (no. 3 Sonatine Pastorale)</p>
             <p>SPA ID: 40</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -1390,7 +1391,7 @@
             <p>Standard title: Choses en soi, for piano</p>
             <p>SPA ID: 41</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -1422,7 +1423,7 @@
             <p>Standard title: Concerto for Cello</p>
             <p>SPA ID: 42</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -1453,7 +1454,7 @@
             <p>Standard title: Le Pas d'acier</p>
             <p>SPA ID: 43</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -1487,7 +1488,7 @@
             <p>Standard title: Four Portraits and 'Dénouement' from The Gambler</p>
             <p>SPA ID: 44</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -1520,7 +1521,7 @@
             <p>Standard title: Sur le Borysthène</p>
             <p>SPA ID: 45</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -1554,7 +1555,7 @@
             <p>Standard title: The Prodigal Son</p>
             <p>SPA ID: 46</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -1585,7 +1586,7 @@
             <p>Standard title: The Gambler</p>
             <p>SPA ID: 47</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph; Copyist</p>
             <p>Binding: Unbound</p>
@@ -1621,7 +1622,7 @@
             <p>Standard title: Concerto for Piano No. 5</p>
             <p>SPA ID: 48</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -1653,7 +1654,7 @@
             <p>Standard title: Trapèze</p>
             <p>SPA ID: 49</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Uncertain</p>
             <p>Binding: Unbound</p>
@@ -1686,7 +1687,7 @@
             <p>Standard title: Lieutenant Kijé</p>
             <p>SPA ID: 50</p>
             <p>Document type: Texts (document genres)</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Typescript</p>
             <p>Manuscript type: Uncertain</p>
             <p>Binding: Unbound</p>
@@ -1718,7 +1719,7 @@
             <p>Standard title: Lieutenant Kijé</p>
             <p>SPA ID: 51</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -1752,7 +1753,7 @@
             <p>Standard title: Untitled 1</p>
             <p>SPA ID: 52</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -1781,7 +1782,7 @@
             <p>Standard title: Unititled 2</p>
             <p>SPA ID: 53</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -1811,7 +1812,7 @@
             <p>Standard title: Untitled 3</p>
             <p>SPA ID: 54</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -1840,7 +1841,7 @@
             <p>Standard title: Untitled 4</p>
             <p>SPA ID: 55</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -1872,7 +1873,7 @@
             <p>Standard title: The Gambler</p>
             <p>SPA ID: 56</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Uncertain</p>
             <p>Binding: Unbound</p>
@@ -1914,7 +1915,7 @@
             <p>Standard title: The Fiery Angel</p>
             <p>SPA ID: 57</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph; Copyist</p>
             <p>Binding: Unbound</p>
@@ -1944,7 +1945,7 @@
             <p>Standard title: Seven, They Are Seven</p>
             <p>SPA ID: 58</p>
             <p>Document type: Notated Music</p>
-            <p>Material type: Originals (objects)</p>
+            <p>Material type: Original</p>
             <p>Format: Manuscript</p>
             <p>Manuscript type: Autograph</p>
             <p>Binding: Unbound</p>
@@ -12067,4 +12068,4 @@
          </note>
       </did>
    </c>
-
+</ProkoMasterTwos>
