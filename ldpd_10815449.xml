@@ -2236,6 +2236,10 @@
          </note>
       </did>
    </c>
+               <c level="subseries">
+                  <did>
+                     <unittitle>Sub-series I.2: Photocopies</unittitle>
+                  </did>
    <c level="file">
       <did>
          <container type="Box" label="Box">124</container>
@@ -7268,6 +7272,10 @@
          </note>
       </did>
    </c>
+                  <c level="subseries">
+                     <did>
+                        <unittitle>Sub-series I.3: Microflm Copies</unittitle>
+                     </did>
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8823</container>
@@ -10614,6 +10622,10 @@
          </note>
       </did>
    </c>
+                     <c level="subseries">
+                        <did>
+                           <unittitle>Sub-series I.3: Digital Copies</unittitle>
+                        </did>
    <c level="file">
       <did>
          <unittitle>Осеннее (1-и вариант)<unitdate>1910</unitdate></unittitle>
@@ -12341,6 +12353,9 @@
          </note>
       </did>
    </c>
+            </c>
+         </c>
+         </c>
             </c>
          </c>
       </dsc>
