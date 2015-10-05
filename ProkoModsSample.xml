@@ -1,0 +1,89 @@
+<mods>
+   <!--Identifier information, spa and opus IDs-->
+   <!-- idea about how to handle opus came from this mods listserv post: http://comments.gmane.org/gmane.comp.text.mods/464-->
+   <!-- Not controlled vocab. columns A, K, L-->  
+   
+   <identifier type="SPA_ID">A: SPA_ID   </identifier>
+   <identifier type="opus">K: Title: Numeric index: Opus number, L: Title: Numeric index: Number number
+   </identifier>
+   <!-- Title information -->
+   <!-- Columns J, I, N, M -->
+    <titleInfo>
+       <title>J: Title: As transcribed on item (incl. subtitle)</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+       <title>I: Title (Standard - Eng, Fr.)</title>
+    </titleInfo>
+    <titleInfo type="alternative" authority="viaf" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/(N: Title: VIAF work ID)">
+       <title>M: Title: VIAF work string</title>
+    </titleInfo>
+   <!--Creator information -->
+   <!--Columns G, H -->
+   <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/" valueURI="H: Name of creator :VIAF URL">
+      <namePart>G: Name of creator :string</namePart>
+      <role>
+         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+      </role>
+   </name>  
+   
+   <!-- types may not do exactly what we want, it looks like we will add "manuscript="yes" only for those where the value of AB = Manuscript, otherwise this is left out -->
+   <!-- Columns R, AB -->
+   <typeOfResource manuscript="yes">notated music</typeOfResource>  
+   
+   <!-- Genre -->
+   <genre authority="?">AH: Content: Genre</genre>  
+   
+   <!-- Creation info -->
+   <!-- Columns O,P -->
+   <originInfo>
+      <dateCreated qualifier="P: Date :date qualifier (exact, approximate, inferred, or questionable)" encoding="w3cdtf">O: Date :yyyy-mm-dd (W3CDTF format)</dateCreated>
+   </originInfo>
+   
+   <!--Language of the performed text and annotations (the term objectPart is NOT controlled so we can say annotations)-->
+   <!-- Columns Q, AE -->
+   <language>
+      <languageTerm authority="iso639-2b">eng</languageTerm>
+   </language>
+   <language objectPart="annotations">
+      <languageTerm authority="iso639-2b">eng</languageTerm>
+   </language>
+   
+   <!-- Physical description -->
+   <!-- It looks most common to put all of the extent information in one line (VWX; YxZcm) but more than one doesn't break it -->
+   <!--columns VWX-->
+   <physicalDescription>
+      <extent>V: Phys: Extent: leaves, W: Phys: Extent: pages, X: Phys: Extent: slide</extent>
+      <extent>Y: Phys: Dimensions: height (cm), Z: Phys: Dimensions: width (cm)</extent>      
+     <!--Marcform includes microfilm and electronic, it does NOT include photocopy or original, not certain this will work Column R-->
+      <form authority="marcform"></form>
+      <!--Physical description notes, this is kind of a freewheeling place to put information about the object -->
+      <!--Columns AD, AF, AA, AC -->
+      <note type="legibility">AF: Phys: Legibility of copy</note>
+      <note type="annotations">AD: Phys: Annotations</note>
+      <note type="binding">AA: Phys: Binding</note>
+      <note type="manuscript-type">AC: Phys: Manuscript type</note><!--Seems unnecessary overall-->
+   </physicalDescription>
+   
+
+   <!-- Physical Location information -->
+   <!-- Columns B, C, D, E, AL, AM -->
+   <location>
+      <physicalLocation type="previous">AL: Provenance: Previous holding library, AM: Provenance: Sub-collection </physicalLocation>
+      <shelfLocator>B: Location -Box number
+         C: Location -Folder number
+      </shelfLocator>   
+   </location>
+   
+   <!--Note-->
+   <!--AJ, AI, AP -->
+   <note type="version">AJ: Content: Version</note>
+   <note type="fragment">AI: Content: Part</note>
+   <note>AP: Notes</note>
+   
+   <!-- Alternative formats as related items -->
+   <!-- This is distinct from the "nested xml" structure sometimes used but also allowed-->
+   <relatedItem displayLabel = "Alternative format: SPA_ID 45, SPA_ID 445" xlink:href="http://something.com" />
+   
+   <!-- Rights -->
+   <accessCondition>AO: Rights</accessCondition>
+</mods>
