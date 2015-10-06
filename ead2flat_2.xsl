@@ -23,7 +23,7 @@
         <xsl:element name="{@type}"><xsl:value-of select="."/></xsl:element>
     </xsl:template>
     <xsl:template match="ead:unittitle">
-        <xsl:element name="title"><xsl:value-of select="."/></xsl:element>
+        <xsl:element name="title"><xsl:value-of select="text()"/></xsl:element>
         <xsl:element name="date"><xsl:value-of select="ead:unitdate"/></xsl:element>
     </xsl:template>
     <xsl:template match="ead:physdesc">
