@@ -912,7 +912,7 @@
       <did>
          <container type="Box" label="Box">2</container>
          <container type="Folder" label="Folder">5</container>
-         <unittitle>Снежки белне<unitdate>[1944]</unitdate></unittitle>
+         <unittitle>Снежки белые<unitdate>[1944]</unitdate></unittitle>
          <physdesc>
             <extent>2 leaves, 3 pages</extent>
          </physdesc>
@@ -2504,7 +2504,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">124</container>
-         <unittitle>Снежки белне<unitdate>[1944]</unitdate></unittitle>
+         <unittitle>Снежки белые<unitdate>[1944]</unitdate></unittitle>
          <physdesc>
             <extent>2 pages</extent>
          </physdesc>
@@ -8654,7 +8654,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8824</container>
-         <unittitle>Снежки белне<unitdate>[1944]</unitdate></unittitle>
+         <unittitle>Снежки белые<unitdate>[1944]</unitdate></unittitle>
          <physdesc>
             <extent>2 slides</extent>
          </physdesc>
