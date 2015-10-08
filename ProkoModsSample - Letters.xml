@@ -1,0 +1,76 @@
+<mods>  
+   
+   <!-- Decisions. 
+      I think that if both addresses are included, then they should both be in the name affiliation slots rather than one in name and the other in originInfo -->
+
+   <!--Identifier information. We should really start these at 1000 so that they can be incorporated into the SPA_IDs we already have?>
+   <identifier type="Access_ID">Access AutoID </identifier>
+
+   <!-- Title information -->
+   <!-- Prior examples seem to indicate that letters should be named by the two parties involved and the date -->
+
+    <titleInfo>
+       <title>Sender Letter to Recipient, Dated X</title>
+    </titleInfo>
+
+   <!--People information -->
+    <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/" valueURI="H: Name of creator :VIAF URL">
+      <namePart>Name of sender</namePart>
+       <affiliation>Organization, Address from DocumentTable</affiliation>
+      <role>
+         <roleTerm type="code" authority="marcrelator">cre</roleTerm>
+      </role>
+   </name>  
+   <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/" valueURI="H: Name of creator :VIAF URL">
+      <namePart>G: Name of creator :string</namePart>
+      <affiliation>Organization, Address from DocumentTable</affiliation>
+      <role>
+         <roleTerm type="code" authority="marcrelator">rcp</roleTerm>
+      </role>
+   </name>  
+   
+   <!-- Type: Letter is not a thing, they are all text we can indicate whether they are handwritten or not with this element, though -->
+   <typeOfResource manuscript="yes">text</typeOfResource>  
+   
+   <!-- Genre -->
+   <!-- Document types are represented by the tblTypes table in the MSAccess workbook. Letters, type 6 in that table, are most of the collection,
+      but we can VERY EASILY add an AAT designation to every one of these types and use that when generating the mods. Super duper easy-->
+   <genre authority="aat">Letters (correspondence)</genre>  
+   
+   <!-- Date created. the place created COULD go here, but then we are treating sender and recipient information differently -->
+   <originInfo>
+      <dateCreated  encoding="w3cdtf">O: Date :yyyy-mm-dd (W3CDTF format)</dateCreated>
+   </originInfo>
+   
+   <!--Language of the performed text and annotations (the term objectPart is NOT controlled so we can say annotations)-->
+
+   <language>
+      <languageTerm>strDocumentLanguage</languageTerm>
+   </language>
+
+   <!-- Physical description -->
+
+   <physicalDescription>
+      <extent>tblDocuments: intSides</extent>
+   </physicalDescription>
+   
+
+   <!-- Physical Location information -->
+
+   <location>
+      <physicalLocation type="previous">tblOriginals: strDocumentLocation </physicalLocation>
+      <shelfLocator>tblDocuments: intFolderRef [tblFolders]
+         Page strPageNo
+      </shelfLocator>   
+   </location>
+   
+   
+   <!-- Rights -->
+   <accessCondition></accessCondition>
+   
+   <!--Notes-->
+   <!-- The notes do not seem to be of bibliographic value, generally. if we wanted to keep them they should have any that aren't really useful deleted -->
+   
+   <!-- Related items -->
+   <!-- it looks like she initially planned to record what letters referred to what works, but ended up only doing so for 5 letters. out of 11,000 (see tlkDocsWorks). Not worth pursuing for us at this time unless the grad student wanted to encode that stuff -->
+</mods>
