@@ -17,25 +17,19 @@
     <xsl:template match="//ead:c[@level = 'file']">                
         <item>
             <xsl:apply-templates select="ead:did/*"/>
-            <xsl:apply-templates select="ead:altformavail"/>
         </item>              
     </xsl:template>
     <xsl:template match="ead:container">
         <xsl:element name="{@type}"><xsl:value-of select="."/></xsl:element>
     </xsl:template>
     <xsl:template match="ead:unittitle">
-        <xsl:element name="title"><xsl:value-of select="."/></xsl:element>
+        <xsl:element name="title"><xsl:value-of select="text()"/></xsl:element>
         <xsl:element name="date"><xsl:value-of select="ead:unitdate"/></xsl:element>
     </xsl:template>
     <xsl:template match="ead:physdesc">
         <xsl:element name="extent"><xsl:value-of select="ead:extent"/></xsl:element>
     </xsl:template>
     <xsl:template match="ead:unitdate"/>
-    <xsl:template match="ead:altformavail">
-        <xsl:element name="altformavail">
-            <xsl:value-of select="ead:p"/>
-        </xsl:element>
-    </xsl:template>
     <xsl:template match="ead:note/ead:p">
          <xsl:element name="{substring-before(translate(./text(), ' ', '_'), ':')}" inherit-namespaces="yes">
              <xsl:value-of select="substring(substring-after(./text(), ':'), 2)"/>
