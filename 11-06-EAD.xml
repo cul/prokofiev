@@ -216,7 +216,7 @@
          <genreform encodinganalog="655" source="local">Band work</genreform>
          <genreform encodinganalog="655" source="local">Chamber/instrumental work</genreform>
          <genreform encodinganalog="655" source="local">Song</genreform>
-         <genreform encodinganalog="655" source="local">Solo piano work</genreform>
+        
          
       </controlaccess>
       <accessrestrict encodinganalog="506">
@@ -258,13 +258,13 @@
       <dsc>
          <c level="series">
             <did>
-               <unittitle>Series I: Music Manuscripts, <unitdate type="inclusive"
+               <unittitle>Series I: Music Manuscripts, c. 1900-<unitdate type="inclusive"
                   >1918-1936</unitdate></unittitle>
             </did>
             <scopecontent>
-               <p>Original sketches, drafts and full manuscript scores for 58 works principally composed
-                  during the years that Prokofiev spent in the United States, Germany and Paris.
-                  Original manuscripts include, among other works, his <title altrender="italics"
+               <p>This series contains 357 items - notes, sketches, drafts and full manuscript scores - of musical works composed by Serge Prokofiev. While the 
+                  collection contains copies of works from as early as approximately 1900 and as late as 1952, the 58 orignial manuscripts date from 1914 until 1936, and contain the works principally composed during the years that Prokofiev spent in the United States, Germany and Paris.
+ Original manuscripts include, among other works, his <title altrender="italics"
                      >Symphony Nos. 3</title> and <title altrender="italics">4</title>, his operas
                   <title altrender="italics">The Gambler, </title>and <title altrender="italics"
                      >The Fiery Angel, </title>the <title altrender="italics">Concerto for Piano

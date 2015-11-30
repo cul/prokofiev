@@ -63,9 +63,11 @@
          <langmaterial encodinganalog="546">
             <language langcode="eng">In English</language>
          </langmaterial>
+         <abstract>Serge Prokofiev (1891–1953) was a Russian and Soviet composer, pianist and conductor, and one of the most important figures in the history of twentieth-century music. The Serge Prokofiev Archive (SPA) contains approximately 60 original musical manuscripts, over 10,000 letters and documents, and expansive collection of published scores, concert programs, books, periodicals, photographs, and audio and video material.</abstract>
       </did>
       <bioghist encodinganalog="545">
          <head>Biographical Note</head>
+         <!-- NE will fill this in later -->
          <p/>
       </bioghist>
       <scopecontent encodinganalog="520">
@@ -93,7 +95,7 @@
       </scopecontent>
       <arrangement encodinganalog="351">
          <head>Arrangement</head>
-         <p> Material is arranged in eight series: <list type="marked">
+         <p> Material is arranged in eight series with several sub-series. <list type="marked">
             <item>Series I: Music Manuscripts <list type="marked">
                <item>Subseries I.1: Orginals</item>
                <item>Subseries I.2: Photocopies</item>
@@ -131,7 +133,34 @@
       </arrangement>
       <controlaccess>
          <persname encodinganalog="600">Prokofiev, Serge, 1891-1953.</persname>
-         <subject encodinganalog="650">Composers--Soviet Union.</subject>         
+         <subject encodinganalog="650">Composers--Soviet Union.</subject>            <genreform encodinganalog="655" source="aat">Audiotapes</genreform>
+         <genreform encodinganalog="655" source="lctgm">Notated music</genreform>
+         <genreform encodinganalog="655" source="aat">Scores</genreform>
+         <genreform encodinganalog="655" source="aat">Texts (document genres)</genreform>
+         <genreform encodinganalog="655" source="aat">Correspondence</genreform>
+         <genreform encodinganalog="655" source="aat">Photographs</genreform>
+         <genreform encodinganalog="655" source="lctgm">Clippings</genreform>
+         <genreform encodinganalog="655" source="aat">Programs (Documents)</genreform>
+         <genreform encodinganalog="655" source="aat">Correspondence</genreform>
+         <genreform encodinganalog="655" source="lcgft">Diaries</genreform>
+         <genreform encodinganalog="655" source="local">Full score</genreform>
+         <genreform encodinganalog="655" source="local">Short score</genreform>
+         <genreform encodinganalog="655" source="local">Short score with instrumental
+            annotations</genreform>
+         <genreform encodinganalog="655" source="lctgm">Piano score</genreform>
+         <genreform encodinganalog="655" source="local">Piano score with instrumental
+            annotations</genreform>
+         <genreform encodinganalog="655" source="lcgft">Librettos</genreform>
+         <genreform encodinganalog="655" source="local">Program Notes</genreform>
+         <genreform encodinganalog="655" source="lcsh">Opera</genreform>
+         <genreform encodinganalog="655" source="lcsh">Ballet</genreform>
+         <genreform encodinganalog="655" source="lcgft">Motion picture music</genreform>
+         <genreform encodinganalog="655" source="lcsh">Incidental music</genreform>
+         <genreform encodinganalog="655" source="local">Orchestral work</genreform>
+         <genreform encodinganalog="655" source="local">Vocal-orchestral work</genreform>
+         <genreform encodinganalog="655" source="local">Band work</genreform>
+         <genreform encodinganalog="655" source="local">Chamber/instrumental work</genreform>
+         <genreform encodinganalog="655" source="local">Song</genreform>
       </controlaccess>
       <accessrestrict encodinganalog="506">
          <head>Access Restrictions</head>
@@ -170,10 +199,7 @@
                <unittitle>Series I: Music Manuscripts, <unitdate type="inclusive">1918-1936</unitdate></unittitle>
             </did>
             <scopecontent>
-               <p>
-                  
-                  
-                  Original sketches, notes, drafts and full manuscript scores for works principally composed during the years Prokofiev spent in the United States, Germany and Paris. They include <title altrender="italics">Symphony Nos. 3</title> and <title altrender="italics">4</title>, his operas <title altrender="italics">The Gambler, </title>and <title altrender="italics">The Fiery Angel, </title>the <title altrender="italics">Concerto for Piano Nos. 4</title> and <title altrender="italics">5, </title>the ballets <title
+               <p>The Original sketches, notes, drafts and full manuscript scores for works principally composed during the years Prokofiev spent in the United States, Germany and Paris. They include <title altrender="italics">Symphony Nos. 3</title> and <title altrender="italics">4</title>, his operas <title altrender="italics">The Gambler, </title>and <title altrender="italics">The Fiery Angel, </title>the <title altrender="italics">Concerto for Piano Nos. 4</title> and <title altrender="italics">5, </title>the ballets <title
                            altrender="italics">Sur le Borysthene</title> and <title altrender="italics">Le
                               Pas d'Acier, </title>the <title altrender="italics">Sonata for Two Violins,
                               </title>and <title altrender="italics">String Quartet No. 1.
