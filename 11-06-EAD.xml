@@ -1,4 +1,286 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?><?oxygen NVDLSchema="http://eadrepo.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
+   <eadheader findaidstatus="draft" countryencoding="iso3166-1" dateencoding="iso8601"
+      langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511"
+      scriptencoding="iso15924">
+      <eadid countrycode="US" encodinganalog="Identifier"
+         publicid="-//us::nnc-rb//TEXT us::nnc-rb::ldpd_10815449_ead//EN" mainagencycode="nnc-rb"
+         >ldpd_10815449_ead.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper encodinganalog="Title">Guide to the Serge Prokofiev Archive</titleproper>
+            <author encodinganalog="Contributor">Columbia University Libraries. Rare Book and
+               Manuscript Library; machine readable finding aid created by Columbia University
+               Libraries Digital Library Program Division</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher encodinganalog="Publisher">Rare Book and Manuscript Library<lb/>Columbia
+               University Libraries</publisher>
+            <date encodinganalog="Date" normal="2015-02-24">February 24, 2015 </date>
+            <address>
+               <addressline>6th Fl. East</addressline>
+               <addressline>535 West 114th St.</addressline>
+               <addressline>New York, NY 10027</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Machine readable finding aid generated from MARC-AMC source via XSLT conversion
+            <date normal="2015-02-24">February 24, 2015</date>
+         </creation>
+         <langusage>Finding aid written in <language encodinganalog="Language" scriptcode="Latn"
+            langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="2015-02-24">2015-02-24</date>
+            <item>xml document instance created by Adrien Hilton</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21">
+      <did>
+         <origination>
+            <persname encodinganalog="100">Prokofiev, Serge, 1891-1953.</persname>
+         </origination>
+         <unittitle encodinganalog="245$a" altrender="Serge Prokofiev Papers,">Serge Prokofiev
+            Archive, <unitdate>circa 1917-2012</unitdate></unittitle>
+         
+         <physdesc>
+            <extent encodinganalog="300">294 linear feet</extent>
+         </physdesc>
+         <repository encodinganalog="852">
+            <corpname>Columbia University.<subarea>Rare Book and Manuscript Library</subarea>
+            </corpname>
+            <address>
+               <addressline>New York, NY. 10027</addressline>
+            </address>
+         </repository>
+         <unitid encodinganalog="090$b" countrycode="US" repositorycode="nnc-rb" type="call_num"
+            >MS#1721</unitid>
+         <unitid encodinganalog="001" countrycode="US" repositorycode="nnc-rb" type="clio"
+            >10815449</unitid>
+         <langmaterial encodinganalog="546">
+            <language langcode="eng">In English</language>
+         </langmaterial>
+      </did>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p/>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Scope and Content</head>
+         <p>Constituted in successive stages over a period of 60 years, this impressive collection
+            was gathered by Prokofiev himself, members of his family, and individuals dedicated to the composer's oeuvre. 
+            During his prolonged
+            stay in the West from 1918 to 1936, Prokofiev accumulated a large personal archive. When
+            he returned to Moscow, he took only those papers and manuscripts he judged necessary for
+            his life in the Soviet Union. Everything else was left in the care of close Parisian
+            friends and his publisher, Edition Russe de Musique.These materials were eventually deposited at the Bibliothèque Nationale de France (BN).    
+            <p>In the 1970s, Mme. Lina Prokofiev, the composer's first wife, left the Soviet Union and settled in the West. In the years that followed,             she devoted 
+               considerable energy to promoting Prokofiev and to tracking down his personal effects and
+               papers, thus increasing considerably her husband's collection. She was able to access the Prokofiev material at the Bibliothèque Nationale, having photocopies and microfilm copies made. In 1983, she created The Serge
+               Prokofiev Foundation. After Mme. Prokofiev's death in 1989 at age 91, the work continued, with tremendous energy when
+               the musicologist Noëlle Mann established the Prokofiev Archive (SPA) in 1994 at Goldsmiths College, London. </p>
+            
+            <p>Columbia University has received the original archival material from the Bibliothèque Nationale in Paris, which contains original manuscript scores, personal and professional correspondence, financial documents and some of the composer’s personal papers. </p>
+            
+            <p> For many years, the SPA at Goldsmiths served as the authoritative research collection on Prokofiev in the West. It contained photocopies of the material from the BN, as well as copies of many other manuscripts, letters, photographs, and other documents, held in photocopy, microfilm, and digital copy. The Goldsmiths collection contained one original music manuscript and a small number of originals letters and postcards. Original archival material in the London SPA is Lina Prokofiev's personal archive, including materials gathered for a planned biography of her husband, and those of Oleg Prokofiev, their younger son, relating to his own work and to his father's music. Smaller collections in the SPA archive include: the Georgii Gorchkov Collection, the Christopher Palmer Collection, the Lázár Collection, the Sir Edward Downes Collection, the Noëlle Mann Collection, and the Reberg Collection..</p>
+            
+            <p>Manuscript Resources: Joining the Archive for the first time, following storage in
+               Paris, are a major group of the composer's original autograph music manuscripts, and the
+               originals of his correspondence and business records dating from 1917 through 1936.</p>
+            
+            
+            <p>The music manuscripts in the Archive include sketches, drafts and full manuscript scores
+               for 42 works principally composed during the years that Prokofiev spent in the United
+               States, Germany and France. They include, among other works, his <title
+                  altrender="italics"> Symphony Nos. 3</title> and <title altrender="italics"
+                     >4</title>, his operas <title altrender="italics">The Gambler</title> and <title
+                        altrender="italics">The Fiery Angel</title>, the <title altrender="italics">Concerto
+                           for Piano Nos. 4</title> and <title altrender="italics">5</title>, the ballets <title
+                              altrender="italics">Sur le Borysthene</title> and <title altrender="italics">Le Pas
+                                 d'Acier</title>, the <title altrender="italics">Sonata for Two Violins</title>, and
+               <title altrender="italics">String Quartet No. 1</title>. Also in the Archive are
+               three notebooks of musical ideas kept by Prokofiev during the years 1919, 1929 and
+               1931.</p>
+            
+            
+            <p>The Archive also contains the originals of Serge Prokofiev's correspondence and business
+               papers, dating from 1917 through 1936, arranged by date. The range of correspondents is
+               vast, including conductors such as Albert Coates, Sir Henry Wood, Sergei Koussevitzky,
+               Hermann Scherchen, and Ernest Ansermet; soloists Joseph Szigeti, Pablo Casals, Robert
+               Soetens, and Fedor Chaliapin; composers Igor Stravinsky, Nikolai Miaskovsky, and Maurice
+               Ravel; directors Vsevolod Meyerhold and Alexander Tairov; Ballets Russes impresario
+               Serge Diaghilev; and chess grandmaster Jose Capablanca. Business papers include
+               financial materials such as bills and accounts, legal papers, and correspondence
+               concerning concerts in the United States, France, Italy, Spain, England, the Soviet
+               Union, and Germany, as well as materials relating to the publication and copyright of
+               Prokofiev's work.</p>
+            
+            <p>Published Material: Also in the archive is the largest collection of published material
+               on Prokofiev in the West, including some 500 scores (including many rare and first
+               editions), over 400 books (mainly in English and Russian, but also in French and
+               German), periodicals and articles on Prokofiev, and nearly 500 concert programs. The
+               audiovisual collection contains almost 800 audio recordings on CD, LP and cassette, and
+               65 video/DVD recordings.</p>
+            
+            
+            <p>Website: The website of the Serge Prokofiev Foundation, www.sprkfv.net, contains further
+               information about the life and works of the composer and the Archive. There is also
+               information about the journal of the Prokofiev Foundation, <title altrender="italics"
+                  >Three Oranges</title>, including some sample full-text articles, and information
+               regarding subscriptions.</p>
+            
+            <p/>
+      </scopecontent>
+      <arrangement encodinganalog="351">
+         <head>Arrangement</head>
+         <p> Material is arranged in eight series: <list type="marked">
+            <item>Series I: Music Manuscripts <list type="marked">
+               <item>Subseries I.1: Orginals</item>
+               <item>Subseries I.2: Photocopies</item>
+               <item>Subseries I.3: Microiflm</item>
+               <item>Subseries I.4: Digital copies</item>
+            </list></item>
+            
+            <item>Series II: Personal Papers <list type="marked">
+               <item>Subseries II.1: Personal and Business Correspondence</item>
+               <item>Subseries II.2: Financial material</item>
+               <item>Subseries II.3: Miscellaneous </item>
+               
+            </list></item>
+            
+            <item>Series III: Published Material (Research Support Collection) <list
+               type="marked">
+               <item>Subseries III.1: Scores</item>
+               <item>Subseries III.2: Books</item>
+               <item>Subseries III.3: Periodicals</item>
+               <item>Subseries III.4: Concert Programs</item>
+            </list></item>
+            <item>Series IV: Audio and Visual Material</item>
+            <item>Series V: Photographs</item>
+            <item>Series VI: Newspaper Clippings</item>
+            
+            <item>Series VII: Family Papers<list type="marked">
+               <item>Subseries VII.1: Lina Prokofiev Papers</item>
+               <item>Subseries VII.2: Oleg Prokofiev Papers</item>
+            </list></item>
+            
+            <item>Series VIII: Other Collections<list type="marked">
+               <item>Subseries VIII.1: Georgii Gorchakov Collection</item>
+               <item>Subseries VIII.2: Christopher Palmer Collection</item>
+               <item>Subseries VIII.3: Lázár Collection</item>
+               <item>Subseries VIII:4: Sir Edward Downes Collection</item>
+               <item>Subseries VIII.5: Noëlle Mann Collection</item>
+            </list></item>
+         </list>
+         </p>
+      </arrangement>
+      <controlaccess>
+         <head>Search the collection by the following terms</head>
+         
+         <persname encodinganalog="600">Prokofiev, Serge, 1891-1953.</persname>
+         <subject encodinganalog="650">Composers--Soviet Union.</subject>
+         <subject encodinganalog="650" source="viaf">Prokofiev, Sergey, 1891-1953. | Pieces, piano,
+            op. 59. Pastoralʹnai︠a︡ sonatina</subject>
+         
+         <genreform encodinganalog="655" source="lctgm">Notated music</genreform>
+         <genreform encodinganalog="655" source="aat">Scores</genreform>
+         <genreform encodinganalog="655" source="aat">Texts (document genres)</genreform>
+         <genreform encodinganalog="655" source="aat">Correspondence</genreform>
+         <genreform encodinganalog="655" source="aat">Photographs</genreform>
+         <genreform encodinganalog="655" source="aat">Originals (objects)</genreform>
+         <genreform encodinganalog="655" source="aat">Autographs (manuscripts)</genreform>
+         <genreform encodinganalog="655" source="aat">Microfilm copy (microfilms)</genreform>
+         <genreform encodinganalog="655" source="aat">Photocopy (photocopies)</genreform>
+         <genreform encodinganalog="655" source="aat">Digital copy (electronic
+            reproductions)</genreform>
+         <genreform encodinganalog="655" source="local">Full score</genreform>
+         <genreform encodinganalog="655" source="local">Short score</genreform>
+         <genreform encodinganalog="655" source="local">Short score with instrumental
+            annotations</genreform>
+         <genreform encodinganalog="655" source="lctgm">Piano score</genreform>
+         <genreform encodinganalog="655" source="local">Piano score with instrumental
+            annotations</genreform>
+         <genreform encodinganalog="655" source="local">Piano-vocal score</genreform>
+         <genreform encodinganalog="655" source="lcgft">Librettos</genreform>
+         <genreform encodinganalog="655" source="local">Program Notes</genreform>
+         <genreform encodinganalog="655" source="lcsh">Opera</genreform>
+         <genreform encodinganalog="655" source="lcsh">Ballet</genreform>
+         <genreform encodinganalog="655" source="lcgft">Motion picture music</genreform>
+         <genreform encodinganalog="655" source="lcsh">Incidental music</genreform>
+         <genreform encodinganalog="655" source="local">Orchestral work</genreform>
+         <genreform encodinganalog="655" source="local">Vocal-orchestral work</genreform>
+         <genreform encodinganalog="655" source="local">Band work</genreform>
+         <genreform encodinganalog="655" source="local">Chamber/instrumental work</genreform>
+         <genreform encodinganalog="655" source="local">Song</genreform>
+         <genreform encodinganalog="655" source="local">Solo piano work</genreform>
+         
+      </controlaccess>
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>The Serge Prokofiev Foundation Archive is accessed by arrangement with the Project
+            Archivist for the Prokofiev Archives</p>
+         <p>Natalia Ermolaev</p>
+         <p>email: ne99@columbia.edu</p>
+         <p>or the Performing Arts Curator:</p>
+         <p>Jennifer B. Lee</p>
+         <p>email: jbl100@columbia.edu</p>
+         <p>phone: 212-854-4048</p>
+         <p>This collection is located on-site.</p>
+      </accessrestrict>
+      <acqinfo encodinganalog="541">
+         <head>Acquisition</head>
+         <p>The Serge Prokofiev Archive is on deposit with the Rare Book and Manuscript Library by
+            the Serge Prokofiev Foundation.</p>
+      </acqinfo>
+      
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Identification of specific item; Date (if known); Serge Prokofiev Archive; Box and
+            Folder; Rare Book and Manuscript Library, Columbia University Library.</p>
+      </prefercite>
+      <processinfo encodinganalog="583">
+         <head>Processing Information</head>
+         <p/>
+      </processinfo>
+      <userestrict encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Copyright remains with the creator and his/her heirs. The responsibility to secure
+            copyright permission rests with the patron.</p>
+      </userestrict>
+      <otherfindaid encodinganalog="555">
+         <p/>
+         
+      </otherfindaid>
+      <dsc>
+         <c level="series">
+            <did>
+               <unittitle>Series I: Music Manuscripts, <unitdate type="inclusive"
+                  >1918-1936</unitdate></unittitle>
+            </did>
+            <scopecontent>
+               <p>Original sketches, drafts and full manuscript scores for 58 works principally composed
+                  during the years that Prokofiev spent in the United States, Germany and Paris.
+                  Original manuscripts include, among other works, his <title altrender="italics"
+                     >Symphony Nos. 3</title> and <title altrender="italics">4</title>, his operas
+                  <title altrender="italics">The Gambler, </title>and <title altrender="italics"
+                     >The Fiery Angel, </title>the <title altrender="italics">Concerto for Piano
+                        Nos. 4</title> and <title altrender="italics">5, </title>the ballets <title
+                           altrender="italics">Sur le Borysthene</title> and <title altrender="italics">Le
+                              Pas d'Acier, </title>the <title altrender="italics">Sonata for Two Violins,
+                              </title>and <title altrender="italics">String Quartet No. 1.</title> Also in the
+                  Archive are three notebooks of musical ideas kept by Prokofiev during the years
+                  1919, 1929 and 1931.</p>
+               <p>The photocopy, microfilm and digital copies are of the material originally held at the BNF (now at CU), as well as those from other archives around the world, most notably RGALI.  </p>
+            </scopecontent>
+            <c level="subseries">
+               <did>
+                  <unittitle>Sub-series I.1: Original Manuscripts <unitdate type="inclusive"
+                     >1918-1936</unitdate></unittitle>
+               </did>
    <c level="file">
       <did>
          <container type="Box" label="Box">1</container>
