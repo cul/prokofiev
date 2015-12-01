@@ -2223,13 +2223,15 @@
          </note>
       </did>
    </c>
-               <c level="subseries">
+            </c>
+<c level="subseries">
                   <did>
                      <unittitle>Sub-series I.2: Photocopies <unitdate type="inclusive"
                         >c. 1900-1952; 1970s</unitdate></unittitle>
                   </did>
                   <scopecontent> <p>153 photocopies of Prokofiev musical works. Some works contain annotations added after Prokofiev's death.</p>
                   </scopecontent>
+</c>
    <c level="file">
       <did>
          <container type="Box" label="Box">124</container>
@@ -7229,6 +7231,7 @@
                      </did>
                      <scopecontent> <p>105 microfilm copies of Prokofiev musical works.</p>
                      </scopecontent>
+                  </c>
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8823</container>
@@ -10552,6 +10555,7 @@
                         </did>
                         <scopecontent> <p>57 digital copies of Prokofiev musical works. Some works contain annotations added after Prokofiev's death.</p>
                         </scopecontent>
+                     </c>
    <c level="file">
       <did>
          <unittitle>Autumn — Осеннее (1-и вариант), <unitdate>1910</unitdate></unittitle>
@@ -12259,10 +12263,6 @@
       </did>
    </c>
             </c>
-</c>
-               </c>
-            </c>
-         </c>
       </dsc>
    </archdesc>
 </ead>
