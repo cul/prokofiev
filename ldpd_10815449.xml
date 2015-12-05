@@ -206,15 +206,15 @@
                <unittitle>Series I: Music Manuscripts, <unitdate type="inclusive">1899-1953; 1970s</unitdate></unittitle>
             </did>
             <scopecontent>
-               <p>This series contains complete works, drafts, sketches, and notes for Prokofiev's musical works: 58 original manuscripts, 153 photocopies, 105 microfilm, and 57 digital items. The material is dated as early as 1899 and as late as 1953, with some items containing annotations added after Prokofiev's death.</p>
-               <p>The music manuscripts have been thoroughly cataloged to provide information about format, genre, material features, and provenance. For example:</p>
-               <p>The “document type” category divides manuscripts based on whether they consist of notated music or text.</p>
-               <p>The term <title altrender="bold">“format”</title> describes the technology used to produce each item as well as its stage of publication (i.e manuscript, typescript, publication).</p> 
-               <p>“Genre” categorizes the musical works themselves (i.e opera, ballet, motion picture music, incidental music, orchestral music, songs with orchestra, symphony, choruses with orchestra, band music, chamber music, instrumental music, songs, piano music).</p>
-               <p>In the case of notated music, “content type” describes the way in which each work is scored: full score, short score, short score with instrumental annotations, piano score, piano score with instrumental annotations, arrangement, original workings, vocal score. In the case of text, “content type” divides items into categories: libretto, screenplay, concert program, catalog, notes.</p>
-               <p>The term “part” describes the completeness of each item (i.e. complete, part, fragment, unknown, various).</p>
-               <p>The term “version” describes the stage of creative production shown in each manuscript (i.e. sketch, final, draft).</p>
-    
+               <p>This series contains complete works, drafts, sketches, and notes for Prokofiev's musical works: 58 original manuscripts, 153 photocopies, 105 microfilm, and 57 digital items. The material is dated as early as 1899 and as late as 1953, with some items containing annotations added after Prokofiev's death.</p> 
+    <p>The music manuscripts have been thoroughly cataloged to provide information about format, genre, material features, and provenance. Terms include:</p>
+                  <p>Document type: divides manuscripts based on whether they consist of notated music or text</p>
+                  <p>Document type: divides manuscripts based on whether they consist of notated music or text.</p>
+                  <p>Format: describes the technology used to produce each item as well as its stage of publication (i.e manuscript, typescript, publication).</p>
+               <p>Genre: categorizes the musical works themselves (i.e opera, ballet, motion picture music, incidental music, orchestral music, songs with orchestra, symphony, choruses with orchestra, band music, chamber music, instrumental music, songs, piano music).</p>
+               <p>Content type: In the case of notated music, describes the way in which each work is scored: full score, short score, short score with instrumental annotations, piano score, piano score with instrumental annotations, arrangement, original workings, vocal score. In the case of text, “content type” divides items into categories: libretto, screenplay, concert program, catalog, notes.</p>
+               <p>Part: describes the completeness of each item (i.e. complete, part, fragment, unknown, various).</p>
+               <p>Version: describes the stage of creative production shown in each manuscript (i.e. sketch, final, draft).</p>
             </scopecontent>
                 
             <c level="subseries">
