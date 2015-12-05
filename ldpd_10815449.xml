@@ -80,7 +80,7 @@
          
 <p>In the 1970s, Lina Prokofiev, the composer's first wife, left the Soviet Union and settled in the West. In the years that followed she devoted considerable energy to tracking down the composer's personal effects and papers and to promoting his legacy. She was able to access, and make photo and microfilm copies of, the Prokofiev material at the BnF. In 1983, she created The Serge Prokofiev Foundation. After Mme. Prokofiev's death in 1989, the musicologist Noëlle Mann continued this work, and in 1994 established the Serge Prokofiev Archive (SPA) at Goldsmiths College, University of London.</p>
         
-<p>For nearly two decades, the SPA at Goldsmiths served as the authoritative research collection on Prokofiev in the West. It contained the copies of the Prokofiev materials at the BnF, as well as copies of other Prokofiev manuscripts, letters, photographs, and documents held in other repositories. The SPA gathered a vast collection of published material on Prokofiev, including some 500 scores (including many rare and first editions), over 400 books (mainly in English and Russian, but also in French and German), periodicals and articles on Prokofiev, and nearly 500 concert programs. The audiovisual collection contains almost 800 audio recordings on CD, LP and cassette, and 65 video/DVD recordings.</p>
+         <p>For nearly two decades, the SPA at Goldsmiths served as the authoritative research collection on Prokofiev in the West. It contained the copies of the Prokofiev materials at the BnF, as well as copies of other Prokofiev manuscripts, letters, photographs, and documents held in other repositories. The SPA gathered a vast collection of published material on Prokofiev, including some 500 scores (including many rare and first editions), nearly 500 concert programs, and over 400 books (mainly in English and Russian, but also in French and German), periodicals and articles on Prokofiev. The audiovisual collection contains almost 800 audio recordings on CD, LP and cassette, and 65 video/DVD recordings.</p>
 
 <p>The Goldsmiths SPA also acquired archival material from the composer's family and devoted supporters. Lina Prokofiev donated her own personal archive, which includes materials gathered for a planned biography of her husband. Oleg Prokofiev, their younger son, donated material relating to his own work and to his father's music. Smaller archival collections added to the SPA archive include: the Georgii Gorchakov Collection, the Christopher Palmer Collection, the Lázár Collection, the Sir Edward Downes Collection, the Noëlle Mann Collection, and the Reberg Collection.</p>
          
@@ -91,7 +91,7 @@
       </scopecontent>
       <arrangement encodinganalog="351">
          <head>Arrangement</head>
-         <p>Material is arranged in eight series with several sub-series. <list type="marked">
+         <p>Material is arranged in ten series with several sub-series. <list type="marked">
             <item>Series I: Music Manuscripts <list type="marked">
                <item>Subseries I.1: Original manuscripts</item>
                <item>Subseries I.2: Photocopies</item>
@@ -103,26 +103,35 @@
                <item>Subseries II.2: Financial material</item>
                <item>Subseries II.3: Miscellaneous </item>
             </list></item>
-            <item>Series III: Published Material (Research Support Collection) <list
+            <item>Series III: Published Scores  <!-- 548 items.   
+                  --><list
                type="marked">
-               <item>Subseries III.1: Scores</item>
-               <item>Subseries III.2: Books</item>
-               <item>Subseries III.3: Periodicals</item>
-               <item>Subseries III.4: Concert Programs</item>
+               <item>Subseries III.1: Prokofiev Collected Works, Belwin Mills</item>
+               <item>Subseries III.2: Prokofiev Collected Works, Soviet State Music Publishing House (Gosudarstvennoe Muzykal'noe Izdatel'stvo)</item>
+               <item>Subseries III.3: Prokofiev works, Various publishers, Arranged by genre</item>
+               <item>Subseries III.4: Prokfiev works, Arrangements</item>
+               <item>Subseries III.5: Works by other composers</item>
+               <item>Subseries III.6: Oversize items</item>
+               <item>Subseries III.7: Duplicate items</item>
+               </list></item>
+            <item>Series IV: Concert Programs<list type="marked">
+            <item>Series V: Research collection</item> 
+               <item>Subseries V.1: Books</item>
+               <item>Subseries V.2: Periodicals</item>
             </list></item>
-            <item>Series IV: Audio and Visual Material</item>
-            <item>Series V: Photographs</item>
-            <item>Series VI: Newspaper Clippings</item> 
-            <item>Series VII: Family Papers<list type="marked">
-               <item>Subseries VII.1: Lina Prokofiev Papers</item>
-               <item>Subseries VII.2: Oleg Prokofiev Papers</item>
+            <item>Series VI: Audio and Visual Material</item>
+            <item>Series VII: Photographs</item>
+            <item>Series VIII: Newspaper Clippings</item> 
+            <item>Series IX: Family Papers<list type="marked">
+               <item>Subseries IX.1: Lina Prokofiev Papers</item>
+               <item>Subseries IX.2: Oleg Prokofiev Papers</item>
             </list></item>
-            <item>Series VIII: Other Collections<list type="marked">
-               <item>Subseries VIII.1: Georgii Gorchakov Collection</item>
-               <item>Subseries VIII.2: Christopher Palmer Collection</item>
-               <item>Subseries VIII.3: Lázár Collection</item>
-               <item>Subseries VIII:4: Sir Edward Downes Collection</item>
-               <item>Subseries VIII.5: Noëlle Mann Collection</item>
+            <item>Series X: Other Collections<list type="marked">
+               <item>Subseries X.1: Georgii Gorchakov Collection</item>
+               <item>Subseries X.2: Christopher Palmer Collection</item>
+               <item>Subseries X.3: Lázár Collection</item>
+               <item>Subseries X:4: Sir Edward Downes Collection</item>
+               <item>Subseries X.5: Noëlle Mann Collection</item>
             </list></item>
          </list>
          </p>
