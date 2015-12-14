@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen NVDLSchema="http://eadrepo.cul.columbia.edu:8080/exist/rest/db/ead/nnc-rb_staging/schema/ead_cul.nvdl"type="xml"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" audience="external">
-   <eadheader findaidstatus="draft" countryencoding="iso3166-1" dateencoding="iso8601"
+   <eadheader findaidstatus="publish" countryencoding="iso3166-1" dateencoding="iso8601"
       langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511"
       scriptencoding="iso15924">
       <eadid countrycode="US" encodinganalog="Identifier"
