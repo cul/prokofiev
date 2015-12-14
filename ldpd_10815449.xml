@@ -304,7 +304,7 @@
       <did>
          <container type="Box" label="Box">5</container>
          <container type="Folder" label="Folder">1</container>
-         <unittitle>The Gambler, <unitdate>1916 (1927)</unitdate></unittitle>
+         <unittitle>The Gambler, <unitdate>1916 (1927),</unitdate></unittitle>
          <physdesc>
             <extent>84 leaves, 162 pages</extent>
          </physdesc>
@@ -419,7 +419,7 @@
       <did>
          <container type="Box" label="Box">1</container>
          <container type="Folder" label="Folder">5</container>
-         <unittitle>Seven, They Are Seven, <unitdate>1933 (1917)</unitdate></unittitle>
+         <unittitle>Seven, They Are Seven, <unitdate>1933 (1917),</unitdate></unittitle>
          <physdesc>
             <extent>32 leaves, 63 pages</extent>
          </physdesc>
@@ -845,7 +845,7 @@
          <container type="Box" label="Box">2</container>
          <container type="Folder" label="Folder">4</container>
          <unittitle>Four Portraits and 'Dénouement' from The Gambler, <unitdate>1931
-               (1916)</unitdate></unittitle>
+               (1916),</unitdate></unittitle>
          <physdesc>
             <extent>35 leaves, 69 pages</extent>
          </physdesc>
@@ -2625,7 +2625,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">124</container>
-         <unittitle>Chout, <unitdate>1915 (1920)</unitdate></unittitle>
+         <unittitle>Chout, <unitdate>1915 (1920),</unitdate></unittitle>
          <physdesc>
             <extent>1 leaves, 1 pages</extent>
          </physdesc>
@@ -2919,7 +2919,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">125</container>
-         <unittitle>Dreams, <unitdate>1912(1910)</unitdate></unittitle>
+         <unittitle>Dreams, <unitdate>1912(1910),</unitdate></unittitle>
          <physdesc>
             <extent>3 leaves, 3 pages</extent>
          </physdesc>
@@ -3795,7 +3795,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">126</container>
-         <unittitle>Music for Children, for piano, <unitdate>1941(1935)</unitdate></unittitle>
+         <unittitle>Music for Children, for piano, <unitdate>1941(1935),</unitdate></unittitle>
          <physdesc>
             <extent>6 leaves, 6 pages</extent>
          </physdesc>
@@ -3888,7 +3888,7 @@
       <did>
          <container type="Box" label="Box">126</container>
          <unittitle>Musical letter from Prokofiev to Boris Zakharov,
-            <unitdate>1952(1913)</unitdate></unittitle>
+            <unitdate>1952(1913),</unitdate></unittitle>
          <physdesc>
             <extent>7 leaves, 7 pages</extent>
          </physdesc>
@@ -4204,7 +4204,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">126</container>
-         <unittitle>Scythian Suite, <unitdate>1921(1914)</unitdate></unittitle>
+         <unittitle>Scythian Suite, <unitdate>1921(1914),</unitdate></unittitle>
          <physdesc>
             <extent>84 leaves, 84 pages</extent>
          </physdesc>
@@ -4336,7 +4336,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">126</container>
-         <unittitle>Seven, They Are Seven, <unitdate>1933 (1917)</unitdate></unittitle>
+         <unittitle>Seven, They Are Seven, <unitdate>1933 (1917),</unitdate></unittitle>
          <physdesc>
             <extent>65 leaves, 65 pages</extent>
          </physdesc>
@@ -4417,7 +4417,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">126</container>
-         <unittitle>Sinfonietta, <unitdate>1909 (1929)</unitdate></unittitle>
+         <unittitle>Sinfonietta, <unitdate>1909 (1929),</unitdate></unittitle>
          <physdesc>
             <extent>14 leaves, 14 pages</extent>
          </physdesc>
@@ -4548,7 +4548,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">127</container>
-         <unittitle>The Gambler, <unitdate>1916 (1927-1928)</unitdate></unittitle>
+         <unittitle>The Gambler, <unitdate>1916 (1927-1928),</unitdate></unittitle>
          <physdesc>
             <extent>211 leaves, 211 pages</extent>
          </physdesc>
@@ -4586,7 +4586,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">127</container>
-         <unittitle>The Gambler, <unitdate>1916 (1927)</unitdate></unittitle>
+         <unittitle>The Gambler, <unitdate>1916 (1927),</unitdate></unittitle>
          <physdesc>
             <extent>166 leaves, 166 pages</extent>
          </physdesc>
@@ -4793,7 +4793,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">128</container>
-         <unittitle>Sonata for Solo Cello, <unitdate>1973 (1952)</unitdate></unittitle>
+         <unittitle>Sonata for Solo Cello, <unitdate>1973 (1952),</unitdate></unittitle>
          <physdesc>
             <extent>12 leaves, 12 pages</extent>
          </physdesc>
@@ -5801,7 +5801,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">135</container>
-         <unittitle>Chout, <unitdate>1915 (1920)</unitdate></unittitle>
+         <unittitle>Chout, <unitdate>1915 (1920),</unitdate></unittitle>
          <physdesc>
             <extent>26 leaves, 26 pages</extent>
          </physdesc>
@@ -5833,7 +5833,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">135</container>
-         <unittitle>Chout, <unitdate>1915 (1920)</unitdate></unittitle>
+         <unittitle>Chout, <unitdate>1915 (1920),</unitdate></unittitle>
          <physdesc>
             <extent>15 leaves, 15 pages</extent>
          </physdesc>
@@ -5957,7 +5957,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">135</container>
-         <unittitle>Divertimento, <unitdate>1925(1938)</unitdate></unittitle>
+         <unittitle>Divertimento, <unitdate>1925(1938),</unitdate></unittitle>
          <physdesc>
             <extent>12 leaves, 12 pages</extent>
          </physdesc>
@@ -6357,7 +6357,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">136</container>
-         <unittitle>Le Pas d'acier, <unitdate>1976(1926)</unitdate></unittitle>
+         <unittitle>Le Pas d'acier, <unitdate>1976(1926),</unitdate></unittitle>
          <physdesc>
             <extent>14 leaves, 27 pages</extent>
          </physdesc>
@@ -7846,7 +7846,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8823</container>
-         <unittitle>The Gambler, <unitdate>1916 (1927)</unitdate></unittitle>
+         <unittitle>The Gambler, <unitdate>1916 (1927),</unitdate></unittitle>
          <physdesc>
             <extent>170 slides</extent>
          </physdesc>
@@ -8441,7 +8441,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8824</container>
-         <unittitle>Overture on Hebrew Themes, <unitdate>1934(1922)</unitdate></unittitle>
+         <unittitle>Overture on Hebrew Themes, <unitdate>1934(1922),</unitdate></unittitle>
          <physdesc>
             <extent>24 slides</extent>
          </physdesc>
@@ -8688,7 +8688,7 @@
       <did>
          <container type="Microfilm" label="Microfilm">R8825</container>
          <unittitle>Four Portraits and 'Dénouement' from The Gambler, <unitdate>1931
-               (1916)</unitdate></unittitle>
+               (1916),</unitdate></unittitle>
          <physdesc>
             <extent>71 slides</extent>
          </physdesc>
@@ -8823,7 +8823,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8825</container>
-         <unittitle>Seven, They Are Seven, <unitdate>1933 (1917)</unitdate></unittitle>
+         <unittitle>Seven, They Are Seven, <unitdate>1933 (1917),</unitdate></unittitle>
          <physdesc>
             <extent>71 slides</extent>
          </physdesc>
@@ -8901,7 +8901,7 @@
       <did>
          <container type="Microfilm" label="Microfilm">R8825</container>
          <unittitle>Sonata for Piano No. 4, <unitdate>1917 (1908) (annotations are most likely from
-               1934)</unitdate></unittitle>
+               1934),</unitdate></unittitle>
          <physdesc>
             <extent>22 slides</extent>
          </physdesc>
@@ -8935,7 +8935,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">1</container>
-         <unittitle>The Gambler , <unitdate>1916 (1927-1928)</unitdate></unittitle>
+         <unittitle>The Gambler , <unitdate>1916 (1927-1928),</unitdate></unittitle>
          <physdesc>
             <extent>210 slides</extent>
          </physdesc>
@@ -8971,7 +8971,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">2</container>
-         <unittitle>Chout, <unitdate>1915 (1920)</unitdate></unittitle>
+         <unittitle>Chout, <unitdate>1915 (1920),</unitdate></unittitle>
          <physdesc>
             <extent>27 slides</extent>
          </physdesc>
@@ -9371,7 +9371,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">2</container>
-         <unittitle>Scythian Suite, <unitdate>1921(1914)</unitdate></unittitle>
+         <unittitle>Scythian Suite, <unitdate>1921(1914),</unitdate></unittitle>
          <physdesc>
             <extent>48 slides</extent>
          </physdesc>
@@ -9460,7 +9460,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">3</container>
-         <unittitle>Chout, <unitdate>1915 (1920)</unitdate></unittitle>
+         <unittitle>Chout, <unitdate>1915 (1920),</unitdate></unittitle>
          <physdesc>
             <extent>145 slides</extent>
          </physdesc>
@@ -9558,7 +9558,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">5</container>
-         <unittitle>The Ugly Duckling, <unitdate>1929(1914)</unitdate></unittitle>
+         <unittitle>The Ugly Duckling, <unitdate>1929(1914),</unitdate></unittitle>
          <physdesc>
             <extent>38 slides</extent>
          </physdesc>
@@ -9620,7 +9620,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">5</container>
-         <unittitle>Dreams, <unitdate>1912(1910)</unitdate></unittitle>
+         <unittitle>Dreams, <unitdate>1912(1910),</unitdate></unittitle>
          <physdesc>
             <extent>21 slides</extent>
          </physdesc>
@@ -9795,7 +9795,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">5</container>
-         <unittitle>Sinfonietta, <unitdate>1909 (1929)</unitdate></unittitle>
+         <unittitle>Sinfonietta, <unitdate>1909 (1929),</unitdate></unittitle>
          <physdesc>
             <extent>14 slides</extent>
          </physdesc>
@@ -10579,7 +10579,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>Sonata for Solo Cello, <unitdate>1973 (1952)</unitdate></unittitle>
+         <unittitle>Sonata for Solo Cello, <unitdate>1973 (1952),</unitdate></unittitle>
          <physdesc>
             <extent>12 pages</extent>
          </physdesc>
@@ -10645,7 +10645,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>Chout, <unitdate>1915 (1920)</unitdate></unittitle>
+         <unittitle>Chout, <unitdate>1915 (1920),</unitdate></unittitle>
          <physdesc>
             <extent>141 pages</extent>
          </physdesc>
@@ -10957,7 +10957,7 @@
    <c level="file">
       <did>
          <unittitle>Four Portraits and Dénouement from The Gambler, <unitdate>1931
-            (1916)</unitdate></unittitle>
+            (1916),</unitdate></unittitle>
          <physdesc>
             <extent>71 pages</extent>
          </physdesc>
@@ -11020,7 +11020,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>The Gambler, <unitdate>1916 (1927)</unitdate></unittitle>
+         <unittitle>The Gambler, <unitdate>1916 (1927),</unitdate></unittitle>
          <physdesc>
             <extent>170 pages</extent>
          </physdesc>
@@ -11059,7 +11059,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>The Gambler, <unitdate>1916 (1927-1928)</unitdate></unittitle>
+         <unittitle>The Gambler, <unitdate>1916 (1927-1928),</unitdate></unittitle>
          <physdesc>
             <extent>210 pages</extent>
          </physdesc>
@@ -11416,7 +11416,7 @@
    <c level="file">
       <did>
          <unittitle>Musical letter from Prokofiev to Boris Zakharov,
-            <unitdate>1952(1913)</unitdate></unittitle>
+            <unitdate>1952(1913),</unitdate></unittitle>
          <physdesc>
             <extent>6 pages</extent>
          </physdesc>
@@ -11830,7 +11830,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>Scythian Suite, <unitdate>1921(1914)</unitdate></unittitle>
+         <unittitle>Scythian Suite, <unitdate>1921(1914),</unitdate></unittitle>
          <physdesc>
             <extent>42 pages</extent>
          </physdesc>
@@ -11860,7 +11860,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>Seven, They Are Seven, <unitdate>1933 (1917)</unitdate></unittitle>
+         <unittitle>Seven, They Are Seven, <unitdate>1933 (1917),</unitdate></unittitle>
          <physdesc>
             <extent>63 pages</extent>
          </physdesc>
@@ -11998,7 +11998,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>Sinfonietta, <unitdate>1909 (1929)</unitdate></unittitle>
+         <unittitle>Sinfonietta, <unitdate>1909 (1929),</unitdate></unittitle>
          <physdesc>
             <extent>14 pages</extent>
          </physdesc>
