@@ -221,7 +221,7 @@
             <c level="subseries">
                <did>
                   <unittitle>Sub-series I.1: Original Manuscripts <unitdate type="inclusive"
-                     >1910-1934</unitdate></unittitle>
+                     >1910-1934,</unitdate></unittitle>
                </did>
                <scopecontent>
                   <p>58 original items: complete works, drafts, sketches, and notes, dated from 1910 to 1934, many of which are written or annotated in Prokofiev's own hand. Highlights include: the sketches, full score, and symphonic suite of <title altrender="italics">The Prodigal Son,</title> sketches and full score of <title altrender="italics">Sur le Borysthène,</title> the full score of <title altrender="italics">Four Portraits</title>(symphonic suite from <title altrender="italics">The Gambler),</title> the original workings, orchestral sketches and full score of <title altrender="italics">Egyptian Nights,</title> the draft full score of <title altrender="italics">Symphony No. 3</title> with references to <title altrender="italics">The Fiery Angel,</title> the original workings for the <title altrender="italics">Symphonic Song,</title> sketches and drafts of <title altrender="italics">Piano Concerto No. 4</title> and <title altrender="italics">No. 5,</title> and scores for the piano pieces <title altrender="italics">Choses en soi,</title> <title altrender="italics">Two Sonatinas Op. 54, </title>and <title altrender="italics">Thoughts</title> (or <title altrender="italics">Pensées</title>) <title altrender="italics">Op. 64.</title> </p>
@@ -233,7 +233,7 @@
       <did>
          <container type="Box" label="Box">1</container>
          <container type="Folder" label="Folder">1</container>
-         <unittitle>Autumn, <unitdate>1934;1910;1914</unitdate></unittitle>
+         <unittitle>Autumn, <unitdate>1934;1910;1914,</unitdate></unittitle>
          <physdesc>
             <extent>13 leaves, 23 pages</extent>
          </physdesc>
@@ -268,7 +268,7 @@
       <did>
          <container type="Box" label="Box">1</container>
          <container type="Folder" label="Folder">2</container>
-         <unittitle>The Gambler, <unitdate>[1928-1929]</unitdate></unittitle>
+         <unittitle>The Gambler, <unitdate>[1928-1929],</unitdate></unittitle>
          <physdesc>
             <extent>6 leaves, 10 pages</extent>
          </physdesc>
@@ -385,7 +385,7 @@
          <container type="Box" label="Box">1</container>
          <container type="Folder" label="Folder">4</container>
          <unittitle>Andante from Sonata for Piano No.4 [for orchestra],
-            <unitdate>1934</unitdate></unittitle>
+            <unitdate>1934,</unitdate></unittitle>
          <physdesc>
             <extent>8 leaves, 15 pages</extent>
          </physdesc>
@@ -465,7 +465,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">101</container>
-         <unittitle>Seven, They Are Seven, <unitdate>1918</unitdate></unittitle>
+         <unittitle>Seven, They Are Seven, <unitdate>1918,</unitdate></unittitle>
          <physdesc>
             <extent>12 leaves, 24 pages</extent>
          </physdesc>
@@ -498,7 +498,7 @@
       <did>
          <container type="Box" label="Box">1</container>
          <container type="Folder" label="Folder">6</container>
-         <unittitle>Overture on Hebrew Themes, <unitdate>1922;1934</unitdate></unittitle>
+         <unittitle>Overture on Hebrew Themes, <unitdate>1922;1934,</unitdate></unittitle>
          <physdesc>
             <extent>13 leaves, 24 pages</extent>
          </physdesc>
@@ -532,7 +532,7 @@
       <did>
          <container type="Box" label="Box">5</container>
          <container type="Folder" label="Folder">2</container>
-         <unittitle>The Fiery Angel, <unitdate>[after 1927]</unitdate></unittitle>
+         <unittitle>The Fiery Angel, <unitdate>[after 1927],</unitdate></unittitle>
          <physdesc>
             <extent>176 leaves, 349 pages</extent>
          </physdesc>
@@ -565,7 +565,7 @@
       <did>
          <container type="Box" label="Box">1</container>
          <container type="Folder" label="Folder">7</container>
-         <unittitle>Le Pas d'acier, <unitdate>[1925-1926]</unitdate></unittitle>
+         <unittitle>Le Pas d'acier, <unitdate>[1925-1926],</unitdate></unittitle>
          <physdesc>
             <extent>15 leaves, 30 pages</extent>
          </physdesc>
@@ -599,7 +599,7 @@
       <did>
          <container type="Box" label="Box">1</container>
          <container type="Folder" label="Folder">8</container>
-         <unittitle>Divertimento, <unitdate>1925</unitdate></unittitle>
+         <unittitle>Divertimento, <unitdate>1925,</unitdate></unittitle>
          <physdesc>
             <extent>8 leaves, 15 pages</extent>
          </physdesc>
@@ -636,7 +636,7 @@
       <did>
          <container type="Box" label="Box">1</container>
          <container type="Folder" label="Folder">9</container>
-         <unittitle>Symphony No. 3, <unitdate>1928</unitdate></unittitle>
+         <unittitle>Symphony No. 3, <unitdate>1928,</unitdate></unittitle>
          <physdesc>
             <extent>51 leaves, 97 pages</extent>
          </physdesc>
@@ -674,7 +674,7 @@
       <did>
          <container type="Box" label="Box">1</container>
          <container type="Folder" label="Folder">10</container>
-         <unittitle>Choses en soi, for piano, <unitdate>[1928]</unitdate></unittitle>
+         <unittitle>Choses en soi, for piano, <unitdate>[1928],</unitdate></unittitle>
          <physdesc>
             <extent>6 leaves, 8 pages</extent>
          </physdesc>
@@ -706,7 +706,7 @@
       <did>
          <container type="Box" label="Box">1</container>
          <container type="Folder" label="Folder">11</container>
-         <unittitle>The Prodigal Son, <unitdate>1928</unitdate></unittitle>
+         <unittitle>The Prodigal Son, <unitdate>1928,</unitdate></unittitle>
          <physdesc>
             <extent>55 leaves, 109 pages</extent>
          </physdesc>
@@ -741,7 +741,7 @@
       <did>
          <container type="Box" label="Box">2</container>
          <container type="Folder" label="Folder">1</container>
-         <unittitle>The Prodigal Son, <unitdate>[1928-1929]</unitdate></unittitle>
+         <unittitle>The Prodigal Son, <unitdate>[1928-1929],</unitdate></unittitle>
          <physdesc>
             <extent>8 leaves, 15 pages</extent>
          </physdesc>
@@ -807,7 +807,7 @@
       <did>
          <container type="Box" label="Box">2</container>
          <container type="Folder" label="Folder">3</container>
-         <unittitle>Symphony No. 4, <unitdate>[1929]</unitdate></unittitle>
+         <unittitle>Symphony No. 4, <unitdate>[1929],</unitdate></unittitle>
          <physdesc>
             <extent>12 leaves, 20 pages</extent>
          </physdesc>
@@ -880,7 +880,7 @@
          <container type="Box" label="Box">2</container>
          <container type="Folder" label="Folder">5</container>
          <unittitle>Four Portraits and 'Dénouement' from The Gambler,
-            <unitdate>[1931]</unitdate></unittitle>
+            <unitdate>[1931],</unitdate></unittitle>
          <physdesc>
             <extent>1 leaves, 2 pages</extent>
          </physdesc>
@@ -1029,7 +1029,7 @@
       <did>
          <container type="Box" label="Box">2</container>
          <container type="Folder" label="Folder">9</container>
-         <unittitle>Sur le Borysthène, <unitdate>[1930-1931]</unitdate></unittitle>
+         <unittitle>Sur le Borysthène, <unitdate>[1930-1931],</unitdate></unittitle>
          <physdesc>
             <extent>31 leaves, 44 pages</extent>
          </physdesc>
@@ -1137,7 +1137,7 @@
       <did>
          <container type="Box" label="Box">2</container>
          <container type="Folder" label="Folder">12</container>
-         <unittitle>Six Pieces, for Piano (No. 2: Rondo), <unitdate>[1931]</unitdate></unittitle>
+         <unittitle>Six Pieces, for Piano (No. 2: Rondo), <unitdate>[1931],</unitdate></unittitle>
          <physdesc>
             <extent>1 leaves, 2 pages</extent>
          </physdesc>
@@ -1306,7 +1306,7 @@
       <did>
          <container type="Box" label="Box">3</container>
          <container type="Folder" label="Folder">2</container>
-         <unittitle>Two Sonatinas for Piano (No. 2), <unitdate>1932</unitdate></unittitle>
+         <unittitle>Two Sonatinas for Piano (No. 2), <unitdate>1932,</unitdate></unittitle>
          <physdesc>
             <extent>5 leaves, 10 pages</extent>
          </physdesc>
@@ -1373,7 +1373,7 @@
       <did>
          <container type="Box" label="Box">3</container>
          <container type="Folder" label="Folder">3</container>
-         <unittitle>Two Sonatinas for Piano (No. 2), <unitdate>[1931-1932]</unitdate></unittitle>
+         <unittitle>Two Sonatinas for Piano (No. 2), <unitdate>[1931-1932],</unitdate></unittitle>
          <physdesc>
             <extent>6 leaves, 10 pages</extent>
          </physdesc>
@@ -1406,7 +1406,7 @@
       <did>
          <container type="Box" label="Box">3</container>
          <container type="Folder" label="Folder">4</container>
-         <unittitle>Concerto for Piano No. 5, <unitdate>1932</unitdate></unittitle>
+         <unittitle>Concerto for Piano No. 5, <unitdate>1932,</unitdate></unittitle>
          <physdesc>
             <extent>32 leaves, 64 pages</extent>
          </physdesc>
@@ -1440,7 +1440,7 @@
       <did>
          <container type="Box" label="Box">3</container>
          <container type="Folder" label="Folder">5</container>
-         <unittitle>Concerto for Piano No. 5, <unitdate>[1932]</unitdate></unittitle>
+         <unittitle>Concerto for Piano No. 5, <unitdate>[1932],</unitdate></unittitle>
          <physdesc>
             <extent>15 leaves, 30 pages</extent>
          </physdesc>
@@ -1473,7 +1473,7 @@
       <did>
          <container type="Box" label="Box">3</container>
          <container type="Folder" label="Folder">6</container>
-         <unittitle>Sonata for Two Violins, <unitdate>1932</unitdate></unittitle>
+         <unittitle>Sonata for Two Violins, <unitdate>1932,</unitdate></unittitle>
          <physdesc>
             <extent>6 leaves, 12 pages</extent>
          </physdesc>
@@ -1508,7 +1508,7 @@
       <did>
          <container type="Box" label="Box">3</container>
          <container type="Folder" label="Folder">7</container>
-         <unittitle>Sonata for Two Violins, <unitdate>1932</unitdate></unittitle>
+         <unittitle>Sonata for Two Violins, <unitdate>1932,</unitdate></unittitle>
          <physdesc>
             <extent>6 leaves, 11 pages</extent>
          </physdesc>
@@ -1540,7 +1540,7 @@
       <did>
          <container type="Box" label="Box">3</container>
          <container type="Folder" label="Folder">8</container>
-         <unittitle>Symphonic Song, <unitdate>1932-1933</unitdate></unittitle>
+         <unittitle>Symphonic Song, <unitdate>1932-1933,</unitdate></unittitle>
          <physdesc>
             <extent>7 leaves, 14 pages</extent>
          </physdesc>
@@ -1574,7 +1574,7 @@
       <did>
          <container type="Box" label="Box">3</container>
          <container type="Folder" label="Folder">9</container>
-         <unittitle>Symphonic Song, <unitdate>[1933]</unitdate></unittitle>
+         <unittitle>Symphonic Song, <unitdate>[1933],</unitdate></unittitle>
          <physdesc>
             <extent>8 leaves, 13 pages</extent>
          </physdesc>
@@ -1605,7 +1605,7 @@
       <did>
          <container type="Box" label="Box">3</container>
          <container type="Folder" label="Folder">10</container>
-         <unittitle>Concerto for Cello, <unitdate>[1933-1938]</unitdate></unittitle>
+         <unittitle>Concerto for Cello, <unitdate>[1933-1938],</unitdate></unittitle>
          <physdesc>
             <extent>2 leaves, 4 pages</extent>
          </physdesc>
@@ -1637,7 +1637,7 @@
          <container type="Box" label="Box">3</container>
          <container type="Folder" label="Folder">11</container>
          <unittitle>Three Pieces, for piano (No. 3: Sonatine pastorale),
-            <unitdate>1934</unitdate></unittitle>
+            <unitdate>1934,</unitdate></unittitle>
          <physdesc>
             <extent>3 leaves, 5 pages</extent>
          </physdesc>
@@ -1672,7 +1672,7 @@
          <container type="Box" label="Box">3</container>
          <container type="Folder" label="Folder">12</container>
          <unittitle>Three Pieces, for Piano (no. 3 Sonatine Pastorale),
-               <unitdate>[1933-1934]</unitdate></unittitle>
+               <unitdate>[1933-1934],</unitdate></unittitle>
          <physdesc>
             <extent>2 leaves, 4 pages</extent>
          </physdesc>
@@ -1705,7 +1705,7 @@
       <did>
          <container type="Box" label="Box">3</container>
          <container type="Folder" label="Folder">13</container>
-         <unittitle>Egyptian Nights [symphonic suite], <unitdate>1933-1934</unitdate></unittitle>
+         <unittitle>Egyptian Nights [symphonic suite], <unitdate>1933-1934,</unitdate></unittitle>
          <physdesc>
             <extent>4 leaves, 8 pages</extent>
          </physdesc>
@@ -1740,7 +1740,7 @@
       <did>
          <container type="Box" label="Box">3</container>
          <container type="Folder" label="Folder">14</container>
-         <unittitle>Thoughts, for Piano, <unitdate>1933-1934</unitdate></unittitle>
+         <unittitle>Thoughts, for Piano, <unitdate>1933-1934,</unitdate></unittitle>
          <physdesc>
             <extent>5 leaves, 9 pages</extent>
          </physdesc>
@@ -1777,7 +1777,7 @@
          <container type="Box" label="Box">4</container>
          <container type="Folder" label="Folder">1</container>
          <unittitle>Arrangement of Twelve Russian Folk Songs (No. 4: White Snow),
-               <unitdate>[1944]</unitdate></unittitle>
+               <unitdate>[1944],</unitdate></unittitle>
          <physdesc>
             <extent>2 leaves, 3 pages</extent>
          </physdesc>
@@ -1814,7 +1814,7 @@
       <did>
          <container type="Box" label="Box">4</container>
          <container type="Folder" label="Folder">2</container>
-         <unittitle>Egyptian Nights [Incidental Music], <unitdate>[1934]</unitdate></unittitle>
+         <unittitle>Egyptian Nights [Incidental Music], <unitdate>[1934],</unitdate></unittitle>
          <physdesc>
             <extent>24 leaves, 47 pages</extent>
          </physdesc>
@@ -1846,7 +1846,7 @@
       <did>
          <container type="Box" label="Box">4</container>
          <container type="Folder" label="Folder">2</container>
-         <unittitle>Egyptian Nights [Incidental Music], <unitdate>[1934]</unitdate></unittitle>
+         <unittitle>Egyptian Nights [Incidental Music], <unitdate>[1934],</unitdate></unittitle>
          <physdesc>
             <extent>4 leaves, 8 pages</extent>
          </physdesc>
@@ -1878,7 +1878,7 @@
       <did>
          <container type="Box" label="Box">4</container>
          <container type="Folder" label="Folder">2</container>
-         <unittitle>Egyptian Nights [Incidental Music], <unitdate>[1934]</unitdate></unittitle>
+         <unittitle>Egyptian Nights [Incidental Music], <unitdate>[1934],</unitdate></unittitle>
          <physdesc>
             <extent>40 leaves, 80 pages</extent>
          </physdesc>
@@ -1917,7 +1917,7 @@
       <did>
          <container type="Box" label="Box">4</container>
          <container type="Folder" label="Folder">3</container>
-         <unittitle>Trapèze, <unitdate>1925</unitdate></unittitle>
+         <unittitle>Trapèze, <unitdate>1925,</unitdate></unittitle>
          <physdesc>
             <extent>2 leaves, 4 pages</extent>
          </physdesc>
@@ -1950,7 +1950,7 @@
       <did>
          <container type="Box" label="Box">4</container>
          <container type="Folder" label="Folder">4</container>
-         <unittitle>Lieutenant Kijé, <unitdate>[1933]</unitdate></unittitle>
+         <unittitle>Lieutenant Kijé, <unitdate>[1933],</unitdate></unittitle>
          <physdesc>
             <extent>73 leaves, 73 pages</extent>
          </physdesc>
@@ -1982,7 +1982,7 @@
       <did>
          <container type="Box" label="Box">4</container>
          <container type="Folder" label="Folder">5</container>
-         <unittitle>Lieutenant Kijé, <unitdate>[1933]</unitdate></unittitle>
+         <unittitle>Lieutenant Kijé, <unitdate>[1933],</unitdate></unittitle>
          <physdesc>
             <extent>12 leaves, 23 pages</extent>
          </physdesc>
@@ -2017,7 +2017,7 @@
       <did>
          <container type="Box" label="Box">4</container>
          <container type="Folder" label="Folder">6</container>
-         <unittitle>Sketchbook (1), <unitdate>1919</unitdate></unittitle>
+         <unittitle>Sketchbook (1), <unitdate>1919,</unitdate></unittitle>
          <physdesc>
             <extent>32 leaves, 64 pages</extent>
          </physdesc>
@@ -2047,7 +2047,7 @@
       <did>
          <container type="Box" label="Box">4</container>
          <container type="Folder" label="Folder">7</container>
-         <unittitle>Sketchbook (2), <unitdate>1929</unitdate></unittitle>
+         <unittitle>Sketchbook (2), <unitdate>1929,</unitdate></unittitle>
          <physdesc>
             <extent>22 leaves, 44 pages</extent>
          </physdesc>
@@ -2232,7 +2232,7 @@
  <c level="file">
       <did>
          <container type="Box" label="Box">124</container>
-         <unittitle>Adagio from Cinderella, <unitdate>1943-1944</unitdate></unittitle>
+         <unittitle>Adagio from Cinderella, <unitdate>1943-1944,</unitdate></unittitle>
          <physdesc>
             <extent>1 leaves, 1 pages</extent>
          </physdesc>
@@ -2263,7 +2263,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">124</container>
-         <unittitle>Alexander Nevsky, <unitdate>1936</unitdate></unittitle>
+         <unittitle>Alexander Nevsky, <unitdate>1936,</unitdate></unittitle>
          <physdesc>
             <extent>37 leaves, 74 pages</extent>
          </physdesc>
@@ -2295,7 +2295,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">124</container>
-         <unittitle>Alexander Nevsky, <unitdate>[1938]</unitdate></unittitle>
+         <unittitle>Alexander Nevsky, <unitdate>[1938],</unitdate></unittitle>
          <physdesc>
             <extent>3 leaves, 3 pages</extent>
          </physdesc>
@@ -2327,7 +2327,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">124</container>
-         <unittitle>Alexander Nevsky, <unitdate>[1938]</unitdate></unittitle>
+         <unittitle>Alexander Nevsky, <unitdate>[1938],</unitdate></unittitle>
          <physdesc>
             <extent>4 leaves, 4 pages</extent>
          </physdesc>
@@ -2394,7 +2394,7 @@
       <did>
          <container type="Box" label="Box">124</container>
          <unittitle>Andante from Sonata for Piano No.4 [for orchestra],
-            <unitdate>1934</unitdate></unittitle>
+            <unitdate>1934,</unitdate></unittitle>
          <physdesc>
             <extent>16 leaves, 16 pages</extent>
          </physdesc>
@@ -2428,7 +2428,7 @@
       <did>
          <container type="Box" label="Box">124</container>
          <unittitle>Andante from Sonata for Piano No.4 [for orchestra],
-               <unitdate>1908-1918-1934</unitdate></unittitle>
+               <unitdate>1908-1918-1934,</unitdate></unittitle>
          <physdesc>
             <extent>12 leaves, 24 pages</extent>
          </physdesc>
@@ -2460,7 +2460,7 @@
       <did>
          <container type="Box" label="Box">124</container>
          <unittitle>Arrangement of Twelve Russian Folk Songs,
-            <unitdate>[1944]</unitdate></unittitle>
+            <unitdate>[1944],</unitdate></unittitle>
          <physdesc>
             <extent>4 leaves, 4 pages</extent>
          </physdesc>
@@ -2494,7 +2494,7 @@
       <did>
          <container type="Box" label="Box">124</container>
          <unittitle>Arrangement of Twelve Russian Folk Songs (No. 4: White Snow),
-               <unitdate>[1944]</unitdate></unittitle>
+               <unitdate>[1944],</unitdate></unittitle>
          <physdesc>
             <extent>2 leaves, 2 pages</extent>
          </physdesc>
@@ -2561,7 +2561,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">124</container>
-         <unittitle>Notes on Ballad, for cello and piano, <unitdate>[date unknown]</unitdate></unittitle>
+         <unittitle>Notes on Ballad, for cello and piano, <unitdate>[date unknown],</unitdate></unittitle>
          <physdesc>
             <extent>2 leaves, 2 pages</extent>
          </physdesc>
@@ -2594,7 +2594,7 @@
       <did>
          <container type="Box" label="Box">124</container>
          <unittitle>Cantata for the Twentieth Anniversary of the October Revolution,
-               <unitdate>[1936-1937]</unitdate></unittitle>
+               <unitdate>[1936-1937],</unitdate></unittitle>
          <physdesc>
             <extent>105 leaves, 105 pages</extent>
          </physdesc>
@@ -2656,7 +2656,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">124</container>
-         <unittitle>Concertino for Cello, <unitdate>[1952]</unitdate></unittitle>
+         <unittitle>Concertino for Cello, <unitdate>[1952],</unitdate></unittitle>
          <physdesc>
             <extent>7 leaves, 7 pages</extent>
          </physdesc>
@@ -2689,7 +2689,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">124</container>
-         <unittitle>Concerto for Cello, <unitdate>[1934-1938]</unitdate></unittitle>
+         <unittitle>Concerto for Cello, <unitdate>[1934-1938],</unitdate></unittitle>
          <physdesc>
             <extent>11 leaves, 11 pages</extent>
          </physdesc>
@@ -2720,7 +2720,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">124</container>
-         <unittitle>Concerto for Piano No. 2, <unitdate>[1923]</unitdate></unittitle>
+         <unittitle>Concerto for Piano No. 2, <unitdate>[1923],</unitdate></unittitle>
          <physdesc>
             <extent>4 leaves, 4 pages</extent>
          </physdesc>
@@ -2752,7 +2752,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">124</container>
-         <unittitle>Concerto for Piano No. 3, <unitdate>[1917-1921]</unitdate></unittitle>
+         <unittitle>Concerto for Piano No. 3, <unitdate>[1917-1921],</unitdate></unittitle>
          <physdesc>
             <extent>30 leaves, 30 pages</extent>
          </physdesc>
@@ -2784,7 +2784,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">124</container>
-         <unittitle>Concerto for Piano No. 3, <unitdate>[1917-1921]</unitdate></unittitle>
+         <unittitle>Concerto for Piano No. 3, <unitdate>[1917-1921],</unitdate></unittitle>
          <physdesc>
             <extent>83 leaves, 83 pages</extent>
          </physdesc>
@@ -2887,7 +2887,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">125</container>
-         <unittitle>Divertimento, <unitdate>[1929]</unitdate></unittitle>
+         <unittitle>Divertimento, <unitdate>[1929],</unitdate></unittitle>
          <physdesc>
             <extent>21 leaves, 21 pages</extent>
          </physdesc>
@@ -2951,7 +2951,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">125</container>
-         <unittitle>Dumka, <unitdate>[after 1933]</unitdate></unittitle>
+         <unittitle>Dumka, <unitdate>[after 1933],</unitdate></unittitle>
          <physdesc>
             <extent>6 leaves, 6 pages</extent>
          </physdesc>
@@ -2984,7 +2984,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">125</container>
-         <unittitle>Egyptian Nights [incidental music], <unitdate>1933</unitdate></unittitle>
+         <unittitle>Egyptian Nights [incidental music], <unitdate>1933,</unitdate></unittitle>
          <physdesc>
             <extent>81 leaves, 81 pages</extent>
          </physdesc>
@@ -3021,7 +3021,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">125</container>
-         <unittitle>Evgenii Onegin, <unitdate>[1936]</unitdate></unittitle>
+         <unittitle>Evgenii Onegin, <unitdate>[1936],</unitdate></unittitle>
          <physdesc>
             <extent>1 leaves, 1 pages</extent>
          </physdesc>
@@ -3051,7 +3051,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">125</container>
-         <unittitle>Evgenii Onegin, <unitdate>[1936]</unitdate></unittitle>
+         <unittitle>Evgenii Onegin, <unitdate>[1936],</unitdate></unittitle>
          <physdesc>
             <extent>7 leaves, 7 pages</extent>
          </physdesc>
@@ -3220,7 +3220,7 @@
       <did>
          <container type="Box" label="Box">125</container>
          <unittitle>Songs of Our Days (No. 2: "Over the Bridge", Calvalry March),
-               <unitdate>[1937]</unitdate></unittitle>
+               <unitdate>[1937],</unitdate></unittitle>
          <physdesc>
             <extent>2 leaves, 2 pages</extent>
          </physdesc>
@@ -3250,7 +3250,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">125</container>
-         <unittitle>Four Pieces, for piano, <unitdate>[1918]</unitdate></unittitle>
+         <unittitle>Four Pieces, for piano, <unitdate>[1918],</unitdate></unittitle>
          <physdesc>
             <extent>7 leaves, 7 pages</extent>
          </physdesc>
@@ -3282,7 +3282,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">125</container>
-         <unittitle>The Giant, <unitdate>[1900]</unitdate></unittitle>
+         <unittitle>The Giant, <unitdate>[1900],</unitdate></unittitle>
          <physdesc>
             <extent>13 leaves, 13 pages</extent>
          </physdesc>
@@ -3313,7 +3313,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">125</container>
-         <unittitle>Hamlet, <unitdate>[1937-1938]</unitdate></unittitle>
+         <unittitle>Hamlet, <unitdate>[1937-1938],</unitdate></unittitle>
          <physdesc>
             <extent>11 leaves, 21 pages</extent>
          </physdesc>
@@ -3344,7 +3344,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">125</container>
-         <unittitle>Ivan the Terrible, <unitdate>1943-1944</unitdate></unittitle>
+         <unittitle>Ivan the Terrible, <unitdate>1943-1944,</unitdate></unittitle>
          <physdesc>
             <extent>16 leaves, 26 pages</extent>
          </physdesc>
@@ -3378,7 +3378,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">125</container>
-         <unittitle>Ivan the Terrible, <unitdate>[1943-1944]</unitdate></unittitle>
+         <unittitle>Ivan the Terrible, <unitdate>[1943-1944],</unitdate></unittitle>
          <physdesc>
             <extent>19 leaves, 37 pages</extent>
          </physdesc>
@@ -3413,7 +3413,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">125</container>
-         <unittitle>Songs collected for Khan Buzay, <unitdate>[1946]</unitdate></unittitle>
+         <unittitle>Songs collected for Khan Buzay, <unitdate>[1946],</unitdate></unittitle>
          <physdesc>
             <extent>31 leaves, 31 pages</extent>
          </physdesc>
@@ -3444,7 +3444,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">125</container>
-         <unittitle>Lermontov, <unitdate>[1941]</unitdate></unittitle>
+         <unittitle>Lermontov, <unitdate>[1941],</unitdate></unittitle>
          <physdesc>
             <extent>2 leaves, 2 pages</extent>
          </physdesc>
@@ -3477,7 +3477,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">125</container>
-         <unittitle>Lermontov, <unitdate>[1941-1942]</unitdate></unittitle>
+         <unittitle>Lermontov, <unitdate>[1941-1942],</unitdate></unittitle>
          <physdesc>
             <extent>6 leaves, 6 pages</extent>
          </physdesc>
@@ -3507,7 +3507,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">125</container>
-         <unittitle>Lieutenant Kijé, <unitdate>[1933]</unitdate></unittitle>
+         <unittitle>Lieutenant Kijé, <unitdate>[1933],</unitdate></unittitle>
          <physdesc>
             <extent>29 leaves, 29 pages</extent>
          </physdesc>
@@ -3540,7 +3540,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">125</container>
-         <unittitle>Lieutenant Kijé, <unitdate>1934</unitdate></unittitle>
+         <unittitle>Lieutenant Kijé, <unitdate>1934,</unitdate></unittitle>
          <physdesc>
             <extent>4 leaves, 4 pages</extent>
          </physdesc>
@@ -3570,7 +3570,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">125</container>
-         <unittitle>Lieutenant Kijé, <unitdate>[1934]</unitdate></unittitle>
+         <unittitle>Lieutenant Kijé, <unitdate>[1934],</unitdate></unittitle>
          <physdesc>
             <extent>2 leaves, 2 pages</extent>
          </physdesc>
@@ -3602,7 +3602,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">125</container>
-         <unittitle>Little Songs, for Piano, <unitdate>1903</unitdate></unittitle>
+         <unittitle>Little Songs, for Piano, <unitdate>1903,</unitdate></unittitle>
          <physdesc>
             <extent>4 leaves, 4 pages</extent>
          </physdesc>
@@ -3635,7 +3635,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">125</container>
-         <unittitle>Love for Three Oranges, <unitdate>[1919]</unitdate></unittitle>
+         <unittitle>Love for Three Oranges, <unitdate>[1919],</unitdate></unittitle>
          <physdesc>
             <extent>6 leaves, 6 pages</extent>
          </physdesc>
@@ -3664,7 +3664,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">125</container>
-         <unittitle>Love for Three Oranges, <unitdate>1919</unitdate></unittitle>
+         <unittitle>Love for Three Oranges, <unitdate>1919,</unitdate></unittitle>
          <physdesc>
             <extent>1 leaves, 1 pages</extent>
          </physdesc>
@@ -3700,7 +3700,7 @@
       <did>
          <container type="Box" label="Box">125</container>
          <unittitle>March and Scherzo from Love for Three Oranges, for piano,
-               <unitdate>1919</unitdate></unittitle>
+               <unitdate>1919,</unitdate></unittitle>
          <physdesc>
             <extent>3 leaves, 3 pages</extent>
          </physdesc>
@@ -3766,7 +3766,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">126</container>
-         <unittitle>Piece for Symphonic Orchestra, <unitdate>[Undated]</unitdate></unittitle>
+         <unittitle>Piece for Symphonic Orchestra, <unitdate>[Undated],</unitdate></unittitle>
          <physdesc>
             <extent>2 leaves, 2 pages</extent>
          </physdesc>
@@ -3826,7 +3826,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">126</container>
-         <unittitle>Music for Children, for Piano , <unitdate>1935</unitdate></unittitle>
+         <unittitle>Music for Children, for Piano , <unitdate>1935,</unitdate></unittitle>
          <physdesc>
             <extent>7 leaves, 7 pages</extent>
          </physdesc>
@@ -3855,7 +3855,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">126</container>
-         <unittitle>Music for Gymnastic Exercises , <unitdate>1939</unitdate></unittitle>
+         <unittitle>Music for Gymnastic Exercises , <unitdate>1939,</unitdate></unittitle>
          <physdesc>
             <extent>19 leaves, 19 pages</extent>
          </physdesc>
@@ -3925,7 +3925,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">126</container>
-         <unittitle>Sketchbook (1), <unitdate>1919</unitdate></unittitle>
+         <unittitle>Sketchbook (1), <unitdate>1919,</unitdate></unittitle>
          <physdesc>
             <extent>32 leaves, 32 pages</extent>
          </physdesc>
@@ -3955,7 +3955,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">126</container>
-         <unittitle>Sketchbook (1), <unitdate>1919</unitdate></unittitle>
+         <unittitle>Sketchbook (1), <unitdate>1919,</unitdate></unittitle>
          <physdesc>
             <extent>32 leaves, 32 pages</extent>
          </physdesc>
@@ -3985,7 +3985,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">126</container>
-         <unittitle>Sketchbook (2), <unitdate>1929</unitdate></unittitle>
+         <unittitle>Sketchbook (2), <unitdate>1929,</unitdate></unittitle>
          <physdesc>
             <extent>22 leaves, 22 pages</extent>
          </physdesc>
@@ -4044,7 +4044,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">126</container>
-         <unittitle>Unknown piece, <unitdate>[1899-1900]</unitdate></unittitle>
+         <unittitle>Unknown piece, <unitdate>[1899-1900],</unitdate></unittitle>
          <physdesc>
             <extent>1 leaves, 1 pages</extent>
          </physdesc>
@@ -4072,7 +4072,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">126</container>
-         <unittitle>Partisans in the Ukrainian Steppes, <unitdate>[1942]</unitdate></unittitle>
+         <unittitle>Partisans in the Ukrainian Steppes, <unitdate>[1942],</unitdate></unittitle>
          <physdesc>
             <extent>2 leaves, 2 pages</extent>
          </physdesc>
@@ -4137,7 +4137,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">126</container>
-         <unittitle>Pro Soma, <unitdate>[before 1945]</unitdate></unittitle>
+         <unittitle>Pro Soma, <unitdate>[before 1945],</unitdate></unittitle>
          <physdesc>
             <extent>1 leaves, 1 pages</extent>
          </physdesc>
@@ -4169,7 +4169,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">126</container>
-         <unittitle>Quintet, <unitdate>1924</unitdate></unittitle>
+         <unittitle>Quintet, <unitdate>1924,</unitdate></unittitle>
          <physdesc>
             <extent>20 leaves, 20 pages</extent>
          </physdesc>
@@ -4236,7 +4236,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">126</container>
-         <unittitle>Semyon Kotko, <unitdate>[1939]</unitdate></unittitle>
+         <unittitle>Semyon Kotko, <unitdate>[1939],</unitdate></unittitle>
          <physdesc>
             <extent>5 leaves, 5 pages</extent>
          </physdesc>
@@ -4267,7 +4267,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">126</container>
-         <unittitle>Seven Pieces, for pIano, <unitdate>1907</unitdate></unittitle>
+         <unittitle>Seven Pieces, for pIano, <unitdate>1907,</unitdate></unittitle>
          <physdesc>
             <extent>21 leaves, 21 pages</extent>
          </physdesc>
@@ -4300,7 +4300,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">126</container>
-         <unittitle>Seven, They Are Seven, <unitdate>1917</unitdate></unittitle>
+         <unittitle>Seven, They Are Seven, <unitdate>1917,</unitdate></unittitle>
          <physdesc>
             <extent>17 leaves, 17 pages</extent>
          </physdesc>
@@ -4382,7 +4382,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">126</container>
-         <unittitle>Seven, They Are Seven, <unitdate>1917</unitdate></unittitle>
+         <unittitle>Seven, They Are Seven, <unitdate>1917,</unitdate></unittitle>
          <physdesc>
             <extent>11 leaves, 11 pages</extent>
          </physdesc>
@@ -4449,7 +4449,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">126</container>
-         <unittitle>Sketches for the National Anthem, <unitdate>1943</unitdate></unittitle>
+         <unittitle>Sketches for the National Anthem, <unitdate>1943,</unitdate></unittitle>
          <physdesc>
             <extent>10 leaves, 10 pages</extent>
          </physdesc>
@@ -4480,7 +4480,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">126</container>
-         <unittitle>Sketches for the National Anthem, <unitdate>1946</unitdate></unittitle>
+         <unittitle>Sketches for the National Anthem, <unitdate>1946,</unitdate></unittitle>
          <physdesc>
             <extent>10 leaves, 10 pages</extent>
          </physdesc>
@@ -4512,7 +4512,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">127</container>
-         <unittitle>The Gambler, <unitdate>[1916-1917]</unitdate></unittitle>
+         <unittitle>The Gambler, <unitdate>[1916-1917],</unitdate></unittitle>
          <physdesc>
             <extent>284 leaves, 284 pages</extent>
          </physdesc>
@@ -4666,7 +4666,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">128</container>
-         <unittitle>Sonata for Cello and Piano, <unitdate>1949</unitdate></unittitle>
+         <unittitle>Sonata for Cello and Piano, <unitdate>1949,</unitdate></unittitle>
          <physdesc>
             <extent>3 leaves, 3 pages</extent>
          </physdesc>
@@ -4699,7 +4699,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">128</container>
-         <unittitle>Sonata for Cello and Piano , <unitdate>1949</unitdate></unittitle>
+         <unittitle>Sonata for Cello and Piano , <unitdate>1949,</unitdate></unittitle>
          <physdesc>
             <extent>12 leaves, 12 pages</extent>
          </physdesc>
@@ -4731,7 +4731,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">128</container>
-         <unittitle>Sonata for Cello and Piano, <unitdate>[1949]</unitdate></unittitle>
+         <unittitle>Sonata for Cello and Piano, <unitdate>[1949],</unitdate></unittitle>
          <physdesc>
             <extent>1 leaves, 1 pages</extent>
          </physdesc>
@@ -4762,7 +4762,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">128</container>
-         <unittitle>Sonata for Cello and Piano, <unitdate>[1949]</unitdate></unittitle>
+         <unittitle>Sonata for Cello and Piano, <unitdate>[1949],</unitdate></unittitle>
          <physdesc>
             <extent>24 leaves, 24 pages</extent>
          </physdesc>
@@ -4834,7 +4834,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">128</container>
-         <unittitle>Sonata for Solo Cello, <unitdate>1952</unitdate></unittitle>
+         <unittitle>Sonata for Solo Cello, <unitdate>1952,</unitdate></unittitle>
          <physdesc>
             <extent>5 leaves, 5 pages</extent>
          </physdesc>
@@ -4867,7 +4867,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">128</container>
-         <unittitle>Sonata for Flute and Piano, <unitdate>[1943]</unitdate></unittitle>
+         <unittitle>Sonata for Flute and Piano, <unitdate>[1943],</unitdate></unittitle>
          <physdesc>
             <extent>4 leaves, 4 pages</extent>
          </physdesc>
@@ -4897,7 +4897,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">128</container>
-         <unittitle>Sonata for Violin and Piano No. 1, <unitdate>[1938-1946]</unitdate></unittitle>
+         <unittitle>Sonata for Violin and Piano No. 1, <unitdate>[1938-1946],</unitdate></unittitle>
          <physdesc>
             <extent>16 leaves, 16 pages</extent>
          </physdesc>
@@ -4929,7 +4929,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">128</container>
-         <unittitle>Sonata for Violin and Piano No. 2, <unitdate>[1944]</unitdate></unittitle>
+         <unittitle>Sonata for Violin and Piano No. 2, <unitdate>[1944],</unitdate></unittitle>
          <physdesc>
             <extent>84 leaves, 84 pages</extent>
          </physdesc>
@@ -4958,7 +4958,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">128</container>
-         <unittitle>Summer Day, <unitdate>[1941]</unitdate></unittitle>
+         <unittitle>Summer Day, <unitdate>[1941],</unitdate></unittitle>
          <physdesc>
             <extent>41 leaves, 84 pages</extent>
          </physdesc>
@@ -4988,7 +4988,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">128</container>
-         <unittitle>Summer Day, <unitdate>[1941]</unitdate></unittitle>
+         <unittitle>Summer Day, <unitdate>[1941],</unitdate></unittitle>
          <physdesc>
             <extent>1 leaves, 1 pages</extent>
          </physdesc>
@@ -5048,7 +5048,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">128</container>
-         <unittitle>Symphony No. 1 (Classical), <unitdate>[1916-1917]</unitdate></unittitle>
+         <unittitle>Symphony No. 1 (Classical), <unitdate>[1916-1917],</unitdate></unittitle>
          <physdesc>
             <extent>32 leaves, 61 pages</extent>
          </physdesc>
@@ -5081,7 +5081,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">128</container>
-         <unittitle>Symphony No. 4, <unitdate>1929</unitdate></unittitle>
+         <unittitle>Symphony No. 4, <unitdate>1929,</unitdate></unittitle>
          <physdesc>
             <extent>1 leaves, 1 pages</extent>
          </physdesc>
@@ -5112,7 +5112,7 @@
       <did>
          <container type="Box" label="Box">128</container>
          <unittitle>Symphony No. 4; String Quartet No. 1,
-            <unitdate>[1929/1930]</unitdate></unittitle>
+            <unitdate>[1929/1930],</unitdate></unittitle>
          <physdesc>
             <extent>23 leaves, 23 pages</extent>
          </physdesc>
@@ -5146,7 +5146,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">128</container>
-         <unittitle>Tale of the Stone Flower, <unitdate>[1948-1953]</unitdate></unittitle>
+         <unittitle>Tale of the Stone Flower, <unitdate>[1948-1953],</unitdate></unittitle>
          <physdesc>
             <extent>14 leaves, 14 pages</extent>
          </physdesc>
@@ -5177,7 +5177,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">128</container>
-         <unittitle>Tale of the Stone Flower, <unitdate>[1948-1953]</unitdate></unittitle>
+         <unittitle>Tale of the Stone Flower, <unitdate>[1948-1953],</unitdate></unittitle>
          <physdesc>
             <extent>11 leaves, 11 pages</extent>
          </physdesc>
@@ -5206,7 +5206,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">128</container>
-         <unittitle>Tales of an Old Grandmother, for piano, <unitdate>1918</unitdate></unittitle>
+         <unittitle>Tales of an Old Grandmother, for piano, <unitdate>1918,</unitdate></unittitle>
          <physdesc>
             <extent>5 leaves, 5 pages</extent>
          </physdesc>
@@ -5240,7 +5240,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">128</container>
-         <unittitle>The Fiery Angel, <unitdate>[after 1930]</unitdate></unittitle>
+         <unittitle>The Fiery Angel, <unitdate>[after 1930],</unitdate></unittitle>
          <physdesc>
             <extent>7 leaves, 7 pages</extent>
          </physdesc>
@@ -5275,7 +5275,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">128</container>
-         <unittitle>The Prodigal Son, <unitdate>1928</unitdate></unittitle>
+         <unittitle>The Prodigal Son, <unitdate>1928,</unitdate></unittitle>
          <physdesc>
             <extent>109 leaves, 109 pages</extent>
          </physdesc>
@@ -5310,7 +5310,7 @@
       <did>
          <container type="Box" label="Box">128</container>
          <unittitle>The Prodigal Son; Divertimento; Choses en soi; Untitled 3,
-               <unitdate>[1925-1929]</unitdate></unittitle>
+               <unitdate>[1925-1929],</unitdate></unittitle>
          <physdesc>
             <extent>47 leaves, 47 pages</extent>
          </physdesc>
@@ -5344,7 +5344,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">128</container>
-         <unittitle>The Queen of Spades, <unitdate>[1936]</unitdate></unittitle>
+         <unittitle>The Queen of Spades, <unitdate>[1936],</unitdate></unittitle>
          <physdesc>
             <extent>1 leaves, 1 pages</extent>
          </physdesc>
@@ -5372,7 +5372,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">128</container>
-         <unittitle>Thoughts, for Piano, <unitdate>1933-1934</unitdate></unittitle>
+         <unittitle>Thoughts, for Piano, <unitdate>1933-1934,</unitdate></unittitle>
          <physdesc>
             <extent>9 leaves, 9 pages</extent>
          </physdesc>
@@ -5407,7 +5407,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">128</container>
-         <unittitle>Three Children's Songs, no. 1 Chatterbox, <unitdate>1936</unitdate></unittitle>
+         <unittitle>Three Children's Songs, no. 1 Chatterbox, <unitdate>1936,</unitdate></unittitle>
          <physdesc>
             <extent>17 leaves, 17 pages</extent>
          </physdesc>
@@ -5440,7 +5440,7 @@
       <did>
          <container type="Box" label="Box">128</container>
          <unittitle>Three Pieces, for piano (No. 3: Sonatine pastorale),
-            <unitdate>1934</unitdate></unittitle>
+            <unitdate>1934,</unitdate></unittitle>
          <physdesc>
             <extent>5 leaves, 5 pages</extent>
          </physdesc>
@@ -5473,7 +5473,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">128</container>
-         <unittitle>Tonya, <unitdate>1942</unitdate></unittitle>
+         <unittitle>Tonya, <unitdate>1942,</unitdate></unittitle>
          <physdesc>
             <extent>6 leaves, 6 pages</extent>
          </physdesc>
@@ -5503,7 +5503,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">128</container>
-         <unittitle>Tonya, <unitdate>[1942]</unitdate></unittitle>
+         <unittitle>Tonya, <unitdate>[1942],</unitdate></unittitle>
          <physdesc>
             <extent>4 leaves, 4 pages</extent>
          </physdesc>
@@ -5531,7 +5531,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">128</container>
-         <unittitle>Valse, for Piano, <unitdate>1899</unitdate></unittitle>
+         <unittitle>Valse, for Piano, <unitdate>1899,</unitdate></unittitle>
          <physdesc>
             <extent>2 leaves, 2 pages</extent>
          </physdesc>
@@ -5561,7 +5561,7 @@
       <did>
          <container type="Box" label="Box">129</container>
          <unittitle>Unidentified work for cello and piano,
-            <unitdate>[date unknown]</unitdate></unittitle>
+            <unitdate>[date unknown],</unitdate></unittitle>
          <physdesc>
             <extent>1 leaves, 1 pages</extent>
          </physdesc>
@@ -5589,7 +5589,7 @@
       <did>
          <container type="Box" label="Box">129</container>
          <unittitle>Notes for concert programmes for performances,
-            <unitdate>1938</unitdate></unittitle>
+            <unitdate>1938,</unitdate></unittitle>
          <physdesc>
             <extent>1 leaves, 1 pages</extent>
          </physdesc>
@@ -5623,7 +5623,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">129</container>
-         <unittitle>Notes on orchestration, <unitdate>[date unknown]</unitdate></unittitle>
+         <unittitle>Notes on orchestration, <unitdate>[date unknown],</unitdate></unittitle>
          <physdesc>
             <extent>1 leaves, 1 pages</extent>
          </physdesc>
@@ -5653,7 +5653,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">129</container>
-         <unittitle>Recital program, <unitdate>1919</unitdate></unittitle>
+         <unittitle>Recital program, <unitdate>1919,</unitdate></unittitle>
          <physdesc>
             <extent>1 leaves, 1 pages</extent>
          </physdesc>
@@ -5682,7 +5682,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">129</container>
-         <unittitle>Notes for Concerto for Cello, <unitdate>[1933-1938]</unitdate></unittitle>
+         <unittitle>Notes for Concerto for Cello, <unitdate>[1933-1938],</unitdate></unittitle>
          <physdesc>
             <extent>2 leaves, 2 pages</extent>
          </physdesc>
@@ -5712,7 +5712,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">129</container>
-         <unittitle>Program notes , <unitdate>[date unknown]</unitdate></unittitle>
+         <unittitle>Program notes , <unitdate>[date unknown],</unitdate></unittitle>
          <physdesc>
             <extent>1 leaves, 1 pages</extent>
          </physdesc>
@@ -5740,7 +5740,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">129</container>
-         <unittitle>Notes for article , <unitdate>1958</unitdate></unittitle>
+         <unittitle>Notes for article , <unitdate>1958,</unitdate></unittitle>
          <physdesc>
             <extent>2 leaves, 2 pages</extent>
          </physdesc>
@@ -5770,7 +5770,7 @@
       <did>
          <container type="Box" label="Box">135</container>
          <unittitle>Cantata for the Twentieth Anniversary of the October Revolution,
-               <unitdate>1937</unitdate></unittitle>
+               <unitdate>1937,</unitdate></unittitle>
          <physdesc>
             <extent>228 leaves, 228 pages</extent>
          </physdesc>
@@ -5894,7 +5894,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">135</container>
-         <unittitle>Divertimento [for orchestra], <unitdate>[date unknown]</unitdate></unittitle>
+         <unittitle>Divertimento [for orchestra], <unitdate>[date unknown],</unitdate></unittitle>
          <physdesc>
             <extent>23 leaves, 23 pages</extent>
          </physdesc>
@@ -5926,7 +5926,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">135</container>
-         <unittitle>Divertimento; Trapèze; Le pas d'acier, <unitdate>1925</unitdate></unittitle>
+         <unittitle>Divertimento; Trapèze; Le pas d'acier, <unitdate>1925,</unitdate></unittitle>
          <physdesc>
             <extent>4 leaves, 4 pages</extent>
          </physdesc>
@@ -5988,7 +5988,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">135</container>
-         <unittitle>Egyptian Nights [Incidental Music], <unitdate>[1934]</unitdate></unittitle>
+         <unittitle>Egyptian Nights [Incidental Music], <unitdate>[1934],</unitdate></unittitle>
          <physdesc>
             <extent>24 leaves, 48 pages</extent>
          </physdesc>
@@ -6056,7 +6056,7 @@
       <did>
          <container type="Box" label="Box">135</container>
          <unittitle>Songs of Our Days (No. 2: "Over the Bridge", Calvalry March),
-               <unitdate>[1935-1937]</unitdate></unittitle>
+               <unitdate>[1935-1937],</unitdate></unittitle>
          <physdesc>
             <extent>4 leaves, 4 pages</extent>
          </physdesc>
@@ -6091,7 +6091,7 @@
       <did>
          <container type="Box" label="Box">135</container>
          <unittitle>Four Marches (No. 3: "Over the Bridge", Calvalry March),
-               <unitdate>[1935-1937]</unitdate></unittitle>
+               <unitdate>[1935-1937],</unitdate></unittitle>
          <physdesc>
             <extent>12 leaves, 12 pages</extent>
          </physdesc>
@@ -6123,7 +6123,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">135</container>
-         <unittitle>Four Marches, <unitdate>[1935-1937]</unitdate></unittitle>
+         <unittitle>Four Marches, <unitdate>[1935-1937],</unitdate></unittitle>
          <physdesc>
             <extent>31 leaves, 31 pages</extent>
          </physdesc>
@@ -6158,7 +6158,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">135</container>
-         <unittitle>Kotovsky, <unitdate>[1942]</unitdate></unittitle>
+         <unittitle>Kotovsky, <unitdate>[1942],</unitdate></unittitle>
          <physdesc>
             <extent>16 leaves, 16 pages</extent>
          </physdesc>
@@ -6190,7 +6190,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">135</container>
-         <unittitle>Kotovsky, <unitdate>1942</unitdate></unittitle>
+         <unittitle>Kotovsky, <unitdate>1942,</unitdate></unittitle>
          <physdesc>
             <extent>14 leaves, 14 pages</extent>
          </physdesc>
@@ -6223,7 +6223,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">136</container>
-         <unittitle>Lermontov, <unitdate>1942</unitdate></unittitle>
+         <unittitle>Lermontov, <unitdate>1942,</unitdate></unittitle>
          <physdesc>
             <extent>35 leaves, 35 pages</extent>
          </physdesc>
@@ -6258,7 +6258,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">136</container>
-         <unittitle>Maddalena, <unitdate>1911/1913</unitdate></unittitle>
+         <unittitle>Maddalena, <unitdate>1911/1913,</unitdate></unittitle>
          <physdesc>
             <extent>107 leaves, 107 pages</extent>
          </physdesc>
@@ -6290,7 +6290,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">136</container>
-         <unittitle>Partisans in the Ukranian Steppes, <unitdate>[1942]</unitdate></unittitle>
+         <unittitle>Partisans in the Ukranian Steppes, <unitdate>[1942],</unitdate></unittitle>
          <physdesc>
             <extent>13 leaves, 13 pages</extent>
          </physdesc>
@@ -6327,7 +6327,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">136</container>
-         <unittitle>Le Pas d'acier, <unitdate>1925</unitdate></unittitle>
+         <unittitle>Le Pas d'acier, <unitdate>1925,</unitdate></unittitle>
          <physdesc>
             <extent>22 leaves, 22 pages</extent>
          </physdesc>
@@ -6390,7 +6390,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">136</container>
-         <unittitle>Quintet, <unitdate>1924</unitdate></unittitle>
+         <unittitle>Quintet, <unitdate>1924,</unitdate></unittitle>
          <physdesc>
             <extent>12 leaves, 23 pages</extent>
          </physdesc>
@@ -6421,7 +6421,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">136</container>
-         <unittitle>Quintet, <unitdate>1924</unitdate></unittitle>
+         <unittitle>Quintet, <unitdate>1924,</unitdate></unittitle>
          <physdesc>
             <extent>32 leaves, 32 pages</extent>
          </physdesc>
@@ -6451,7 +6451,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">139</container>
-         <unittitle>The Fiery Angel, <unitdate>1927</unitdate></unittitle>
+         <unittitle>The Fiery Angel, <unitdate>1927,</unitdate></unittitle>
          <physdesc>
             <extent>191 leaves, 381 pages</extent>
          </physdesc>
@@ -6486,7 +6486,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">139</container>
-         <unittitle>The Fiery Angel, <unitdate>1920-1923</unitdate></unittitle>
+         <unittitle>The Fiery Angel, <unitdate>1920-1923,</unitdate></unittitle>
          <physdesc>
             <extent>186 leaves, 186 pages</extent>
          </physdesc>
@@ -6524,7 +6524,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">139</container>
-         <unittitle>The Fiery Angel, <unitdate>[1920-1927]</unitdate></unittitle>
+         <unittitle>The Fiery Angel, <unitdate>[1920-1927],</unitdate></unittitle>
          <physdesc>
             <extent>115 leaves, 115 pages</extent>
          </physdesc>
@@ -6555,7 +6555,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">139</container>
-         <unittitle>The Fiery Angel, <unitdate>1927</unitdate></unittitle>
+         <unittitle>The Fiery Angel, <unitdate>1927,</unitdate></unittitle>
          <physdesc>
             <extent>94 leaves, 187 pages</extent>
          </physdesc>
@@ -6588,7 +6588,7 @@
       <did>
          <container type="Box" label="Box">139</container>
          <unittitle>The Fiery Angel [Vocal Suite from the Opera],
-            <unitdate>1927</unitdate></unittitle>
+            <unitdate>1927,</unitdate></unittitle>
          <physdesc>
             <extent>30 leaves, 60 pages</extent>
          </physdesc>
@@ -6622,7 +6622,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">140</container>
-         <unittitle>Sonata for Cello and Piano, <unitdate>[1949]</unitdate></unittitle>
+         <unittitle>Sonata for Cello and Piano, <unitdate>[1949],</unitdate></unittitle>
          <physdesc>
             <extent>24 leaves, 24 pages</extent>
          </physdesc>
@@ -6653,7 +6653,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">140</container>
-         <unittitle>Sonata for Solo Cello, <unitdate>1952</unitdate></unittitle>
+         <unittitle>Sonata for Solo Cello, <unitdate>1952,</unitdate></unittitle>
          <physdesc>
             <extent>10 leaves, 10 pages</extent>
          </physdesc>
@@ -6686,7 +6686,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">140</container>
-         <unittitle>Sonata for Violin and Piano No. 1, <unitdate>[1938-1946]</unitdate></unittitle>
+         <unittitle>Sonata for Violin and Piano No. 1, <unitdate>[1938-1946],</unitdate></unittitle>
          <physdesc>
             <extent>16 leaves, 16 pages</extent>
          </physdesc>
@@ -6718,7 +6718,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">140</container>
-         <unittitle>Sonata for Violin and Piano No. 2, <unitdate>1942-1943</unitdate></unittitle>
+         <unittitle>Sonata for Violin and Piano No. 2, <unitdate>1942-1943,</unitdate></unittitle>
          <physdesc>
             <extent>64 leaves, 64 pages</extent>
          </physdesc>
@@ -6817,7 +6817,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">140</container>
-         <unittitle>Symphony No. 1 (Classical), <unitdate>1916-1917</unitdate></unittitle>
+         <unittitle>Symphony No. 1 (Classical), <unitdate>1916-1917,</unitdate></unittitle>
          <physdesc>
             <extent>5 leaves, 9 pages</extent>
          </physdesc>
@@ -6884,7 +6884,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">140</container>
-         <unittitle>Symphony No. 6, <unitdate>[1945-1947]</unitdate></unittitle>
+         <unittitle>Symphony No. 6, <unitdate>[1945-1947],</unitdate></unittitle>
          <physdesc>
             <extent>18 leaves, 18 pages</extent>
          </physdesc>
@@ -6916,7 +6916,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">141</container>
-         <unittitle>The Gambler, <unitdate>[1916-1917]</unitdate></unittitle>
+         <unittitle>The Gambler, <unitdate>[1916-1917],</unitdate></unittitle>
          <physdesc>
             <extent>59 leaves, 59 pages</extent>
          </physdesc>
@@ -6951,7 +6951,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">141</container>
-         <unittitle>The Queen of Spades, <unitdate>1936</unitdate></unittitle>
+         <unittitle>The Queen of Spades, <unitdate>1936,</unitdate></unittitle>
          <physdesc>
             <extent>71 leaves, 71 pages</extent>
          </physdesc>
@@ -6981,7 +6981,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">141</container>
-         <unittitle>The Queen of Spades, <unitdate>1936</unitdate></unittitle>
+         <unittitle>The Queen of Spades, <unitdate>1936,</unitdate></unittitle>
          <physdesc>
             <extent>16 leaves, 16 pages</extent>
          </physdesc>
@@ -7012,7 +7012,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">141</container>
-         <unittitle>The Queen of Spades, <unitdate>1936</unitdate></unittitle>
+         <unittitle>The Queen of Spades, <unitdate>1936,</unitdate></unittitle>
          <physdesc>
             <extent>41 leaves, 41 pages</extent>
          </physdesc>
@@ -7042,7 +7042,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">141</container>
-         <unittitle>Tonya, <unitdate>1942</unitdate></unittitle>
+         <unittitle>Tonya, <unitdate>1942,</unitdate></unittitle>
          <physdesc>
             <extent>52 leaves, 52 pages</extent>
          </physdesc>
@@ -7072,7 +7072,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">141</container>
-         <unittitle>Trapeze, <unitdate>1925</unitdate></unittitle>
+         <unittitle>Trapeze, <unitdate>1925,</unitdate></unittitle>
          <physdesc>
             <extent>2 leaves, 2 pages</extent>
          </physdesc>
@@ -7104,7 +7104,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">141</container>
-         <unittitle>Trapeze , <unitdate>[date unknown]</unitdate></unittitle>
+         <unittitle>Trapeze , <unitdate>[date unknown],</unitdate></unittitle>
          <physdesc>
             <extent>46 leaves, 46 pages</extent>
          </physdesc>
@@ -7136,7 +7136,7 @@
       
       <did>
          <container type="Box" label="Box">141</container>
-         <unittitle>Trapeze, <unitdate>[date unknown]</unitdate></unittitle>
+         <unittitle>Trapeze, <unitdate>[date unknown],</unitdate></unittitle>
          <physdesc>
             <extent>11 leaves, 11 pages</extent>
          </physdesc>
@@ -7166,7 +7166,7 @@
    <c level="file">    
       <did>
          <container type="Box" label="Box">102</container>
-         <unittitle>The Fiery Angel, <unitdate>1920-1923</unitdate></unittitle>
+         <unittitle>The Fiery Angel, <unitdate>1920-1923,</unitdate></unittitle>
          <physdesc>
             <extent>186 leaves, 186 pages</extent>
          </physdesc>
@@ -7208,7 +7208,7 @@
                   <c level="subseries">
                      <did>
                         <unittitle>Sub-series I.3: Microfilm copies <unitdate type="inclusive"
-                           >c. 1900-1948</unitdate></unittitle>
+                           >c. 1900-1948,</unitdate></unittitle>
                      </did>
                      <scopecontent> <p>105 microfilm copies of Prokofiev musical works.</p>
                      </scopecontent>
@@ -7218,7 +7218,7 @@
     <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8823</container>
-         <unittitle>Lieutenant Kijé, <unitdate>[1933]</unitdate></unittitle>
+         <unittitle>Lieutenant Kijé, <unitdate>[1933],</unitdate></unittitle>
          <physdesc>
             <extent>26 slides</extent>
          </physdesc>
@@ -7251,7 +7251,7 @@
       <did>
          <container type="Microfilm" label="Microfilm">R8823</container>
          <unittitle>Three Pieces, for Piano (no. 3 Sonatine Pastorale),
-               <unitdate>[1933-1934]</unitdate></unittitle>
+               <unitdate>[1933-1934],</unitdate></unittitle>
          <physdesc>
             <extent>4 slides</extent>
          </physdesc>
@@ -7339,7 +7339,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8823</container>
-         <unittitle>Egyptian Nights [Incidental Music], <unitdate>[1934]</unitdate></unittitle>
+         <unittitle>Egyptian Nights [Incidental Music], <unitdate>[1934],</unitdate></unittitle>
          <physdesc>
             <extent>8 slides</extent>
          </physdesc>
@@ -7368,7 +7368,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8823</container>
-         <unittitle>Sonata for Two Violins, <unitdate>1932</unitdate></unittitle>
+         <unittitle>Sonata for Two Violins, <unitdate>1932,</unitdate></unittitle>
          <physdesc>
             <extent>12 slides</extent>
          </physdesc>
@@ -7397,7 +7397,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8823; R8824</container>
-         <unittitle>Symphonic Song, <unitdate>[1933]</unitdate></unittitle>
+         <unittitle>Symphonic Song, <unitdate>[1933],</unitdate></unittitle>
          <physdesc>
             <extent>13 slides</extent>
          </physdesc>
@@ -7427,7 +7427,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8823; R8824</container>
-         <unittitle>Symphony No. 4, <unitdate>[1929]</unitdate></unittitle>
+         <unittitle>Symphony No. 4, <unitdate>[1929],</unitdate></unittitle>
          <physdesc>
             <extent>20 slides</extent>
          </physdesc>
@@ -7553,7 +7553,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8823</container>
-         <unittitle>Trapèze, <unitdate>1925</unitdate></unittitle>
+         <unittitle>Trapèze, <unitdate>1925,</unitdate></unittitle>
          <physdesc>
             <extent>2 slides</extent>
          </physdesc>
@@ -7585,7 +7585,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8823; R8824</container>
-         <unittitle>Divertimento, <unitdate>1925</unitdate></unittitle>
+         <unittitle>Divertimento, <unitdate>1925,</unitdate></unittitle>
          <physdesc>
             <extent>15 slides</extent>
          </physdesc>
@@ -7621,7 +7621,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8823</container>
-         <unittitle>The Prodigal Son, <unitdate>[1928-1929]</unitdate></unittitle>
+         <unittitle>The Prodigal Son, <unitdate>[1928-1929],</unitdate></unittitle>
          <physdesc>
             <extent>15 slides</extent>
          </physdesc>
@@ -7651,7 +7651,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8823; R8824</container>
-         <unittitle>Choses en soi, for piano, <unitdate>[1928]</unitdate></unittitle>
+         <unittitle>Choses en soi, for piano, <unitdate>[1928],</unitdate></unittitle>
          <physdesc>
             <extent>8 slides</extent>
          </physdesc>
@@ -7682,7 +7682,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8823; R8824</container>
-         <unittitle>The Gambler, <unitdate>[1928-1929]</unitdate></unittitle>
+         <unittitle>The Gambler, <unitdate>[1928-1929],</unitdate></unittitle>
          <physdesc>
             <extent>10 slides</extent>
          </physdesc>
@@ -7717,7 +7717,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8823</container>
-         <unittitle>Le Pas d'acier, <unitdate>[1925-1926]</unitdate></unittitle>
+         <unittitle>Le Pas d'acier, <unitdate>[1925-1926],</unitdate></unittitle>
          <physdesc>
             <extent>27 slides</extent>
          </physdesc>
@@ -7751,7 +7751,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8823</container>
-         <unittitle>Autumn, <unitdate>1934;1910;1914</unitdate></unittitle>
+         <unittitle>Autumn, <unitdate>1934;1910;1914,</unitdate></unittitle>
          <physdesc>
             <extent>21 slides</extent>
          </physdesc>
@@ -7782,7 +7782,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8823</container>
-         <unittitle>Sonata for Two Violins, <unitdate>1932</unitdate></unittitle>
+         <unittitle>Sonata for Two Violins, <unitdate>1932,</unitdate></unittitle>
          <physdesc>
             <extent>12 slides</extent>
          </physdesc>
@@ -7814,7 +7814,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8823</container>
-         <unittitle>The Prodigal Son, <unitdate>1928</unitdate></unittitle>
+         <unittitle>The Prodigal Son, <unitdate>1928,</unitdate></unittitle>
          <physdesc>
             <extent>110 slides</extent>
          </physdesc>
@@ -7886,7 +7886,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8823</container>
-         <unittitle>Symphony No. 3, <unitdate>1928</unitdate></unittitle>
+         <unittitle>Symphony No. 3, <unitdate>1928,</unitdate></unittitle>
          <physdesc>
             <extent>98 slides</extent>
          </physdesc>
@@ -7956,7 +7956,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8824</container>
-         <unittitle>Sur le Borysthène, <unitdate>[1930-1931]</unitdate></unittitle>
+         <unittitle>Sur le Borysthène, <unitdate>[1930-1931],</unitdate></unittitle>
          <physdesc>
             <extent>44 slides</extent>
          </physdesc>
@@ -8058,7 +8058,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8824</container>
-         <unittitle>Six Pieces, for Piano (No. 2: Rondo), <unitdate>[1931]</unitdate></unittitle>
+         <unittitle>Six Pieces, for Piano (No. 2: Rondo), <unitdate>[1931],</unitdate></unittitle>
          <physdesc>
             <extent>2 slides</extent>
          </physdesc>
@@ -8117,7 +8117,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8824</container>
-         <unittitle>Two Sonatinas for Piano (No. 2), <unitdate>[1931-1932]</unitdate></unittitle>
+         <unittitle>Two Sonatinas for Piano (No. 2), <unitdate>[1931-1932],</unitdate></unittitle>
          <physdesc>
             <extent>11 slides</extent>
          </physdesc>
@@ -8178,7 +8178,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8824</container>
-         <unittitle>Concerto for Piano No. 5, <unitdate>[1932]</unitdate></unittitle>
+         <unittitle>Concerto for Piano No. 5, <unitdate>[1932],</unitdate></unittitle>
          <physdesc>
             <extent>30 slides</extent>
          </physdesc>
@@ -8209,7 +8209,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8824</container>
-         <unittitle>Concerto for Cello, <unitdate>[1933-1938]</unitdate></unittitle>
+         <unittitle>Concerto for Cello, <unitdate>[1933-1938],</unitdate></unittitle>
          <physdesc>
             <extent>4 slides</extent>
          </physdesc>
@@ -8239,7 +8239,7 @@
       <did>
          <container type="Microfilm" label="Microfilm">R8824</container>
          <unittitle>Four Portraits and 'Dénouement' from The Gambler,
-            <unitdate>[1931]</unitdate></unittitle>
+            <unitdate>[1931],</unitdate></unittitle>
          <physdesc>
             <extent>2 slides</extent>
          </physdesc>
@@ -8269,7 +8269,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8824</container>
-         <unittitle>Thoughts, for Piano, <unitdate>1933-1934</unitdate></unittitle>
+         <unittitle>Thoughts, for Piano, <unitdate>1933-1934,</unitdate></unittitle>
          <physdesc>
             <extent>9 slides</extent>
          </physdesc>
@@ -8341,7 +8341,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8824</container>
-         <unittitle>Egyptian Nights [symphonic suite], <unitdate>1933-1934</unitdate></unittitle>
+         <unittitle>Egyptian Nights [symphonic suite], <unitdate>1933-1934,</unitdate></unittitle>
          <physdesc>
             <extent>8 slides</extent>
          </physdesc>
@@ -8373,7 +8373,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8824</container>
-         <unittitle>Egyptian Nights [Incidental Music], <unitdate>[1934]</unitdate></unittitle>
+         <unittitle>Egyptian Nights [Incidental Music], <unitdate>[1934],</unitdate></unittitle>
          <physdesc>
             <extent>93 slides</extent>
          </physdesc>
@@ -8410,7 +8410,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8824</container>
-         <unittitle>Symphonic Song, <unitdate>1932-1933</unitdate></unittitle>
+         <unittitle>Symphonic Song, <unitdate>1932-1933,</unitdate></unittitle>
          <physdesc>
             <extent>16 slides</extent>
          </physdesc>
@@ -8475,7 +8475,7 @@
       <did>
          <container type="Microfilm" label="Microfilm">R8824</container>
          <unittitle>Three Pieces, for piano (No. 3: Sonatine pastorale),
-            <unitdate>1934</unitdate></unittitle>
+            <unitdate>1934,</unitdate></unittitle>
          <physdesc>
             <extent>5 slides</extent>
          </physdesc>
@@ -8506,7 +8506,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8824</container>
-         <unittitle>Egyptian Nights [Incidental Music], <unitdate>[1934]</unitdate></unittitle>
+         <unittitle>Egyptian Nights [Incidental Music], <unitdate>[1934],</unitdate></unittitle>
          <physdesc>
             <extent>48 slides</extent>
          </physdesc>
@@ -8571,7 +8571,7 @@
       <did>
          <container type="Microfilm" label="Microfilm">R8824</container>
          <unittitle>Arrangement of Twelve Russian Folk Songs (No. 4: White Snow),
-               <unitdate>[1944]</unitdate></unittitle>
+               <unitdate>[1944],</unitdate></unittitle>
          <physdesc>
             <extent>2 slides</extent>
          </physdesc>
@@ -8605,7 +8605,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8825</container>
-         <unittitle>Sketchbook (1), <unitdate>1919</unitdate></unittitle>
+         <unittitle>Sketchbook (1), <unitdate>1919,</unitdate></unittitle>
          <physdesc>
             <extent>65 slides</extent>
          </physdesc>
@@ -8632,7 +8632,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8825</container>
-         <unittitle>Sketchbook (2), <unitdate>1929</unitdate></unittitle>
+         <unittitle>Sketchbook (2), <unitdate>1929,</unitdate></unittitle>
          <physdesc>
             <extent>45 slides</extent>
          </physdesc>
@@ -8791,7 +8791,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8825</container>
-         <unittitle>Concerto for Piano No. 5, <unitdate>1932</unitdate></unittitle>
+         <unittitle>Concerto for Piano No. 5, <unitdate>1932,</unitdate></unittitle>
          <physdesc>
             <extent>65 slides</extent>
          </physdesc>
@@ -8869,7 +8869,7 @@
       <did>
          <container type="Microfilm" label="Microfilm">R8825</container>
          <unittitle>Andante from Sonata for Piano No.4 [for orchestra],
-            <unitdate>1934</unitdate></unittitle>
+            <unitdate>1934,</unitdate></unittitle>
          <physdesc>
             <extent>15 slides</extent>
          </physdesc>
@@ -9001,7 +9001,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">2</container>
-         <unittitle>Concerto for Piano No. 3, <unitdate>[1917-1921]</unitdate></unittitle>
+         <unittitle>Concerto for Piano No. 3, <unitdate>[1917-1921],</unitdate></unittitle>
          <physdesc>
             <extent>32 slides</extent>
          </physdesc>
@@ -9031,7 +9031,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">2</container>
-         <unittitle>Divertimento, <unitdate>1929</unitdate></unittitle>
+         <unittitle>Divertimento, <unitdate>1929,</unitdate></unittitle>
          <physdesc>
             <extent>35 slides</extent>
          </physdesc>
@@ -9061,7 +9061,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">2</container>
-         <unittitle>Tales of an Old Grandmother, for piano, <unitdate>1918</unitdate></unittitle>
+         <unittitle>Tales of an Old Grandmother, for piano, <unitdate>1918,</unitdate></unittitle>
          <physdesc>
             <extent>7 slides</extent>
          </physdesc>
@@ -9093,7 +9093,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">2</container>
-         <unittitle>Four Pieces, for piano, <unitdate>[1918]</unitdate></unittitle>
+         <unittitle>Four Pieces, for piano, <unitdate>[1918],</unitdate></unittitle>
          <physdesc>
             <extent>7 slides</extent>
          </physdesc>
@@ -9122,7 +9122,7 @@
       <did>
          <container type="Microfilm" label="Microfilm">2</container>
          <unittitle>March and Scherzo from Love for Three Oranges, for piano,
-               <unitdate>1919</unitdate></unittitle>
+               <unitdate>1919,</unitdate></unittitle>
          <physdesc>
             <extent>3 slides</extent>
          </physdesc>
@@ -9187,7 +9187,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">2</container>
-         <unittitle>The Fiery Angel, <unitdate>1920-1923</unitdate></unittitle>
+         <unittitle>The Fiery Angel, <unitdate>1920-1923,</unitdate></unittitle>
          <physdesc>
             <extent>95 slides</extent>
          </physdesc>
@@ -9223,7 +9223,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">2</container>
-         <unittitle>Quintet, <unitdate>1924</unitdate></unittitle>
+         <unittitle>Quintet, <unitdate>1924,</unitdate></unittitle>
          <physdesc>
             <extent>21 slides</extent>
          </physdesc>
@@ -9253,7 +9253,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">2</container>
-         <unittitle>Schubert Waltzes, <unitdate>[1920]</unitdate></unittitle>
+         <unittitle>Schubert Waltzes, <unitdate>[1920],</unitdate></unittitle>
          <physdesc>
             <extent>12 slides</extent>
          </physdesc>
@@ -9279,7 +9279,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">2</container>
-         <unittitle>Concerto for Piano No. 2, <unitdate>[1923]</unitdate></unittitle>
+         <unittitle>Concerto for Piano No. 2, <unitdate>[1923],</unitdate></unittitle>
          <physdesc>
             <extent>4 slides</extent>
          </physdesc>
@@ -9309,7 +9309,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">2</container>
-         <unittitle>Quintet, <unitdate>1924</unitdate></unittitle>
+         <unittitle>Quintet, <unitdate>1924,</unitdate></unittitle>
          <physdesc>
             <extent>23 slides</extent>
          </physdesc>
@@ -9338,7 +9338,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">2</container>
-         <unittitle>Seven, They Are Seven, <unitdate>1917</unitdate></unittitle>
+         <unittitle>Seven, They Are Seven, <unitdate>1917,</unitdate></unittitle>
          <physdesc>
             <extent>23 slides</extent>
          </physdesc>
@@ -9401,7 +9401,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">2</container>
-         <unittitle>The Gambler, <unitdate>[1916-1917]</unitdate></unittitle>
+         <unittitle>The Gambler, <unitdate>[1916-1917],</unitdate></unittitle>
          <physdesc>
             <extent>295 slides</extent>
          </physdesc>
@@ -9434,7 +9434,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">3</container>
-         <unittitle>Le Pas d'acier, <unitdate>1925</unitdate></unittitle>
+         <unittitle>Le Pas d'acier, <unitdate>1925,</unitdate></unittitle>
          <physdesc>
             <extent>78 slides</extent>
          </physdesc>
@@ -9492,7 +9492,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">3</container>
-         <unittitle>The Fiery Angel, <unitdate>1927</unitdate></unittitle>
+         <unittitle>The Fiery Angel, <unitdate>1927,</unitdate></unittitle>
          <physdesc>
             <extent>274 slides</extent>
          </physdesc>
@@ -9525,7 +9525,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">4</container>
-         <unittitle>Love for Three Oranges, <unitdate>1919</unitdate></unittitle>
+         <unittitle>Love for Three Oranges, <unitdate>1919,</unitdate></unittitle>
          <physdesc>
             <extent>238 slides</extent>
          </physdesc>
@@ -9587,7 +9587,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">5</container>
-         <unittitle>Seven, They Are Seven, <unitdate>1917</unitdate></unittitle>
+         <unittitle>Seven, They Are Seven, <unitdate>1917,</unitdate></unittitle>
          <physdesc>
             <extent>14 slides</extent>
          </physdesc>
@@ -9707,7 +9707,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">5</container>
-         <unittitle>Violin Concerto No. 2, <unitdate>1935</unitdate></unittitle>
+         <unittitle>Violin Concerto No. 2, <unitdate>1935,</unitdate></unittitle>
          <physdesc>
             <extent>97 slides</extent>
          </physdesc>
@@ -9734,7 +9734,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">5</container>
-         <unittitle>Sur le Borysthène, <unitdate>[1930-1931]</unitdate></unittitle>
+         <unittitle>Sur le Borysthène, <unitdate>[1930-1931],</unitdate></unittitle>
          <physdesc>
             <extent>80 slides</extent>
          </physdesc>
@@ -9825,7 +9825,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">5</container>
-         <unittitle>Symphony No. 1 (Classical), <unitdate>1916-1917</unitdate></unittitle>
+         <unittitle>Symphony No. 1 (Classical), <unitdate>1916-1917,</unitdate></unittitle>
          <physdesc>
             <extent>9 slides</extent>
          </physdesc>
@@ -9856,7 +9856,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">5</container>
-         <unittitle>Music for Children, for piano, <unitdate>1935</unitdate></unittitle>
+         <unittitle>Music for Children, for piano, <unitdate>1935,</unitdate></unittitle>
          <physdesc>
             <extent>6 slides</extent>
          </physdesc>
@@ -9884,7 +9884,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">5</container>
-         <unittitle>Concerto for Piano No. 3, <unitdate>[1917-1921]</unitdate></unittitle>
+         <unittitle>Concerto for Piano No. 3, <unitdate>[1917-1921],</unitdate></unittitle>
          <physdesc>
             <extent>85 slides</extent>
          </physdesc>
@@ -9916,7 +9916,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">5</container>
-         <unittitle>The Fiery Angel, <unitdate>1927</unitdate></unittitle>
+         <unittitle>The Fiery Angel, <unitdate>1927,</unitdate></unittitle>
          <physdesc>
             <extent>181 slides</extent>
          </physdesc>
@@ -9947,7 +9947,7 @@
       <did>
          <container type="Microfilm" label="Microfilm">5</container>
          <unittitle>The Fiery Angel [Vocal Suite from the Opera],
-            <unitdate>1927</unitdate></unittitle>
+            <unitdate>1927,</unitdate></unittitle>
          <physdesc>
             <extent>60 slides</extent>
          </physdesc>
@@ -9979,7 +9979,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">1929</container>
-         <unittitle>The Giant, <unitdate>[1900]</unitdate></unittitle>
+         <unittitle>The Giant, <unitdate>[1900],</unitdate></unittitle>
          <physdesc>
             <extent>14 slides</extent>
          </physdesc>
@@ -10008,7 +10008,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">1929</container>
-         <unittitle>The Gambler, <unitdate>[1915]</unitdate></unittitle>
+         <unittitle>The Gambler, <unitdate>[1915],</unitdate></unittitle>
          <physdesc>
             <extent>5 slides</extent>
          </physdesc>
@@ -10037,7 +10037,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">1929</container>
-         <unittitle>The Fiery Angel, <unitdate>[after 1930]</unitdate></unittitle>
+         <unittitle>The Fiery Angel, <unitdate>[after 1930],</unitdate></unittitle>
          <physdesc>
             <extent>9 slides</extent>
          </physdesc>
@@ -10069,7 +10069,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">1929</container>
-         <unittitle>Semyon Kotko, <unitdate>[1939]</unitdate></unittitle>
+         <unittitle>Semyon Kotko, <unitdate>[1939],</unitdate></unittitle>
          <physdesc>
             <extent>4 slides</extent>
          </physdesc>
@@ -10099,7 +10099,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">1929</container>
-         <unittitle>Semyon Kotko, <unitdate>[1939]</unitdate></unittitle>
+         <unittitle>Semyon Kotko, <unitdate>[1939],</unitdate></unittitle>
          <physdesc>
             <extent>21 slides</extent>
          </physdesc>
@@ -10128,7 +10128,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">1929</container>
-         <unittitle>Betrothal in a Monestary, <unitdate>[1940]</unitdate></unittitle>
+         <unittitle>Betrothal in a Monestary, <unitdate>[1940],</unitdate></unittitle>
          <physdesc>
             <extent>36 slides</extent>
          </physdesc>
@@ -10156,7 +10156,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">1929</container>
-         <unittitle>Betrothal in a Monestary, <unitdate>[1940-1943]</unitdate></unittitle>
+         <unittitle>Betrothal in a Monestary, <unitdate>[1940-1943],</unitdate></unittitle>
          <physdesc>
             <extent>16 slides</extent>
          </physdesc>
@@ -10184,7 +10184,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">1929</container>
-         <unittitle>Program for performance of War and Peace, <unitdate>1944</unitdate></unittitle>
+         <unittitle>Program for performance of War and Peace, <unitdate>1944,</unitdate></unittitle>
          <physdesc>
             <extent>6 slides</extent>
          </physdesc>
@@ -10212,7 +10212,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">1929</container>
-         <unittitle>Notes on War and Peace, <unitdate>[1945]</unitdate></unittitle>
+         <unittitle>Notes on War and Peace, <unitdate>[1945],</unitdate></unittitle>
          <physdesc>
             <extent>3 slides</extent>
          </physdesc>
@@ -10240,7 +10240,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">1929</container>
-         <unittitle>Story of a Real Man, <unitdate>[1947-1948]</unitdate></unittitle>
+         <unittitle>Story of a Real Man, <unitdate>[1947-1948],</unitdate></unittitle>
          <physdesc>
             <extent>89 slides</extent>
          </physdesc>
@@ -10269,7 +10269,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">1929</container>
-         <unittitle>Distant Seas, <unitdate>[1948]</unitdate></unittitle>
+         <unittitle>Distant Seas, <unitdate>[1948],</unitdate></unittitle>
          <physdesc>
             <extent>8 slides</extent>
          </physdesc>
@@ -10297,7 +10297,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">1929</container>
-         <unittitle>Distant Seas, <unitdate>[1948]</unitdate></unittitle>
+         <unittitle>Distant Seas, <unitdate>[1948],</unitdate></unittitle>
          <physdesc>
             <extent>13 slides</extent>
          </physdesc>
@@ -10325,7 +10325,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">1929</container>
-         <unittitle>War and Peace, <unitdate>[1943-1945]</unitdate></unittitle>
+         <unittitle>War and Peace, <unitdate>[1943-1945],</unitdate></unittitle>
          <physdesc>
             <extent>3 slides</extent>
          </physdesc>
@@ -10353,7 +10353,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">1929</container>
-         <unittitle>War and Peace, <unitdate>[1941-1942]</unitdate></unittitle>
+         <unittitle>War and Peace, <unitdate>[1941-1942],</unitdate></unittitle>
          <physdesc>
             <extent>55 slides</extent>
          </physdesc>
@@ -10384,7 +10384,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">1929</container>
-         <unittitle>War and Peace, <unitdate>[1941-1942]</unitdate></unittitle>
+         <unittitle>War and Peace, <unitdate>[1941-1942],</unitdate></unittitle>
          <physdesc>
             <extent>18 slides</extent>
          </physdesc>
@@ -10414,7 +10414,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">1929</container>
-         <unittitle>Peter and the Wolf, <unitdate>1936</unitdate></unittitle>
+         <unittitle>Peter and the Wolf, <unitdate>1936,</unitdate></unittitle>
          <physdesc>
             <extent>7 slides</extent>
          </physdesc>
@@ -10448,7 +10448,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">1929</container>
-         <unittitle>War and Peace, <unitdate>[1940]</unitdate></unittitle>
+         <unittitle>War and Peace, <unitdate>[1940],</unitdate></unittitle>
          <physdesc>
             <extent>5 slides</extent>
          </physdesc>
@@ -10478,7 +10478,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">1929</container>
-         <unittitle>Peter and the Wolf, <unitdate>1936</unitdate></unittitle>
+         <unittitle>Peter and the Wolf, <unitdate>1936,</unitdate></unittitle>
          <physdesc>
             <extent>7 slides</extent>
          </physdesc>
@@ -10551,7 +10551,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>Sonata for Cello and Piano , <unitdate>[1949]</unitdate></unittitle>
+         <unittitle>Sonata for Cello and Piano , <unitdate>[1949],</unitdate></unittitle>
          <physdesc>
             <extent>24 pages</extent>
          </physdesc>
@@ -10676,7 +10676,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>Symphony No. 1 (Classical), <unitdate>[1916-1917]</unitdate></unittitle>
+         <unittitle>Symphony No. 1 (Classical), <unitdate>[1916-1917],</unitdate></unittitle>
          <physdesc>
             <extent>61 pages</extent>
          </physdesc>
@@ -10736,7 +10736,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>Dumka, <unitdate>[after 1933]</unitdate></unittitle>
+         <unittitle>Dumka, <unitdate>[after 1933],</unitdate></unittitle>
          <physdesc>
             <extent>6 pages</extent>
          </physdesc>
@@ -10767,7 +10767,7 @@
    <c level="file">
       <did>
          <unittitle>The Fiery Angel [Vocal Suite from the Opera],
-            <unitdate>1923</unitdate></unittitle>
+            <unitdate>1923,</unitdate></unittitle>
          <physdesc>
             <extent>30 pages</extent>
          </physdesc>
@@ -10797,7 +10797,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>The Fiery Angel, <unitdate>1920-1923</unitdate></unittitle>
+         <unittitle>The Fiery Angel, <unitdate>1920-1923,</unitdate></unittitle>
          <physdesc>
             <extent>94 pages</extent>
          </physdesc>
@@ -10833,7 +10833,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>The Fiery Angel, <unitdate>1923</unitdate></unittitle>
+         <unittitle>The Fiery Angel, <unitdate>1923,</unitdate></unittitle>
          <physdesc>
             <extent>381 pages</extent>
          </physdesc>
@@ -10865,7 +10865,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>The Fiery Angel, <unitdate>1927</unitdate></unittitle>
+         <unittitle>The Fiery Angel, <unitdate>1927,</unitdate></unittitle>
          <physdesc>
             <extent>186 pages</extent>
          </physdesc>
@@ -10927,7 +10927,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>Five Songs without Words, <unitdate>[1920]</unitdate></unittitle>
+         <unittitle>Five Songs without Words, <unitdate>[1920],</unitdate></unittitle>
          <physdesc>
             <extent>11 pages</extent>
          </physdesc>
@@ -11094,7 +11094,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>The Gambler, <unitdate>[1916-1917]</unitdate></unittitle>
+         <unittitle>The Gambler, <unitdate>[1916-1917],</unitdate></unittitle>
          <physdesc>
             <extent>284 pages</extent>
          </physdesc>
@@ -11125,7 +11125,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>The Giant, <unitdate>[1900]</unitdate></unittitle>
+         <unittitle>The Giant, <unitdate>[1900],</unitdate></unittitle>
          <physdesc>
             <extent>13 pages</extent>
          </physdesc>
@@ -11214,7 +11214,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>Seven Pieces, for piano, <unitdate>1907</unitdate></unittitle>
+         <unittitle>Seven Pieces, for piano, <unitdate>1907,</unitdate></unittitle>
          <physdesc>
             <extent>11;22 pages</extent>
          </physdesc>
@@ -11244,7 +11244,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>Little Songs, for Piano, <unitdate>1903</unitdate></unittitle>
+         <unittitle>Little Songs, for Piano, <unitdate>1903,</unitdate></unittitle>
          <physdesc>
             <extent>4 pages</extent>
          </physdesc>
@@ -11274,7 +11274,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>Valse, for piano, <unitdate>1899</unitdate></unittitle>
+         <unittitle>Valse, for piano, <unitdate>1899,</unitdate></unittitle>
          <physdesc>
             <extent>4 pages</extent>
          </physdesc>
@@ -11301,7 +11301,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>Kotovsky, <unitdate>1942</unitdate></unittitle>
+         <unittitle>Kotovsky, <unitdate>1942,</unitdate></unittitle>
          <physdesc>
             <extent>1 pages</extent>
          </physdesc>
@@ -11358,7 +11358,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>Love for Three Oranges, <unitdate>1919</unitdate></unittitle>
+         <unittitle>Love for Three Oranges, <unitdate>1919,</unitdate></unittitle>
          <physdesc>
             <extent>238 pages</extent>
          </physdesc>
@@ -11388,7 +11388,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>Music for Children, for piano, <unitdate>1935</unitdate></unittitle>
+         <unittitle>Music for Children, for piano, <unitdate>1935,</unitdate></unittitle>
          <physdesc>
             <extent>10 pages</extent>
          </physdesc>
@@ -11450,7 +11450,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>Sketchbook (1), <unitdate>1919</unitdate></unittitle>
+         <unittitle>Sketchbook (1), <unitdate>1919,</unitdate></unittitle>
          <physdesc>
             <extent>64 pages</extent>
          </physdesc>
@@ -11477,7 +11477,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>Sketchbook (2), <unitdate>1929</unitdate></unittitle>
+         <unittitle>Sketchbook (2), <unitdate>1929,</unitdate></unittitle>
          <physdesc>
             <extent>44 pages</extent>
          </physdesc>
@@ -11592,7 +11592,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>Partisans in the Ukrainian Steppes, <unitdate>[1942]</unitdate></unittitle>
+         <unittitle>Partisans in the Ukrainian Steppes, <unitdate>[1942],</unitdate></unittitle>
          <physdesc>
             <extent>1 pages</extent>
          </physdesc>
@@ -11619,7 +11619,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>Peter and the Wolf, <unitdate>1936</unitdate></unittitle>
+         <unittitle>Peter and the Wolf, <unitdate>1936,</unitdate></unittitle>
          <physdesc>
             <extent>6 slides</extent>
          </physdesc>
@@ -11680,7 +11680,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>Concerto for Piano No. 2, <unitdate>[1923]</unitdate></unittitle>
+         <unittitle>Concerto for Piano No. 2, <unitdate>[1923],</unitdate></unittitle>
          <physdesc>
             <extent>4 pages</extent>
          </physdesc>
@@ -11709,7 +11709,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>Concerto for Piano No. 3, <unitdate>1917-1922</unitdate></unittitle>
+         <unittitle>Concerto for Piano No. 3, <unitdate>1917-1922,</unitdate></unittitle>
          <physdesc>
             <extent>82 pages</extent>
          </physdesc>
@@ -11773,7 +11773,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>Concerto for Piano No. 5, <unitdate>[1932]</unitdate></unittitle>
+         <unittitle>Concerto for Piano No. 5, <unitdate>[1932],</unitdate></unittitle>
          <physdesc>
             <extent>32 pages</extent>
          </physdesc>
@@ -11800,7 +11800,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>Dumka, <unitdate>[after 1933]</unitdate></unittitle>
+         <unittitle>Dumka, <unitdate>[after 1933],</unitdate></unittitle>
          <physdesc>
             <extent>6 pages</extent>
          </physdesc>
@@ -11904,7 +11904,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>Seven, They Are Seven, <unitdate>1917</unitdate></unittitle>
+         <unittitle>Seven, They Are Seven, <unitdate>1917,</unitdate></unittitle>
          <physdesc>
             <extent>17 pages</extent>
          </physdesc>
@@ -11936,7 +11936,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>Seven, They Are Seven, <unitdate>1917</unitdate></unittitle>
+         <unittitle>Seven, They Are Seven, <unitdate>1917,</unitdate></unittitle>
          <physdesc>
             <extent>11 pages</extent>
          </physdesc>
@@ -11968,7 +11968,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>Seven, They Are Seven, <unitdate>1918</unitdate></unittitle>
+         <unittitle>Seven, They Are Seven, <unitdate>1918,</unitdate></unittitle>
          <physdesc>
             <extent>24 pages</extent>
          </physdesc>
@@ -12055,7 +12055,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>Symphony No. 3, <unitdate>1928</unitdate></unittitle>
+         <unittitle>Symphony No. 3, <unitdate>1928,</unitdate></unittitle>
          <physdesc>
             <extent>99 pages</extent>
          </physdesc>
@@ -12089,7 +12089,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>Tonya, <unitdate>1942</unitdate></unittitle>
+         <unittitle>Tonya, <unitdate>1942,</unitdate></unittitle>
          <physdesc>
             <extent>1 pages</extent>
          </physdesc>
@@ -12116,7 +12116,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>Divertimento; Trapèze; Le pas d'acier, <unitdate>1925</unitdate></unittitle>
+         <unittitle>Divertimento; Trapèze; Le pas d'acier, <unitdate>1925,</unitdate></unittitle>
          <physdesc>
             <extent>4 pages</extent>
          </physdesc>
@@ -12142,7 +12142,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>Concerto for Violin No. 1, <unitdate>1913-1917</unitdate></unittitle>
+         <unittitle>Concerto for Violin No. 1, <unitdate>1913-1917,</unitdate></unittitle>
          <physdesc>
             <extent>126 pages</extent>
          </physdesc>
@@ -12168,7 +12168,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>Sonata for Violin and Piano No. 1, <unitdate>[1938-1946]</unitdate></unittitle>
+         <unittitle>Sonata for Violin and Piano No. 1, <unitdate>[1938-1946],</unitdate></unittitle>
          <physdesc>
             <extent>16 pages</extent>
          </physdesc>
