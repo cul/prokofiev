@@ -221,7 +221,7 @@
             <c level="subseries">
                <did>
                   <unittitle>Sub-series I.1: Original Manuscripts <unitdate type="inclusive"
-                     >1910-1934,</unitdate></unittitle>
+                     >1910-1934</unitdate></unittitle>
                </did>
                <scopecontent>
                   <p>58 original items: complete works, drafts, sketches, and notes, dated from 1910 to 1934, many of which are written or annotated in Prokofiev's own hand. Highlights include: the sketches, full score, and symphonic suite of <title altrender="italics">The Prodigal Son,</title> sketches and full score of <title altrender="italics">Sur le Borysthène,</title> the full score of <title altrender="italics">Four Portraits</title>(symphonic suite from <title altrender="italics">The Gambler),</title> the original workings, orchestral sketches and full score of <title altrender="italics">Egyptian Nights,</title> the draft full score of <title altrender="italics">Symphony No. 3</title> with references to <title altrender="italics">The Fiery Angel,</title> the original workings for the <title altrender="italics">Symphonic Song,</title> sketches and drafts of <title altrender="italics">Piano Concerto No. 4</title> and <title altrender="italics">No. 5,</title> and scores for the piano pieces <title altrender="italics">Choses en soi,</title> <title altrender="italics">Two Sonatinas Op. 54, </title>and <title altrender="italics">Thoughts</title> (or <title altrender="italics">Pensées</title>) <title altrender="italics">Op. 64.</title> </p>
@@ -772,7 +772,7 @@
       <did>
          <container type="Box" label="Box">2</container>
          <container type="Folder" label="Folder">2</container>
-         <unittitle>Suite from The Prodigal Son, <unitdate>1930</unitdate></unittitle>
+         <unittitle>Suite from The Prodigal Son, <unitdate>1930,</unitdate></unittitle>
          <physdesc>
             <extent>5 leaves, 9 pages</extent>
          </physdesc>
@@ -913,7 +913,7 @@
       <did>
          <container type="Box" label="Box">2</container>
          <container type="Folder" label="Folder">6</container>
-         <unittitle>String Quartet No. 1; Sur le Borysthène, <unitdate>1930</unitdate></unittitle>
+         <unittitle>String Quartet No. 1; Sur le Borysthène, <unitdate>1930,</unitdate></unittitle>
          <physdesc>
             <extent>15 leaves, 27 pages</extent>
          </physdesc>
@@ -988,7 +988,7 @@
       <did>
          <container type="Box" label="Box">2</container>
          <container type="Folder" label="Folder">8</container>
-         <unittitle>Sur le Borysthène, <unitdate>1930</unitdate></unittitle>
+         <unittitle>Sur le Borysthène, <unitdate>1930,</unitdate></unittitle>
          <physdesc>
             <extent>16 leaves, 31 pages</extent>
          </physdesc>
@@ -2530,7 +2530,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">124</container>
-         <unittitle>Autumn, <unitdate>1910</unitdate></unittitle>
+         <unittitle>Autumn, <unitdate>1910,</unitdate></unittitle>
          <physdesc>
             <extent>3 leaves, 3 pages</extent>
          </physdesc>
@@ -3118,7 +3118,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">125</container>
-         <unittitle>Five Songs without Words, <unitdate>1920</unitdate></unittitle>
+         <unittitle>Five Songs without Words, <unitdate>1920,</unitdate></unittitle>
          <physdesc>
             <extent>7 leaves, 7 pages</extent>
          </physdesc>
@@ -3150,7 +3150,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">125</container>
-         <unittitle>Five Songs without Words, <unitdate>1920</unitdate></unittitle>
+         <unittitle>Five Songs without Words, <unitdate>1920,</unitdate></unittitle>
          <physdesc>
             <extent>8 leaves, 8 pages</extent>
          </physdesc>
@@ -3185,7 +3185,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">125</container>
-         <unittitle>Five Songs without Words, <unitdate>1920</unitdate></unittitle>
+         <unittitle>Five Songs without Words, <unitdate>1920,</unitdate></unittitle>
          <physdesc>
             <extent>1 leaves, 1 pages</extent>
          </physdesc>
@@ -3734,7 +3734,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">126</container>
-         <unittitle>March and Piece, for piano, <unitdate>1900</unitdate></unittitle>
+         <unittitle>March and Piece, for piano, <unitdate>1900,</unitdate></unittitle>
          <physdesc>
             <extent>6 leaves, 6 pages</extent>
          </physdesc>
@@ -4102,7 +4102,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">126</container>
-         <unittitle>Piece on Es-C-H-E; Various; Unidentified , <unitdate>1910</unitdate></unittitle>
+         <unittitle>Piece on Es-C-H-E; Various; Unidentified , <unitdate>1910,</unitdate></unittitle>
          <physdesc>
             <extent>9 leaves, 9 pages</extent>
          </physdesc>
@@ -5866,7 +5866,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">135</container>
-         <unittitle>Chout, <unitdate>1920</unitdate></unittitle>
+         <unittitle>Chout, <unitdate>1920,</unitdate></unittitle>
          <physdesc>
             <extent>27 leaves, 27 pages</extent>
          </physdesc>
@@ -6748,7 +6748,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">140</container>
-         <unittitle>String Quartet No. 1, <unitdate>1930</unitdate></unittitle>
+         <unittitle>String Quartet No. 1, <unitdate>1930,</unitdate></unittitle>
          <physdesc>
             <extent>10 leaves, 19 pages</extent>
          </physdesc>
@@ -6785,7 +6785,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">140</container>
-         <unittitle>String Quartet No. 1, <unitdate>1930</unitdate></unittitle>
+         <unittitle>String Quartet No. 1, <unitdate>1930,</unitdate></unittitle>
          <physdesc>
             <extent>17 leaves, 34 pages</extent>
          </physdesc>
@@ -6850,7 +6850,7 @@
    <c level="file">
       <did>
          <container type="Box" label="Box">140</container>
-         <unittitle>Symphony No. 4, <unitdate>1929-1930</unitdate></unittitle>
+         <unittitle>Symphony No. 4, <unitdate>1929-1930,</unitdate></unittitle>
          <physdesc>
             <extent>62 leaves, 62 pages</extent>
          </physdesc>
@@ -7208,7 +7208,7 @@
                   <c level="subseries">
                      <did>
                         <unittitle>Sub-series I.3: Microfilm copies <unitdate type="inclusive"
-                           >c. 1900-1948,</unitdate></unittitle>
+                           >c. 1900-1948</unitdate></unittitle>
                      </did>
                      <scopecontent> <p>105 microfilm copies of Prokofiev musical works.</p>
                      </scopecontent>
@@ -7491,7 +7491,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8823; R8824</container>
-         <unittitle>Suite from The Prodigal Son, <unitdate>1930</unitdate></unittitle>
+         <unittitle>Suite from The Prodigal Son, <unitdate>1930,</unitdate></unittitle>
          <physdesc>
             <extent>9 slides</extent>
          </physdesc>
@@ -7920,7 +7920,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8824</container>
-         <unittitle>String Quartet No. 1, <unitdate>1930</unitdate></unittitle>
+         <unittitle>String Quartet No. 1, <unitdate>1930,</unitdate></unittitle>
          <physdesc>
             <extent>27 slides</extent>
          </physdesc>
@@ -8753,7 +8753,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8825</container>
-         <unittitle>Sur le Borysthène, <unitdate>1930</unitdate></unittitle>
+         <unittitle>Sur le Borysthène, <unitdate>1930,</unitdate></unittitle>
          <physdesc>
             <extent>31 slides</extent>
          </physdesc>
@@ -9154,7 +9154,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">2</container>
-         <unittitle>Five Songs without Words, <unitdate>1920</unitdate></unittitle>
+         <unittitle>Five Songs without Words, <unitdate>1920,</unitdate></unittitle>
          <physdesc>
             <extent>8 slides</extent>
          </physdesc>
@@ -9650,7 +9650,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">5</container>
-         <unittitle>Two Poems of Konstantin Balmont, <unitdate>1910</unitdate></unittitle>
+         <unittitle>Two Poems of Konstantin Balmont, <unitdate>1910,</unitdate></unittitle>
          <physdesc>
             <extent>25 slides</extent>
          </physdesc>
@@ -9677,7 +9677,7 @@
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">5</container>
-         <unittitle>Five songs without Words, <unitdate>1920</unitdate></unittitle>
+         <unittitle>Five songs without Words, <unitdate>1920,</unitdate></unittitle>
          <physdesc>
             <extent>13 slides</extent>
          </physdesc>
@@ -10523,7 +10523,7 @@
             
     <c level="file">
       <did>
-         <unittitle>Autumn, <unitdate>1910</unitdate></unittitle>
+         <unittitle>Autumn, <unitdate>1910,</unitdate></unittitle>
          <physdesc>
             <extent>3 pages</extent>
          </physdesc>
@@ -10706,7 +10706,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>Dreams, <unitdate>1910</unitdate></unittitle>
+         <unittitle>Dreams, <unitdate>1910,</unitdate></unittitle>
          <physdesc>
             <extent>3 pages</extent>
          </physdesc>
@@ -10894,7 +10894,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>Five Songs without Words, <unitdate>1920</unitdate></unittitle>
+         <unittitle>Five Songs without Words, <unitdate>1920,</unitdate></unittitle>
          <physdesc>
             <extent>8 pages</extent>
          </physdesc>
@@ -11156,7 +11156,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>March and Piece, for piano, <unitdate>1900</unitdate></unittitle>
+         <unittitle>March and Piece, for piano, <unitdate>1900,</unitdate></unittitle>
          <physdesc>
             <extent>7 pages</extent>
          </physdesc>
@@ -11185,7 +11185,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>March and Piece, for piano, <unitdate>1900</unitdate></unittitle>
+         <unittitle>March and Piece, for piano, <unitdate>1900,</unitdate></unittitle>
          <physdesc>
             <extent>7 pages</extent>
          </physdesc>
@@ -11654,7 +11654,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>Concerto for Piano No. 2, <unitdate>1930</unitdate></unittitle>
+         <unittitle>Concerto for Piano No. 2, <unitdate>1930,</unitdate></unittitle>
          <physdesc>
             <extent>1 pages</extent>
          </physdesc>
@@ -12026,7 +12026,7 @@
    </c>
    <c level="file">
       <did>
-         <unittitle>String Quartet No. 1, <unitdate>1930</unitdate></unittitle>
+         <unittitle>String Quartet No. 1, <unitdate>1930,</unitdate></unittitle>
          <physdesc>
             <extent>24 pages</extent>
          </physdesc>
