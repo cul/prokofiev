@@ -1990,6 +1990,9 @@
          </note>
       </did>
    </c>
+
+
+
    <c level="file">
       <did>
          <container type="Box" label="Box">124</container>
@@ -6894,6 +6897,7 @@
       </did>
    </c>
    <c level="file">
+      
       <did>
          <container type="Box" label="Box">141</container>
          <unittitle>Trapeze, <unitdate>[Unknown]</unitdate></unittitle>
@@ -6923,7 +6927,7 @@
          </note>
       </did>
    </c>
-   <c level="file">
+   <c level="file">    
       <did>
          <container type="Box" label="Box">102</container>
          <unittitle>The Fiery Angel, <unitdate>1920-1923</unitdate></unittitle>
@@ -6962,6 +6966,8 @@
          </note>
       </did>
    </c>
+
+
    <c level="file">
       <did>
          <container type="Microfilm" label="Microfilm">R8823</container>
