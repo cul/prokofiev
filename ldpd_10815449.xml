@@ -68,7 +68,34 @@
       </did>
       <bioghist encodinganalog="545">
          <head>Biographical Note</head>
-         <!-- NE will fill this in later -->
+         <!-- Serge Prokofiev was born in Sontsovka, in the Ukraine, in 1891. He played the piano and
+composed from an early age, and studied with Reinhold Gliere in the summers of 1902
+and 1903. He attended the St Petersburg Conservatory from 1904 to 1914, and studied
+composition, conducting and piano, though his overwhelming desire to develop his own
+style often brought him into conflict with his teachers. He played his first public
+performance on 18 December 1908 in St Petersburg at one of the 'Evenings of
+Contemporary Music', premiered his first full compositions, and graduated in 1914, having
+won the coveted Anton Rubinstein Prize for the best student pianist. Following his
+graduation, Prokofiev travelled widely, performing his compositions in Paris, London and
+the USA. He composed in a wide range of musical genres, including symphonies,
+concertos, operas, ballets and film music, though the modern nature of his music often
+led to censure on the part of the music press of the time. He moved to Paris permanently
+in 1923, after his marriage to Lina Codina. Tours of Soviet Russia in 1927, 1929 and 1932
+contributed towards Prokofiev's decision to return to his homeland permanently in 1936,
+joined by his wife and two children. He developed an intense interest in writing scores for
+film, beginning with Lieutenant Kizhe in 1933, and for the theatrical stage - Peter and the
+Wolf was written in 1936 and performed by the State Children's Theatre. He also
+composed ballets such as Romeo and Juliet, premiered in 1938. Though Prokofiev
+initially conformed to Soviet ideology, the limitations imposed upon his artistic freedom
+proved stifling, and he was soon forbidden permission to tour outside the Soviet Union.
+Following the German invasion of the Soviet Union in 1941, all senior cultural figures were evacuated from Moscow, including Prokofiev, whose wife and children were left
+behind for the duration of the war. Lina Prokofiev, being Spanish by birth, was later
+arrested (1948) and sent to a labour camp for 8 years. In the same year her marriage to
+Prokofiev was annulled by the state, after which Prokofiev married Mira Mendelson. His
+composition remained prolific, and the works created during the War proved to be some
+of his most successful, notably War and Peace, Cinderella, and his Fifth Symphony.
+Suffering from increasing ill-health, Prokofiev died on 5 March 1953 and was buried at the
+Novodevichy Cemetery in Moscow. -->
          <p/>
       </bioghist>
       <scopecontent encodinganalog="520">
@@ -224,7 +251,7 @@
                      >1910-1934</unitdate></unittitle>
                </did>
                <scopecontent>
-                  <p>58 original items: complete works, drafts, sketches, and notes, dated from 1910 to 1934, many of which are written or annotated in Prokofiev's own hand. Highlights include: the sketches, full score, and symphonic suite of <title altrender="italics">The Prodigal Son,</title> sketches and full score of <title altrender="italics">Sur le Borysthène,</title> the full score of <title altrender="italics">Four Portraits</title>(symphonic suite from <title altrender="italics">The Gambler),</title> the original workings, orchestral sketches and full score of <title altrender="italics">Egyptian Nights,</title> the draft full score of <title altrender="italics">Symphony No. 3</title> with references to <title altrender="italics">The Fiery Angel,</title> the original workings for the <title altrender="italics">Symphonic Song,</title> sketches and drafts of <title altrender="italics">Piano Concerto No. 4</title> and <title altrender="italics">No. 5,</title> and scores for the piano pieces <title altrender="italics">Choses en soi,</title> <title altrender="italics">Two Sonatinas Op. 54, </title>and <title altrender="italics">Thoughts</title> (or <title altrender="italics">Pensées</title>) <title altrender="italics">Op. 64.</title> </p>
+                  <p>58 original items: complete works, drafts, sketches, and notes, dated from 1910 to 1934, many of which are written or annotated in Prokofiev's own hand. Highlights include: the sketches, full score, and symphonic suite of <title altrender="italics">The Prodigal Son,</title> sketches and full score of <title altrender="italics">Sur le Borysthène,</title> the full score of <title altrender="italics">Four Portraits</title>(symphonic suite from <title altrender="italics">The Gambler),</title> the original workings, orchestral sketches and full score of <title altrender="italics">Egyptian Nights,</title> the draft full score of <title altrender="italics">Symphony No. 3</title> with references to <title altrender="italics">The Fiery Angel,</title> the original workings for the <title altrender="italics">Symphonic Song,</title> sketches and drafts of <title altrender="italics">Piano Concerto No. 4</title> and <title altrender="italics">No. 5,</title> and scores for the piano pieces <title altrender="italics">Choses en soi,</title> <title altrender="italics">Two Sonatinas Op. 54, </title>and <title altrender="italics">Thoughts</title> (or <title altrender="italics">Pensées</title>) <title altrender="italics">Op. 62.</title> </p>
             
  <p>The archive also contains three sketchbooks of musical ideas kept by Prokofiev during the years 1919, 1929 and 1931, and four untitled folders of loose sketches and notes.</p>
 
@@ -11383,6 +11410,7 @@
             <p>Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University
                of London</p>
             <p>Also available in Photocopy: SPA_103</p>
+            <p>Also available in Microfilm: SPA_284</p>
          </note>
       </did>
    </c>
@@ -11558,7 +11586,7 @@
                of London</p>
             <p>Also available in Photocopy: SPA_085</p>
             <p>Also available in Photocopy: SPA_176</p>
-            <p>Also available in Microfilm: SPA_291</p>
+            <p>Also available in Microfilm: SPA_292</p>
          </note>
       </did>
    </c>
@@ -12222,7 +12250,48 @@
       </did>
    </c>
           
-   
+            <!-- <c level="series">
+            <did>
+               <unittitle>Series II: Personal Papers, <unitdate type="inclusive">[1915]-1936</unitdate></unittitle>
+            </did>
+            <scopecontent>
+               <p>These papers mainly comprising private and business
+correspondence relating to the performance and publication of Prokofiev's compositions.
+Much of the collection consists of personal correspondence concerning his working
+relationship with other artists including conductors Albert Coates, Sir Henry Wood, Sergei
+Koussevitsky, Hermann Scherchen, and Ernest Ansermet; soloists Joseph Szigeti, Pablo
+Casals, Robert Soëtans and Fyodor Shalyapin; composers Igor Stravinsky, Nikolai
+Miaskovsky, and practically all French composers of the 1920s and 30s;
+theatre directors Vsevolod Meyerhold and Alexander Tairov; the Director of the Ballets
+Russes, Serge Diaghilev; poets and writers such as Konstantin Balmont and Vladimir
+Maiakovsky; and chess grandmaster José Capablanca. The papers also include financial
+material such as bills and accounts, legal papers and correspondence concerning
+concerts in the USA, France, Italy, Spain, England, the Soviet Union and Germany; and
+the publication and copyright of Prokofiev's work. Individuals and companies with which
+Prokofiev dealt in these matters included musical societies such as the Aeolian Company
+in the USA, Concerts Populaires de Bruxelles, and Concerts Pasdeloup in Paris; music
+publishers such as Breitkopf and Härtel in Leipzig, Russicher Musikverlag in Berlin and
+Edition Russe de Musique in Paris; and Soviet music publishing and arts authorities
+including the State Publishing House, the Moscow and Leningrad conservatories, and the
+Direction of State Theatres. There is also correspondence regarding the composition of
+ballets and operas, notably The Love for Three Oranges, Chout, the Fiery Angel and Le
+Pas d'Acier. The remainder of the collection consists of diaries, personal notes and press
+cuttings relating to Prokofiev's work.</p>
+            </scopecontent>
+                
+            <c level="subseries">
+               <did>
+                  <unittitle>Sub-series II.1:  <unitdate type="inclusive"
+                     ></unitdate></unittitle>
+               </did>
+               <scopecontent>
+                  <p> </p>
+            
+ <p></p>
+ 
+               </scopecontent>
+   <c level="file">
+      <did> -->
             
             </c>
       </dsc>
