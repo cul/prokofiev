@@ -11,7 +11,7 @@
     <titleInfo>
        <title>J: Title: As transcribed on item (incl. subtitle)</title>
     </titleInfo>
-    <titleInfo type="alternative">
+    <titleInfo type="uniform">
        <title>I: Title (Standard - Eng, Fr.)</title>
     </titleInfo>
     <titleInfo type="alternative" authority="viaf" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/(N: Title: VIAF work ID)">
