@@ -1,0 +1,52 @@
+2105 mods items
+
+Title
+--
+Only one title, no authorities
+
+Names
+--
+Names belong to a nametitlegroup 1, and use nameparts and namepart dates rather than displayname (note, they do NOT actually break into first and last name with the name parts). No authorities for the names.
+
+typeOfResource
+--
+Treated exactly the same
+
+Genre/Subject
+--
+Genre used differently.
+
+There are 421 items with a genre authority=marcgt. These are used the way we have been using them, except they lack typing and some of ours lack authority.
+
+There are 1100 subjects with topics or genres inside them, these are keywords we have not been using, there are a total of 3494 topics and 1270 subject/genre elements, which usually seem to match the given genre in the genre element, where applicable
+
+Language
+--
+Ours are uncoded plaintext, M2M is encoded in iso639-2b
+
+Extent
+--
+They cram all aspects of physical description into one extent line
+They use physicalDescription form authorities
+
+
+
+Notes
+--
+Notes: 6711 notes in these records
+1347 notes are "statements of responsibility" example "by Stanley D Krebs"
+269 are type = "bibliograpy" which means the book has a bibliography and usualyl the page number 
+
+
+recordInfo
+--
+We don't use this at all, they use it to say when the record was made, when changed, identifier, and the fact that it was conferted using a specific xsl file
+
+
+
+
+
+
+
+
+
