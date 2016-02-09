@@ -12296,7 +12296,7 @@ cuttings relating to Prokofiev's work.</p>
       <did>
          <container type="Box" label="Box">1</container>
          <container type="Folder" label="Folder">1</container>
-         <unittitle>1915</unittitle>
+         <unittitle>Folder <unitdate>1915</unitdate></unittitle>
       </did> 
    </c>
       <c level="file">
@@ -12316,6 +12316,7 @@ cuttings relating to Prokofiev's work.</p>
                
             </c>
  </c>
+
  <c level="series">
             <did>
                <unittitle>Series X: Other Collections<unitdate type="inclusive"></unitdate></unittitle>
