@@ -12250,7 +12250,7 @@ Novodevichy Cemetery in Moscow. -->
       </did>
    </c>
           
-            <!-- <c level="series">
+ <c level="series">
             <did>
                <unittitle>Series II: Personal Papers, <unitdate type="inclusive">[1915]-1936</unitdate></unittitle>
             </did>
@@ -12277,23 +12277,34 @@ Direction of State Theatres. There is also correspondence regarding the composit
 ballets and operas, notably The Love for Three Oranges, Chout, the Fiery Angel and Le
 Pas d'Acier. The remainder of the collection consists of diaries, personal notes and press
 cuttings relating to Prokofiev's work.</p>
+<p>Currently, the letters are currently organized by year and month only. In the future, we will provide detailed information, such as sender, recipient, letter type, etc.</p>
             </scopecontent>
                 
             <c level="subseries">
                <did>
-                  <unittitle>Sub-series II.1:  <unitdate type="inclusive"
+                  <unittitle>Sub-series II.1: Personal and Professional Correspondence <unitdate type="inclusive"
                      ></unitdate></unittitle>
                </did>
                <scopecontent>
                   <p> </p>
-            
  <p></p>
  
                </scopecontent>
    <c level="file">
-      <did> -->
-            
+      <did>
+         <container type="Box" label="Box">1</container>
+         <container type="Folder" label="Folder">1919</container>
+      </did> 
+   </c>
+      <c level="file">
+         <did>
+            <container type="Box" label="Box">1</container>
+            <container type="Folder" label="Folder">1920</container>
+         </did>
+   </c>
             </c>
+ </c>
+         </c>
       </dsc>
    </archdesc>
 </ead>
