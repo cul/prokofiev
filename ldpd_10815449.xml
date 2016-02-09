@@ -12295,15 +12295,24 @@ cuttings relating to Prokofiev's work.</p>
    <c level="file">
       <did>
          <container type="Box" label="Box">1</container>
-         <container type="Folder" label="Folder">1919</container>
+         <container type="Folder" label="Folder">1</container>
+         <unittitle>1915</unittitle>
       </did> 
    </c>
       <c level="file">
          <did>
             <container type="Box" label="Box">1</container>
-            <container type="Folder" label="Folder">1920</container>
+            <container type="Folder" label="Folder">2</container>
+            <unittitle>1920</unittitle>
          </did>
    </c>
+               <c level="file">
+                  <did>
+                     <container type="Box" label="Box">1</container>
+                     <container type="Folder" label="Folder">3</container>
+                     <unittitle>1921, January</unittitle>
+                  </did>
+               </c>
                
             </c>
  </c>
@@ -12313,43 +12322,49 @@ cuttings relating to Prokofiev's work.</p>
             </did>
     <c level="subseries">
        <did>
-          <unittitle>Subseries X.1: Georgii Gorchakov Collection<unitdate type="inclusive"
+          <unittitle>Sub-series X.1: Georgii Gorchakov Collection<unitdate type="inclusive"
              ></unitdate></unittitle>
        </did>
        <c level="file">
           <did>
              <container type="Box" label="Box">1</container>
-             <container type="Folder" label="Folder">1. Gorchakov-LP correspondence</container>
+             <container type="Folder" label="Folder">1</container>
+             <unittitle>Gorchakov-Lina Prokofiev correspondence</unittitle>
           </did>
        </c>
        <c level="file">
           <did>
              <container type="Box" label="Box">1</container>
-             <container type="Folder" label="Folder">2. Gorchakov papers</container>
+             <container type="Folder" label="Folder">2</container>
+             <unittitle>Gorchakov papers</unittitle>
           </did>
        </c>
        <c level="file">
           <did>
              <container type="Box" label="Box">1</container>
-             <container type="Folder" label="Folder">3. Gorchakov-Moreux correspondence (1)</container>
+             <container type="Folder" label="Folder">3</container>
+             <unittitle>Gorchakov-Moreux correspondence (1)</unittitle>
           </did>
        </c>
        <c level="file">
           <did>
              <container type="Box" label="Box">1</container>
-             <container type="Folder" label="Folder">3. Gorchakov-Moreux correspondence (2)</container>
+             <container type="Folder" label="Folder">4</container>
+             <unittitle>Gorchakov-Moreux correspondence (2)</unittitle>
           </did>
        </c>
        <c level="file">
           <did>
              <container type="Box" label="Box">1</container>
-             <container type="Folder" label="Folder">3. Gorchakov-Moreux correspondence (3)</container>
+             <container type="Folder" label="Folder">5</container>
+             <unittitle>Gorchakov-Moreux correspondence (3)</unittitle>
           </did>
        </c>
        <c level="file">
           <did>
              <container type="Box" label="Box">1</container>
-             <container type="Folder" label="Folder">'Sergei Prokofiev' by Georgii Nikolaevich Gorchakov</container>
+             <container type="Folder" label="Folder">1</container>
+             <unittitle>Biography: "Sergei Prokofiev" by Georgii Nikolaevich Gorchakov</unittitle>
           </did>
        </c>
        
