@@ -12249,6 +12249,8 @@ Novodevichy Cemetery in Moscow. -->
          </note>
       </did>
    </c>
+         </c>
+         
           
  <c level="series">
             <did>
@@ -12302,9 +12304,9 @@ cuttings relating to Prokofiev's work.</p>
             <container type="Folder" label="Folder">1920</container>
          </did>
    </c>
+               
             </c>
  </c>
-         </c>
       </dsc>
    </archdesc>
 </ead>
