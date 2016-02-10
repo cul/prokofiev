@@ -31,8 +31,11 @@
    <typeOfResource manuscript="yes">notated music</typeOfResource>  
    
    <!-- Genre -->
-   <genre type="music_genre">AH: Content: Genre</genre>  
+   <genre type="music_genre ">AH: Content: Genre</genre>  
    <genre type="music_type">AJ: Content: Type</genre>  
+   
+   <genre authority="lcsh" authorityURI="http://id.loc.gov/authorities#conceptscheme valueURI="http//id.loc.gov/authorities/sh85023598#concept>Children's literature</genre>
+   
    <!-- Creation info -->
    <!-- Columns O,P -->
    <originInfo>
