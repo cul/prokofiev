@@ -12250,11 +12250,10 @@ Novodevichy Cemetery in Moscow. -->
       </did>
    </c>
          </c>
-         
- <!--         
+                 
  <c level="series">
             <did>
-               <unittitle>Series II: Personal Papers, <unitdate type="inclusive">[1915]-1936</unitdate></unittitle>
+               <unittitle>Series II: Personal Papers, <unitdate type="inclusive">1915-1936</unitdate></unittitle>
             </did>
             <scopecontent>
                <p>These papers mainly comprising private and business
@@ -12285,37 +12284,96 @@ cuttings relating to Prokofiev's work.</p>
             <c level="subseries">
                <did>
                   <unittitle>Sub-series II.1: Personal and Professional Correspondence <unitdate type="inclusive"
-                     ></unitdate></unittitle>
+                     >1915-1935</unitdate></unittitle>
                </did>
                <scopecontent>
                   <p> </p>
  <p></p>
  
                </scopecontent>
-   <c level="file">
-      <did>
+<c level="file">
+ <did>
          <container type="Box" label="Box">1</container>
-         <container type="Folder" label="Folder">1</container>
-         <unittitle>1915</unittitle>
-      </did> 
-   </c>
-      <c level="file">
-         <did>
-            <container type="Box" label="Box">1</container>
-            <container type="Folder" label="Folder">2</container>
-            <unittitle>1920</unittitle>
-         </did>
-   </c>
-               <c level="file">
-                  <did>
-                     <container type="Box" label="Box">1</container>
-                     <container type="Folder" label="Folder">3</container>
-                     <unittitle>1921, January</unittitle>
-                  </did>
-               </c>
-               
-            </c>
- </c>
+         <unittitle>1915-1925</unittitle>
+      </did>
+</c>
+
+<c level="file">
+ <did>
+         <container type="Box" label="Box">2</container>
+         <unittitle>1926-1928</unittitle>
+      </did>
+</c>
+
+<c level="file">
+ <did>
+         <container type="Box" label="Box">3</container>
+         <unittitle>1929-1930</unittitle>
+      </did>
+</c>
+
+<c level="file">
+ <did>
+         <container type="Box" label="Box">4</container>
+         <unittitle>1931-1932</unittitle>
+      </did>
+</c>
+
+<c level="file">
+ <did>
+         <container type="Box" label="Box">5</container>
+         <unittitle>1931-1932</unittitle>
+      </did>
+</c>
+
+<c level="file">
+ <did>
+         <container type="Box" label="Box">6</container>
+         <unittitle>1935</unittitle>
+      </did>
+</c>
+ <c level="subseries">
+               <did>
+                  <unittitle>Sub-series II.2: Financial Records<unitdate type="inclusive"
+                     >1917-1935</unitdate></unittitle>
+               </did>
+               <scopecontent>
+                  <p> </p>
+ <p></p>
+ 
+               </scopecontent>
+
+<c level="file">
+ <did>
+         <container type="Box" label="Box">7</container>
+         <unittitle>Various; 1917-1935</unittitle>
+      </did>
+</c>
+
+
+<c level="file">
+ <did>
+         <container type="Box" label="Box">8</container>
+         <unittitle>Bank statements and royalties; 1925-1935</unittitle>
+      </did>
+</c>
+
+<c level="subseries">
+               <did>
+                  <unittitle>Sub-series II.3: Financial Records<unitdate type="inclusive"
+                     >1917-1935</unitdate></unittitle>
+               </did>
+               <scopecontent>
+                  <p> </p>
+ <p></p>
+ 
+               </scopecontent>
+<c level="file">
+ <did>
+         <container type="Box" label="Box">9</container>
+         <unittitle>1917-1935</unittitle>
+      </did>
+</c>
 
  <c level="series">
             <did>
@@ -12371,7 +12429,6 @@ cuttings relating to Prokofiev's work.</p>
        
     </c>
  </c>
- -->  
       </dsc>
    </archdesc>
 </ead>
