@@ -12322,7 +12322,7 @@ cuttings relating to Prokofiev's work.</p>
 <c level="file">
  <did>
          <container type="Box" label="Box">5</container>
-         <unittitle>1931-1932</unittitle>
+         <unittitle>1933-1934</unittitle>
       </did>
 </c>
 
@@ -12355,26 +12355,26 @@ cuttings relating to Prokofiev's work.</p>
 <c level="file">
  <did>
          <container type="Box" label="Box">8</container>
-         <unittitle>Bank statements and royalties; 1925-1935</unittitle>
+         <unittitle>Bank statements, check stubs and royalties; 1925-1935</unittitle>
       </did>
 </c>
  </c>
-<c level="subseries">
-               <did>
-                  <unittitle>Sub-series II.3: Financial Records<unitdate type="inclusive"
-                     >1917-1935</unitdate></unittitle>
-               </did>
-               <scopecontent>
-                  <p> </p>
- <p></p>
- 
-               </scopecontent>
-<c level="file">
- <did>
-         <container type="Box" label="Box">9</container>
-         <unittitle>1917-1935</unittitle>
+   <c level="subseries">
+      <did>
+         <unittitle>Sub-series II.3: Miscellaneous<unitdate type="inclusive"
+            >1917-1935</unitdate></unittitle>
       </did>
-</c>
+      <scopecontent>
+         <p> </p>
+         <p></p>
+         
+      </scopecontent>
+      <c level="file">
+         <did>
+            <container type="Box" label="Box">9</container>
+            <unittitle>1917-1935</unittitle>
+         </did>
+      </c>
 </c>
             </c>
 <c level="series">
