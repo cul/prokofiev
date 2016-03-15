@@ -41,7 +41,8 @@
                   </xsl:otherwise>
                </xsl:choose>
                <xsl:apply-templates select="originInfo/dateCreated"/>
-               <xsl:text>&#x20;</xsl:text></unittitle>
+               <xsl:text>&#x20;</xsl:text>
+            </unittitle>
             <xsl:text>&#xa;&#x20;</xsl:text>
             <note>
                <xsl:text>&#xa;&#x20;</xsl:text>
