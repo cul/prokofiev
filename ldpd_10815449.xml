@@ -120,7 +120,7 @@ Novodevichy Cemetery in Moscow. -->
       <arrangement encodinganalog="351">
          <head>Arrangement</head>
          <p>Material is arranged in ten series with several sub-series. <list type="marked">
-            <item>Series I: Music Manuscripts <list type="marked">
+            <item>Series I: Music Manuscripts <list type="marked"> <!-- 373 items -->
                <item>Subseries I.1: Original manuscripts</item>
                <item>Subseries I.2: Photocopies</item>
                <item>Subseries I.3: Microfilm copies</item>
@@ -148,11 +148,11 @@ Novodevichy Cemetery in Moscow. -->
                <item>Subseries V.1: Books</item>
                <item>Subseries V.2: Periodicals</item>
             </list></item>
-            <item>Series VI: Audio and Visual Material</item>
-            <item>Series VII: Photographs</item>
+            <item>Series VI: Audio and Visual Material</item> <!-- 600 items -->
+            <item>Series VII: Photographs</item> <!-- 600 items -->
             <item>Series VIII: Newspaper Clippings</item> 
             <item>Series IX: Family Papers<list type="marked">
-               <item>Subseries IX.1: Lina Prokofiev Papers</item>
+               <item>Subseries IX.1: Lina Prokofiev Papers</item> <!-- 17 archival boxes -->
                <item>Subseries IX.2: Oleg Prokofiev Papers</item>
             </list></item>
             <item>Series X: Other Collections<list type="marked">
