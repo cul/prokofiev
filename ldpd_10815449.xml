@@ -230,7 +230,7 @@ Novodevichy Cemetery in Moscow. -->
          <p/> 
       </otherfindaid>
       <dsc>
-         <c level="series">
+         <c level="series"> <!-- Series I -->
             <did>
                <unittitle>Series I: Music Manuscripts, <unitdate type="inclusive">1899-1953; 1970s</unitdate></unittitle>
             </did>
@@ -12363,11 +12363,6 @@ cuttings relating to Prokofiev's work.</p>
          <unittitle>Sub-series II.3: Miscellaneous<unitdate type="inclusive"
             >1917-1935</unitdate></unittitle>
       </did>
-      <scopecontent>
-         <p>548 items</p>
-         <p></p>
-         
-      </scopecontent>
       <c level="file">
          <did>
             <container type="Box" label="Box">9</container>
@@ -12381,7 +12376,7 @@ cuttings relating to Prokofiev's work.</p>
                <unittitle>Series III: Published Scores<unitdate type="inclusive"></unitdate></unittitle>
             </did>
    <scopecontent>
-      <p><!-- brief description --></p>
+      <p>548 items</p>
       <p></p>
    </scopecontent></c>
    
@@ -12389,8 +12384,11 @@ cuttings relating to Prokofiev's work.</p>
                <did>
                   <unittitle>Subseries III.1: Prokofiev Collected Works, Belwin Mills<unitdate type="inclusive"
                      ></unitdate></unittitle>
-               </did>          
-                  <c level="file">
+               </did>  
+               <scopecontent> <p><!-- note --></p>
+               </scopecontent>
+            </c>
+<c level="file">
       <did>
          <container type="Box">142</container>
          <unittitle>Piano Solos, Volume 1 <unitdate>[1979-1980]</unitdate>
@@ -14365,13 +14363,16 @@ cuttings relating to Prokofiev's work.</p>
       </did>
    </c>
                       
-               </c>
+             
       
             <c level="subseries"> <!-- Subseries III.2 -->
                <did>
                   <unittitle>Subseries III.2: Prokofiev Collected Works, Soviet State Music Publishing House (Gosudarstvennoe Muzykal'noe Izdatel'stvo)<unitdate type="inclusive"
                      ></unitdate></unittitle>
                </did>
+               <scopecontent> <p><!-- note --></p>
+               </scopecontent>
+            </c>
                <c level="file">  
                      <did>
                         <container type="Box">158</container>
@@ -14645,14 +14646,15 @@ cuttings relating to Prokofiev's work.</p>
                         </note>
                      </did>
                   </c>
-                  
-               </c>
            
             <c level="subseries"> <!-- Subseries III.3 -->
                <did>
                   <unittitle>Subseries III.3: Prokofiev works, Various publishers, Arranged by genre<unitdate type="inclusive"
                      ></unitdate></unittitle>
                </did>
+               <scopecontent> <p><!-- note --></p>
+               </scopecontent>
+            </c>
                <!--EAD SPA_479-->
    <c level="file">
       <did>
@@ -22207,13 +22209,15 @@ cuttings relating to Prokofiev's work.</p>
          </note>
       </did>
    </c>
-            </c>
             
    <c level="subseries"> <!-- Subseries III.4 SP Arrangments 820-856-->
                <did>
                   <unittitle>Subseries III.4: Prokofiev works, Arrangements<unitdate type="inclusive"
                      ></unitdate></unittitle>
                </did>
+      <scopecontent> <p><!-- note --></p>
+      </scopecontent>
+   </c>
                 <!--EAD SPA_820-->
    <c level="file">
       <did>
@@ -23093,13 +23097,15 @@ cuttings relating to Prokofiev's work.</p>
          </note>
       </did>
    </c>
-            </c>
             
    <c level="subseries"> <!--Subseries III.5 Works by other composers 857-864-->
                <did>
                   <unittitle>Subseries III.5: Works by other composers<unitdate type="inclusive"
                      ></unitdate></unittitle>
                </did>
+      <scopecontent> <p><!-- note --></p>
+      </scopecontent>
+   </c>
       <!--EAD SPA_857-->
       <c level="file">
          <did>
@@ -23278,13 +23284,15 @@ cuttings relating to Prokofiev's work.</p>
             </note>
          </did>
       </c>
-            </c>
             
    <c level="subseries"> <!-- Subseries III.6. Oversize 865-884-->
                <did>
                   <unittitle>Subseries III.6: Oversize items<unitdate type="inclusive"
                      ></unitdate></unittitle>
                </did>
+      <scopecontent> <p><!-- note --></p>
+      </scopecontent>
+   </c>
       <!--EAD SPA_865-->
       <c level="file">
          <did>
@@ -23738,13 +23746,15 @@ cuttings relating to Prokofiev's work.</p>
       </did>
    </c>
    
-            </c>
             
    <c level="subseries"><!-- Subseries 7. Duplicates. 885-907 -->
                <did>
                   <unittitle>Subseries III.7: Duplicate items<unitdate type="inclusive"
                      ></unitdate></unittitle>
                </did>
+      <scopecontent> <p><!-- note --></p>
+      </scopecontent>
+   </c>
                  <!--EAD SPA_885-->
    <c level="file">
       <did>
@@ -24241,11 +24251,8 @@ cuttings relating to Prokofiev's work.</p>
          </note>
       </did>
    </c>
-            </c>
-              
-            
-         
-<c level="series">
+                
+         <c level="series"> <!-- Series X: Other Collections -->
             <did>
                <unittitle>Series X: Other Collections<unitdate type="inclusive"></unitdate></unittitle>
             </did>
