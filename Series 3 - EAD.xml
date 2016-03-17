@@ -1975,6 +1975,8 @@
          </note>
       </did>
    </c>
+   
+   <!-- Sub-series II -->
    <!--EAD SPA_467-->
    <c level="file">
       <did>
@@ -2249,6 +2251,9 @@
          </note>
       </did>
    </c>
+   
+   
+   <!-- Subseries III -->
    <!--EAD SPA_479-->
    <c level="file">
       <did>
@@ -9803,6 +9808,9 @@
          </note>
       </did>
    </c>
+   
+   <!-- Subseries III.4 SP Arrangments 820-856-->
+   
    <!--EAD SPA_820-->
    <c level="file">
       <did>
@@ -10660,7 +10668,7 @@
          </note>
       </did>
    </c>
-   <!--EAD SPA_856-->
+   <!--EAD SPA_856--> 
    <c level="file">
       <did>
          <container type="Box">203</container>
@@ -10682,6 +10690,8 @@
          </note>
       </did>
    </c>
+   
+   <!-- Subseries III.5 Works by other composers 857-864-->
    <!--EAD SPA_857-->
    <c level="file">
       <did>
@@ -10860,6 +10870,8 @@
          </note>
       </did>
    </c>
+   
+   <!-- Subseries III.6. Oversize 865-884-->
    <!--EAD SPA_865-->
    <c level="file">
       <did>
@@ -10883,6 +10895,7 @@
          </note>
       </did>
    </c>
+   
    <!--EAD SPA_866-->
    <c level="file">
       <did>
@@ -11312,6 +11325,8 @@
          </note>
       </did>
    </c>
+   
+   <!-- Subseries 7. Duplicates. 885-907 -->
    <!--EAD SPA_885-->
    <c level="file">
       <did>
