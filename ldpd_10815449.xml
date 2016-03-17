@@ -2249,7 +2249,7 @@ Novodevichy Cemetery in Moscow. -->
             </c>
    <c level="subseries">
                   <did>
-                     <unittitle>Sub-series I.2: Photocopies <unitdate type="inclusive"
+                     <unittitle>Subseries I.2: Photocopies <unitdate type="inclusive"
                         >c. 1900-1952; 1970s</unitdate></unittitle>
                   </did>
                   <scopecontent> <p>153 photocopies of Prokofiev musical works. Some works contain annotations added after Prokofiev's death.</p>
@@ -12411,7 +12411,7 @@ cuttings relating to Prokofiev's work.</p>
    <!--EAD SPA_375-->
    <c level="file">
       <did>
-         <container type="Box">142</container>
+         <container type="Box" label="Box">142</container>
          <unittitle>Piano Solos, Volume 2 <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
