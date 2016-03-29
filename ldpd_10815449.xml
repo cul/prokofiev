@@ -230,7 +230,7 @@ Novodevichy Cemetery in Moscow. -->
          <p/> 
       </otherfindaid>
       <dsc>
-         <c level="series"> <!-- Series I -->
+<c level="series"> <!-- Series I -->
             <did>
                <unittitle>Series I: Music Manuscripts, <unitdate type="inclusive">1899-1953; 1970s</unitdate></unittitle>
             </did>
@@ -12250,7 +12250,7 @@ Novodevichy Cemetery in Moscow. -->
    </c>
          </c>
                  
- <c level="series"> <!-- Series II -->
+<c level="series"> <!-- Series II -->
             <did>
                <unittitle>Series II: Personal Papers, <unitdate type="inclusive">1915-1936</unitdate></unittitle>
             </did>
@@ -12378,9 +12378,8 @@ cuttings relating to Prokofiev's work.</p>
    <scopecontent>
       <p>548 items</p>
       <p></p>
-   </scopecontent></c>
-   
-            <c level="subseries"> <!-- Subseries III.1 -->
+   </scopecontent>  
+<c level="subseries"> <!-- Subseries III.1 -->
                <did>
                   <unittitle>Subseries III.1: Prokofiev Collected Works, Belwin Mills<unitdate type="inclusive"
                      ></unitdate></unittitle>
@@ -24249,7 +24248,8 @@ cuttings relating to Prokofiev's work.</p>
          </note>
       </did>
    </c>         
-      
+</c>     
+
 <c level="series"> <!-- Series X: Other Collections -->
             <did>
                <unittitle>Series X: Other Collections<unitdate type="inclusive"></unitdate></unittitle>
