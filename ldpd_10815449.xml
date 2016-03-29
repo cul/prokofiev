@@ -12373,18 +12373,21 @@ cuttings relating to Prokofiev's work.</p>
 </c>
 <c level="series"> <!-- Series III -->
             <did>
-               <unittitle>Series III: Published Scores<unitdate type="inclusive"></unitdate></unittitle>
+               <unittitle>Series III: Published Scores<unitdate type="inclusive">1921-2011</unitdate></unittitle>
             </did>
    <scopecontent>
-      <p>548 items</p>
-      <p></p>
+      <p>This series contains all published Prokofiev works in various editions, including the collected editions of his works published by Belwin Mills and the Soviet State Music Publishing House. The series also houses twenty-five (25) first editions or otherwise rare scores (dating from 1923 onwards), including the vocal score first edition of Love for Three Oranges, signed and annotated by Prokofiev.</p>
+         <p>Terms include:</p>
+         <p>Content type: describes the way the work is scored: full score, short score, piano score, vocal score, miniature score, part(s), arrangement.</p>
+         <p>Genre: categorizes the musical works themselves (i.e opera, ballet, motion picture music, incidental music, orchestral music, songs with orchestra, symphony, choruses with orchestra, band music, chamber music, instrumental music, songs, piano music).
+         </p>
    </scopecontent>  
 <c level="subseries"> <!-- Subseries III.1 -->
                <did>
-                  <unittitle>Subseries III.1: Prokofiev Collected Works, Belwin Mills<unitdate type="inclusive"
-                     ></unitdate></unittitle>
+                  <unittitle>Subseries III.1: Prokofiev Collected Works, Belwin Mills<unitdate type="inclusive">1979-1980</unitdate></unittitle>
+                   
                </did>  
-               <scopecontent> <p><!-- note --></p>
+   <scopecontent> <p>Ninety-three (93) volumes of Prokofiev’s collected works published by Belwin Mills.</p>
                </scopecontent>
             </c>
 <c level="file">
@@ -14361,15 +14364,12 @@ cuttings relating to Prokofiev's work.</p>
          </note>
       </did>
    </c>
-                      
-             
-      
-            <c level="subseries"> <!-- Subseries III.2 -->
+<c level="subseries"> <!-- Subseries III.2 -->
                <did>
                   <unittitle>Subseries III.2: Prokofiev Collected Works, Soviet State Music Publishing House (Gosudarstvennoe Muzykal'noe Izdatel'stvo)<unitdate type="inclusive"
-                     ></unitdate></unittitle>
+                     >1955-1966</unitdate></unittitle>
                </did>
-               <scopecontent> <p><!-- note --></p>
+               <scopecontent> <p>Twelve (12) volumes of Prokofiev’s collected works published by the Soviet State Music Publishing House.</p>
                </scopecontent>
             </c>
                <c level="file">  
@@ -14646,15 +14646,15 @@ cuttings relating to Prokofiev's work.</p>
                      </did>
                   </c>
            
-            <c level="subseries"> <!-- Subseries III.3 -->
+<c level="subseries"> <!-- Subseries III.3 -->
                <did>
                   <unittitle>Subseries III.3: Prokofiev works, Various publishers, Arranged by genre<unitdate type="inclusive"
-                     ></unitdate></unittitle>
+                     >1921-2011</unitdate></unittitle>
                </did>
-               <scopecontent> <p><!-- note --></p>
+   <scopecontent> <p>Three hundred and forty-one (341) editions of Prokofiev’s works by various publishers.</p>
                </scopecontent>
             </c>
-               <!--EAD SPA_479-->
+<!--EAD SPA_479-->
    <c level="file">
       <did>
          <container type="Box">164</container>
@@ -22212,9 +22212,9 @@ cuttings relating to Prokofiev's work.</p>
    <c level="subseries"> <!-- Subseries III.4 SP Arrangments 820-856-->
                <did>
                   <unittitle>Subseries III.4: Prokofiev works, Arrangements<unitdate type="inclusive"
-                     ></unitdate></unittitle>
+                     >1951-2008</unitdate></unittitle>
                </did>
-      <scopecontent> <p><!-- note --></p>
+      <scopecontent> <p>Thirty-seven (37) arrangements of Prokofiev’s works.</p>
       </scopecontent>
    </c>
                 <!--EAD SPA_820-->
@@ -23100,9 +23100,9 @@ cuttings relating to Prokofiev's work.</p>
    <c level="subseries"> <!--Subseries III.5 Works by other composers 857-864-->
                <did>
                   <unittitle>Subseries III.5: Works by other composers<unitdate type="inclusive"
-                     ></unitdate></unittitle>
+                     >1928-2003</unitdate></unittitle>
                </did>
-      <scopecontent> <p><!-- note --></p>
+      <scopecontent> <p>Eight (8) volumes of works by other Russian composers.</p>
       </scopecontent>
    </c>
       <!--EAD SPA_857-->
@@ -23287,9 +23287,9 @@ cuttings relating to Prokofiev's work.</p>
    <c level="subseries"> <!-- Subseries III.6. Oversize 865-884-->
                <did>
                   <unittitle>Subseries III.6: Oversize items<unitdate type="inclusive"
-                     ></unitdate></unittitle>
+                     >1947-2011</unitdate></unittitle>
                </did>
-      <scopecontent> <p><!-- note --></p>
+      <scopecontent> <p>Twenty (20) oversize editions of Prokofiev’s works by various publishers.</p>
       </scopecontent>
    </c>
       <!--EAD SPA_865-->
@@ -23747,9 +23747,9 @@ cuttings relating to Prokofiev's work.</p>
    <c level="subseries"><!-- Subseries 7. Duplicates. 885-907 -->
                <did>
                   <unittitle>Subseries III.7: Duplicate items<unitdate type="inclusive"
-                     ></unitdate></unittitle>
+                     >1958-2011</unitdate></unittitle>
                </did>
-      <scopecontent> <p><!-- note --></p>
+      <scopecontent> <p>Twenty-three (23) duplicates of volumes found elsewhere in this series.</p>
       </scopecontent>
    </c>
                  <!--EAD SPA_885-->
