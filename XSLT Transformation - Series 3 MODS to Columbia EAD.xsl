@@ -1,11 +1,16 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">
    <xsl:strip-space elements="*"/>
+   <xsl:output method="xml" indent="yes" />
+   
+   <xsl:variable name="LastSubsection" select="'start'" />
+   
    <xsl:template match="/">
       <c level="series">
          <xsl:apply-templates/>
       </c>
    </xsl:template>
    <xsl:template match="mods">
+      <!-- Variables for this item -->
       <xsl:variable name="genres">
          <xsl:for-each select="genre[@type='music_genre']">
             <xsl:text>; </xsl:text>
@@ -24,6 +29,8 @@
             <xsl:value-of select="."/>
          </xsl:for-each>
       </xsl:variable>
+      
+      <!-- EAD code for this item -->
       <xsl:comment>EAD <xsl:value-of select="identifier[@type='SPA_ID']"/></xsl:comment>
       <xsl:text>&#xa;</xsl:text>
       <c level="file">
@@ -40,8 +47,6 @@
                      <xsl:value-of select="titleInfo[not(@*)]/title"/>
                   </xsl:otherwise>
                </xsl:choose>
-               <xsl:apply-templates select="originInfo/dateCreated"/>
-               <xsl:text>&#x20;</xsl:text>
             </unittitle>
             <xsl:text>&#xa;&#x20;</xsl:text>
             <note>
@@ -55,6 +60,8 @@
                <xsl:apply-templates select="identifier[@type='SPA_ID']"/>
                <xsl:text>&#xa;&#x20;</xsl:text>
                <xsl:apply-templates select="originInfo"/>
+               <xsl:text>&#xa;&#x20;</xsl:text>
+               <xsl:apply-templates select="originInfo/dateCreated"/>
                <xsl:text>&#xa;&#x20;</xsl:text>
                <xsl:apply-templates select="location/shelfLocator[contains(.,'Call Number')]"/>
                <p>Document type: Notated music</p>
@@ -90,13 +97,9 @@
    </xsl:template>
    <!-- This is the template for the date created, it wraps in brackets for approximate dates-->
    <xsl:template match="originInfo/dateCreated">
-      <xsl:text>&#xa;&#x20;</xsl:text>
-      <unitdate>
-         <xsl:if test="@qualifier='approximate'">[</xsl:if>
-         <xsl:value-of select="."/>
-         <xsl:if test="@qualifier='approximate'">]</xsl:if>
-      </unitdate>
-      <xsl:text>&#xa;</xsl:text>
+      <p>Publication date: <xsl:if test="@qualifier='approximate'">[</xsl:if>
+         <xsl:value-of select="."/><xsl:if test="@qualifier='approximate'">]</xsl:if>
+      </p>
    </xsl:template>
    <xsl:template match="identifier[@type='opus']">
       <p>Opus: <xsl:value-of select="."/></p>

@@ -5568,7 +5568,7 @@ http://viaf.org/viaf/181856240">
          valueURI="http://id.loc.gov/authorities/subjects/sh85024985">Choruses with
          orchestra</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -5626,7 +5626,7 @@ http://viaf.org/viaf/181856240">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -5683,7 +5683,7 @@ http://viaf.org/viaf/181856240">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -5739,7 +5739,7 @@ http://viaf.org/viaf/181856240">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85125040">Songs</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -5798,7 +5798,7 @@ http://viaf.org/viaf/181856240">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -5850,7 +5850,7 @@ http://viaf.org/viaf/181856240">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -5905,7 +5905,7 @@ http://viaf.org/viaf/181856240">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -5961,7 +5961,7 @@ http://viaf.org/viaf/181856240">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -6017,7 +6017,7 @@ http://viaf.org/viaf/181856240">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -6073,7 +6073,7 @@ http://viaf.org/viaf/181856240">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -6126,7 +6126,7 @@ http://viaf.org/viaf/181856240">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85022422">Chamber music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -6178,7 +6178,7 @@ http://viaf.org/viaf/181856240">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -6230,7 +6230,7 @@ http://viaf.org/viaf/181856240">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85022422">Chamber music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -6288,7 +6288,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85022422">Chamber music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -6345,7 +6345,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -6400,7 +6400,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -6456,7 +6456,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -6511,7 +6511,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -6568,7 +6568,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -6623,7 +6623,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -6678,7 +6678,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -6735,7 +6735,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -6788,7 +6788,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -6848,7 +6848,7 @@ http://viaf.org/viaf/178413300">
          valueURI="http://id.loc.gov/authorities/subjects/sh85024985">Choruses with
          orchestra</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -6908,7 +6908,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85022422">Chamber music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -6963,7 +6963,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85022422">Chamber music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -7019,7 +7019,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -7073,7 +7073,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -7131,7 +7131,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -7183,7 +7183,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -7236,7 +7236,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85125040">Songs</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -7296,7 +7296,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85022422">Chamber music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -7351,7 +7351,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85011470">Band music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -7407,7 +7407,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -7462,7 +7462,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -7519,7 +7519,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -7576,7 +7576,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -7631,7 +7631,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -7686,7 +7686,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -7738,7 +7738,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -7793,7 +7793,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -7848,7 +7848,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -7903,7 +7903,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -7958,7 +7958,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -8014,7 +8014,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -8071,7 +8071,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -8123,7 +8123,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -8178,7 +8178,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -8234,7 +8234,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -8290,7 +8290,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -8346,7 +8346,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -8401,7 +8401,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -8456,7 +8456,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -8902,7 +8902,7 @@ http://viaf.org/viaf/178413300">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85094914">Operas</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -9890,7 +9890,7 @@ http://viaf.org/viaf/177079892">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85011293">Ballets</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -9942,7 +9942,7 @@ http://viaf.org/viaf/177079892">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85011293">Ballets</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -12686,7 +12686,7 @@ http://viaf.org/viaf/177079892">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -26994,7 +26994,7 @@ http://viaf.org/viaf/184681011">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -27044,7 +27044,7 @@ http://viaf.org/viaf/184681011">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -28277,7 +28277,7 @@ http://viaf.org/viaf/184681011">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -28331,7 +28331,7 @@ http://viaf.org/viaf/184681011">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -28382,7 +28382,7 @@ http://viaf.org/viaf/184681011">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -28433,7 +28433,7 @@ http://viaf.org/viaf/184681011">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85011293">Ballets</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
@@ -28487,7 +28487,7 @@ http://viaf.org/viaf/184681011">
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85095326">Orchestral Music</genre>
       <genre type="music_type">Full score</genre>
-      <genre>Unknown genre: Miniature score</genre>
+      <genre type="music_type">Miniature score</genre>
       <!-- Origin -->
       <originInfo>
          <place>
