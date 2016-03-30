@@ -3,7 +3,7 @@
    <!--EAD SPA_374-->
    <c level="file">
       <did>
-         <container type="Box">142</container>
+         <container type="Box" label="Box">142</container>
          <unittitle>Piano Solos, Volume 1 <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -24,7 +24,7 @@
    <!--EAD SPA_375-->
    <c level="file">
       <did>
-         <container type="Box">142</container>
+         <container type="Box" label="Box">142</container>
          <unittitle>Piano Solos, Volume 2 <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -45,7 +45,7 @@
    <!--EAD SPA_376-->
    <c level="file">
       <did>
-         <container type="Box">142</container>
+         <container type="Box" label="Box">142</container>
          <unittitle>Piano Solos, Volume 3 <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -66,7 +66,7 @@
    <!--EAD SPA_377-->
    <c level="file">
       <did>
-         <container type="Box">142</container>
+         <container type="Box" label="Box">142</container>
          <unittitle>Piano Solos, Volume 4 <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -87,7 +87,7 @@
    <!--EAD SPA_378-->
    <c level="file">
       <did>
-         <container type="Box">142</container>
+         <container type="Box" label="Box">142</container>
          <unittitle>Piano Solos, Volume 5 <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -108,7 +108,7 @@
    <!--EAD SPA_379-->
    <c level="file">
       <did>
-         <container type="Box">142</container>
+         <container type="Box" label="Box">142</container>
          <unittitle>Piano Solos, Volume 6 <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -129,7 +129,7 @@
    <!--EAD SPA_380-->
    <c level="file">
       <did>
-         <container type="Box">142</container>
+         <container type="Box" label="Box">142</container>
          <unittitle>Piano Solos, Volume 7 <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -150,7 +150,7 @@
    <!--EAD SPA_381-->
    <c level="file">
       <did>
-         <container type="Box">142</container>
+         <container type="Box" label="Box">142</container>
          <unittitle>Piano Solos, Volume 8 <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -171,7 +171,7 @@
    <!--EAD SPA_382-->
    <c level="file">
       <did>
-         <container type="Box">142</container>
+         <container type="Box" label="Box">142</container>
          <unittitle>Piano Solos, Volume 9 <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -192,7 +192,7 @@
    <!--EAD SPA_383-->
    <c level="file">
       <did>
-         <container type="Box">142</container>
+         <container type="Box" label="Box">142</container>
          <unittitle>Piano Solos, Volume 10 <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -213,7 +213,7 @@
    <!--EAD SPA_384-->
    <c level="file">
       <did>
-         <container type="Box">142</container>
+         <container type="Box" label="Box">142</container>
          <unittitle>Piano Solos, Volume 11 <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -234,7 +234,7 @@
    <!--EAD SPA_385-->
    <c level="file">
       <did>
-         <container type="Box">142</container>
+         <container type="Box" label="Box">142</container>
          <unittitle>Concerto No 1, for piano and orchestra <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -255,7 +255,7 @@
    <!--EAD SPA_386-->
    <c level="file">
       <did>
-         <container type="Box">143</container>
+         <container type="Box" label="Box">143</container>
          <unittitle>Concerto No. 2, for piano and orchestra <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -276,7 +276,7 @@
    <!--EAD SPA_387-->
    <c level="file">
       <did>
-         <container type="Box">143</container>
+         <container type="Box" label="Box">143</container>
          <unittitle>Concerto No. 3, for piano and orchestra <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -297,7 +297,7 @@
    <!--EAD SPA_388-->
    <c level="file">
       <did>
-         <container type="Box">143</container>
+         <container type="Box" label="Box">143</container>
          <unittitle>The Gambler (an Opera in Four Acts) <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -319,7 +319,7 @@
    <!--EAD SPA_389-->
    <c level="file">
       <did>
-         <container type="Box">143</container>
+         <container type="Box" label="Box">143</container>
          <unittitle>The Love for Three Oranges <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -341,7 +341,7 @@
    <!--EAD SPA_390-->
    <c level="file">
       <did>
-         <container type="Box">143</container>
+         <container type="Box" label="Box">143</container>
          <unittitle>The Story of a Real Man (an opera in four acts) <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -363,7 +363,7 @@
    <!--EAD SPA_391-->
    <c level="file">
       <did>
-         <container type="Box">143</container>
+         <container type="Box" label="Box">143</container>
          <unittitle>Three Pieces for Voice and Piano <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -385,7 +385,7 @@
    <!--EAD SPA_392-->
    <c level="file">
       <did>
-         <container type="Box">143</container>
+         <container type="Box" label="Box">143</container>
          <unittitle>Voice and Piano <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -407,7 +407,7 @@
    <!--EAD SPA_393-->
    <c level="file">
       <did>
-         <container type="Box">143</container>
+         <container type="Box" label="Box">143</container>
          <unittitle>Voice and Piano <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -429,7 +429,7 @@
    <!--EAD SPA_394-->
    <c level="file">
       <did>
-         <container type="Box">143</container>
+         <container type="Box" label="Box">143</container>
          <unittitle>Voice and Piano <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -451,7 +451,7 @@
    <!--EAD SPA_395-->
    <c level="file">
       <did>
-         <container type="Box">143</container>
+         <container type="Box" label="Box">143</container>
          <unittitle>Oveture on Hebrew Themes <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -472,7 +472,7 @@
    <!--EAD SPA_396-->
    <c level="file">
       <did>
-         <container type="Box">143</container>
+         <container type="Box" label="Box">143</container>
          <unittitle>Concerto No. 1, for violin and orchestra <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -493,7 +493,7 @@
    <!--EAD SPA_397-->
    <c level="file">
       <did>
-         <container type="Box">143</container>
+         <container type="Box" label="Box">143</container>
          <unittitle>Concerto No. 2, for violin and orchestra <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -514,7 +514,7 @@
    <!--EAD SPA_398-->
    <c level="file">
       <did>
-         <container type="Box">143</container>
+         <container type="Box" label="Box">143</container>
          <unittitle>Violin and Piano <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -535,7 +535,7 @@
    <!--EAD SPA_399-->
    <c level="file">
       <did>
-         <container type="Box">143</container>
+         <container type="Box" label="Box">143</container>
          <unittitle>Two Pieces for Violin and Piano <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -556,7 +556,7 @@
    <!--EAD SPA_400-->
    <c level="file">
       <did>
-         <container type="Box">145</container>
+         <container type="Box" label="Box">145</container>
          <unittitle>Two Pieces for Cello and Piano <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -577,7 +577,7 @@
    <!--EAD SPA_401-->
    <c level="file">
       <did>
-         <container type="Box">145</container>
+         <container type="Box" label="Box">145</container>
          <unittitle>Concertino for Cello and Orchestra <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -598,7 +598,7 @@
    <!--EAD SPA_402-->
    <c level="file">
       <did>
-         <container type="Box">145</container>
+         <container type="Box" label="Box">145</container>
          <unittitle>Sonata for Flute (or Violin and Piano) <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -619,7 +619,7 @@
    <!--EAD SPA_403-->
    <c level="file">
       <did>
-         <container type="Box">145</container>
+         <container type="Box" label="Box">145</container>
          <unittitle>Romeo and Juliet, Ballet in Four Acts <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -640,7 +640,7 @@
    <!--EAD SPA_404-->
    <c level="file">
       <did>
-         <container type="Box">145</container>
+         <container type="Box" label="Box">145</container>
          <unittitle>Cinderella, Ballet in Three Acts <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -661,7 +661,7 @@
    <!--EAD SPA_405-->
    <c level="file">
       <did>
-         <container type="Box">145</container>
+         <container type="Box" label="Box">145</container>
          <unittitle>War and Peace, an Opera in Five Acts <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -683,7 +683,7 @@
    <!--EAD SPA_406-->
    <c level="file">
       <did>
-         <container type="Box">145</container>
+         <container type="Box" label="Box">145</container>
          <unittitle>The Stone Flower, a Ballet in Four Acts <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -704,7 +704,7 @@
    <!--EAD SPA_407-->
    <c level="file">
       <did>
-         <container type="Box">145</container>
+         <container type="Box" label="Box">145</container>
          <unittitle>Autumnal Sketch <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -725,7 +725,7 @@
    <!--EAD SPA_408-->
    <c level="file">
       <did>
-         <container type="Box">145</container>
+         <container type="Box" label="Box">145</container>
          <unittitle>Concerto No. 1 for Piano and Orchestra <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -746,7 +746,7 @@
    <!--EAD SPA_409-->
    <c level="file">
       <did>
-         <container type="Box">145</container>
+         <container type="Box" label="Box">145</container>
          <unittitle>Concerto No. 2 for Piano and Orchestra <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -767,7 +767,7 @@
    <!--EAD SPA_410-->
    <c level="file">
       <did>
-         <container type="Box">145</container>
+         <container type="Box" label="Box">145</container>
          <unittitle>Concerto No. 1 for Violin and Orchestra <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -788,7 +788,7 @@
    <!--EAD SPA_411-->
    <c level="file">
       <did>
-         <container type="Box">147</container>
+         <container type="Box" label="Box">147</container>
          <unittitle>Classical Symphony <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -809,7 +809,7 @@
    <!--EAD SPA_412-->
    <c level="file">
       <did>
-         <container type="Box">147</container>
+         <container type="Box" label="Box">147</container>
          <unittitle>Concerto No. 3 for piano and orchestra <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -830,7 +830,7 @@
    <!--EAD SPA_413-->
    <c level="file">
       <did>
-         <container type="Box">147</container>
+         <container type="Box" label="Box">147</container>
          <unittitle>Symphony No. 2 <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -851,7 +851,7 @@
    <!--EAD SPA_414-->
    <c level="file">
       <did>
-         <container type="Box">147</container>
+         <container type="Box" label="Box">147</container>
          <unittitle>Andante from Piano Sonata No. 4 <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -872,7 +872,7 @@
    <!--EAD SPA_415-->
    <c level="file">
       <did>
-         <container type="Box">147</container>
+         <container type="Box" label="Box">147</container>
          <unittitle>Divertissement <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -893,7 +893,7 @@
    <!--EAD SPA_416-->
    <c level="file">
       <did>
-         <container type="Box">147</container>
+         <container type="Box" label="Box">147</container>
          <unittitle>Symphony No. 3 <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -914,7 +914,7 @@
    <!--EAD SPA_417-->
    <c level="file">
       <did>
-         <container type="Box">147</container>
+         <container type="Box" label="Box">147</container>
          <unittitle>Four Portraits and Denouement <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -935,7 +935,7 @@
    <!--EAD SPA_418-->
    <c level="file">
       <did>
-         <container type="Box">148</container>
+         <container type="Box" label="Box">148</container>
          <unittitle>Suite from Sur le Borysthène <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -956,7 +956,7 @@
    <!--EAD SPA_419-->
    <c level="file">
       <did>
-         <container type="Box">148</container>
+         <container type="Box" label="Box">148</container>
          <unittitle>Conceto for Piano No. 4 <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -977,7 +977,7 @@
    <!--EAD SPA_420-->
    <c level="file">
       <did>
-         <container type="Box">148</container>
+         <container type="Box" label="Box">148</container>
          <unittitle>Concerto for Piano No. 5 <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -998,7 +998,7 @@
    <!--EAD SPA_421-->
    <c level="file">
       <did>
-         <container type="Box">148</container>
+         <container type="Box" label="Box">148</container>
          <unittitle>Suite from Lieutenant Kijé <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1019,7 +1019,7 @@
    <!--EAD SPA_422-->
    <c level="file">
       <did>
-         <container type="Box">148</container>
+         <container type="Box" label="Box">148</container>
          <unittitle>Concerto for Violin No. 2 <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1040,7 +1040,7 @@
    <!--EAD SPA_423-->
    <c level="file">
       <did>
-         <container type="Box">148</container>
+         <container type="Box" label="Box">148</container>
          <unittitle>Romeo and Juliet <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1061,7 +1061,7 @@
    <!--EAD SPA_424-->
    <c level="file">
       <did>
-         <container type="Box">149</container>
+         <container type="Box" label="Box">149</container>
          <unittitle>Suite No. 1 from Romeo and Juliet <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1082,7 +1082,7 @@
    <!--EAD SPA_425-->
    <c level="file">
       <did>
-         <container type="Box">149</container>
+         <container type="Box" label="Box">149</container>
          <unittitle>Suite No. 2 from Romeo and Juliet <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1103,7 +1103,7 @@
    <!--EAD SPA_426-->
    <c level="file">
       <did>
-         <container type="Box">149</container>
+         <container type="Box" label="Box">149</container>
          <unittitle>Summer Day <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1124,7 +1124,7 @@
    <!--EAD SPA_427-->
    <c level="file">
       <did>
-         <container type="Box">149</container>
+         <container type="Box" label="Box">149</container>
          <unittitle>Peter and the Wolf <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1146,7 +1146,7 @@
    <!--EAD SPA_428-->
    <c level="file">
       <did>
-         <container type="Box">149</container>
+         <container type="Box" label="Box">149</container>
          <unittitle>Evgenii Onegin <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1167,7 +1167,7 @@
    <!--EAD SPA_429-->
    <c level="file">
       <did>
-         <container type="Box">150</container>
+         <container type="Box" label="Box">150</container>
          <unittitle>Songs of our Days <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1189,7 +1189,7 @@
    <!--EAD SPA_430-->
    <c level="file">
       <did>
-         <container type="Box">150</container>
+         <container type="Box" label="Box">150</container>
          <unittitle>Alexander Nevsky <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1211,7 +1211,7 @@
    <!--EAD SPA_431-->
    <c level="file">
       <did>
-         <container type="Box">150</container>
+         <container type="Box" label="Box">150</container>
          <unittitle>Semyon Kotko <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1233,7 +1233,7 @@
    <!--EAD SPA_432-->
    <c level="file">
       <did>
-         <container type="Box">151</container>
+         <container type="Box" label="Box">151</container>
          <unittitle>Suite from Semyon Kotko <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1254,7 +1254,7 @@
    <!--EAD SPA_433-->
    <c level="file">
       <did>
-         <container type="Box">151</container>
+         <container type="Box" label="Box">151</container>
          <unittitle>Zdravitsa (Hail to Stalin) <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1276,7 +1276,7 @@
    <!--EAD SPA_434-->
    <c level="file">
       <did>
-         <container type="Box">151</container>
+         <container type="Box" label="Box">151</container>
          <unittitle>The Duenna (Betrothal in a Nunnery) <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1298,7 +1298,7 @@
    <!--EAD SPA_435-->
    <c level="file">
       <did>
-         <container type="Box">152</container>
+         <container type="Box" label="Box">152</container>
          <unittitle>Cinderella <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1319,7 +1319,7 @@
    <!--EAD SPA_436-->
    <c level="file">
       <did>
-         <container type="Box">152</container>
+         <container type="Box" label="Box">152</container>
          <unittitle>War and Peace <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1341,7 +1341,7 @@
    <!--EAD SPA_437-->
    <c level="file">
       <did>
-         <container type="Box">153</container>
+         <container type="Box" label="Box">153</container>
          <unittitle>Symphony No.5 <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1362,7 +1362,7 @@
    <!--EAD SPA_438-->
    <c level="file">
       <did>
-         <container type="Box">154</container>
+         <container type="Box" label="Box">154</container>
          <unittitle>Suite No. 3 from Romeo and Juliet <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1383,7 +1383,7 @@
    <!--EAD SPA_439-->
    <c level="file">
       <did>
-         <container type="Box">154</container>
+         <container type="Box" label="Box">154</container>
          <unittitle>Ode to the End of the War <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1405,7 +1405,7 @@
    <!--EAD SPA_440-->
    <c level="file">
       <did>
-         <container type="Box">154</container>
+         <container type="Box" label="Box">154</container>
          <unittitle>Suite No. 1 from Cinderella <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1426,7 +1426,7 @@
    <!--EAD SPA_441-->
    <c level="file">
       <did>
-         <container type="Box">154</container>
+         <container type="Box" label="Box">154</container>
          <unittitle>Suite No. 2 from Cinderella <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1447,7 +1447,7 @@
    <!--EAD SPA_442-->
    <c level="file">
       <did>
-         <container type="Box">154</container>
+         <container type="Box" label="Box">154</container>
          <unittitle>Waltzes <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1468,7 +1468,7 @@
    <!--EAD SPA_443-->
    <c level="file">
       <did>
-         <container type="Box">154</container>
+         <container type="Box" label="Box">154</container>
          <unittitle>Festive Poem <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1490,7 +1490,7 @@
    <!--EAD SPA_444-->
    <c level="file">
       <did>
-         <container type="Box">154</container>
+         <container type="Box" label="Box">154</container>
          <unittitle>Flourish O Mighty Homeland <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1512,7 +1512,7 @@
    <!--EAD SPA_445-->
    <c level="file">
       <did>
-         <container type="Box">154</container>
+         <container type="Box" label="Box">154</container>
          <unittitle>Ivan the Terrible <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1534,7 +1534,7 @@
    <!--EAD SPA_446-->
    <c level="file">
       <did>
-         <container type="Box">155</container>
+         <container type="Box" label="Box">155</container>
          <unittitle>Tale of the Stone Flower <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1555,7 +1555,7 @@
    <!--EAD SPA_447-->
    <c level="file">
       <did>
-         <container type="Box">155</container>
+         <container type="Box" label="Box">155</container>
          <unittitle>Winter Bonfire <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1577,7 +1577,7 @@
    <!--EAD SPA_448-->
    <c level="file">
       <did>
-         <container type="Box">155</container>
+         <container type="Box" label="Box">155</container>
          <unittitle>Summer Night, suite from Betrothal in a Monastery
                <unitdate>[1979-1980]</unitdate>
          </unittitle>
@@ -1599,7 +1599,7 @@
    <!--EAD SPA_449-->
    <c level="file">
       <did>
-         <container type="Box">155</container>
+         <container type="Box" label="Box">155</container>
          <unittitle>On Guard for Peace <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1621,7 +1621,7 @@
    <!--EAD SPA_450-->
    <c level="file">
       <did>
-         <container type="Box">156</container>
+         <container type="Box" label="Box">156</container>
          <unittitle>Wedding Suite from Tale of the Stone Flower <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1642,7 +1642,7 @@
    <!--EAD SPA_451-->
    <c level="file">
       <did>
-         <container type="Box">156</container>
+         <container type="Box" label="Box">156</container>
          <unittitle>Meeting of the Volga and the Don <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1663,7 +1663,7 @@
    <!--EAD SPA_452-->
    <c level="file">
       <did>
-         <container type="Box">156</container>
+         <container type="Box" label="Box">156</container>
          <unittitle>Symphony No. 7 <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1684,7 +1684,7 @@
    <!--EAD SPA_453-->
    <c level="file">
       <did>
-         <container type="Box">156</container>
+         <container type="Box" label="Box">156</container>
          <unittitle>Concertino for Cello <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1705,7 +1705,7 @@
    <!--EAD SPA_454-->
    <c level="file">
       <did>
-         <container type="Box">156</container>
+         <container type="Box" label="Box">156</container>
          <unittitle>Symphony No. 4 <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1726,7 +1726,7 @@
    <!--EAD SPA_455-->
    <c level="file">
       <did>
-         <container type="Box">156</container>
+         <container type="Box" label="Box">156</container>
          <unittitle>Boris Godunov <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1747,7 +1747,7 @@
    <!--EAD SPA_456-->
    <c level="file">
       <did>
-         <container type="Box">156</container>
+         <container type="Box" label="Box">156</container>
          <unittitle>Sinfonietta <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1768,7 +1768,7 @@
    <!--EAD SPA_457-->
    <c level="file">
       <did>
-         <container type="Box">156</container>
+         <container type="Box" label="Box">156</container>
          <unittitle>String Quartet No. 1; String Quartet No. 2 <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1789,7 +1789,7 @@
    <!--EAD SPA_458-->
    <c level="file">
       <did>
-         <container type="Box">157</container>
+         <container type="Box" label="Box">157</container>
          <unittitle>Egyptian Nights [Incidental music] <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1810,7 +1810,7 @@
    <!--EAD SPA_459-->
    <c level="file">
       <did>
-         <container type="Box">157</container>
+         <container type="Box" label="Box">157</container>
          <unittitle>Symphony No. 6 <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1831,7 +1831,7 @@
    <!--EAD SPA_460-->
    <c level="file">
       <did>
-         <container type="Box">157</container>
+         <container type="Box" label="Box">157</container>
          <unittitle>Hamlet <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1852,7 +1852,7 @@
    <!--EAD SPA_461-->
    <c level="file">
       <did>
-         <container type="Box">157</container>
+         <container type="Box" label="Box">157</container>
          <unittitle>Choses en soi <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1873,7 +1873,7 @@
    <!--EAD SPA_462-->
    <c level="file">
       <did>
-         <container type="Box">157</container>
+         <container type="Box" label="Box">157</container>
          <unittitle>Le Pas d'Acier <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1894,7 +1894,7 @@
    <!--EAD SPA_463-->
    <c level="file">
       <did>
-         <container type="Box">157</container>
+         <container type="Box" label="Box">157</container>
          <unittitle>Sur le Borysthène <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1915,7 +1915,7 @@
    <!--EAD SPA_464-->
    <c level="file">
       <did>
-         <container type="Box">157</container>
+         <container type="Box" label="Box">157</container>
          <unittitle>The Prodigal Son <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1936,7 +1936,7 @@
    <!--EAD SPA_465-->
    <c level="file">
       <did>
-         <container type="Box">157</container>
+         <container type="Box" label="Box">157</container>
          <unittitle>Quintet <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1957,7 +1957,7 @@
    <!--EAD SPA_466-->
    <c level="file">
       <did>
-         <container type="Box">157</container>
+         <container type="Box" label="Box">157</container>
          <unittitle>Divertimento [for orchestra] <unitdate>[1979-1980]</unitdate>
          </unittitle>
          <note>
@@ -1980,7 +1980,7 @@
    <!--EAD SPA_467-->
    <c level="file">
       <did>
-         <container type="Box">158</container>
+         <container type="Box" label="Box">158</container>
          <unittitle>Пьеси для фортепиано <unitdate>1955</unitdate>
          </unittitle>
          <note>
@@ -2004,7 +2004,7 @@
    <!--EAD SPA_468-->
    <c level="file">
       <did>
-         <container type="Box">158</container>
+         <container type="Box" label="Box">158</container>
          <unittitle>Обработки для фортепиано <unitdate>1956</unitdate>
          </unittitle>
          <note>
@@ -2027,7 +2027,7 @@
    <!--EAD SPA_469-->
    <c level="file">
       <did>
-         <container type="Box">158</container>
+         <container type="Box" label="Box">158</container>
          <unittitle>Концерти для фортепиано с оркестром: Переложение для двух фортепиано
                <unitdate>1956</unitdate>
          </unittitle>
@@ -2051,7 +2051,7 @@
    <!--EAD SPA_470-->
    <c level="file">
       <did>
-         <container type="Box">159</container>
+         <container type="Box" label="Box">159</container>
          <unittitle>Концерти для фортепиано с оркестром <unitdate>1957</unitdate>
          </unittitle>
          <note>
@@ -2074,7 +2074,7 @@
    <!--EAD SPA_471-->
    <c level="file">
       <did>
-         <container type="Box">159</container>
+         <container type="Box" label="Box">159</container>
          <unittitle>Война и мир <unitdate>1958</unitdate>
          </unittitle>
          <note>
@@ -2097,7 +2097,7 @@
    <!--EAD SPA_472-->
    <c level="file">
       <did>
-         <container type="Box">160</container>
+         <container type="Box" label="Box">160</container>
          <unittitle>Война и мир <unitdate>1958</unitdate>
          </unittitle>
          <note>
@@ -2121,7 +2121,7 @@
    <!--EAD SPA_473-->
    <c level="file">
       <did>
-         <container type="Box">161</container>
+         <container type="Box" label="Box">161</container>
          <unittitle>Ромео и Жулиета <unitdate>1960</unitdate>
          </unittitle>
          <note>
@@ -2143,7 +2143,7 @@
    <!--EAD SPA_474-->
    <c level="file">
       <did>
-         <container type="Box">161</container>
+         <container type="Box" label="Box">161</container>
          <unittitle>Золушка <unitdate>1959</unitdate>
          </unittitle>
          <note>
@@ -2165,7 +2165,7 @@
    <!--EAD SPA_475-->
    <c level="file">
       <did>
-         <container type="Box">162</container>
+         <container type="Box" label="Box">162</container>
          <unittitle>Золушка <unitdate>1959</unitdate>
          </unittitle>
          <note>
@@ -2188,7 +2188,7 @@
    <!--EAD SPA_476-->
    <c level="file">
       <did>
-         <container type="Box">162</container>
+         <container type="Box" label="Box">162</container>
          <unittitle>Симфонии <unitdate>1963</unitdate>
          </unittitle>
          <note>
@@ -2210,7 +2210,7 @@
    <!--EAD SPA_477-->
    <c level="file">
       <did>
-         <container type="Box">163</container>
+         <container type="Box" label="Box">163</container>
          <unittitle>Сочинении для оркестром <unitdate>1965</unitdate>
          </unittitle>
          <note>
@@ -2232,7 +2232,7 @@
    <!--EAD SPA_478-->
    <c level="file">
       <did>
-         <container type="Box">163</container>
+         <container type="Box" label="Box">163</container>
          <unittitle>Инструменталние сочинения <unitdate>1966</unitdate>
          </unittitle>
          <note>
@@ -2257,7 +2257,7 @@
    <!--EAD SPA_479-->
    <c level="file">
       <did>
-         <container type="Box">164</container>
+         <container type="Box" label="Box">164</container>
          <unittitle>Two Choral Songs <unitdate>1999</unitdate>
          </unittitle>
          <note>
@@ -2279,7 +2279,7 @@
    <!--EAD SPA_480-->
    <c level="file">
       <did>
-         <container type="Box">164</container>
+         <container type="Box" label="Box">164</container>
          <unittitle>Осеннее: Симфонический Ескиз <unitdate>1964</unitdate>
          </unittitle>
          <note>
@@ -2301,7 +2301,7 @@
    <!--EAD SPA_481-->
    <c level="file">
       <did>
-         <container type="Box">164</container>
+         <container type="Box" label="Box">164</container>
          <unittitle>Klavierkonzert No. 1, Des-Dur; Piano Concerto No. 1, d flat major; Concert pour
             Piano No. 1, re bemol majeur <unitdate>Unknown</unitdate>
          </unittitle>
@@ -2324,7 +2324,7 @@
    <!--EAD SPA_482-->
    <c level="file">
       <did>
-         <container type="Box">164</container>
+         <container type="Box" label="Box">164</container>
          <unittitle>Гадкий Утенок <unitdate>1962</unitdate>
          </unittitle>
          <note>
@@ -2347,7 +2347,7 @@
    <!--EAD SPA_483-->
    <c level="file">
       <did>
-         <container type="Box">164</container>
+         <container type="Box" label="Box">164</container>
          <unittitle>Violin Concerto No.1 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -2368,7 +2368,7 @@
    <!--EAD SPA_484-->
    <c level="file">
       <did>
-         <container type="Box">164</container>
+         <container type="Box" label="Box">164</container>
          <unittitle>Scythian Suite <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -2389,7 +2389,7 @@
    <!--EAD SPA_485-->
    <c level="file">
       <did>
-         <container type="Box">164</container>
+         <container type="Box" label="Box">164</container>
          <unittitle>Classical Symphony <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -2411,7 +2411,7 @@
    <!--EAD SPA_486-->
    <c level="file">
       <did>
-         <container type="Box">164</container>
+         <container type="Box" label="Box">164</container>
          <unittitle>Symphonie Classique <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -2433,7 +2433,7 @@
    <!--EAD SPA_487-->
    <c level="file">
       <did>
-         <container type="Box">164</container>
+         <container type="Box" label="Box">164</container>
          <unittitle>Классическая Симфония <unitdate>1953</unitdate>
          </unittitle>
          <note>
@@ -2455,7 +2455,7 @@
    <!--EAD SPA_488-->
    <c level="file">
       <did>
-         <container type="Box">165</container>
+         <container type="Box" label="Box">165</container>
          <unittitle>Piano Concerto No. 3 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -2477,7 +2477,7 @@
    <!--EAD SPA_489-->
    <c level="file">
       <did>
-         <container type="Box">165</container>
+         <container type="Box" label="Box">165</container>
          <unittitle>Quintet <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -2498,7 +2498,7 @@
    <!--EAD SPA_490-->
    <c level="file">
       <did>
-         <container type="Box">165</container>
+         <container type="Box" label="Box">165</container>
          <unittitle>Symphony No. 3 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -2519,7 +2519,7 @@
    <!--EAD SPA_491-->
    <c level="file">
       <did>
-         <container type="Box">165</container>
+         <container type="Box" label="Box">165</container>
          <unittitle>String Quartet No. 1 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -2540,7 +2540,7 @@
    <!--EAD SPA_492-->
    <c level="file">
       <did>
-         <container type="Box">165</container>
+         <container type="Box" label="Box">165</container>
          <unittitle>Два Квартета <unitdate>1963</unitdate>
          </unittitle>
          <note>
@@ -2563,7 +2563,7 @@
    <!--EAD SPA_493-->
    <c level="file">
       <did>
-         <container type="Box">165</container>
+         <container type="Box" label="Box">165</container>
          <unittitle>Piano Concerto No. 5 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -2584,7 +2584,7 @@
    <!--EAD SPA_494-->
    <c level="file">
       <did>
-         <container type="Box">165</container>
+         <container type="Box" label="Box">165</container>
          <unittitle>Lieutenant Kijé: Suite symphonique <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -2606,7 +2606,7 @@
    <!--EAD SPA_495-->
    <c level="file">
       <did>
-         <container type="Box">165</container>
+         <container type="Box" label="Box">165</container>
          <unittitle>Egyptian Nights: Symphonic Suite for Orchestra <unitdate>1934</unitdate>
          </unittitle>
          <note>
@@ -2627,7 +2627,7 @@
    <!--EAD SPA_496-->
    <c level="file">
       <did>
-         <container type="Box">165</container>
+         <container type="Box" label="Box">165</container>
          <unittitle>Второй концерт для скрипки с оркестром <unitdate>1963</unitdate>
          </unittitle>
          <note>
@@ -2650,7 +2650,7 @@
    <!--EAD SPA_497-->
    <c level="file">
       <did>
-         <container type="Box">166</container>
+         <container type="Box" label="Box">166</container>
          <unittitle>Violin Concerto No. 2 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -2671,7 +2671,7 @@
    <!--EAD SPA_498-->
    <c level="file">
       <did>
-         <container type="Box">166</container>
+         <container type="Box" label="Box">166</container>
          <unittitle>Romeo und Julia, Suite Nr.1 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -2692,7 +2692,7 @@
    <!--EAD SPA_499-->
    <c level="file">
       <did>
-         <container type="Box">166</container>
+         <container type="Box" label="Box">166</container>
          <unittitle>Ромео и Джульетта, Первая сюита/ Romeo and Juliet, First Suite
                <unitdate>1963</unitdate>
          </unittitle>
@@ -2716,7 +2716,7 @@
    <!--EAD SPA_500-->
    <c level="file">
       <did>
-         <container type="Box">166</container>
+         <container type="Box" label="Box">166</container>
          <unittitle>Romeo und Julia, Suite Nr. 2 <unitdate>1974</unitdate>
          </unittitle>
          <note>
@@ -2738,7 +2738,7 @@
    <!--EAD SPA_501-->
    <c level="file">
       <did>
-         <container type="Box">166</container>
+         <container type="Box" label="Box">166</container>
          <unittitle>Peter and the Wolf <unitdate>1942</unitdate>
          </unittitle>
          <note>
@@ -2761,7 +2761,7 @@
    <!--EAD SPA_502-->
    <c level="file">
       <did>
-         <container type="Box">166</container>
+         <container type="Box" label="Box">166</container>
          <unittitle>Alexander Nevsky Cantata for Chorus and Orchestra <unitdate>1945</unitdate>
          </unittitle>
          <note>
@@ -2785,7 +2785,7 @@
    <!--EAD SPA_503-->
    <c level="file">
       <did>
-         <container type="Box">166</container>
+         <container type="Box" label="Box">166</container>
          <unittitle>Streichquartett Nr. 2/ String Quartet No. 2 <unitdate>1998</unitdate>
          </unittitle>
          <note>
@@ -2806,7 +2806,7 @@
    <!--EAD SPA_504-->
    <c level="file">
       <did>
-         <container type="Box">166</container>
+         <container type="Box" label="Box">166</container>
          <unittitle>Quartet No. 2 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -2828,7 +2828,7 @@
    <!--EAD SPA_505-->
    <c level="file">
       <did>
-         <container type="Box">166</container>
+         <container type="Box" label="Box">166</container>
          <unittitle>Romeo and Juliet Third Suite <unitdate>1963</unitdate>
          </unittitle>
          <note>
@@ -2851,7 +2851,7 @@
    <!--EAD SPA_506-->
    <c level="file">
       <did>
-         <container type="Box">166</container>
+         <container type="Box" label="Box">166</container>
          <unittitle>Symphony No. 6 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -2876,7 +2876,7 @@
    <!--EAD SPA_507-->
    <c level="file">
       <did>
-         <container type="Box">167</container>
+         <container type="Box" label="Box">167</container>
          <unittitle>Sinfonia Concertante <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -2897,7 +2897,7 @@
    <!--EAD SPA_508-->
    <c level="file">
       <did>
-         <container type="Box">167</container>
+         <container type="Box" label="Box">167</container>
          <unittitle>Symphony No. 7 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -2919,7 +2919,7 @@
    <!--EAD SPA_509-->
    <c level="file">
       <did>
-         <container type="Box">167</container>
+         <container type="Box" label="Box">167</container>
          <unittitle>The Ugly Duckling <unitdate>1992</unitdate>
          </unittitle>
          <note>
@@ -2943,7 +2943,7 @@
    <!--EAD SPA_510-->
    <c level="file">
       <did>
-         <container type="Box">167</container>
+         <container type="Box" label="Box">167</container>
          <unittitle>Sonate pour deux VIolons <unitdate>1932</unitdate>
          </unittitle>
          <note>
@@ -2964,7 +2964,7 @@
    <!--EAD SPA_511-->
    <c level="file">
       <did>
-         <container type="Box">167</container>
+         <container type="Box" label="Box">167</container>
          <unittitle>Два Марша для духового оркестра <unitdate>1968</unitdate>
          </unittitle>
          <note>
@@ -2989,7 +2989,7 @@
    <!--EAD SPA_512-->
    <c level="file">
       <did>
-         <container type="Box">167</container>
+         <container type="Box" label="Box">167</container>
          <unittitle>Sinfonietta <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -3010,7 +3010,7 @@
    <!--EAD SPA_513-->
    <c level="file">
       <did>
-         <container type="Box">167</container>
+         <container type="Box" label="Box">167</container>
          <unittitle>Romeo and Juliet, Suite No. 1 <unitdate>1946</unitdate>
          </unittitle>
          <note>
@@ -3033,7 +3033,7 @@
    <!--EAD SPA_514-->
    <c level="file">
       <did>
-         <container type="Box">167</container>
+         <container type="Box" label="Box">167</container>
          <unittitle>Romeo and Juliet, Suite No. 2 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -3056,7 +3056,7 @@
    <!--EAD SPA_515-->
    <c level="file">
       <did>
-         <container type="Box">167</container>
+         <container type="Box" label="Box">167</container>
          <unittitle>L'Amour des trois oranges - Suite symphonique <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -3077,7 +3077,7 @@
    <!--EAD SPA_516-->
    <c level="file">
       <did>
-         <container type="Box">167</container>
+         <container type="Box" label="Box">167</container>
          <unittitle>Four Portrais from the Opera Le Joueur <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -3098,7 +3098,7 @@
    <!--EAD SPA_517-->
    <c level="file">
       <did>
-         <container type="Box">168</container>
+         <container type="Box" label="Box">168</container>
          <unittitle>Ouverture Russe <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -3119,7 +3119,7 @@
    <!--EAD SPA_518-->
    <c level="file">
       <did>
-         <container type="Box">168</container>
+         <container type="Box" label="Box">168</container>
          <unittitle>Divertimento [for orchestra] <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -3140,7 +3140,7 @@
    <!--EAD SPA_519-->
    <c level="file">
       <did>
-         <container type="Box">168</container>
+         <container type="Box" label="Box">168</container>
          <unittitle>Piano Concerto No. 2 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -3161,7 +3161,7 @@
    <!--EAD SPA_520-->
    <c level="file">
       <did>
-         <container type="Box">168</container>
+         <container type="Box" label="Box">168</container>
          <unittitle>Sinfonie Nr. 5/ Symphony No. 5 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -3182,7 +3182,7 @@
    <!--EAD SPA_521-->
    <c level="file">
       <did>
-         <container type="Box">168</container>
+         <container type="Box" label="Box">168</container>
          <unittitle>6. Symphonie <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -3203,7 +3203,7 @@
    <!--EAD SPA_522-->
    <c level="file">
       <did>
-         <container type="Box">168</container>
+         <container type="Box" label="Box">168</container>
          <unittitle>7. Symphonie <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -3224,7 +3224,7 @@
    <!--EAD SPA_523-->
    <c level="file">
       <did>
-         <container type="Box">168</container>
+         <container type="Box" label="Box">168</container>
          <unittitle>Concertino für Violoncello und Orchester/ Concertino for Violoncello and
             Orchestra <unitdate>Unknown</unitdate>
          </unittitle>
@@ -3247,7 +3247,7 @@
    <!--EAD SPA_524-->
    <c level="file">
       <did>
-         <container type="Box">168</container>
+         <container type="Box" label="Box">168</container>
          <unittitle>Klavierkonzert Nr. 4 B-dur/ Piano Concert No. 4 in B flat Major for Left Hand
                <unitdate>Unknown</unitdate>
          </unittitle>
@@ -3269,7 +3269,7 @@
    <!--EAD SPA_525-->
    <c level="file">
       <did>
-         <container type="Box">169</container>
+         <container type="Box" label="Box">169</container>
          <unittitle>Symphony No. 5 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -3290,7 +3290,7 @@
    <!--EAD SPA_526-->
    <c level="file">
       <did>
-         <container type="Box">169</container>
+         <container type="Box" label="Box">169</container>
          <unittitle>Classical Symphony <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -3312,7 +3312,7 @@
    <!--EAD SPA_527-->
    <c level="file">
       <did>
-         <container type="Box">169</container>
+         <container type="Box" label="Box">169</container>
          <unittitle>Симфония No. 4 <unitdate>2011</unitdate>
          </unittitle>
          <note>
@@ -3334,7 +3334,7 @@
    <!--EAD SPA_528-->
    <c level="file">
       <did>
-         <container type="Box">169</container>
+         <container type="Box" label="Box">169</container>
          <unittitle>Симфония No. 6 <unitdate>2011</unitdate>
          </unittitle>
          <note>
@@ -3356,7 +3356,7 @@
    <!--EAD SPA_529-->
    <c level="file">
       <did>
-         <container type="Box">169</container>
+         <container type="Box" label="Box">169</container>
          <unittitle>Ала и Лолий: Скифская Сюита <unitdate>2011</unitdate>
          </unittitle>
          <note>
@@ -3377,7 +3377,7 @@
    <!--EAD SPA_530-->
    <c level="file">
       <did>
-         <container type="Box">169</container>
+         <container type="Box" label="Box">169</container>
          <unittitle>Симфония No. 1 (Классическая) <unitdate>2005</unitdate>
          </unittitle>
          <note>
@@ -3398,7 +3398,7 @@
    <!--EAD SPA_531-->
    <c level="file">
       <did>
-         <container type="Box">169</container>
+         <container type="Box" label="Box">169</container>
          <unittitle>Симфония No. 7 <unitdate>2005</unitdate>
          </unittitle>
          <note>
@@ -3419,7 +3419,7 @@
    <!--EAD SPA_532-->
    <c level="file">
       <did>
-         <container type="Box">170</container>
+         <container type="Box" label="Box">170</container>
          <unittitle>Maddalena <unitdate>1979</unitdate>
          </unittitle>
          <note>
@@ -3441,7 +3441,7 @@
    <!--EAD SPA_533-->
    <c level="file">
       <did>
-         <container type="Box">170</container>
+         <container type="Box" label="Box">170</container>
          <unittitle>Maddalena <unitdate>1990</unitdate>
          </unittitle>
          <note>
@@ -3463,7 +3463,7 @@
    <!--EAD SPA_534-->
    <c level="file">
       <did>
-         <container type="Box">170</container>
+         <container type="Box" label="Box">170</container>
          <unittitle>Maddalena <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -3485,7 +3485,7 @@
    <!--EAD SPA_535-->
    <c level="file">
       <did>
-         <container type="Box">170</container>
+         <container type="Box" label="Box">170</container>
          <unittitle>Maddalena <unitdate>1993</unitdate>
          </unittitle>
          <note>
@@ -3507,7 +3507,7 @@
    <!--EAD SPA_536-->
    <c level="file">
       <did>
-         <container type="Box">170</container>
+         <container type="Box" label="Box">170</container>
          <unittitle>Die Liebe zu den Drei Orangen/L'amour des trois oranges
                <unitdate>Unknown</unitdate>
          </unittitle>
@@ -3530,7 +3530,7 @@
    <!--EAD SPA_537-->
    <c level="file">
       <did>
-         <container type="Box">170</container>
+         <container type="Box" label="Box">170</container>
          <unittitle>L'amour des trois oranges <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -3552,7 +3552,7 @@
    <!--EAD SPA_538-->
    <c level="file">
       <did>
-         <container type="Box">171</container>
+         <container type="Box" label="Box">171</container>
          <unittitle>Die Liebe zu den Drei Orangen <unitdate>1979</unitdate>
          </unittitle>
          <note>
@@ -3574,7 +3574,7 @@
    <!--EAD SPA_539-->
    <c level="file">
       <did>
-         <container type="Box">171</container>
+         <container type="Box" label="Box">171</container>
          <unittitle>The Fiery Angel <unitdate>1994</unitdate>
          </unittitle>
          <note>
@@ -3596,7 +3596,7 @@
    <!--EAD SPA_540-->
    <c level="file">
       <did>
-         <container type="Box">172</container>
+         <container type="Box" label="Box">172</container>
          <unittitle>Семен Котко <unitdate>1979</unitdate>
          </unittitle>
          <note>
@@ -3619,7 +3619,7 @@
    <!--EAD SPA_541-->
    <c level="file">
       <did>
-         <container type="Box">172</container>
+         <container type="Box" label="Box">172</container>
          <unittitle>The Duenna <unitdate>1960</unitdate>
          </unittitle>
          <note>
@@ -3641,7 +3641,7 @@
    <!--EAD SPA_542-->
    <c level="file">
       <did>
-         <container type="Box">173</container>
+         <container type="Box" label="Box">173</container>
          <unittitle>Дуеня <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -3663,7 +3663,7 @@
    <!--EAD SPA_543-->
    <c level="file">
       <did>
-         <container type="Box">173</container>
+         <container type="Box" label="Box">173</container>
          <unittitle>Guerre et Paix <unitdate>1963</unitdate>
          </unittitle>
          <note>
@@ -3685,7 +3685,7 @@
    <!--EAD SPA_544-->
    <c level="file">
       <did>
-         <container type="Box">174</container>
+         <container type="Box" label="Box">174</container>
          <unittitle>War and Peace <unitdate>1972</unitdate>
          </unittitle>
          <note>
@@ -3707,7 +3707,7 @@
    <!--EAD SPA_545-->
    <c level="file">
       <did>
-         <container type="Box">175</container>
+         <container type="Box" label="Box">175</container>
          <unittitle>Повесть о настоящем человеке <unitdate>1962</unitdate>
          </unittitle>
          <note>
@@ -3729,7 +3729,7 @@
    <!--EAD SPA_546-->
    <c level="file">
       <did>
-         <container type="Box">175</container>
+         <container type="Box" label="Box">175</container>
          <unittitle>Semyon Kotko <unitdate>1967</unitdate>
          </unittitle>
          <note>
@@ -3752,7 +3752,7 @@
    <!--EAD SPA_547-->
    <c level="file">
       <did>
-         <container type="Box">175</container>
+         <container type="Box" label="Box">175</container>
          <unittitle>Великан <unitdate>1991</unitdate>
          </unittitle>
          <note>
@@ -3774,7 +3774,7 @@
    <!--EAD SPA_548-->
    <c level="file">
       <did>
-         <container type="Box">177</container>
+         <container type="Box" label="Box">177</container>
          <unittitle>Евгений Онегин <unitdate>1973</unitdate>
          </unittitle>
          <note>
@@ -3795,7 +3795,7 @@
    <!--EAD SPA_549-->
    <c level="file">
       <did>
-         <container type="Box">177</container>
+         <container type="Box" label="Box">177</container>
          <unittitle>Египетские Ночи <unitdate>1963</unitdate>
          </unittitle>
          <note>
@@ -3816,7 +3816,7 @@
    <!--EAD SPA_550-->
    <c level="file">
       <did>
-         <container type="Box">177</container>
+         <container type="Box" label="Box">177</container>
          <unittitle>Boris Godunov; Hamlet <unitdate>1973</unitdate>
          </unittitle>
          <note>
@@ -3837,7 +3837,7 @@
    <!--EAD SPA_551-->
    <c level="file">
       <did>
-         <container type="Box">177</container>
+         <container type="Box" label="Box">177</container>
          <unittitle>Иван Грозний <unitdate>1997</unitdate>
          </unittitle>
          <note>
@@ -3858,7 +3858,7 @@
    <!--EAD SPA_552-->
    <c level="file">
       <did>
-         <container type="Box">178</container>
+         <container type="Box" label="Box">178</container>
          <unittitle>Иван Грозний <unitdate>1997</unitdate>
          </unittitle>
          <note>
@@ -3879,7 +3879,7 @@
    <!--EAD SPA_553-->
    <c level="file">
       <did>
-         <container type="Box">178</container>
+         <container type="Box" label="Box">178</container>
          <unittitle>Музика к кинофилму Сергея Еизенщайна <unitdate>2011</unitdate>
          </unittitle>
          <note>
@@ -3900,7 +3900,7 @@
    <!--EAD SPA_554-->
    <c level="file">
       <did>
-         <container type="Box">178</container>
+         <container type="Box" label="Box">178</container>
          <unittitle>Египетские Ночи <unitdate>2011</unitdate>
          </unittitle>
          <note>
@@ -3921,7 +3921,7 @@
    <!--EAD SPA_555-->
    <c level="file">
       <did>
-         <container type="Box">178</container>
+         <container type="Box" label="Box">178</container>
          <unittitle>Пиковая дама <unitdate>2011</unitdate>
          </unittitle>
          <note>
@@ -3942,7 +3942,7 @@
    <!--EAD SPA_556-->
    <c level="file">
       <did>
-         <container type="Box">178</container>
+         <container type="Box" label="Box">178</container>
          <unittitle>Евгений Онегин (Ларински бал): фрагменти из музики к одноименному спектакля, для
             симфонического оркестра <unitdate>2011</unitdate>
          </unittitle>
@@ -3964,7 +3964,7 @@
    <!--EAD SPA_557-->
    <c level="file">
       <did>
-         <container type="Box">179</container>
+         <container type="Box" label="Box">179</container>
          <unittitle>Chout <unitdate>1978</unitdate>
          </unittitle>
          <note>
@@ -3985,7 +3985,7 @@
    <!--EAD SPA_558-->
    <c level="file">
       <did>
-         <container type="Box">179</container>
+         <container type="Box" label="Box">179</container>
          <unittitle>Le Pas d'Acier <unitdate>1978</unitdate>
          </unittitle>
          <note>
@@ -4006,7 +4006,7 @@
    <!--EAD SPA_559-->
    <c level="file">
       <did>
-         <container type="Box">179</container>
+         <container type="Box" label="Box">179</container>
          <unittitle>L'enfant prodigue <unitdate>1978</unitdate>
          </unittitle>
          <note>
@@ -4027,7 +4027,7 @@
    <!--EAD SPA_560-->
    <c level="file">
       <did>
-         <container type="Box">179</container>
+         <container type="Box" label="Box">179</container>
          <unittitle>Золушка <unitdate>1974</unitdate>
          </unittitle>
          <note>
@@ -4049,7 +4049,7 @@
    <!--EAD SPA_561-->
    <c level="file">
       <did>
-         <container type="Box">180</container>
+         <container type="Box" label="Box">180</container>
          <unittitle>One-Act Ballets: Le Pas d'acier; The Prodigal Son; Sur le Borysthène
                <unitdate>1971</unitdate>
          </unittitle>
@@ -4073,7 +4073,7 @@
    <!--EAD SPA_562-->
    <c level="file">
       <did>
-         <container type="Box">180</container>
+         <container type="Box" label="Box">180</container>
          <unittitle>Ромео и Джулиета <unitdate>1976</unitdate>
          </unittitle>
          <note>
@@ -4095,7 +4095,7 @@
    <!--EAD SPA_563-->
    <c level="file">
       <did>
-         <container type="Box">180</container>
+         <container type="Box" label="Box">180</container>
          <unittitle>Romeo und Julia <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -4116,7 +4116,7 @@
    <!--EAD SPA_564-->
    <c level="file">
       <did>
-         <container type="Box">181</container>
+         <container type="Box" label="Box">181</container>
          <unittitle>Sur le Borysthène <unitdate>2003</unitdate>
          </unittitle>
          <note>
@@ -4137,7 +4137,7 @@
    <!--EAD SPA_565-->
    <c level="file">
       <did>
-         <container type="Box">181</container>
+         <container type="Box" label="Box">181</container>
          <unittitle>Trapèze <unitdate>2002</unitdate>
          </unittitle>
          <note>
@@ -4158,7 +4158,7 @@
    <!--EAD SPA_566-->
    <c level="file">
       <did>
-         <container type="Box">183</container>
+         <container type="Box" label="Box">183</container>
          <unittitle>Встреча Волги с Доном <unitdate>1958</unitdate>
          </unittitle>
          <note>
@@ -4180,7 +4180,7 @@
    <!--EAD SPA_567-->
    <c level="file">
       <did>
-         <container type="Box">183</container>
+         <container type="Box" label="Box">183</container>
          <unittitle>Песни наших дней <unitdate>1939</unitdate>
          </unittitle>
          <note>
@@ -4203,7 +4203,7 @@
    <!--EAD SPA_568-->
    <c level="file">
       <did>
-         <container type="Box">183</container>
+         <container type="Box" label="Box">183</container>
          <unittitle>Баллада о мальчике, оставшемся неизвестным <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -4226,7 +4226,7 @@
    <!--EAD SPA_569-->
    <c level="file">
       <did>
-         <container type="Box">183</container>
+         <container type="Box" label="Box">183</container>
          <unittitle>Петя и Волк <unitdate>1959</unitdate>
          </unittitle>
          <note>
@@ -4249,7 +4249,7 @@
    <!--EAD SPA_570-->
    <c level="file">
       <did>
-         <container type="Box">183</container>
+         <container type="Box" label="Box">183</container>
          <unittitle>Peter and the Wolf/Pedro y el lobo <unitdate>1999</unitdate>
          </unittitle>
          <note>
@@ -4272,7 +4272,7 @@
    <!--EAD SPA_571-->
    <c level="file">
       <did>
-         <container type="Box">183</container>
+         <container type="Box" label="Box">183</container>
          <unittitle>Кантата к XX-летию Октября <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -4299,7 +4299,7 @@
    <!--EAD SPA_572-->
    <c level="file">
       <did>
-         <container type="Box">183</container>
+         <container type="Box" label="Box">183</container>
          <unittitle>Песни наших дней <unitdate>1962</unitdate>
          </unittitle>
          <note>
@@ -4321,7 +4321,7 @@
    <!--EAD SPA_573-->
    <c level="file">
       <did>
-         <container type="Box">183</container>
+         <container type="Box" label="Box">183</container>
          <unittitle>Alexandre Nevsky <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -4344,7 +4344,7 @@
    <!--EAD SPA_574-->
    <c level="file">
       <did>
-         <container type="Box">184</container>
+         <container type="Box" label="Box">184</container>
          <unittitle>Alexander Nevsky <unitdate>[1949]</unitdate>
          </unittitle>
          <note>
@@ -4370,7 +4370,7 @@
    <!--EAD SPA_575-->
    <c level="file">
       <did>
-         <container type="Box">184</container>
+         <container type="Box" label="Box">184</container>
          <unittitle>Александр Невский/Alexander Nevsky <unitdate>1946</unitdate>
          </unittitle>
          <note>
@@ -4393,7 +4393,7 @@
    <!--EAD SPA_576-->
    <c level="file">
       <did>
-         <container type="Box">184</container>
+         <container type="Box" label="Box">184</container>
          <unittitle>Alexander Newski <unitdate>1991</unitdate>
          </unittitle>
          <note>
@@ -4417,7 +4417,7 @@
    <!--EAD SPA_577-->
    <c level="file">
       <did>
-         <container type="Box">184</container>
+         <container type="Box" label="Box">184</container>
          <unittitle>Иван Грозний: Оратория <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -4442,7 +4442,7 @@
    <!--EAD SPA_578-->
    <c level="file">
       <did>
-         <container type="Box">184</container>
+         <container type="Box" label="Box">184</container>
          <unittitle>Иван Грозний: Оратория <unitdate>1962</unitdate>
          </unittitle>
          <note>
@@ -4465,7 +4465,7 @@
    <!--EAD SPA_579-->
    <c level="file">
       <did>
-         <container type="Box">184</container>
+         <container type="Box" label="Box">184</container>
          <unittitle>Иван Грозний: Оратория <unitdate>1972</unitdate>
          </unittitle>
          <note>
@@ -4487,7 +4487,7 @@
    <!--EAD SPA_580-->
    <c level="file">
       <did>
-         <container type="Box">182</container>
+         <container type="Box" label="Box">182</container>
          <unittitle>Ivan the Terrible: Concert Suite <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -4513,7 +4513,7 @@
    <!--EAD SPA_581-->
    <c level="file">
       <did>
-         <container type="Box">184</container>
+         <container type="Box" label="Box">184</container>
          <unittitle>Здравица/Zdravitsa <unitdate>1946</unitdate>
          </unittitle>
          <note>
@@ -4537,7 +4537,7 @@
    <!--EAD SPA_582-->
    <c level="file">
       <did>
-         <container type="Box">182</container>
+         <container type="Box" label="Box">182</container>
          <unittitle>A Toast to Stalin <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -4561,7 +4561,7 @@
    <!--EAD SPA_583-->
    <c level="file">
       <did>
-         <container type="Box">182</container>
+         <container type="Box" label="Box">182</container>
          <unittitle>Славься наш могучий край/ Prosper, our Mightly Land <unitdate>1962</unitdate>
          </unittitle>
          <note>
@@ -4584,7 +4584,7 @@
    <!--EAD SPA_584-->
    <c level="file">
       <did>
-         <container type="Box">182</container>
+         <container type="Box" label="Box">182</container>
          <unittitle>На страже мира <unitdate>1952</unitdate>
          </unittitle>
          <note>
@@ -4609,7 +4609,7 @@
    <!--EAD SPA_585-->
    <c level="file">
       <did>
-         <container type="Box">208</container>
+         <container type="Box" label="Box">208</container>
          <unittitle>На страже мира <unitdate>1952</unitdate>
          </unittitle>
          <note>
@@ -4632,7 +4632,7 @@
    <!--EAD SPA_586-->
    <c level="file">
       <did>
-         <container type="Box">182</container>
+         <container type="Box" label="Box">182</container>
          <unittitle>Здравица/Zdravitsa <unitdate>1949</unitdate>
          </unittitle>
          <note>
@@ -4655,7 +4655,7 @@
    <!--EAD SPA_587-->
    <c level="file">
       <did>
-         <container type="Box">182</container>
+         <container type="Box" label="Box">182</container>
          <unittitle>Здравица <unitdate>1970</unitdate>
          </unittitle>
          <note>
@@ -4678,7 +4678,7 @@
    <!--EAD SPA_588-->
    <c level="file">
       <did>
-         <container type="Box">182</container>
+         <container type="Box" label="Box">182</container>
          <unittitle>Здравица <unitdate>1984</unitdate>
          </unittitle>
          <note>
@@ -4701,7 +4701,7 @@
    <!--EAD SPA_589-->
    <c level="file">
       <did>
-         <container type="Box">182</container>
+         <container type="Box" label="Box">182</container>
          <unittitle>Alexander Nevsky <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -4724,7 +4724,7 @@
    <!--EAD SPA_590-->
    <c level="file">
       <did>
-         <container type="Box">185</container>
+         <container type="Box" label="Box">185</container>
          <unittitle>Deux Poemes <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -4748,7 +4748,7 @@
    <!--EAD SPA_591-->
    <c level="file">
       <did>
-         <container type="Box">185</container>
+         <container type="Box" label="Box">185</container>
          <unittitle>Le Vilain Petit Canard <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -4772,7 +4772,7 @@
    <!--EAD SPA_592-->
    <c level="file">
       <did>
-         <container type="Box">185</container>
+         <container type="Box" label="Box">185</container>
          <unittitle>Cinq Poésies <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -4796,7 +4796,7 @@
    <!--EAD SPA_593-->
    <c level="file">
       <did>
-         <container type="Box">185</container>
+         <container type="Box" label="Box">185</container>
          <unittitle>Cinq Poésies <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -4820,7 +4820,7 @@
    <!--EAD SPA_594-->
    <c level="file">
       <did>
-         <container type="Box">185</container>
+         <container type="Box" label="Box">185</container>
          <unittitle>Cinq Poésies d'Anna Akhmatova <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -4844,7 +4844,7 @@
    <!--EAD SPA_595-->
    <c level="file">
       <did>
-         <container type="Box">185</container>
+         <container type="Box" label="Box">185</container>
          <unittitle>Cinq Mélodies <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -4865,7 +4865,7 @@
    <!--EAD SPA_596-->
    <c level="file">
       <did>
-         <container type="Box">185</container>
+         <container type="Box" label="Box">185</container>
          <unittitle>Cinq Poésies de C. Balmont <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -4889,7 +4889,7 @@
    <!--EAD SPA_597-->
    <c level="file">
       <did>
-         <container type="Box">185</container>
+         <container type="Box" label="Box">185</container>
          <unittitle>Three Children's Songs <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -4912,7 +4912,7 @@
    <!--EAD SPA_598-->
    <c level="file">
       <did>
-         <container type="Box">185</container>
+         <container type="Box" label="Box">185</container>
          <unittitle>Речитатив и Ария Кутузова из оперы "Война и Мир" <unitdate>1955</unitdate>
          </unittitle>
          <note>
@@ -4934,7 +4934,7 @@
    <!--EAD SPA_599-->
    <c level="file">
       <did>
-         <container type="Box">185</container>
+         <container type="Box" label="Box">185</container>
          <unittitle>Вокалные сочинения в двух томах (Том 2) <unitdate>1976</unitdate>
          </unittitle>
          <note>
@@ -4958,7 +4958,7 @@
    <!--EAD SPA_600-->
    <c level="file">
       <did>
-         <container type="Box">185</container>
+         <container type="Box" label="Box">185</container>
          <unittitle>3 Children's songs <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -4980,7 +4980,7 @@
    <!--EAD SPA_601-->
    <c level="file">
       <did>
-         <container type="Box">185</container>
+         <container type="Box" label="Box">185</container>
          <unittitle>Akhmatova Songs <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -5004,7 +5004,7 @@
    <!--EAD SPA_602-->
    <c level="file">
       <did>
-         <container type="Box">185</container>
+         <container type="Box" label="Box">185</container>
          <unittitle>Poliarnaia Pesnia <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -5027,7 +5027,7 @@
    <!--EAD SPA_603-->
    <c level="file">
       <did>
-         <container type="Box">185</container>
+         <container type="Box" label="Box">185</container>
          <unittitle>Drei Kinderlieder <unitdate>2001</unitdate>
          </unittitle>
          <note>
@@ -5049,7 +5049,7 @@
    <!--EAD SPA_604-->
    <c level="file">
       <did>
-         <container type="Box">185</container>
+         <container type="Box" label="Box">185</container>
          <unittitle>Обработки Русских Народных Песен <unitdate>2004</unitdate>
          </unittitle>
          <note>
@@ -5072,7 +5072,7 @@
    <!--EAD SPA_605-->
    <c level="file">
       <did>
-         <container type="Box">186</container>
+         <container type="Box" label="Box">186</container>
          <unittitle>Symphonie Classique <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -5093,7 +5093,7 @@
    <!--EAD SPA_606-->
    <c level="file">
       <did>
-         <container type="Box">186</container>
+         <container type="Box" label="Box">186</container>
          <unittitle>Symphony No. 2 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -5114,7 +5114,7 @@
    <!--EAD SPA_607-->
    <c level="file">
       <did>
-         <container type="Box">188</container>
+         <container type="Box" label="Box">188</container>
          <unittitle>Third Symphony <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -5135,7 +5135,7 @@
    <!--EAD SPA_608-->
    <c level="file">
       <did>
-         <container type="Box">186</container>
+         <container type="Box" label="Box">186</container>
          <unittitle>Четвертая симфония <unitdate>1962</unitdate>
          </unittitle>
          <note>
@@ -5157,7 +5157,7 @@
    <!--EAD SPA_609-->
    <c level="file">
       <did>
-         <container type="Box">186</container>
+         <container type="Box" label="Box">186</container>
          <unittitle>Quatrième Symphonie <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -5179,7 +5179,7 @@
    <!--EAD SPA_610-->
    <c level="file">
       <did>
-         <container type="Box">187</container>
+         <container type="Box" label="Box">187</container>
          <unittitle>Symphony No. 4 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -5200,7 +5200,7 @@
    <!--EAD SPA_611-->
    <c level="file">
       <did>
-         <container type="Box">187</container>
+         <container type="Box" label="Box">187</container>
          <unittitle>Пятая симфония <unitdate>1947</unitdate>
          </unittitle>
          <note>
@@ -5222,7 +5222,7 @@
    <!--EAD SPA_612-->
    <c level="file">
       <did>
-         <container type="Box">187</container>
+         <container type="Box" label="Box">187</container>
          <unittitle>Шестая симфония <unitdate>1960</unitdate>
          </unittitle>
          <note>
@@ -5244,7 +5244,7 @@
    <!--EAD SPA_613-->
    <c level="file">
       <did>
-         <container type="Box">187</container>
+         <container type="Box" label="Box">187</container>
          <unittitle>Symphony No. 6 <unitdate>1982</unitdate>
          </unittitle>
          <note>
@@ -5266,7 +5266,7 @@
    <!--EAD SPA_614-->
    <c level="file">
       <did>
-         <container type="Box">187</container>
+         <container type="Box" label="Box">187</container>
          <unittitle>Symphony No. 7 <unitdate>1976</unitdate>
          </unittitle>
          <note>
@@ -5288,7 +5288,7 @@
    <!--EAD SPA_615-->
    <c level="file">
       <did>
-         <container type="Box">189</container>
+         <container type="Box" label="Box">189</container>
          <unittitle>Ouverture <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -5309,7 +5309,7 @@
    <!--EAD SPA_616-->
    <c level="file">
       <did>
-         <container type="Box">189</container>
+         <container type="Box" label="Box">189</container>
          <unittitle>Ouverture <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -5331,7 +5331,7 @@
    <!--EAD SPA_617-->
    <c level="file">
       <did>
-         <container type="Box">189</container>
+         <container type="Box" label="Box">189</container>
          <unittitle>Ouverture Russe <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -5353,7 +5353,7 @@
    <!--EAD SPA_618-->
    <c level="file">
       <did>
-         <container type="Box">189</container>
+         <container type="Box" label="Box">189</container>
          <unittitle>Russkaia Uvertiura <unitdate>1946</unitdate>
          </unittitle>
          <note>
@@ -5375,7 +5375,7 @@
    <!--EAD SPA_619-->
    <c level="file">
       <did>
-         <container type="Box">190</container>
+         <container type="Box" label="Box">190</container>
          <unittitle>Концерт No. 1 для фортепьяно с оркестром <unitdate>1962</unitdate>
          </unittitle>
          <note>
@@ -5398,7 +5398,7 @@
    <!--EAD SPA_620-->
    <c level="file">
       <did>
-         <container type="Box">190</container>
+         <container type="Box" label="Box">190</container>
          <unittitle>Klavier-konzert No. 1 <unitdate>1939</unitdate>
          </unittitle>
          <note>
@@ -5420,7 +5420,7 @@
    <!--EAD SPA_621-->
    <c level="file">
       <did>
-         <container type="Box">190</container>
+         <container type="Box" label="Box">190</container>
          <unittitle>Концерт No. 2 для фортепьяно с оркестром <unitdate>1962</unitdate>
          </unittitle>
          <note>
@@ -5443,7 +5443,7 @@
    <!--EAD SPA_622-->
    <c level="file">
       <did>
-         <container type="Box">190</container>
+         <container type="Box" label="Box">190</container>
          <unittitle>2e Concerto pour piano <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -5465,7 +5465,7 @@
    <!--EAD SPA_623-->
    <c level="file">
       <did>
-         <container type="Box">188</container>
+         <container type="Box" label="Box">188</container>
          <unittitle>Violin Concerto No. 1 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -5486,7 +5486,7 @@
    <!--EAD SPA_624-->
    <c level="file">
       <did>
-         <container type="Box">190</container>
+         <container type="Box" label="Box">190</container>
          <unittitle>Concerto No 1 for violin <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -5508,7 +5508,7 @@
    <!--EAD SPA_625-->
    <c level="file">
       <did>
-         <container type="Box">190</container>
+         <container type="Box" label="Box">190</container>
          <unittitle>Concerto pour violon <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -5530,7 +5530,7 @@
    <!--EAD SPA_626-->
    <c level="file">
       <did>
-         <container type="Box">190</container>
+         <container type="Box" label="Box">190</container>
          <unittitle>Первый концерт для скрипки <unitdate>1937</unitdate>
          </unittitle>
          <note>
@@ -5553,7 +5553,7 @@
    <!--EAD SPA_627-->
    <c level="file">
       <did>
-         <container type="Box">190</container>
+         <container type="Box" label="Box">190</container>
          <unittitle>3e concerto pour piano en ut <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -5575,7 +5575,7 @@
    <!--EAD SPA_628-->
    <c level="file">
       <did>
-         <container type="Box">190</container>
+         <container type="Box" label="Box">190</container>
          <unittitle>Третий Концерт для фортепиано с оркестром <unitdate>1966</unitdate>
          </unittitle>
          <note>
@@ -5598,7 +5598,7 @@
    <!--EAD SPA_629-->
    <c level="file">
       <did>
-         <container type="Box">190</container>
+         <container type="Box" label="Box">190</container>
          <unittitle>Концерт No 3 для фортапиано с оркестром <unitdate>1962</unitdate>
          </unittitle>
          <note>
@@ -5621,7 +5621,7 @@
    <!--EAD SPA_630-->
    <c level="file">
       <did>
-         <container type="Box">190</container>
+         <container type="Box" label="Box">190</container>
          <unittitle>Fourth Concerto for piano <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -5643,7 +5643,7 @@
    <!--EAD SPA_631-->
    <c level="file">
       <did>
-         <container type="Box">190</container>
+         <container type="Box" label="Box">190</container>
          <unittitle>Концерт No 4 для фортапиано (для левой руки) с оркестром
                <unitdate>1963</unitdate>
          </unittitle>
@@ -5667,7 +5667,7 @@
    <!--EAD SPA_632-->
    <c level="file">
       <did>
-         <container type="Box">190</container>
+         <container type="Box" label="Box">190</container>
          <unittitle>Концерт No 5 для фортапиано с оркестром <unitdate>1963</unitdate>
          </unittitle>
          <note>
@@ -5690,7 +5690,7 @@
    <!--EAD SPA_633-->
    <c level="file">
       <did>
-         <container type="Box">190</container>
+         <container type="Box" label="Box">190</container>
          <unittitle>5e Concerto pour piano <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -5712,7 +5712,7 @@
    <!--EAD SPA_634-->
    <c level="file">
       <did>
-         <container type="Box">190</container>
+         <container type="Box" label="Box">190</container>
          <unittitle>Концерт No 5 для фортапиано с оркестром <unitdate>1963</unitdate>
          </unittitle>
          <note>
@@ -5735,7 +5735,7 @@
    <!--EAD SPA_635-->
    <c level="file">
       <did>
-         <container type="Box">188</container>
+         <container type="Box" label="Box">188</container>
          <unittitle>Concerto pour violoncelle en mi mineur <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -5757,7 +5757,7 @@
    <!--EAD SPA_636-->
    <c level="file">
       <did>
-         <container type="Box">192</container>
+         <container type="Box" label="Box">192</container>
          <unittitle>Concerto pour violoncelle <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -5779,7 +5779,7 @@
    <!--EAD SPA_637-->
    <c level="file">
       <did>
-         <container type="Box">188</container>
+         <container type="Box" label="Box">188</container>
          <unittitle>Второй концерт соль минор для скрипки и оркестра <unitdate>1960</unitdate>
          </unittitle>
          <note>
@@ -5802,7 +5802,7 @@
    <!--EAD SPA_638-->
    <c level="file">
       <did>
-         <container type="Box">192</container>
+         <container type="Box" label="Box">192</container>
          <unittitle>Violin Concerto No. 2/ 2e concerto pour violon/2. Violin-Konzert
                <unitdate>Unknown</unitdate>
          </unittitle>
@@ -5825,7 +5825,7 @@
    <!--EAD SPA_639-->
    <c level="file">
       <did>
-         <container type="Box">192</container>
+         <container type="Box" label="Box">192</container>
          <unittitle>Concerto No 2 for violin and piano <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -5847,7 +5847,7 @@
    <!--EAD SPA_640-->
    <c level="file">
       <did>
-         <container type="Box">192</container>
+         <container type="Box" label="Box">192</container>
          <unittitle>Sinfonia Concertante for violoncello and orchestra <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -5869,7 +5869,7 @@
    <!--EAD SPA_641-->
    <c level="file">
       <did>
-         <container type="Box">192</container>
+         <container type="Box" label="Box">192</container>
          <unittitle>Sinfonia Concertante for violoncello and orchestra <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -5891,7 +5891,7 @@
    <!--EAD SPA_642-->
    <c level="file">
       <did>
-         <container type="Box">192</container>
+         <container type="Box" label="Box">192</container>
          <unittitle>Симфония-концерт для виолончели с оркестром/Symphony-Concerto for cello and
             orchestra <unitdate>1959</unitdate>
          </unittitle>
@@ -5914,7 +5914,7 @@
    <!--EAD SPA_643-->
    <c level="file">
       <did>
-         <container type="Box">192</container>
+         <container type="Box" label="Box">192</container>
          <unittitle>Concertino für Violoncello und Orchester <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -5937,7 +5937,7 @@
    <!--EAD SPA_644-->
    <c level="file">
       <did>
-         <container type="Box">192</container>
+         <container type="Box" label="Box">192</container>
          <unittitle>Concertino for Cello and Orchestra <unitdate>1999</unitdate>
          </unittitle>
          <note>
@@ -5960,7 +5960,7 @@
    <!--EAD SPA_645-->
    <c level="file">
       <did>
-         <container type="Box">192</container>
+         <container type="Box" label="Box">192</container>
          <unittitle>Concertino for cello and orchestra <unitdate>1997</unitdate>
          </unittitle>
          <note>
@@ -5984,7 +5984,7 @@
    <!--EAD SPA_646-->
    <c level="file">
       <did>
-         <container type="Box">192</container>
+         <container type="Box" label="Box">192</container>
          <unittitle>Piano works in Five Volumes, Volume Four: Concertos for Piano and Orchestra Nos
             1, 2. Arranged fro Two Pianos/Сочинени для фортепиано в пяти томах, том четвъртый:
             Концерты No. 1,2 для фортепиано с оркестром. Переложение для двух фортепиано
@@ -6010,7 +6010,7 @@
    <!--EAD SPA_647-->
    <c level="file">
       <did>
-         <container type="Box">191</container>
+         <container type="Box" label="Box">191</container>
          <unittitle>Concertino for violoncello and orchestra <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -6033,7 +6033,7 @@
    <!--EAD SPA_648-->
    <c level="file">
       <did>
-         <container type="Box">191</container>
+         <container type="Box" label="Box">191</container>
          <unittitle>Klavierkonzert Nr. 4 B-Dur/Piano Concert No. 4 in B flat Major
                <unitdate>1995</unitdate>
          </unittitle>
@@ -6056,7 +6056,7 @@
    <!--EAD SPA_649-->
    <c level="file">
       <did>
-         <container type="Box">191</container>
+         <container type="Box" label="Box">191</container>
          <unittitle>Concerto No. 2 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -6078,7 +6078,7 @@
    <!--EAD SPA_650-->
    <c level="file">
       <did>
-         <container type="Box">191</container>
+         <container type="Box" label="Box">191</container>
          <unittitle>Concerto No. 1 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -6100,7 +6100,7 @@
    <!--EAD SPA_651-->
    <c level="file">
       <did>
-         <container type="Box">191</container>
+         <container type="Box" label="Box">191</container>
          <unittitle>Concerto No. 2 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -6122,7 +6122,7 @@
    <!--EAD SPA_652-->
    <c level="file">
       <did>
-         <container type="Box">191</container>
+         <container type="Box" label="Box">191</container>
          <unittitle>Concerto No. 3 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -6144,7 +6144,7 @@
    <!--EAD SPA_653-->
    <c level="file">
       <did>
-         <container type="Box">191</container>
+         <container type="Box" label="Box">191</container>
          <unittitle>Concerto No. 4 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -6166,7 +6166,7 @@
    <!--EAD SPA_654-->
    <c level="file">
       <did>
-         <container type="Box">191</container>
+         <container type="Box" label="Box">191</container>
          <unittitle>Concerto No. 2 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -6188,7 +6188,7 @@
    <!--EAD SPA_655-->
    <c level="file">
       <did>
-         <container type="Box">191</container>
+         <container type="Box" label="Box">191</container>
          <unittitle>Концерт No. 1 (ре бемоль мажор) для фортепиано с оркестром/ Concerto No. 1
             (d-flat major) for piano and orchestra <unitdate>2005</unitdate>
          </unittitle>
@@ -6211,7 +6211,7 @@
    <!--EAD SPA_656-->
    <c level="file">
       <did>
-         <container type="Box">191</container>
+         <container type="Box" label="Box">191</container>
          <unittitle>Концерт No. 5 для фортепиано с оркестром/ Concerto No. 5 for piano and orchestra
                <unitdate>2011</unitdate>
          </unittitle>
@@ -6234,7 +6234,7 @@
    <!--EAD SPA_657-->
    <c level="file">
       <did>
-         <container type="Box">191</container>
+         <container type="Box" label="Box">191</container>
          <unittitle>Концерт No. 3 для фортепиано с оркестром/ Concerto No. 3 for piano and orchestra
                <unitdate>2007</unitdate>
          </unittitle>
@@ -6257,7 +6257,7 @@
    <!--EAD SPA_658-->
    <c level="file">
       <did>
-         <container type="Box">191</container>
+         <container type="Box" label="Box">191</container>
          <unittitle>Симфония-Концерт для виолончели с оркестром/Symphony-Concerto for cello and
             orchestra <unitdate>2010</unitdate>
          </unittitle>
@@ -6280,7 +6280,7 @@
    <!--EAD SPA_659-->
    <c level="file">
       <did>
-         <container type="Box">194</container>
+         <container type="Box" label="Box">194</container>
          <unittitle>Humorous Scherzo for Four Bassoons No. 9 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -6301,7 +6301,7 @@
    <!--EAD SPA_660-->
    <c level="file">
       <did>
-         <container type="Box">194</container>
+         <container type="Box" label="Box">194</container>
          <unittitle>Ballade for cello and piano <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -6323,7 +6323,7 @@
    <!--EAD SPA_661-->
    <c level="file">
       <did>
-         <container type="Box">194</container>
+         <container type="Box" label="Box">194</container>
          <unittitle>Ouverture sur des thèmes juifs <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -6345,7 +6345,7 @@
    <!--EAD SPA_662-->
    <c level="file">
       <did>
-         <container type="Box">194</container>
+         <container type="Box" label="Box">194</container>
          <unittitle>Quintette <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -6366,7 +6366,7 @@
    <!--EAD SPA_663-->
    <c level="file">
       <did>
-         <container type="Box">194</container>
+         <container type="Box" label="Box">194</container>
          <unittitle>Andante <unitdate>1960</unitdate>
          </unittitle>
          <note>
@@ -6387,7 +6387,7 @@
    <!--EAD SPA_664-->
    <c level="file">
       <did>
-         <container type="Box">194</container>
+         <container type="Box" label="Box">194</container>
          <unittitle>Sonate pour deux violons <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -6408,7 +6408,7 @@
    <!--EAD SPA_665-->
    <c level="file">
       <did>
-         <container type="Box">194</container>
+         <container type="Box" label="Box">194</container>
          <unittitle>2 Puschkin-Walzer für Violoncello und Klavier/ 2 Pushkin Waltzes for violoncello
             and piano <unitdate>Unknown</unitdate>
          </unittitle>
@@ -6431,7 +6431,7 @@
    <!--EAD SPA_666-->
    <c level="file">
       <did>
-         <container type="Box">194</container>
+         <container type="Box" label="Box">194</container>
          <unittitle>Scherzo Humoristique <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -6453,7 +6453,7 @@
    <!--EAD SPA_667-->
    <c level="file">
       <did>
-         <container type="Box">188</container>
+         <container type="Box" label="Box">188</container>
          <unittitle>Ala et Lolly: Suite Scythe <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -6474,7 +6474,7 @@
    <!--EAD SPA_668-->
    <c level="file">
       <did>
-         <container type="Box">188</container>
+         <container type="Box" label="Box">188</container>
          <unittitle>Suite du Ballet Chout, Suite for Orchestra] <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -6495,7 +6495,7 @@
    <!--EAD SPA_669-->
    <c level="file">
       <did>
-         <container type="Box">188</container>
+         <container type="Box" label="Box">188</container>
          <unittitle>L'Enfant Prodigue, Suite Symphonique <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -6517,7 +6517,7 @@
    <!--EAD SPA_670-->
    <c level="file">
       <did>
-         <container type="Box">196</container>
+         <container type="Box" label="Box">196</container>
          <unittitle>A Summer Day <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -6538,7 +6538,7 @@
    <!--EAD SPA_671-->
    <c level="file">
       <did>
-         <container type="Box">196</container>
+         <container type="Box" label="Box">196</container>
          <unittitle>Летний Деня, детская сюита/Summer Day, Children's Suite
                <unitdate>1947</unitdate>
          </unittitle>
@@ -6560,7 +6560,7 @@
    <!--EAD SPA_672-->
    <c level="file">
       <did>
-         <container type="Box">196</container>
+         <container type="Box" label="Box">196</container>
          <unittitle>Семен Котоко, сюита для симфонического оркестра/Semyon Kotko, Suite for
             Symphonic Orchestra <unitdate>1947</unitdate>
          </unittitle>
@@ -6583,7 +6583,7 @@
    <!--EAD SPA_673-->
    <c level="file">
       <did>
-         <container type="Box">196</container>
+         <container type="Box" label="Box">196</container>
          <unittitle>Валсы: Сюита для симфонического оркестра <unitdate>1961</unitdate>
          </unittitle>
          <note>
@@ -6605,7 +6605,7 @@
    <!--EAD SPA_674-->
    <c level="file">
       <did>
-         <container type="Box">196</container>
+         <container type="Box" label="Box">196</container>
          <unittitle>1941-й год/The Year 1941 <unitdate>1973</unitdate>
          </unittitle>
          <note>
@@ -6627,7 +6627,7 @@
    <!--EAD SPA_675-->
    <c level="file">
       <did>
-         <container type="Box">196</container>
+         <container type="Box" label="Box">196</container>
          <unittitle>Летная Ночь <unitdate>1965</unitdate>
          </unittitle>
          <note>
@@ -6649,7 +6649,7 @@
    <!--EAD SPA_676-->
    <c level="file">
       <did>
-         <container type="Box">196</container>
+         <container type="Box" label="Box">196</container>
          <unittitle>Prokofieff Orchestral Anthology: Classical Symphony, The Love for Three Oranges,
             Symphonic Suite <unitdate>1998</unitdate>
          </unittitle>
@@ -6671,7 +6671,7 @@
    <!--EAD SPA_677-->
    <c level="file">
       <did>
-         <container type="Box">197</container>
+         <container type="Box" label="Box">197</container>
          <unittitle>Night on the Bare Mountain (Musorgsky); Prince Igor Overture (Borodin);
             Lieutenant Kijé, symphonic suite (Prokofiev) <unitdate>1998</unitdate>
          </unittitle>
@@ -6696,7 +6696,7 @@
    <!--EAD SPA_678-->
    <c level="file">
       <did>
-         <container type="Box">197</container>
+         <container type="Box" label="Box">197</container>
          <unittitle>Осеннее, симфонический ескиз <unitdate>1960</unitdate>
          </unittitle>
          <note>
@@ -6718,7 +6718,7 @@
    <!--EAD SPA_679-->
    <c level="file">
       <did>
-         <container type="Box">197</container>
+         <container type="Box" label="Box">197</container>
          <unittitle>Анданте; Танец/Andante; Dance <unitdate>1965</unitdate>
          </unittitle>
          <note>
@@ -6741,7 +6741,7 @@
    <!--EAD SPA_680-->
    <c level="file">
       <did>
-         <container type="Box">188</container>
+         <container type="Box" label="Box">188</container>
          <unittitle>Ода на окончание войны <unitdate>1969</unitdate>
          </unittitle>
          <note>
@@ -6763,7 +6763,7 @@
    <!--EAD SPA_681-->
    <c level="file">
       <did>
-         <container type="Box">197</container>
+         <container type="Box" label="Box">197</container>
          <unittitle>March for a Spartakiade <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -6784,7 +6784,7 @@
    <!--EAD SPA_682-->
    <c level="file">
       <did>
-         <container type="Box">197</container>
+         <container type="Box" label="Box">197</container>
          <unittitle>Marching Song <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -6805,7 +6805,7 @@
    <!--EAD SPA_683-->
    <c level="file">
       <did>
-         <container type="Box">197</container>
+         <container type="Box" label="Box">197</container>
          <unittitle>March for the Muzgiz Competition <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -6826,7 +6826,7 @@
    <!--EAD SPA_684-->
    <c level="file">
       <did>
-         <container type="Box">197</container>
+         <container type="Box" label="Box">197</container>
          <unittitle>Across a Little Bridge <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -6847,7 +6847,7 @@
    <!--EAD SPA_685-->
    <c level="file">
       <did>
-         <container type="Box">197</container>
+         <container type="Box" label="Box">197</container>
          <unittitle>Симфоническая Песнь/Chant Symponique <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -6869,7 +6869,7 @@
    <!--EAD SPA_686-->
    <c level="file">
       <did>
-         <container type="Box">197</container>
+         <container type="Box" label="Box">197</container>
          <unittitle>Пушкииана <unitdate>1962</unitdate>
          </unittitle>
          <note>
@@ -6891,7 +6891,7 @@
    <!--EAD SPA_687-->
    <c level="file">
       <did>
-         <container type="Box">197</container>
+         <container type="Box" label="Box">197</container>
          <unittitle>Марш и скерцо из оперы "Любовь к трем апельсинам"/March and Scherzo from the
             Opera "Love for Three Oranges" <unitdate>1978</unitdate>
          </unittitle>
@@ -6915,7 +6915,7 @@
    <!--EAD SPA_688-->
    <c level="file">
       <did>
-         <container type="Box">188</container>
+         <container type="Box" label="Box">188</container>
          <unittitle>Marche et Scherzo de l'opera "L'Amour des Trois Oranges" [March and Scherzo from
             the opera "The Love for Three Oranges"] <unitdate>Unknown</unitdate>
          </unittitle>
@@ -6937,7 +6937,7 @@
    <!--EAD SPA_689-->
    <c level="file">
       <did>
-         <container type="Box">197</container>
+         <container type="Box" label="Box">197</container>
          <unittitle>Dance of the Masks (The Duenna)/Танец Масок из оперы "Обручение в монастыре"
             (Дуенья) <unitdate>Unknown</unitdate>
          </unittitle>
@@ -6960,7 +6960,7 @@
    <!--EAD SPA_690-->
    <c level="file">
       <did>
-         <container type="Box">197</container>
+         <container type="Box" label="Box">197</container>
          <unittitle>Lieutenant Kije: Suite Symphonique <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -6981,7 +6981,7 @@
    <!--EAD SPA_691-->
    <c level="file">
       <did>
-         <container type="Box">197</container>
+         <container type="Box" label="Box">197</container>
          <unittitle>Поручик Киже: Сюита из музыки к одноименному кинофильму/ Lieutenant Kizhe: Suite
             from the music to the film of the same name <unitdate>2010</unitdate>
          </unittitle>
@@ -7003,7 +7003,7 @@
    <!--EAD SPA_692-->
    <c level="file">
       <did>
-         <container type="Box">193</container>
+         <container type="Box" label="Box">193</container>
          <unittitle>Пять мелодий для скрипки и фортепиано/ Five Melodies for Violin and Piano
                <unitdate>1945</unitdate>
          </unittitle>
@@ -7027,7 +7027,7 @@
    <!--EAD SPA_693-->
    <c level="file">
       <did>
-         <container type="Box">193</container>
+         <container type="Box" label="Box">193</container>
          <unittitle>P'esa dlia arfy [Piece for harp] <unitdate>1955</unitdate>
          </unittitle>
          <note>
@@ -7050,7 +7050,7 @@
    <!--EAD SPA_694-->
    <c level="file">
       <did>
-         <container type="Box">193</container>
+         <container type="Box" label="Box">193</container>
          <unittitle>Cinq Mélodies pour violon et piano <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -7072,7 +7072,7 @@
    <!--EAD SPA_695-->
    <c level="file">
       <did>
-         <container type="Box">193</container>
+         <container type="Box" label="Box">193</container>
          <unittitle>Sonata (in F minor) for violin and piano <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -7094,7 +7094,7 @@
    <!--EAD SPA_696-->
    <c level="file">
       <did>
-         <container type="Box">193</container>
+         <container type="Box" label="Box">193</container>
          <unittitle>Sonate No. 1 für Violine und Klavier/ for Violin and Piano
                <unitdate>Unknown</unitdate>
          </unittitle>
@@ -7116,7 +7116,7 @@
    <!--EAD SPA_697-->
    <c level="file">
       <did>
-         <container type="Box">193</container>
+         <container type="Box" label="Box">193</container>
          <unittitle>Соната No. 1 для скрипки и фортепьяно/ Sonata No. 1 for violin and piano
                <unitdate>1957</unitdate>
          </unittitle>
@@ -7140,7 +7140,7 @@
    <!--EAD SPA_698-->
    <c level="file">
       <did>
-         <container type="Box">193</container>
+         <container type="Box" label="Box">193</container>
          <unittitle>Sonata No. 1 for Violin and Piano <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -7162,7 +7162,7 @@
    <!--EAD SPA_699-->
    <c level="file">
       <did>
-         <container type="Box">193</container>
+         <container type="Box" label="Box">193</container>
          <unittitle>Sonata No. 1 for Violin and Piano <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -7183,7 +7183,7 @@
    <!--EAD SPA_700-->
    <c level="file">
       <did>
-         <container type="Box">193</container>
+         <container type="Box" label="Box">193</container>
          <unittitle>Sonata No. 2 for Flute and Piano <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -7204,7 +7204,7 @@
    <!--EAD SPA_701-->
    <c level="file">
       <did>
-         <container type="Box">193</container>
+         <container type="Box" label="Box">193</container>
          <unittitle>Sonate No. 2 pour Flûte et Piano (ou Violon et Piano)
                <unitdate>Unknown</unitdate>
          </unittitle>
@@ -7227,7 +7227,7 @@
    <!--EAD SPA_702-->
    <c level="file">
       <did>
-         <container type="Box">193</container>
+         <container type="Box" label="Box">193</container>
          <unittitle>Вторая Соната для скрипки (или флейты и фортепьяно/ Second sonata for violon (or
             flauto) and piano <unitdate>1958</unitdate>
          </unittitle>
@@ -7251,7 +7251,7 @@
    <!--EAD SPA_703-->
    <c level="file">
       <did>
-         <container type="Box">195</container>
+         <container type="Box" label="Box">195</container>
          <unittitle>Sonate für violine solo [Sonata for Solo Violin] <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -7272,7 +7272,7 @@
    <!--EAD SPA_704-->
    <c level="file">
       <did>
-         <container type="Box">195</container>
+         <container type="Box" label="Box">195</container>
          <unittitle>Sonate pour violon seul <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -7293,7 +7293,7 @@
    <!--EAD SPA_705-->
    <c level="file">
       <did>
-         <container type="Box">195</container>
+         <container type="Box" label="Box">195</container>
          <unittitle>Sonate pour violoncelle et piano [Sonata for Cello and Piano]
                <unitdate>1986</unitdate>
          </unittitle>
@@ -7315,7 +7315,7 @@
    <!--EAD SPA_706-->
    <c level="file">
       <did>
-         <container type="Box">195</container>
+         <container type="Box" label="Box">195</container>
          <unittitle>Sonate fo Violoncelle &amp; Piano <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -7337,7 +7337,7 @@
    <!--EAD SPA_707-->
    <c level="file">
       <did>
-         <container type="Box">195</container>
+         <container type="Box" label="Box">195</container>
          <unittitle>Sonate Violoncello und Klavier/Violoncello and Piano
                <unitdate>Unknown</unitdate>
          </unittitle>
@@ -7359,7 +7359,7 @@
    <!--EAD SPA_708-->
    <c level="file">
       <did>
-         <container type="Box">195</container>
+         <container type="Box" label="Box">195</container>
          <unittitle>Sonate für Violine und Klavier/ Sonata for Violin and Piano
                <unitdate>Unknown</unitdate>
          </unittitle>
@@ -7382,7 +7382,7 @@
    <!--EAD SPA_709-->
    <c level="file">
       <did>
-         <container type="Box">195</container>
+         <container type="Box" label="Box">195</container>
          <unittitle>Sonate für Flöte und Klavier/ Sonata for Flute and Piano
                <unitdate>1998</unitdate>
          </unittitle>
@@ -7404,7 +7404,7 @@
    <!--EAD SPA_710-->
    <c level="file">
       <did>
-         <container type="Box">195</container>
+         <container type="Box" label="Box">195</container>
          <unittitle>Sonate für violincello und Klavier/ Sonata for Violoncello and Piano
                <unitdate>Unknown</unitdate>
          </unittitle>
@@ -7427,7 +7427,7 @@
    <!--EAD SPA_711-->
    <c level="file">
       <did>
-         <container type="Box">195</container>
+         <container type="Box" label="Box">195</container>
          <unittitle>Соната для двух скрипок <unitdate>1962</unitdate>
          </unittitle>
          <note>
@@ -7450,7 +7450,7 @@
    <!--EAD SPA_712-->
    <c level="file">
       <did>
-         <container type="Box">195</container>
+         <container type="Box" label="Box">195</container>
          <unittitle>Sonata for Flute and Piano (Op. 94) <unitdate>1958</unitdate>
          </unittitle>
          <note>
@@ -7472,7 +7472,7 @@
    <!--EAD SPA_713-->
    <c level="file">
       <did>
-         <container type="Box">195</container>
+         <container type="Box" label="Box">195</container>
          <unittitle>Sonata for Flute and Piano <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -7494,7 +7494,7 @@
    <!--EAD SPA_714-->
    <c level="file">
       <did>
-         <container type="Box">195</container>
+         <container type="Box" label="Box">195</container>
          <unittitle>Adagio for Violoncello and Piano <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -7515,7 +7515,7 @@
    <!--EAD SPA_715-->
    <c level="file">
       <did>
-         <container type="Box">195</container>
+         <container type="Box" label="Box">195</container>
          <unittitle>Соната для скрипки и фортепиано/onata for violino and piano
                <unitdate>2005</unitdate>
          </unittitle>
@@ -7538,7 +7538,7 @@
    <!--EAD SPA_716-->
    <c level="file">
       <did>
-         <container type="Box">195</container>
+         <container type="Box" label="Box">195</container>
          <unittitle>Соната для двух скрипок/Sonata for Two Violins <unitdate>2011</unitdate>
          </unittitle>
          <note>
@@ -7560,7 +7560,7 @@
    <!--EAD SPA_717-->
    <c level="file">
       <did>
-         <container type="Box">195</container>
+         <container type="Box" label="Box">195</container>
          <unittitle>Соната для скрипки соло/ Sonata for Violin Solo <unitdate>2011</unitdate>
          </unittitle>
          <note>
@@ -7582,7 +7582,7 @@
    <!--EAD SPA_718-->
    <c level="file">
       <did>
-         <container type="Box">198</container>
+         <container type="Box" label="Box">198</container>
          <unittitle>Sonatas for Piano: Volume One, Sonatas 1-5 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -7605,7 +7605,7 @@
    <!--EAD SPA_719-->
    <c level="file">
       <did>
-         <container type="Box">198</container>
+         <container type="Box" label="Box">198</container>
          <unittitle>Sonatas for Piano: Volume Two, Sonatas 6-9 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -7627,7 +7627,7 @@
    <!--EAD SPA_720-->
    <c level="file">
       <did>
-         <container type="Box">198</container>
+         <container type="Box" label="Box">198</container>
          <unittitle>Shorter Piano Works <unitdate>1992</unitdate>
          </unittitle>
          <note>
@@ -7649,7 +7649,7 @@
    <!--EAD SPA_721-->
    <c level="file">
       <did>
-         <container type="Box">198</container>
+         <container type="Box" label="Box">198</container>
          <unittitle>Classical Symphony' 'Romeo and Juliet' and other works in original
             transcriptions for solo piano <unitdate>1995</unitdate>
          </unittitle>
@@ -7676,7 +7676,7 @@
    <!--EAD SPA_722-->
    <c level="file">
       <did>
-         <container type="Box">198</container>
+         <container type="Box" label="Box">198</container>
          <unittitle>Erste Klavierstücke/ First Piano Compositions <unitdate>1977</unitdate>
          </unittitle>
          <note>
@@ -7701,7 +7701,7 @@
    <!--EAD SPA_723-->
    <c level="file">
       <did>
-         <container type="Box">198</container>
+         <container type="Box" label="Box">198</container>
          <unittitle>Vier Etüden für Klavier <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -7722,7 +7722,7 @@
    <!--EAD SPA_724-->
    <c level="file">
       <did>
-         <container type="Box">198</container>
+         <container type="Box" label="Box">198</container>
          <unittitle>Vier Etüden für Klavier: Etüde No. 1 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -7743,7 +7743,7 @@
    <!--EAD SPA_725-->
    <c level="file">
       <did>
-         <container type="Box">198</container>
+         <container type="Box" label="Box">198</container>
          <unittitle>Vier Etüden für Klavier: Etüde No. 2 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -7764,7 +7764,7 @@
    <!--EAD SPA_726-->
    <c level="file">
       <did>
-         <container type="Box">198</container>
+         <container type="Box" label="Box">198</container>
          <unittitle>Vier Etüden für Klavier: Etüde No. 3 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -7785,7 +7785,7 @@
    <!--EAD SPA_727-->
    <c level="file">
       <did>
-         <container type="Box">198</container>
+         <container type="Box" label="Box">198</container>
          <unittitle>Vier Etüden für Klavier: Etüde No. 4 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -7806,7 +7806,7 @@
    <!--EAD SPA_728-->
    <c level="file">
       <did>
-         <container type="Box">198</container>
+         <container type="Box" label="Box">198</container>
          <unittitle>Toccata <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -7827,7 +7827,7 @@
    <!--EAD SPA_729-->
    <c level="file">
       <did>
-         <container type="Box">198</container>
+         <container type="Box" label="Box">198</container>
          <unittitle>Toccata für die Orgel <unitdate>1972</unitdate>
          </unittitle>
          <note>
@@ -7848,7 +7848,7 @@
    <!--EAD SPA_730-->
    <c level="file">
       <did>
-         <container type="Box">198</container>
+         <container type="Box" label="Box">198</container>
          <unittitle>Toccata <unitdate>1913</unitdate>
          </unittitle>
          <note>
@@ -7869,7 +7869,7 @@
    <!--EAD SPA_731-->
    <c level="file">
       <did>
-         <container type="Box">199</container>
+         <container type="Box" label="Box">199</container>
          <unittitle>Десеть пьес для фортепиано <unitdate>1962</unitdate>
          </unittitle>
          <note>
@@ -7891,7 +7891,7 @@
    <!--EAD SPA_732-->
    <c level="file">
       <did>
-         <container type="Box">199</container>
+         <container type="Box" label="Box">199</container>
          <unittitle>Три Гавота для фортепиано <unitdate>1954</unitdate>
          </unittitle>
          <note>
@@ -7914,7 +7914,7 @@
    <!--EAD SPA_733-->
    <c level="file">
       <did>
-         <container type="Box">199</container>
+         <container type="Box" label="Box">199</container>
          <unittitle>Mazurka <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -7935,7 +7935,7 @@
    <!--EAD SPA_734-->
    <c level="file">
       <did>
-         <container type="Box">199</container>
+         <container type="Box" label="Box">199</container>
          <unittitle>Prelude <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -7956,7 +7956,7 @@
    <!--EAD SPA_735-->
    <c level="file">
       <did>
-         <container type="Box">199</container>
+         <container type="Box" label="Box">199</container>
          <unittitle>Прелюдия для фортепиано или арфы <unitdate>1950</unitdate>
          </unittitle>
          <note>
@@ -7978,7 +7978,7 @@
    <!--EAD SPA_736-->
    <c level="file">
       <did>
-         <container type="Box">199</container>
+         <container type="Box" label="Box">199</container>
          <unittitle>Scherzo Humoristique <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -7999,7 +7999,7 @@
    <!--EAD SPA_737-->
    <c level="file">
       <did>
-         <container type="Box">199</container>
+         <container type="Box" label="Box">199</container>
          <unittitle>Zehn Kleine Klavierstücke <unitdate>1972</unitdate>
          </unittitle>
          <note>
@@ -8020,7 +8020,7 @@
    <!--EAD SPA_738-->
    <c level="file">
       <did>
-         <container type="Box">199</container>
+         <container type="Box" label="Box">199</container>
          <unittitle>Zweite Sonata für Klavier <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -8041,7 +8041,7 @@
    <!--EAD SPA_739-->
    <c level="file">
       <did>
-         <container type="Box">199</container>
+         <container type="Box" label="Box">199</container>
          <unittitle>Sarcasms for Piano Solo <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -8062,7 +8062,7 @@
    <!--EAD SPA_740-->
    <c level="file">
       <did>
-         <container type="Box">199</container>
+         <container type="Box" label="Box">199</container>
          <unittitle>Sarcasmes <unitdate>1971</unitdate>
          </unittitle>
          <note>
@@ -8083,7 +8083,7 @@
    <!--EAD SPA_741-->
    <c level="file">
       <did>
-         <container type="Box">199</container>
+         <container type="Box" label="Box">199</container>
          <unittitle>Visions Fugitives <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -8104,7 +8104,7 @@
    <!--EAD SPA_742-->
    <c level="file">
       <did>
-         <container type="Box">199</container>
+         <container type="Box" label="Box">199</container>
          <unittitle>Мимолетности для фортепиано <unitdate>1982</unitdate>
          </unittitle>
          <note>
@@ -8126,7 +8126,7 @@
    <!--EAD SPA_743-->
    <c level="file">
       <did>
-         <container type="Box">199</container>
+         <container type="Box" label="Box">199</container>
          <unittitle>Troisième sonate (d'après des vieux cahiers) <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -8147,7 +8147,7 @@
    <!--EAD SPA_744-->
    <c level="file">
       <did>
-         <container type="Box">199</container>
+         <container type="Box" label="Box">199</container>
          <unittitle>Quatrième sonate (d'après des vieux cahiers) <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -8168,7 +8168,7 @@
    <!--EAD SPA_745-->
    <c level="file">
       <did>
-         <container type="Box">199</container>
+         <container type="Box" label="Box">199</container>
          <unittitle>Соната No. 4 для фортепиано <unitdate>1953</unitdate>
          </unittitle>
          <note>
@@ -8190,7 +8190,7 @@
    <!--EAD SPA_746-->
    <c level="file">
       <did>
-         <container type="Box">199</container>
+         <container type="Box" label="Box">199</container>
          <unittitle>Vospominaniia (Op. 29) - Miaskovskii; Marsh (Op. 33) - Prokofiev S [Love for
             Three Oranges, March] <unitdate>1954</unitdate>
          </unittitle>
@@ -8214,7 +8214,7 @@
    <!--EAD SPA_747-->
    <c level="file">
       <did>
-         <container type="Box">199</container>
+         <container type="Box" label="Box">199</container>
          <unittitle>Сказки Староя Бабушки; Тарантелла (А. Гедике) <unitdate>1954</unitdate>
          </unittitle>
          <note>
@@ -8237,7 +8237,7 @@
    <!--EAD SPA_748-->
    <c level="file">
       <did>
-         <container type="Box">199</container>
+         <container type="Box" label="Box">199</container>
          <unittitle>Old Grandmother's Tales <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -8258,7 +8258,7 @@
    <!--EAD SPA_749-->
    <c level="file">
       <did>
-         <container type="Box">199</container>
+         <container type="Box" label="Box">199</container>
          <unittitle>Four Pieces <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -8279,7 +8279,7 @@
    <!--EAD SPA_750-->
    <c level="file">
       <did>
-         <container type="Box">199</container>
+         <container type="Box" label="Box">199</container>
          <unittitle>Cinquième Sonate <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -8300,7 +8300,7 @@
    <!--EAD SPA_751-->
    <c level="file">
       <did>
-         <container type="Box">199</container>
+         <container type="Box" label="Box">199</container>
          <unittitle>Divertissement <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -8321,7 +8321,7 @@
    <!--EAD SPA_752-->
    <c level="file">
       <did>
-         <container type="Box">199</container>
+         <container type="Box" label="Box">199</container>
          <unittitle>Chose en soi <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -8342,7 +8342,7 @@
    <!--EAD SPA_753-->
    <c level="file">
       <did>
-         <container type="Box">199</container>
+         <container type="Box" label="Box">199</container>
          <unittitle>Chose en soi <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -8363,7 +8363,7 @@
    <!--EAD SPA_754-->
    <c level="file">
       <did>
-         <container type="Box">199</container>
+         <container type="Box" label="Box">199</container>
          <unittitle>Six Morceaux <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -8384,7 +8384,7 @@
    <!--EAD SPA_755-->
    <c level="file">
       <did>
-         <container type="Box">199</container>
+         <container type="Box" label="Box">199</container>
          <unittitle>Deux Sonatines <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -8405,7 +8405,7 @@
    <!--EAD SPA_756-->
    <c level="file">
       <did>
-         <container type="Box">199</container>
+         <container type="Box" label="Box">199</container>
          <unittitle>Trois Pièces <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -8426,7 +8426,7 @@
    <!--EAD SPA_757-->
    <c level="file">
       <did>
-         <container type="Box">199</container>
+         <container type="Box" label="Box">199</container>
          <unittitle>Musiques d'enfants: Twelve Easy Pieces for Piano <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -8447,7 +8447,7 @@
    <!--EAD SPA_758-->
    <c level="file">
       <did>
-         <container type="Box">199</container>
+         <container type="Box" label="Box">199</container>
          <unittitle>Детская Музыка: 12 легких пьес для фортепиано <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -8468,7 +8468,7 @@
    <!--EAD SPA_759-->
    <c level="file">
       <did>
-         <container type="Box">199</container>
+         <container type="Box" label="Box">199</container>
          <unittitle>Sonata No. 6 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -8489,7 +8489,7 @@
    <!--EAD SPA_760-->
    <c level="file">
       <did>
-         <container type="Box">199</container>
+         <container type="Box" label="Box">199</container>
          <unittitle>Sechste Sonate <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -8510,7 +8510,7 @@
    <!--EAD SPA_761-->
    <c level="file">
       <did>
-         <container type="Box">199</container>
+         <container type="Box" label="Box">199</container>
          <unittitle>Соната No. 6 для фортепиано <unitdate>1978</unitdate>
          </unittitle>
          <note>
@@ -8532,7 +8532,7 @@
    <!--EAD SPA_762-->
    <c level="file">
       <did>
-         <container type="Box">199</container>
+         <container type="Box" label="Box">199</container>
          <unittitle>Седмая Соната для фортепиано /Seventh Sonata for piano <unitdate>1943</unitdate>
          </unittitle>
          <note>
@@ -8554,7 +8554,7 @@
    <!--EAD SPA_763-->
    <c level="file">
       <did>
-         <container type="Box">199</container>
+         <container type="Box" label="Box">199</container>
          <unittitle>Siebente Sonate <unitdate>1968</unitdate>
          </unittitle>
          <note>
@@ -8575,7 +8575,7 @@
    <!--EAD SPA_764-->
    <c level="file">
       <did>
-         <container type="Box">200</container>
+         <container type="Box" label="Box">200</container>
          <unittitle>Eighth Sonata [Piano Sonata No. 8] <unitdate>1946</unitdate>
          </unittitle>
          <note>
@@ -8597,7 +8597,7 @@
    <!--EAD SPA_765-->
    <c level="file">
       <did>
-         <container type="Box">200</container>
+         <container type="Box" label="Box">200</container>
          <unittitle>Sonata No. 8 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -8618,7 +8618,7 @@
    <!--EAD SPA_766-->
    <c level="file">
       <did>
-         <container type="Box">200</container>
+         <container type="Box" label="Box">200</container>
          <unittitle>Three Pieces (Intermezzo, Gavotte, Valse Lente) [Cinderella, Three pieces for
             piano] <unitdate>Unknown</unitdate>
          </unittitle>
@@ -8640,7 +8640,7 @@
    <!--EAD SPA_767-->
    <c level="file">
       <did>
-         <container type="Box">200</container>
+         <container type="Box" label="Box">200</container>
          <unittitle>Neuvième Sonate pour piano [Piano Sonata No. 9] <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -8661,7 +8661,7 @@
    <!--EAD SPA_768-->
    <c level="file">
       <did>
-         <container type="Box">200</container>
+         <container type="Box" label="Box">200</container>
          <unittitle>Neunte Sonate [Piano Sonata No. 9] <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -8682,7 +8682,7 @@
    <!--EAD SPA_769-->
    <c level="file">
       <did>
-         <container type="Box">200</container>
+         <container type="Box" label="Box">200</container>
          <unittitle>Sonata No. 9 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -8703,7 +8703,7 @@
    <!--EAD SPA_770-->
    <c level="file">
       <did>
-         <container type="Box">200</container>
+         <container type="Box" label="Box">200</container>
          <unittitle>Roméo et Juliette Dix pièces pour piano [Romeo and Juliet, ten pieces, for
             piano] <unitdate>Unknown</unitdate>
          </unittitle>
@@ -8725,7 +8725,7 @@
    <!--EAD SPA_771-->
    <c level="file">
       <did>
-         <container type="Box">200</container>
+         <container type="Box" label="Box">200</container>
          <unittitle>Piano Sonata No. 6 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -8746,7 +8746,7 @@
    <!--EAD SPA_772-->
    <c level="file">
       <did>
-         <container type="Box">200</container>
+         <container type="Box" label="Box">200</container>
          <unittitle>Piano Sonata No. 7 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -8767,7 +8767,7 @@
    <!--EAD SPA_773-->
    <c level="file">
       <did>
-         <container type="Box">200</container>
+         <container type="Box" label="Box">200</container>
          <unittitle>Piano Sonata No. 8 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -8788,7 +8788,7 @@
    <!--EAD SPA_774-->
    <c level="file">
       <did>
-         <container type="Box">200</container>
+         <container type="Box" label="Box">200</container>
          <unittitle>Piano Sonata No. 9 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -8809,7 +8809,7 @@
    <!--EAD SPA_775-->
    <c level="file">
       <did>
-         <container type="Box">200</container>
+         <container type="Box" label="Box">200</container>
          <unittitle>Romeo and Juliet: 10 pieces for piano <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -8830,7 +8830,7 @@
    <!--EAD SPA_776-->
    <c level="file">
       <did>
-         <container type="Box">200</container>
+         <container type="Box" label="Box">200</container>
          <unittitle>Aschenbrödel: Zehn Klavierstücke aus dem Ballett [Cinderella: ten piano pieces
             from the ballet] <unitdate>1997</unitdate>
          </unittitle>
@@ -8852,7 +8852,7 @@
    <!--EAD SPA_777-->
    <c level="file">
       <did>
-         <container type="Box">200</container>
+         <container type="Box" label="Box">200</container>
          <unittitle>Waltzes for two pianos, Schubert-Prokofiev [Transcription, Schubert Waltzes]
                <unitdate>Unknown</unitdate>
          </unittitle>
@@ -8876,7 +8876,7 @@
    <!--EAD SPA_778-->
    <c level="file">
       <did>
-         <container type="Box">200</container>
+         <container type="Box" label="Box">200</container>
          <unittitle>Marsh' iz Opery "Liubov' k Trem Apel'sinam" (Marche de l'opéra "L' Amour des
             Trois Oranges") [Love for Three Oranges, March and Scherzo] <unitdate>Unknown</unitdate>
          </unittitle>
@@ -8899,7 +8899,7 @@
    <!--EAD SPA_779-->
    <c level="file">
       <did>
-         <container type="Box">200</container>
+         <container type="Box" label="Box">200</container>
          <unittitle>Скерцо из оперы "Любов к трем апельсинам/Scherzo de l'opéra "L'Amour des Trois
             Oranges" <unitdate>Unknown</unitdate>
          </unittitle>
@@ -8922,7 +8922,7 @@
    <!--EAD SPA_780-->
    <c level="file">
       <did>
-         <container type="Box">200</container>
+         <container type="Box" label="Box">200</container>
          <unittitle>Peter und der Wolf <unitdate>1975</unitdate>
          </unittitle>
          <note>
@@ -8944,7 +8944,7 @@
    <!--EAD SPA_781-->
    <c level="file">
       <did>
-         <container type="Box">200</container>
+         <container type="Box" label="Box">200</container>
          <unittitle>Gavotte No.4 [Hamlet] <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -8965,7 +8965,7 @@
    <!--EAD SPA_782-->
    <c level="file">
       <did>
-         <container type="Box">200</container>
+         <container type="Box" label="Box">200</container>
          <unittitle>Gavotte No. 4 [Hamlet] <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -8986,7 +8986,7 @@
    <!--EAD SPA_783-->
    <c level="file">
       <did>
-         <container type="Box">200</container>
+         <container type="Box" label="Box">200</container>
          <unittitle>March No. 1 from the opera "The Love of Three Oranges"
                <unitdate>Unknown</unitdate>
          </unittitle>
@@ -9009,7 +9009,7 @@
    <!--EAD SPA_784-->
    <c level="file">
       <did>
-         <container type="Box">200</container>
+         <container type="Box" label="Box">200</container>
          <unittitle>Symphonie Classique [Symphony No. 1 (Classical)] <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -9030,7 +9030,7 @@
    <!--EAD SPA_785-->
    <c level="file">
       <did>
-         <container type="Box">200</container>
+         <container type="Box" label="Box">200</container>
          <unittitle>Sonatas for Piano: Volume One, Sonatas 1-5 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -9052,7 +9052,7 @@
    <!--EAD SPA_786-->
    <c level="file">
       <did>
-         <container type="Box">201</container>
+         <container type="Box" label="Box">201</container>
          <unittitle>Selected works for the piano <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -9074,7 +9074,7 @@
    <!--EAD SPA_787-->
    <c level="file">
       <did>
-         <container type="Box">201</container>
+         <container type="Box" label="Box">201</container>
          <unittitle>Sarcasmes [Sarcasms, for piano] <unitdate>1941</unitdate>
          </unittitle>
          <note>
@@ -9095,7 +9095,7 @@
    <!--EAD SPA_788-->
    <c level="file">
       <did>
-         <container type="Box">201</container>
+         <container type="Box" label="Box">201</container>
          <unittitle>Six Pieces for Piano <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -9116,7 +9116,7 @@
    <!--EAD SPA_789-->
    <c level="file">
       <did>
-         <container type="Box">201</container>
+         <container type="Box" label="Box">201</container>
          <unittitle>10 pieces from the ballet "Cinderella" <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -9137,7 +9137,7 @@
    <!--EAD SPA_790-->
    <c level="file">
       <did>
-         <container type="Box">201</container>
+         <container type="Box" label="Box">201</container>
          <unittitle>Music for Young People for the Piano <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -9159,7 +9159,7 @@
    <!--EAD SPA_791-->
    <c level="file">
       <did>
-         <container type="Box">201</container>
+         <container type="Box" label="Box">201</container>
          <unittitle>Sonata No. 7 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -9181,7 +9181,7 @@
    <!--EAD SPA_792-->
    <c level="file">
       <did>
-         <container type="Box">201</container>
+         <container type="Box" label="Box">201</container>
          <unittitle>Teuflische Einflüsterung/Наваждене/Suggestion Diabolique/Devlish Inspiration
                <unitdate>Unknown</unitdate>
          </unittitle>
@@ -9203,7 +9203,7 @@
    <!--EAD SPA_793-->
    <c level="file">
       <did>
-         <container type="Box">201</container>
+         <container type="Box" label="Box">201</container>
          <unittitle>Sonatas for piano [Vol. 1] <unitdate>2011</unitdate>
          </unittitle>
          <note>
@@ -9224,7 +9224,7 @@
    <!--EAD SPA_794-->
    <c level="file">
       <did>
-         <container type="Box">201</container>
+         <container type="Box" label="Box">201</container>
          <unittitle>Sonatas for piano [Vol. 2] <unitdate>2011</unitdate>
          </unittitle>
          <note>
@@ -9245,7 +9245,7 @@
    <!--EAD SPA_795-->
    <c level="file">
       <did>
-         <container type="Box">201</container>
+         <container type="Box" label="Box">201</container>
          <unittitle>Соната No. 6 для фортепиано/Sonata No. 6 for piano <unitdate>1994</unitdate>
          </unittitle>
          <note>
@@ -9266,7 +9266,7 @@
    <!--EAD SPA_796-->
    <c level="file">
       <did>
-         <container type="Box">201</container>
+         <container type="Box" label="Box">201</container>
          <unittitle>Соната No. 7 для фортепиано/Sonata No. 7 for piano <unitdate>2002</unitdate>
          </unittitle>
          <note>
@@ -9287,7 +9287,7 @@
    <!--EAD SPA_797-->
    <c level="file">
       <did>
-         <container type="Box">201</container>
+         <container type="Box" label="Box">201</container>
          <unittitle>Десеть пьес для фортепиано/Ten Pieces for piano <unitdate>2005</unitdate>
          </unittitle>
          <note>
@@ -9308,7 +9308,7 @@
    <!--EAD SPA_798-->
    <c level="file">
       <did>
-         <container type="Box">201</container>
+         <container type="Box" label="Box">201</container>
          <unittitle>Мимолетности для фортепиано/Visions fugitives <unitdate>2005</unitdate>
          </unittitle>
          <note>
@@ -9329,7 +9329,7 @@
    <!--EAD SPA_799-->
    <c level="file">
       <did>
-         <container type="Box">201</container>
+         <container type="Box" label="Box">201</container>
          <unittitle>Ромео и Джулиьетта: Сюита из балета/Romeo and Juliet: Suite from the Ballet
                <unitdate>2005</unitdate>
          </unittitle>
@@ -9352,7 +9352,7 @@
    <!--EAD SPA_800-->
    <c level="file">
       <did>
-         <container type="Box">201</container>
+         <container type="Box" label="Box">201</container>
          <unittitle>Сказки старой бабушки/Old Granny Tales <unitdate>2005</unitdate>
          </unittitle>
          <note>
@@ -9373,7 +9373,7 @@
    <!--EAD SPA_801-->
    <c level="file">
       <did>
-         <container type="Box">201</container>
+         <container type="Box" label="Box">201</container>
          <unittitle>Детская музыка: Двенадцать легких пьес для фортепиано/Children's Music: Twelve
             easy pieces for piano <unitdate>[2002-2005]</unitdate>
          </unittitle>
@@ -9395,7 +9395,7 @@
    <!--EAD SPA_802-->
    <c level="file">
       <did>
-         <container type="Box">201</container>
+         <container type="Box" label="Box">201</container>
          <unittitle>Две сонатины для фортепиано/Two Sonatinas for piano <unitdate>2011</unitdate>
          </unittitle>
          <note>
@@ -9416,7 +9416,7 @@
    <!--EAD SPA_803-->
    <c level="file">
       <did>
-         <container type="Box">201</container>
+         <container type="Box" label="Box">201</container>
          <unittitle>Три пьесы для фортепиано/Three pieces for paino <unitdate>2011</unitdate>
          </unittitle>
          <note>
@@ -9437,7 +9437,7 @@
    <!--EAD SPA_804-->
    <c level="file">
       <did>
-         <container type="Box">201</container>
+         <container type="Box" label="Box">201</container>
          <unittitle>Сарказмы для фортепиано/ Sarcasms for piano <unitdate>2002</unitdate>
          </unittitle>
          <note>
@@ -9458,7 +9458,7 @@
    <!--EAD SPA_805-->
    <c level="file">
       <did>
-         <container type="Box">201</container>
+         <container type="Box" label="Box">201</container>
          <unittitle>Соната No. 3 (из старых тетрадей) для фортепиано/Sonata No. 3 (From old albums)
             for piano <unitdate>2005</unitdate>
          </unittitle>
@@ -9480,7 +9480,7 @@
    <!--EAD SPA_806-->
    <c level="file">
       <did>
-         <container type="Box">216</container>
+         <container type="Box" label="Box">216</container>
          <unittitle>Sonata for Violin and Piano <unitdate>1946</unitdate>
          </unittitle>
          <note>
@@ -9502,7 +9502,7 @@
    <!--EAD SPA_807-->
    <c level="file">
       <did>
-         <container type="Box">216</container>
+         <container type="Box" label="Box">216</container>
          <unittitle>Семен Котко: Сюита для симфонического оркестра/Semyon Kotko: Suite for Symphony
             Orchestra <unitdate>1947</unitdate>
          </unittitle>
@@ -9524,7 +9524,7 @@
    <!--EAD SPA_808-->
    <c level="file">
       <did>
-         <container type="Box">216</container>
+         <container type="Box" label="Box">216</container>
          <unittitle>Марш для спартакиады <unitdate>1937</unitdate>
          </unittitle>
          <note>
@@ -9547,7 +9547,7 @@
    <!--EAD SPA_809-->
    <c level="file">
       <did>
-         <container type="Box">216</container>
+         <container type="Box" label="Box">216</container>
          <unittitle>Два Марша <unitdate>1968</unitdate>
          </unittitle>
          <note>
@@ -9574,7 +9574,7 @@
    <!--EAD SPA_810-->
    <c level="file">
       <did>
-         <container type="Box">216</container>
+         <container type="Box" label="Box">216</container>
          <unittitle>Русская Увертюра/Russian Overture <unitdate>1946</unitdate>
          </unittitle>
          <note>
@@ -9597,7 +9597,7 @@
    <!--EAD SPA_811-->
    <c level="file">
       <did>
-         <container type="Box">216</container>
+         <container type="Box" label="Box">216</container>
          <unittitle>Ссора из балета "Золушка" <unitdate>1945</unitdate>
          </unittitle>
          <note>
@@ -9619,7 +9619,7 @@
    <!--EAD SPA_812-->
    <c level="file">
       <did>
-         <container type="Box">216</container>
+         <container type="Box" label="Box">216</container>
          <unittitle>Une mélodie et trois pièces pour piano <unitdate>1921</unitdate>
          </unittitle>
          <note>
@@ -9642,7 +9642,7 @@
    <!--EAD SPA_813-->
    <c level="file">
       <did>
-         <container type="Box">216</container>
+         <container type="Box" label="Box">216</container>
          <unittitle>Le Joueur <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -9665,7 +9665,7 @@
    <!--EAD SPA_814-->
    <c level="file">
       <did>
-         <container type="Box">217</container>
+         <container type="Box" label="Box">217</container>
          <unittitle>Любовь къ тремъ Апельсинамъ/L'Amour des trois Oranges <unitdate>1922</unitdate>
          </unittitle>
          <note>
@@ -9693,7 +9693,7 @@
    <!--EAD SPA_815-->
    <c level="file">
       <did>
-         <container type="Box">217</container>
+         <container type="Box" label="Box">217</container>
          <unittitle>Третiй Концертъ C-dur/Troisième concerto en Ut <unitdate>1923</unitdate>
          </unittitle>
          <note>
@@ -9714,7 +9714,7 @@
    <!--EAD SPA_816-->
    <c level="file">
       <did>
-         <container type="Box">218</container>
+         <container type="Box" label="Box">218</container>
          <unittitle>Путь Октября <unitdate>1928</unitdate>
          </unittitle>
          <note>
@@ -9737,7 +9737,7 @@
    <!--EAD SPA_817-->
    <c level="file">
       <did>
-         <container type="Box">219</container>
+         <container type="Box" label="Box">219</container>
          <unittitle>Золушка <unitdate>1959</unitdate>
          </unittitle>
          <note>
@@ -9764,7 +9764,7 @@
    <!--EAD SPA_818-->
    <c level="file">
       <did>
-         <container type="Box">219</container>
+         <container type="Box" label="Box">219</container>
          <unittitle>На страже мира <unitdate>1952</unitdate>
          </unittitle>
          <note>
@@ -9789,7 +9789,7 @@
    <!--EAD SPA_819-->
    <c level="file">
       <did>
-         <container type="Box">220</container>
+         <container type="Box" label="Box">220</container>
          <unittitle>Concerto No.2 for piano and orchestra <unitdate>1948</unitdate>
          </unittitle>
          <note>
@@ -9814,7 +9814,7 @@
    <!--EAD SPA_820-->
    <c level="file">
       <did>
-         <container type="Box">202</container>
+         <container type="Box" label="Box">202</container>
          <unittitle>Петя и Волк <unitdate>1972</unitdate>
          </unittitle>
          <note>
@@ -9838,7 +9838,7 @@
    <!--EAD SPA_821-->
    <c level="file">
       <did>
-         <container type="Box">202</container>
+         <container type="Box" label="Box">202</container>
          <unittitle>Фрагменты из музыки и кинофильмам и драматическим спектаклям
                <unitdate>1963</unitdate>
          </unittitle>
@@ -9866,7 +9866,7 @@
    <!--EAD SPA_822-->
    <c level="file">
       <did>
-         <container type="Box">202</container>
+         <container type="Box" label="Box">202</container>
          <unittitle>Три отрывка из симфонической сказки для детей "Пета и Волк"
                <unitdate>1954</unitdate>
          </unittitle>
@@ -9891,7 +9891,7 @@
    <!--EAD SPA_823-->
    <c level="file">
       <did>
-         <container type="Box">202</container>
+         <container type="Box" label="Box">202</container>
          <unittitle>Три фрагмента из музыки к кинофильму "Иван Грозниый" <unitdate>1959</unitdate>
          </unittitle>
          <note>
@@ -9914,7 +9914,7 @@
    <!--EAD SPA_824-->
    <c level="file">
       <did>
-         <container type="Box">202</container>
+         <container type="Box" label="Box">202</container>
          <unittitle>Симфония No. 5/ Symphony No. 5 <unitdate>1958</unitdate>
          </unittitle>
          <note>
@@ -9937,7 +9937,7 @@
    <!--EAD SPA_825-->
    <c level="file">
       <did>
-         <container type="Box">202</container>
+         <container type="Box" label="Box">202</container>
          <unittitle>Сказ о каменном цветке <unitdate>1954</unitdate>
          </unittitle>
          <note>
@@ -9960,7 +9960,7 @@
    <!--EAD SPA_826-->
    <c level="file">
       <did>
-         <container type="Box">202</container>
+         <container type="Box" label="Box">202</container>
          <unittitle>Peter und der Wolf <unitdate>1998</unitdate>
          </unittitle>
          <note>
@@ -9982,7 +9982,7 @@
    <!--EAD SPA_827-->
    <c level="file">
       <did>
-         <container type="Box">202</container>
+         <container type="Box" label="Box">202</container>
          <unittitle>Peter and the Wolf <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -10007,7 +10007,7 @@
    <!--EAD SPA_828-->
    <c level="file">
       <did>
-         <container type="Box">202</container>
+         <container type="Box" label="Box">202</container>
          <unittitle>Peter and the Wolf <unitdate>2000</unitdate>
          </unittitle>
          <note>
@@ -10031,7 +10031,7 @@
    <!--EAD SPA_829-->
    <c level="file">
       <did>
-         <container type="Box">202</container>
+         <container type="Box" label="Box">202</container>
          <unittitle>Peter and the Wolf/Peter und der Wolf/Pierre et le loup
                <unitdate>Unknown</unitdate>
          </unittitle>
@@ -10055,7 +10055,7 @@
    <!--EAD SPA_830-->
    <c level="file">
       <did>
-         <container type="Box">202</container>
+         <container type="Box" label="Box">202</container>
          <unittitle>Peter and the Wolf <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -10079,7 +10079,7 @@
    <!--EAD SPA_831-->
    <c level="file">
       <did>
-         <container type="Box">202</container>
+         <container type="Box" label="Box">202</container>
          <unittitle>Symphony No. 5 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -10101,7 +10101,7 @@
    <!--EAD SPA_832-->
    <c level="file">
       <did>
-         <container type="Box">202</container>
+         <container type="Box" label="Box">202</container>
          <unittitle>Скерцо из пятой симфонии <unitdate>1956</unitdate>
          </unittitle>
          <note>
@@ -10124,7 +10124,7 @@
    <!--EAD SPA_833-->
    <c level="file">
       <did>
-         <container type="Box">202</container>
+         <container type="Box" label="Box">202</container>
          <unittitle>Анданте; Вариации на Русскую тему <unitdate>1960</unitdate>
          </unittitle>
          <note>
@@ -10149,7 +10149,7 @@
    <!--EAD SPA_834-->
    <c level="file">
       <did>
-         <container type="Box">202</container>
+         <container type="Box" label="Box">202</container>
          <unittitle>Музыка к трагедии Шекспира Гамлет <unitdate>1962</unitdate>
          </unittitle>
          <note>
@@ -10173,7 +10173,7 @@
    <!--EAD SPA_835-->
    <c level="file">
       <did>
-         <container type="Box">202</container>
+         <container type="Box" label="Box">202</container>
          <unittitle>Walzer aus der oper Krieg un Frieden <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -10195,7 +10195,7 @@
    <!--EAD SPA_836-->
    <c level="file">
       <did>
-         <container type="Box">202</container>
+         <container type="Box" label="Box">202</container>
          <unittitle>Шут: Сюира из балета "Сказка про шута, семерых шутов перешутившего"/Joker: Suite
             from the Ballet "Tale of the Joker, Having Overjoked Seven Jokers"
                <unitdate>2007</unitdate>
@@ -10219,7 +10219,7 @@
    <!--EAD SPA_837-->
    <c level="file">
       <did>
-         <container type="Box">203</container>
+         <container type="Box" label="Box">203</container>
          <unittitle>Sonate D-Dur, transkription für Flöte Solo/Sonata in D mjaor, transcription for
             Solo Flute <unitdate>1994</unitdate>
          </unittitle>
@@ -10242,7 +10242,7 @@
    <!--EAD SPA_838-->
    <c level="file">
       <did>
-         <container type="Box">203</container>
+         <container type="Box" label="Box">203</container>
          <unittitle>Антоний и Клеопатра - Два портрета <unitdate>1975</unitdate>
          </unittitle>
          <note>
@@ -10267,7 +10267,7 @@
    <!--EAD SPA_839-->
    <c level="file">
       <did>
-         <container type="Box">203</container>
+         <container type="Box" label="Box">203</container>
          <unittitle>Пьесы и песни в переложении для оркетра русских народных инструментов
                <unitdate>1963</unitdate>
          </unittitle>
@@ -10295,7 +10295,7 @@
    <!--EAD SPA_840-->
    <c level="file">
       <did>
-         <container type="Box">203</container>
+         <container type="Box" label="Box">203</container>
          <unittitle>Концертниые Произведения для виолончели <unitdate>1974</unitdate>
          </unittitle>
          <note>
@@ -10319,7 +10319,7 @@
    <!--EAD SPA_841-->
    <c level="file">
       <did>
-         <container type="Box">203</container>
+         <container type="Box" label="Box">203</container>
          <unittitle>Гавот <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -10344,7 +10344,7 @@
    <!--EAD SPA_842-->
    <c level="file">
       <did>
-         <container type="Box">203</container>
+         <container type="Box" label="Box">203</container>
          <unittitle>Избранные Произведения, обработка для скрипки и фортепиано
                <unitdate>1966</unitdate>
          </unittitle>
@@ -10370,7 +10370,7 @@
    <!--EAD SPA_843-->
    <c level="file">
       <did>
-         <container type="Box">203</container>
+         <container type="Box" label="Box">203</container>
          <unittitle>Восемь пьес в обработке для двух скрипок, альта и виолончели
                <unitdate>1955</unitdate>
          </unittitle>
@@ -10396,7 +10396,7 @@
    <!--EAD SPA_844-->
    <c level="file">
       <did>
-         <container type="Box">203</container>
+         <container type="Box" label="Box">203</container>
          <unittitle>Белый Голубь, хор из оратории "На страже мира" <unitdate>1951</unitdate>
          </unittitle>
          <note>
@@ -10420,7 +10420,7 @@
    <!--EAD SPA_845-->
    <c level="file">
       <did>
-         <container type="Box">203</container>
+         <container type="Box" label="Box">203</container>
          <unittitle>Колыбельная, хор из оратории "На страже мира" <unitdate>1951</unitdate>
          </unittitle>
          <note>
@@ -10444,7 +10444,7 @@
    <!--EAD SPA_846-->
    <c level="file">
       <did>
-         <container type="Box">203</container>
+         <container type="Box" label="Box">203</container>
          <unittitle>Visions Fugitives <unitdate>2001</unitdate>
          </unittitle>
          <note>
@@ -10466,7 +10466,7 @@
    <!--EAD SPA_847-->
    <c level="file">
       <did>
-         <container type="Box">203</container>
+         <container type="Box" label="Box">203</container>
          <unittitle>Visions Fugitives <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -10488,7 +10488,7 @@
    <!--EAD SPA_848-->
    <c level="file">
       <did>
-         <container type="Box">203</container>
+         <container type="Box" label="Box">203</container>
          <unittitle>Visions Fugitives, Eight pieces for clarinet and piano
                <unitdate>Unknown</unitdate>
          </unittitle>
@@ -10512,7 +10512,7 @@
    <!--EAD SPA_849-->
    <c level="file">
       <did>
-         <container type="Box">203</container>
+         <container type="Box" label="Box">203</container>
          <unittitle>Visions Fugitives, Eight pieces for alto saxophone <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -10535,7 +10535,7 @@
    <!--EAD SPA_850-->
    <c level="file">
       <did>
-         <container type="Box">203</container>
+         <container type="Box" label="Box">203</container>
          <unittitle>Visions Fugitives, twenty pieces, for piano <unitdate>1985</unitdate>
          </unittitle>
          <note>
@@ -10558,7 +10558,7 @@
    <!--EAD SPA_851-->
    <c level="file">
       <did>
-         <container type="Box">203</container>
+         <container type="Box" label="Box">203</container>
          <unittitle>Flüchtige Visionen, 15 Stücke für Streichorchester <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -10580,7 +10580,7 @@
    <!--EAD SPA_852-->
    <c level="file">
       <did>
-         <container type="Box">203</container>
+         <container type="Box" label="Box">203</container>
          <unittitle>Ляргетто и Гавот <unitdate>1963</unitdate>
          </unittitle>
          <note>
@@ -10603,7 +10603,7 @@
    <!--EAD SPA_853-->
    <c level="file">
       <did>
-         <container type="Box">203</container>
+         <container type="Box" label="Box">203</container>
          <unittitle>Troika from Lieutenant Kijé <unitdate>1974</unitdate>
          </unittitle>
          <note>
@@ -10626,7 +10626,7 @@
    <!--EAD SPA_854-->
    <c level="file">
       <did>
-         <container type="Box">203</container>
+         <container type="Box" label="Box">203</container>
          <unittitle>Gavotte from the Classical Symphony <unitdate>1962</unitdate>
          </unittitle>
          <note>
@@ -10648,7 +10648,7 @@
    <!--EAD SPA_855-->
    <c level="file">
       <did>
-         <container type="Box">203</container>
+         <container type="Box" label="Box">203</container>
          <unittitle>Peter and the Wolf <unitdate>2008</unitdate>
          </unittitle>
          <note>
@@ -10671,7 +10671,7 @@
    <!--EAD SPA_856--> 
    <c level="file">
       <did>
-         <container type="Box">203</container>
+         <container type="Box" label="Box">203</container>
          <unittitle>March from "Music for Children" <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -10695,7 +10695,7 @@
    <!--EAD SPA_857-->
    <c level="file">
       <did>
-         <container type="Box">204</container>
+         <container type="Box" label="Box">204</container>
          <unittitle>Вокализ: Первая редакция/Vocalise: The First Version <unitdate>1998</unitdate>
          </unittitle>
          <note>
@@ -10717,7 +10717,7 @@
    <!--EAD SPA_858-->
    <c level="file">
       <did>
-         <container type="Box">204</container>
+         <container type="Box" label="Box">204</container>
          <unittitle>Viola Sonata <unitdate>2003</unitdate>
          </unittitle>
          <note>
@@ -10740,7 +10740,7 @@
    <!--EAD SPA_859-->
    <c level="file">
       <did>
-         <container type="Box">204</container>
+         <container type="Box" label="Box">204</container>
          <unittitle>Путь Октября <unitdate>1928</unitdate>
          </unittitle>
          <note>
@@ -10764,7 +10764,7 @@
    <!--EAD SPA_860-->
    <c level="file">
       <did>
-         <container type="Box">204</container>
+         <container type="Box" label="Box">204</container>
          <unittitle>Бахчисарайский фонтан <unitdate>1981</unitdate>
          </unittitle>
          <note>
@@ -10787,7 +10787,7 @@
    <!--EAD SPA_861-->
    <c level="file">
       <did>
-         <container type="Box">204</container>
+         <container type="Box" label="Box">204</container>
          <unittitle>Perséphone <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -10809,7 +10809,7 @@
    <!--EAD SPA_862-->
    <c level="file">
       <did>
-         <container type="Box">204</container>
+         <container type="Box" label="Box">204</container>
          <unittitle>Concerto in D <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -10830,7 +10830,7 @@
    <!--EAD SPA_863-->
    <c level="file">
       <did>
-         <container type="Box">204</container>
+         <container type="Box" label="Box">204</container>
          <unittitle>Quatre Etudes <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -10851,7 +10851,7 @@
    <!--EAD SPA_864-->
    <c level="file">
       <did>
-         <container type="Box">204</container>
+         <container type="Box" label="Box">204</container>
          <unittitle>Scheherazade <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -10875,7 +10875,7 @@
    <!--EAD SPA_865-->
    <c level="file">
       <did>
-         <container type="Box">205</container>
+         <container type="Box" label="Box">205</container>
          <unittitle>War and Peace, volume 1 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -10899,7 +10899,7 @@
    <!--EAD SPA_866-->
    <c level="file">
       <did>
-         <container type="Box">205</container>
+         <container type="Box" label="Box">205</container>
          <unittitle>War and Peace, volume 2 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -10922,7 +10922,7 @@
    <!--EAD SPA_867-->
    <c level="file">
       <did>
-         <container type="Box">210</container>
+         <container type="Box" label="Box">210</container>
          <unittitle>Concerto pour Violoncelle <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -10944,7 +10944,7 @@
    <!--EAD SPA_868-->
    <c level="file">
       <did>
-         <container type="Box">210</container>
+         <container type="Box" label="Box">210</container>
          <unittitle>Symphony No. 4 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -10967,7 +10967,7 @@
    <!--EAD SPA_869-->
    <c level="file">
       <did>
-         <container type="Box">207</container>
+         <container type="Box" label="Box">207</container>
          <unittitle>Sur le Borysthène (On the Dnieper) <unitdate>1947</unitdate>
          </unittitle>
          <note>
@@ -10990,7 +10990,7 @@
    <!--EAD SPA_870-->
    <c level="file">
       <did>
-         <container type="Box">207</container>
+         <container type="Box" label="Box">207</container>
          <unittitle>Пушкинские вальсы <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -11012,7 +11012,7 @@
    <!--EAD SPA_871-->
    <c level="file">
       <did>
-         <container type="Box">210</container>
+         <container type="Box" label="Box">210</container>
          <unittitle>Ivan the Terrible: Concert Scenario for Soloists, Chorus and Orchestra
                <unitdate>1990</unitdate>
          </unittitle>
@@ -11036,7 +11036,7 @@
    <!--EAD SPA_872-->
    <c level="file">
       <did>
-         <container type="Box">207</container>
+         <container type="Box" label="Box">207</container>
          <unittitle>L'Ange de Feu/The Fiery Angel/Der Feurige Engel <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -11059,7 +11059,7 @@
    <!--EAD SPA_873-->
    <c level="file">
       <did>
-         <container type="Box">206</container>
+         <container type="Box" label="Box">206</container>
          <unittitle>Сны <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -11081,7 +11081,7 @@
    <!--EAD SPA_874-->
    <c level="file">
       <did>
-         <container type="Box">206</container>
+         <container type="Box" label="Box">206</container>
          <unittitle>Le Pas d'Acier Suite <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -11103,7 +11103,7 @@
    <!--EAD SPA_875-->
    <c level="file">
       <did>
-         <container type="Box">210</container>
+         <container type="Box" label="Box">210</container>
          <unittitle>Chout <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -11125,7 +11125,7 @@
    <!--EAD SPA_876-->
    <c level="file">
       <did>
-         <container type="Box">206</container>
+         <container type="Box" label="Box">206</container>
          <unittitle>Баллада о мальчике оставшемся неизвстным/Ballad of the Unknown Boy
                <unitdate>Unknown</unitdate>
          </unittitle>
@@ -11148,7 +11148,7 @@
    <!--EAD SPA_877-->
    <c level="file">
       <did>
-         <container type="Box">210</container>
+         <container type="Box" label="Box">210</container>
          <unittitle>Cantata for the 20th Anniversary of the October Revolution
                <unitdate>Unknown</unitdate>
          </unittitle>
@@ -11172,7 +11172,7 @@
    <!--EAD SPA_878-->
    <c level="file">
       <did>
-         <container type="Box">207</container>
+         <container type="Box" label="Box">207</container>
          <unittitle>Sinfonietta <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -11193,7 +11193,7 @@
    <!--EAD SPA_879-->
    <c level="file">
       <did>
-         <container type="Box">207</container>
+         <container type="Box" label="Box">207</container>
          <unittitle>Suite tirée du Ballet "Le Pavillon d'Armide" <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -11214,7 +11214,7 @@
    <!--EAD SPA_880-->
    <c level="file">
       <did>
-         <container type="Box">210</container>
+         <container type="Box" label="Box">210</container>
          <unittitle>Overture (American) Op. 42 <unitdate>2009</unitdate>
          </unittitle>
          <note>
@@ -11236,7 +11236,7 @@
    <!--EAD SPA_881-->
    <c level="file">
       <did>
-         <container type="Box">206</container>
+         <container type="Box" label="Box">206</container>
          <unittitle>Sept ils sont sept [Seven They Are Seven, for solo tenor chorus and orchestra]
                <unitdate>Unknown</unitdate>
          </unittitle>
@@ -11261,7 +11261,7 @@
    <!--EAD SPA_882-->
    <c level="file">
       <did>
-         <container type="Box">210</container>
+         <container type="Box" label="Box">210</container>
          <unittitle>Sept, ils sont sept <unitdate>2011</unitdate>
          </unittitle>
          <note>
@@ -11284,7 +11284,7 @@
    <!--EAD SPA_883-->
    <c level="file">
       <did>
-         <container type="Box">208</container>
+         <container type="Box" label="Box">208</container>
          <unittitle>На Страже мира <unitdate>1952</unitdate>
          </unittitle>
          <note>
@@ -11306,7 +11306,7 @@
    <!--EAD SPA_884-->
    <c level="file">
       <did>
-         <container type="Box">210</container>
+         <container type="Box" label="Box">210</container>
          <unittitle>Ivan the Terrible: Concert Suite <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -11330,7 +11330,7 @@
    <!--EAD SPA_885-->
    <c level="file">
       <did>
-         <container type="Box">211</container>
+         <container type="Box" label="Box">211</container>
          <unittitle>Война и мир <unitdate>1958</unitdate>
          </unittitle>
          <note>
@@ -11354,7 +11354,7 @@
    <!--EAD SPA_886-->
    <c level="file">
       <did>
-         <container type="Box">212</container>
+         <container type="Box" label="Box">212</container>
          <unittitle>Four Portrais from the Opera Le Joueur <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -11375,7 +11375,7 @@
    <!--EAD SPA_887-->
    <c level="file">
       <did>
-         <container type="Box">212</container>
+         <container type="Box" label="Box">212</container>
          <unittitle>Ouverture Russe <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -11396,7 +11396,7 @@
    <!--EAD SPA_888-->
    <c level="file">
       <did>
-         <container type="Box">212</container>
+         <container type="Box" label="Box">212</container>
          <unittitle>Divertimento [for orchestra] <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -11417,7 +11417,7 @@
    <!--EAD SPA_889-->
    <c level="file">
       <did>
-         <container type="Box">212</container>
+         <container type="Box" label="Box">212</container>
          <unittitle>Le Pas d'Acier <unitdate>1978</unitdate>
          </unittitle>
          <note>
@@ -11438,7 +11438,7 @@
    <!--EAD SPA_890-->
    <c level="file">
       <did>
-         <container type="Box">212</container>
+         <container type="Box" label="Box">212</container>
          <unittitle>Symphony No. 2 <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -11459,7 +11459,7 @@
    <!--EAD SPA_891-->
    <c level="file">
       <did>
-         <container type="Box">213</container>
+         <container type="Box" label="Box">213</container>
          <unittitle>Maddalena <unitdate>1979</unitdate>
          </unittitle>
          <note>
@@ -11481,7 +11481,7 @@
    <!--EAD SPA_892-->
    <c level="file">
       <did>
-         <container type="Box">213</container>
+         <container type="Box" label="Box">213</container>
          <unittitle>Maddalena <unitdate>1990</unitdate>
          </unittitle>
          <note>
@@ -11503,7 +11503,7 @@
    <!--EAD SPA_893-->
    <c level="file">
       <did>
-         <container type="Box">213</container>
+         <container type="Box" label="Box">213</container>
          <unittitle>Maddalena <unitdate>1993</unitdate>
          </unittitle>
          <note>
@@ -11525,7 +11525,7 @@
    <!--EAD SPA_894-->
    <c level="file">
       <did>
-         <container type="Box">213</container>
+         <container type="Box" label="Box">213</container>
          <unittitle>Die Liebe zu den Drei Orangen <unitdate>1979</unitdate>
          </unittitle>
          <note>
@@ -11547,7 +11547,7 @@
    <!--EAD SPA_895-->
    <c level="file">
       <did>
-         <container type="Box">214</container>
+         <container type="Box" label="Box">214</container>
          <unittitle>L'enfant prodigue <unitdate>1978</unitdate>
          </unittitle>
          <note>
@@ -11568,7 +11568,7 @@
    <!--EAD SPA_896-->
    <c level="file">
       <did>
-         <container type="Box">214</container>
+         <container type="Box" label="Box">214</container>
          <unittitle>L'enfant prodigue <unitdate>1978</unitdate>
          </unittitle>
          <note>
@@ -11589,7 +11589,7 @@
    <!--EAD SPA_897-->
    <c level="file">
       <did>
-         <container type="Box">214</container>
+         <container type="Box" label="Box">214</container>
          <unittitle>Sur le Borysthène <unitdate>2003</unitdate>
          </unittitle>
          <note>
@@ -11610,7 +11610,7 @@
    <!--EAD SPA_898-->
    <c level="file">
       <did>
-         <container type="Box">214</container>
+         <container type="Box" label="Box">214</container>
          <unittitle>Klavier-konzert No. 1 <unitdate>1939</unitdate>
          </unittitle>
          <note>
@@ -11631,7 +11631,7 @@
    <!--EAD SPA_899-->
    <c level="file">
       <did>
-         <container type="Box">214</container>
+         <container type="Box" label="Box">214</container>
          <unittitle>Visions Fugitives <unitdate>2001</unitdate>
          </unittitle>
          <note>
@@ -11653,7 +11653,7 @@
    <!--EAD SPA_900-->
    <c level="file">
       <did>
-         <container type="Box">214</container>
+         <container type="Box" label="Box">214</container>
          <unittitle>Visions Fugitives <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -11675,7 +11675,7 @@
    <!--EAD SPA_901-->
    <c level="file">
       <did>
-         <container type="Box">214</container>
+         <container type="Box" label="Box">214</container>
          <unittitle>Соната для скрипки соло/ Sonata for Violin Solo <unitdate>2011</unitdate>
          </unittitle>
          <note>
@@ -11697,7 +11697,7 @@
    <!--EAD SPA_902-->
    <c level="file">
       <did>
-         <container type="Box">214</container>
+         <container type="Box" label="Box">214</container>
          <unittitle>L'enfant prodigue <unitdate>1978</unitdate>
          </unittitle>
          <note>
@@ -11718,7 +11718,7 @@
    <!--EAD SPA_903-->
    <c level="file">
       <did>
-         <container type="Box">214</container>
+         <container type="Box" label="Box">214</container>
          <unittitle>Prokofieff Orchestral Anthology: Classical Symphony, The Love for Three Oranges,
             Symphonic Suite <unitdate>1998</unitdate>
          </unittitle>
@@ -11740,7 +11740,7 @@
    <!--EAD SPA_904-->
    <c level="file">
       <did>
-         <container type="Box">214</container>
+         <container type="Box" label="Box">214</container>
          <unittitle>Toccata <unitdate>1913</unitdate>
          </unittitle>
          <note>
@@ -11761,7 +11761,7 @@
    <!--EAD SPA_905-->
    <c level="file">
       <did>
-         <container type="Box">199</container>
+         <container type="Box" label="Box">199</container>
          <unittitle>Zweite Sonata für Klavier <unitdate>Unknown</unitdate>
          </unittitle>
          <note>
@@ -11782,7 +11782,7 @@
    <!--EAD SPA_906-->
    <c level="file">
       <did>
-         <container type="Box">214</container>
+         <container type="Box" label="Box">214</container>
          <unittitle>Sonatas for Piano: Volume One, Sonatas 1-5 <unitdate>1985</unitdate>
          </unittitle>
          <note>
@@ -11804,7 +11804,7 @@
    <!--EAD SPA_907-->
    <c level="file">
       <did>
-         <container type="Box">215</container>
+         <container type="Box" label="Box">215</container>
          <unittitle>Второй концерт соль минор для скрипки и оркестра <unitdate>1960</unitdate>
          </unittitle>
          <note>

@@ -79,7 +79,7 @@
       <p>Standard title: <xsl:value-of select="translate(title, '&#x20;&#x9;&#xD;&#xa;', ' ')"/></p>
    </xsl:template>
    <xsl:template match="location/shelfLocator[contains(.,'Box')]">
-      <container type="Box">
+      <container type="Box" label="Box">
          <xsl:value-of select=" replace(.,'Box ','')"/>
       </container>
       <xsl:text>&#xa;&#x20;</xsl:text>
