@@ -10142,6 +10142,8 @@
          </note>
       </did>
    </c>
+   
+   <!--Subseries III.5 Works by other composers 857-864-->
    <!--EAD SPA_857-->
    <c level="file">
       <did>
@@ -10312,6 +10314,9 @@
          </note>
       </did>
    </c>
+   
+   <!-- Subseries III.6. Oversize 865-884-->
+   
    <!--EAD SPA_865-->
    <c level="file">
       <did>
@@ -10738,6 +10743,7 @@
          </note>
       </did>
    </c>
+   <!-- Subseries 7. Duplicates. 885-907 -->
    <!--EAD SPA_885-->
    <c level="file">
       <did>
