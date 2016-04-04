@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<c level="series"><!--EAD SPA_374-->
+<c level="series">
+   <!--EAD SPA_374-->
    <c level="file">
       <did>
          <container type="Box" label="Box">142</container>
@@ -9331,6 +9332,7 @@
          </note>
       </did>
    </c>
+   <!-- Subseries  III.4 SP Arrangments 820-856 -->
    <!--EAD SPA_820-->
    <c level="file">
       <did>
