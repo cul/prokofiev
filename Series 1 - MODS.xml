@@ -9919,7 +9919,7 @@ http://viaf.org/viaf/177201367">
       <!-- Genre -->
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85094914">Operas</genre>
-      <genre authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
+      <genre type="text_type" authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
       <!-- Origin -->
       <originInfo>
          <dateCreated encoding="w3cdtf" qualifier="inferred"> after 1930</dateCreated>
@@ -10388,7 +10388,7 @@ http://viaf.org/viaf/179220341">
       <genre type="music_genre" authority="LCGFT"
          valueURI="http://id.loc.gov/authorities/genreForms/gf2014026950">Motion picture
          music</genre>
-      <genre authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
+      <genre type="text_type" authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
       <!-- Origin -->
       <originInfo>
          <dateCreated encoding="w3cdtf"> 1942</dateCreated>
@@ -10609,8 +10609,8 @@ http://viaf.org/viaf/179220341">
       <!-- Type -->
       <typeOfResource>notated music</typeOfResource>
       <!-- Genre -->
-      <genre authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
-      <genre authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
+      <genre type="text_type" authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
+      <genre type="text_type" authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
       <!-- Origin -->
       <originInfo>
          <dateCreated encoding="w3cdtf"> 1938</dateCreated>
@@ -10670,8 +10670,8 @@ http://viaf.org/viaf/179220341">
       <!-- Type -->
       <typeOfResource>notated music</typeOfResource>
       <!-- Genre -->
-      <genre authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
-      <genre authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
+      <genre type="text_type" authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
+      <genre type="text_type" authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
       <!-- Origin -->
       <originInfo>
          <dateCreated encoding="w3cdtf" qualifier=""> Unknown</dateCreated>
@@ -10784,8 +10784,8 @@ http://viaf.org/viaf/179220341">
       <!-- Type -->
       <typeOfResource>notated music</typeOfResource>
       <!-- Genre -->
-      <genre authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
-      <genre authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
+      <genre type="text_type" authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
+      <genre type="text_type" authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
       <!-- Origin -->
       <originInfo>
          <dateCreated encoding="w3cdtf" qualifier="approximate"> 1933-1938</dateCreated>
@@ -10839,7 +10839,7 @@ http://viaf.org/viaf/179220341">
       <!-- Type -->
       <typeOfResource>notated music</typeOfResource>
       <!-- Genre -->
-      <genre authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
+      <genre type="text_type" authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
       <genre>Unknown genre: Program notes</genre>
       <!-- Origin -->
       <originInfo>
@@ -10892,7 +10892,7 @@ http://viaf.org/viaf/179220341">
       <!-- Type -->
       <typeOfResource>notated music</typeOfResource>
       <!-- Genre -->
-      <genre authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
+      <genre type="text_type" authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
       <genre authority="AAT" valueURI="http://vocab.getty.edu/aat/300048715">articles</genre>
       <genre authority="margt">Article</genre>
       <!-- Origin -->
@@ -19579,7 +19579,7 @@ http://viaf.org/viaf/184485449">
       <!-- Genre -->
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85094914">Operas</genre>
-      <genre authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
+      <genre type="text_type" authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
       <!-- Origin -->
       <originInfo>
          <dateCreated encoding="w3cdtf" qualifier="inferred"> after 1930</dateCreated>
@@ -19712,7 +19712,7 @@ http://viaf.org/viaf/184485449">
       <!-- Genre -->
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85094914">Operas</genre>
-      <genre authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
+      <genre type="text_type" authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
       <!-- Origin -->
       <originInfo>
          <dateCreated encoding="w3cdtf" qualifier="inferred"> 1939</dateCreated>
@@ -19775,7 +19775,7 @@ http://viaf.org/viaf/184485449">
       <!-- Genre -->
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85094914">Operas</genre>
-      <genre authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
+      <genre type="text_type" authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
       <genre type="music_type" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85076744">Libretto</genre>
       <!-- Origin -->
@@ -19839,7 +19839,7 @@ http://viaf.org/viaf/184485449">
       <!-- Genre -->
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85094914">Operas</genre>
-      <genre authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
+      <genre type="text_type" authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
       <genre type="music_type" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85076744">Libretto</genre>
       <!-- Origin -->
@@ -19964,7 +19964,7 @@ http://viaf.org/viaf/184485449">
       <!-- Genre -->
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85094914">Operas</genre>
-      <genre authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
+      <genre type="text_type" authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
       <!-- Origin -->
       <originInfo>
          <dateCreated encoding="w3cdtf" qualifier="approximate"> 1945</dateCreated>
@@ -20034,7 +20034,7 @@ http://viaf.org/viaf/184485449">
       <!-- Genre -->
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85094914">Operas</genre>
-      <genre authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
+      <genre type="text_type" authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
       <genre type="music_type" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85076744">Libretto</genre>
       <!-- Origin -->
@@ -20215,7 +20215,7 @@ http://viaf.org/viaf/184485449">
       <!-- Genre -->
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85094914">Operas</genre>
-      <genre authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
+      <genre type="text_type" authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
       <!-- Origin -->
       <originInfo>
          <dateCreated encoding="w3cdtf" qualifier="inferred"> 1943-1945</dateCreated>
@@ -20486,7 +20486,7 @@ http://viaf.org/viaf/184485449">
       <!-- Genre -->
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85094914">Operas</genre>
-      <genre authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
+      <genre type="text_type" authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
       <!-- Origin -->
       <originInfo>
          <dateCreated encoding="w3cdtf" qualifier="inferred"> 1940</dateCreated>
@@ -24216,7 +24216,7 @@ http://viaf.org/viaf/184485449">
       <!-- Genre -->
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85094914">Operas</genre>
-      <genre authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
+      <genre type="text_type" authority="AAT" valueURI="http://vocab.getty.edu/aat/300027200">notes</genre>
       <!-- Origin -->
       <originInfo>
          <dateCreated encoding="w3cdtf"> 1941</dateCreated>
