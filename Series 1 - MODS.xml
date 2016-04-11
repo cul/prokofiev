@@ -3385,7 +3385,7 @@ http://viaf.org/viaf/184485449">
          </role>
       </name>
       <!-- Type -->
-      <typeOfResource>notated music</typeOfResource>
+      <typeOfResource>text</typeOfResource>
       <!-- Genre -->
       <genre type="music_genre" authority="LCGFT"
          valueURI="http://id.loc.gov/authorities/genreForms/gf2014026950">Motion picture
@@ -4596,7 +4596,7 @@ http://viaf.org/viaf/184485449">
          </role>
       </name>
       <!-- Type -->
-      <typeOfResource>notated music</typeOfResource>
+      <typeOfResource>text</typeOfResource>
       <!-- Genre -->
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85022422">Chamber music</genre>
@@ -4604,7 +4604,7 @@ http://viaf.org/viaf/184485449">
          valueURI="http://id.loc.gov/authorities/subjects/sh2005003411">Catalog</genre>
       <!-- Origin -->
       <originInfo>
-         <dateCreated encoding="w3cdtf" qualifier=""> Unknown</dateCreated>
+         <dateCreated encoding="w3cdtf" qualifier="">Unknown</dateCreated>
          <edition>Final</edition>
       </originInfo>
       <!-- Language -->
@@ -9915,7 +9915,7 @@ http://viaf.org/viaf/177201367">
          </role>
       </name>
       <!-- Type -->
-      <typeOfResource>notated music</typeOfResource>
+      <typeOfResource>text</typeOfResource>
       <!-- Genre -->
       <genre type="music_genre" authority="LCSH"
          valueURI="http://id.loc.gov/authorities/subjects/sh85094914">Operas</genre>
@@ -22001,7 +22001,7 @@ http://viaf.org/viaf/184485449">
          <physicalLocation type="previous">Serge Prokofiev Archive at Goldsmiths College, University
             of London</physicalLocation>
          <shelfLocator> Computer File/Folder: Prokofiev/DIGITISED HOLDINGS/MUSICAL
-            WORKS/Manuscripts/March&Piece (1900)_WwO (A4)</shelfLocator>
+            WORKS/Manuscripts/March&amp;Piece (1900)_WwO (A4)</shelfLocator>
       </location>
       <!-- Note -->
       <note type="fragment">Complete</note>
@@ -22063,7 +22063,7 @@ http://viaf.org/viaf/184485449">
          <physicalLocation type="previous">Serge Prokofiev Archive at Goldsmiths College, University
             of London</physicalLocation>
          <shelfLocator> Computer File/Folder: Prokofiev/DIGITISED HOLDINGS/MUSICAL
-            WORKS/Manuscripts/Juvenilia/Marche & Piece (1900)_WwO (A3)</shelfLocator>
+            WORKS/Manuscripts/Juvenilia/Marche &amp; Piece (1900)_WwO (A3)</shelfLocator>
       </location>
       <!-- Note -->
       <note type="fragment">Complete</note>
