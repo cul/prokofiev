@@ -1,5 +1,5 @@
 <!-- Created by Jennifer Goslee on 07-17-2016 -->
-<!-- ROUGH DRAFT VERSION -->
+<!-- Version with edits made on 07-18-2016 -->
 
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">
    <xsl:strip-space elements="*"/>
@@ -58,21 +58,24 @@
             </unittitle>
             <xsl:text>&#xa;&#x20;</xsl:text>
             <note>
-               <xsl:text>&#xa;&#x20;</xsl:text>
-               <xsl:apply-templates select="titleInfo[not(@*)]"/>
-               <xsl:text>&#xa;&#x20;</xsl:text>
-               <xsl:apply-templates select="subject/name"/>
+               <!--<xsl:text>&#xa;&#x20;</xsl:text>
+               <xsl:apply-templates select="titleInfo[not(@*)]"/>-->
                <xsl:text>&#xa;&#x20;</xsl:text>
                <xsl:apply-templates select="identifier[@type='SPA_ID']"/>
                <xsl:text>&#xa;&#x20;</xsl:text>
+               <p>Document type(s): <xsl:value-of select="substring($genres,3)"/></p>
+               <xsl:text>&#xa;&#x20;</xsl:text>
+               <xsl:apply-templates select="language"/>
+               <xsl:apply-templates select="subject/genre"/>
                <xsl:apply-templates select="originInfo"/>
                <xsl:text>&#xa;&#x20;</xsl:text>
                <xsl:apply-templates select="originInfo/dateIssued"/>
                <xsl:text>&#xa;&#x20;</xsl:text>
-               <xsl:apply-templates select="identifier[@type='ProgramID']"/>              
-               <p>Genre(s): <xsl:value-of select="substring($genres,3)"/></p>
-               <xsl:text>&#xa;&#x20;</xsl:text>
-               <xsl:apply-templates select="language"/>
+               <xsl:apply-templates select="identifier[@type='ProgramID']"/> 
+               
+               <xsl:apply-templates select="subject/name[role/roleTerm='prf' and @type='personal']"/>
+               <xsl:apply-templates select="subject/name[role/roleTerm='cnd' and @type='personal']"/>
+               <xsl:apply-templates select="subject/name[role/roleTerm='prf' and @type='corporate']"/>
                <xsl:apply-templates select="note[not(@*)]"/>
                <xsl:text>&#xa;&#x20;</xsl:text>
                <p>Works(s) Performed: <xsl:value-of select="substring($worksperformed,3)"/></p>
@@ -82,6 +85,20 @@
          </did>
       </c>
    </xsl:template>
+   <!-- Handling the names  -->
+   <xsl:template match="subject/name[role/roleTerm='prf' and @type='personal']">
+      <p>Performer: <xsl:value-of select="namePart"/></p>
+   </xsl:template>
+   <xsl:template match="subject/name[role/roleTerm='prf' and @type='corporate']">
+      <p>Organization: <xsl:value-of select="namePart"/></p>
+   </xsl:template>
+   <xsl:template match="subject/name[role/roleTerm='cnd' and @type='personal']">
+      <p>Conductor: <xsl:value-of select="namePart"/></p>
+   </xsl:template>
+   
+   <!-- Handling the names  -->
+   
+   
    <xsl:template match="titleInfo[@type='alternative']">
       <xsl:value-of select="title"/>
    </xsl:template>
@@ -106,8 +123,7 @@
    </xsl:template>
    <!-- This is the template for the date created, it wraps in brackets for approximate dates-->
    <xsl:template match="originInfo/dateIssued">
-      <p>Concert date: <xsl:value-of select="."/>
-      </p>
+      <p>Date(s): <xsl:value-of select="."/></p>
    </xsl:template>
    <xsl:template match="identifier[@type='opus']">
       <p>Opus: <xsl:value-of select="."/></p>
@@ -116,7 +132,7 @@
       <p>ID: <xsl:value-of select="."/></p>
    </xsl:template>
    <xsl:template match="name">
-      <p>Creator: <xsl:value-of select="namePart"/></p>
+      <p>Creatorx: <xsl:value-of select="namePart"/></p>
    </xsl:template>
    <xsl:template match="genre[@type='music_genre']">
       <p>Genre: <xsl:value-of select="."/></p>
@@ -135,10 +151,14 @@
       <p>Previous holding library: <xsl:value-of select="."/></p>
    </xsl:template>
    <xsl:template match="originInfo">
-      <p>Concert Location: <xsl:value-of select="place/placeTerm"/></p>
+      <p>Location: <xsl:value-of select="place/placeTerm"/></p>
    </xsl:template>
    <xsl:template match="relatedItem">
       <p>Work</p>
+   </xsl:template>
+   <xsl:template match="subject/genre">
+      <p>Event type: <xsl:value-of select="."/></p>
+      <xsl:text>&#xa;&#x20;</xsl:text>
    </xsl:template>
    
    
