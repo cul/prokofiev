@@ -1,5 +1,5 @@
 <!-- Created by Jennifer Goslee on 07-17-2016 -->
-<!-- Version with edits made on 07-18-2016 -->
+<!-- Version with edits made on 07-20-2016 -->
 
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">
    <xsl:strip-space elements="*"/>
@@ -63,7 +63,7 @@
                <xsl:text>&#xa;&#x20;</xsl:text>
                <xsl:apply-templates select="identifier[@type='SPA_ID']"/>
                <xsl:text>&#xa;&#x20;</xsl:text>
-               <p>Document type(s): <xsl:value-of select="substring($genres,3)"/></p>
+               <p>Document type: <xsl:value-of select="substring($genres,3)"/></p>
                <xsl:text>&#xa;&#x20;</xsl:text>
                <xsl:apply-templates select="language"/>
                <xsl:apply-templates select="subject/genre"/>
@@ -78,7 +78,7 @@
                <xsl:apply-templates select="subject/name[role/roleTerm='prf' and @type='corporate']"/>
                <xsl:apply-templates select="note[not(@*)]"/>
                <xsl:text>&#xa;&#x20;</xsl:text>
-               <p>Works(s) Performed: <xsl:value-of select="substring($worksperformed,3)"/></p>
+               <p>Prokofiev Works(s) Performed: <xsl:value-of select="substring($worksperformed,3)"/></p>
                
                
             </note>
@@ -129,7 +129,7 @@
       <p>Opus: <xsl:value-of select="."/></p>
    </xsl:template>
    <xsl:template match="identifier[@type='SPA_ID']">
-      <p>ID: <xsl:value-of select="."/></p>
+      <p>ID: SPA_<xsl:value-of select="."/></p>
    </xsl:template>
    <xsl:template match="name">
       <p>Creatorx: <xsl:value-of select="namePart"/></p>
