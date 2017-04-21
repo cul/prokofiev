@@ -17507,7 +17507,7 @@
             Duisburg</NOTES>
       </RECORD>
    <RECORD>
-         <REFERENCE_TYPE>8</REFERENCE_TYPE>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>3180</REFNUM>
          <AUTHORS>
             <AUTHOR>Parton. Anthony</AUTHOR>
@@ -17522,7 +17522,7 @@
          <CALL_NUMBER>ART (16)</CALL_NUMBER>
       </RECORD>
    <RECORD>
-         <REFERENCE_TYPE>8</REFERENCE_TYPE>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>412</REFNUM>
          <AUTHORS>
             <AUTHOR>?</AUTHOR>
@@ -17965,7 +17965,7 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>337</REFNUM>
          <AUTHORS>
-            <AUTHOR>Lawton, Anna (ed.)</AUTHOR>
+            <AUTHOR>Lawton, Anna (Ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1988</YEAR>
          <TITLE>Russian Futurism Through its Manifestoes: 1912-1928</TITLE>
@@ -17983,7 +17983,7 @@
             <AUTHOR>Bonnell, Victoria E</AUTHOR>
          </AUTHORS>
          <YEAR>1997</YEAR>
-         <TITLE>Iconography of Power: Soviet political posters under Lenin and Stalin</TITLE>
+         <TITLE>Iconography of Power: Soviet Political Posters Under Lenin and Stalin</TITLE>
          <PLACE_PUBLISHED>Berkeley</PLACE_PUBLISHED>
          <PUBLISHER>University of California Press</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
@@ -17996,7 +17996,7 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>415</REFNUM>
          <AUTHORS>
-            <AUTHOR>Fauchereau, S (ed.)</AUTHOR>
+            <AUTHOR>Fauchereau, S (Ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1988</YEAR>
          <TITLE>Moscow 1900-1930</TITLE>
@@ -18087,10 +18087,10 @@
          <REFNUM>409</REFNUM>
          <AUTHORS>
             <AUTHOR>Elliott, D</AUTHOR>
-            <AUTHOR>Dudakov (ed.), E</AUTHOR>
+            <AUTHOR>Dudakov, E (Ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1989</YEAR>
-         <TITLE>100 years of Russian Art</TITLE>
+         <TITLE>100 Years of Russian Art: From 1889 – 1989 from Private Collections in the USSR</TITLE>
          <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>Lund Humphries Publishers</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
@@ -18146,7 +18146,7 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>413</REFNUM>
          <AUTHORS>
-            <AUTHOR>Terras, V (ed.)</AUTHOR>
+            <AUTHOR>Terras, V (Ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1985</YEAR>
          <TITLE>Handbook of Russian Literature</TITLE>
@@ -18260,7 +18260,7 @@
             <AUTHOR>Dubinsky, Rostislav</AUTHOR>
          </AUTHORS>
          <YEAR>1989</YEAR>
-         <TITLE>Stormy Applause: making music in a workers state</TITLE>
+         <TITLE>Stormy Applause: Making Music in a Workers State</TITLE>
          <PUBLISHER>Hutchinson</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>English</CUSTOM1>
@@ -18369,13 +18369,13 @@
             <AUTHOR>Platek, Ia</AUTHOR>
          </AUTHORS>
          <YEAR>1983</YEAR>
-         <TITLE>Khrennikov: his life and times</TITLE>
-         <PUBLISHER>Paganiniana Publications Inc</PUBLISHER>
+         <TITLE>Khrennikov: His Life and Times</TITLE>
+         <PUBLISHER>Paganiniana Publications, Inc.</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>Yuri Sviridov (Trans)</SUBSIDIARY_AUTHORS>
          <CUSTOM5>11/03/2002</CUSTOM5>
          <ACCESSION_NUMBER>214</ACCESSION_NUMBER>
          <CALL_NUMBER>BIOG-Khre (1)</CALL_NUMBER>
-         <NOTES>Translated by Yuri Sviridov</NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
@@ -18448,7 +18448,7 @@
             <AUTHOR>Morgan, Edward (trans.)</AUTHOR>
          </AUTHORS>
          <YEAR>1995</YEAR>
-         <TITLE>The Levik Memoirs: an opera singer's notes</TITLE>
+         <TITLE>The Levik Memoirs: An Opera Singer's Notes</TITLE>
          <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>Symposium Records</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
@@ -18483,7 +18483,7 @@
             <AUTHOR>Martyn, Barrie</AUTHOR>
          </AUTHORS>
          <YEAR>1995</YEAR>
-         <TITLE>Nicolas Medtner: his life and music</TITLE>
+         <TITLE>Nicolas Medtner: His Life and Music</TITLE>
          <PLACE_PUBLISHED>Aldershot</PLACE_PUBLISHED>
          <PUBLISHER>Scolar Press</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
@@ -18545,7 +18545,7 @@
             <AUTHOR>Ikonnikov, Alexei A</AUTHOR>
          </AUTHORS>
          <YEAR>1946</YEAR>
-         <TITLE>Myaskovsky: his life and work [Miaskovsky]</TITLE>
+         <TITLE>Myaskovsky: His Life and Work [Miaskovsky]</TITLE>
          <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
          <PUBLISHER>Philosophical Library</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
@@ -18576,7 +18576,7 @@
             <AUTHOR>Volkov, Solomon</AUTHOR>
          </AUTHORS>
          <YEAR>1990</YEAR>
-         <TITLE>From Russia to the West: the musical memoirs and reminiscences of Nathan
+         <TITLE>From Russia to the West: the Musical Memoirs and Reminiscences of Nathan
             Milstein</TITLE>
          <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>Barrie &amp; Jenkins</PUBLISHER>
@@ -18592,8 +18592,8 @@
             <AUTHOR>Monteux, Doris</AUTHOR>
          </AUTHORS>
          <YEAR>1965</YEAR>
-         <TITLE>It's all in the music: the life and works of Pierre Monteux</TITLE>
-         <PUBLISHER>William Kimber</PUBLISHER>
+         <TITLE>It's All in the Music: The Life and Works of Pierre Monteux</TITLE>
+         <PUBLISHER>William Kimber and Co. Limited</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>09/02/2000</CUSTOM5>
          <ACCESSION_NUMBER>154</ACCESSION_NUMBER>
@@ -18610,11 +18610,11 @@
          <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
          <PUBLISHER>Tudor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>Paul England (Trans)</SUBSIDIARY_AUTHORS>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>03/11/2003</CUSTOM5>
          <ACCESSION_NUMBER>248</ACCESSION_NUMBER>
          <CALL_NUMBER>BIOG-Muso (1)</CALL_NUMBER>
-         <NOTES>Translated from German by Paul England</NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
@@ -18623,7 +18623,7 @@
             <AUTHOR>Taruskin, Richard</AUTHOR>
          </AUTHORS>
          <YEAR>1993</YEAR>
-         <TITLE>Musorgsky: eight essays and an epilogue</TITLE>
+         <TITLE>Musorgsky: Eight Essays and an Epilogue</TITLE>
          <PUBLISHER>Princeton University Press</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>?</CUSTOM5>
@@ -18634,10 +18634,11 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>400</REFNUM>
          <AUTHORS>
-            <AUTHOR>Nabokov, Nikolai</AUTHOR>
+            <AUTHOR>Nabokov, Nicolas</AUTHOR>
          </AUTHORS>
          <YEAR>1975</YEAR>
-         <TITLE>Bagazh</TITLE>
+         <TITLE>Bagazh: Memories of a Russian Cosmopolitan</TITLE>
+         <PUBLISHER>Kingsport Press, Inc.</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
@@ -18647,10 +18648,10 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>401</REFNUM>
          <AUTHORS>
-            <AUTHOR>Nabokov, Nikolai</AUTHOR>
+            <AUTHOR>Nabokov, Nicolas</AUTHOR>
          </AUTHORS>
          <YEAR>1951</YEAR>
-         <TITLE>Old Friends and new music</TITLE>
+         <TITLE>Old Friends and New Music</TITLE>
          <PUBLISHER>Hamish Hamilton</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>?</CUSTOM5>
@@ -18678,7 +18679,7 @@
             <AUTHOR>Polianovskii, Georgii Alexandrovich</AUTHOR>
          </AUTHORS>
          <YEAR>1977</YEAR>
-         <TITLE>70 let v mire muzyki</TITLE>
+         <TITLE>70 Let v mire muzyki</TITLE>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>07/11/2000</CUSTOM5>
@@ -18718,29 +18719,12 @@
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
-         <REFNUM>1767</REFNUM>
-         <AUTHORS>
-            <AUTHOR>Nestieva, Marina</AUTHOR>
-         </AUTHORS>
-         <YEAR>1981</YEAR>
-         <TITLE>S. S. Prokof'ev</TITLE>
-         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
-         <PUBLISHER>Muzyka</PUBLISHER>
-         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <CUSTOM1>Russian</CUSTOM1>
-         <CUSTOM5>15/09/2004</CUSTOM5>
-         <ACCESSION_NUMBER>10</ACCESSION_NUMBER>
-         <CALL_NUMBER>BIOG-Prok (1) (DUP)</CALL_NUMBER>
-         <NOTES>ARCHIVAL COPY</NOTES>
-      </RECORD>
-   <RECORD>
-         <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>375</REFNUM>
          <AUTHORS>
             <AUTHOR>Blok, Vladimir</AUTHOR>
          </AUTHORS>
          <YEAR>1978</YEAR>
-         <TITLE>Sergei Prokofiev materials articles and interviews</TITLE>
+         <TITLE>Sergei Prokofiev: Materials, Articles, and Interviews</TITLE>
          <PUBLISHER>Progress Publishers</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>English</CUSTOM1>
@@ -18755,7 +18739,7 @@
             <AUTHOR>Prokofiev, Serge</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Sergei Prokofiev Soviet Diary 1927 and other writings</TITLE>
+         <TITLE>Sergei Prokofiev: Soviet Diary 1927 and Other Writings</TITLE>
          <PUBLISHER>Faber &amp; Faber</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <SUBSIDIARY_AUTHORS>
@@ -18769,31 +18753,12 @@
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
-         <REFNUM>1693</REFNUM>
-         <AUTHORS>
-            <AUTHOR>Prokofiev, Serge</AUTHOR>
-         </AUTHORS>
-         <YEAR>1991</YEAR>
-         <TITLE>Sergei Prokofiev Soviet Diary 1927 and other writings</TITLE>
-         <PUBLISHER>Faber &amp; Faber</PUBLISHER>
-         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <SUBSIDIARY_AUTHORS>
-            <SUBSIDIARY_AUTHOR>Prokofiev, Oleg</SUBSIDIARY_AUTHOR>
-            <SUBSIDIARY_AUTHOR>Palmer, Christopher</SUBSIDIARY_AUTHOR>
-         </SUBSIDIARY_AUTHORS>
-         <CUSTOM5>19/08/2004</CUSTOM5>
-         <ACCESSION_NUMBER>12a</ACCESSION_NUMBER>
-         <CALL_NUMBER>BIOG-Prok (11) (DUP)</CALL_NUMBER>
-         <NOTES>Edited and translated by Oleg Prokofiev and Christopher Palmer</NOTES>
-      </RECORD>
-   <RECORD>
-         <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>376</REFNUM>
          <AUTHORS>
             <AUTHOR>Seroff, V</AUTHOR>
          </AUTHORS>
          <YEAR>1969</YEAR>
-         <TITLE>Sergei Prokofiev a Soviet Tragedy</TITLE>
+         <TITLE>Sergei Prokofiev: A Soviet Tragedy</TITLE>
          <PUBLISHER>Leslie Frewin</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>?</CUSTOM5>
@@ -18807,9 +18772,10 @@
             <AUTHOR>Appel, D H (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1979</YEAR>
-         <TITLE>Prokofiev by Prokofiev: a composer's memoir</TITLE>
-         <PUBLISHER>Doubleday</PUBLISHER>
+         <TITLE>Prokofiev by Prokofiev: A Composer's Memoir: A unique recollection of youth and education in Imperial Russia</TITLE>
+         <PUBLISHER>Doubleday and Company, Inc.</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>Guy Daniels (Trans.)</SUBSIDIARY_AUTHORS>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
          <CALL_NUMBER>BIOG-Prok (13)</CALL_NUMBER>
@@ -18836,8 +18802,8 @@
             <AUTHOR>Hanson, E</AUTHOR>
          </AUTHORS>
          <YEAR>1964</YEAR>
-         <TITLE>Prokofiev The prodigal son</TITLE>
-         <PUBLISHER>Cassell</PUBLISHER>
+         <TITLE>Prokofiev: The Prodigal Son</TITLE>
+         <PUBLISHER>Cassell &amp; Company LTD</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
@@ -18865,7 +18831,7 @@
             <AUTHOR>Blok, Vladimir (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1972</YEAR>
-         <TITLE>Stati i issledovaniia</TITLE>
+         <TITLE>S S Prokof'ev: Stati i issledovaniia</TITLE>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>?</CUSTOM5>
@@ -18910,7 +18876,9 @@
          </AUTHORS>
          <YEAR>1984</YEAR>
          <TITLE>Prokofiev: His Life and Times</TITLE>
+         <PUBLISHER>Paganiniana Publications, Inc.</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>Catherine Young (Trans)</SUBSIDIARY_AUTHORS>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
@@ -18931,21 +18899,6 @@
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
          <CALL_NUMBER>BIOG-Prok (20)</CALL_NUMBER>
-      </RECORD>
-   <RECORD>
-         <REFERENCE_TYPE>20</REFERENCE_TYPE>
-         <REFNUM>256</REFNUM>
-         <AUTHORS>
-            <AUTHOR>Savkina, Natalia Pavlovna</AUTHOR>
-         </AUTHORS>
-         <YEAR>1981</YEAR>
-         <TITLE>Sergei Sergeevich Prokof'ev</TITLE>
-         <PUBLISHER>Muzyka</PUBLISHER>
-         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <CUSTOM1>Russian</CUSTOM1>
-         <CUSTOM5>19/08/2004</CUSTOM5>
-         <ACCESSION_NUMBER>8</ACCESSION_NUMBER>
-         <CALL_NUMBER>BIOG-Prok (20) (DUP)</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
@@ -19029,6 +18982,7 @@
          <TITLE>Prokofiev Voyage en URSS 1927</TITLE>
          <PUBLISHER>Actes Sud</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>Philippe Mougeot (Trans)</SUBSIDIARY_AUTHORS>
          <CUSTOM1>French</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
@@ -19055,7 +19009,7 @@
             <AUTHOR>Danko, Larissa</AUTHOR>
          </AUTHORS>
          <YEAR>1966</YEAR>
-         <TITLE>Sergei Sergeevich Prokof'ev</TITLE>
+         <TITLE>Sergei Sergeevich Prokof'ev 1891 - 1953</TITLE>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>Russian</CUSTOM1>
@@ -19074,6 +19028,7 @@
          <TITLE>Prokofiev</TITLE>
          <PUBLISHER>Chêne</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>Rostislav Hofmann (Trans)</SUBSIDIARY_AUTHORS>
          <CUSTOM1>French</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>7</ACCESSION_NUMBER>
@@ -19086,7 +19041,7 @@
             <AUTHOR>Shlifstein, S</AUTHOR>
          </AUTHORS>
          <YEAR>1965</YEAR>
-         <TITLE>Sergei Prokof'ev: Album</TITLE>
+         <TITLE>Sergei Prokof'ev – Sergei Prokofiev</TITLE>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>Russian and English</CUSTOM1>
@@ -19117,23 +19072,24 @@
             <AUTHOR>Nestiev, Izrail Vladimirovich</AUTHOR>
          </AUTHORS>
          <YEAR>1946</YEAR>
-         <TITLE>Sergei Prokofiev: his musical life</TITLE>
+         <TITLE>Sergei Prokofiev: His Musical Life</TITLE>
          <PUBLISHER>Alfred A Knopf</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>Rose Prokofieva (Trans)</SUBSIDIARY_AUTHORS>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
          <CALL_NUMBER>BIOG-Prok (31)</CALL_NUMBER>
-         <NOTES>Translated by Rose Prokofieva. Introduction by S. Eisenstein. First american
+         <NOTES>Introduction by S. Eisenstein. First American
             Edition</NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>479</REFNUM>
          <AUTHORS>
-            <AUTHOR>Kozlova, M G (Miral'da Georgievna) , ed.</AUTHOR>
+            <AUTHOR>Kozlova, M G (Miral'da Georgievna), ed.</AUTHOR>
          </AUTHORS>
          <YEAR>1982</YEAR>
-         <TITLE>S. S. Prokof'ev: avtobiografiia</TITLE>
+         <TITLE>S. S. Prokof'ev: Avtobiografiia</TITLE>
          <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
@@ -19162,7 +19118,7 @@
             <AUTHOR>Shlifstein, S</AUTHOR>
          </AUTHORS>
          <YEAR>1961</YEAR>
-         <TITLE>S. S. Prokof'ev: materialy dokumenty vospominaniia</TITLE>
+         <TITLE>S. S. Prokof'ev: Materialy, Dokumenty, Vospominaniia</TITLE>
          <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Gosudarstvennoe Muzykal'noe Izdatel'stvo</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
@@ -19180,32 +19136,14 @@
          </AUTHORS>
          <YEAR>2001</YEAR>
          <TITLE>Sergei Prokof'ev k 110-letiiu so dnia rozhdeniia: pis'ma, vospominaniia,
-            stat'i [Serge Prokofiev on the 110th anniversary of his birth: letters,
-            reminiscences, articles]</TITLE>
+            stat'i [Serge Prokofiev on the 110th Anniversary of His Birth: Letters,
+            Reminiscences, Articles]</TITLE>
          <PUBLISHER>Gosudarstvennyi Tsentral'nyi Muzei Muzykal'noi Kul'tury imeni M.
             I. Glinki</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>21/05/2001</CUSTOM5>
          <ACCESSION_NUMBER>190</ACCESSION_NUMBER>
          <CALL_NUMBER>BIOG-Prok (35)</CALL_NUMBER>
-      </RECORD>
-   <RECORD>
-         <REFERENCE_TYPE>20</REFERENCE_TYPE>
-         <REFNUM>467</REFNUM>
-         <AUTHORS>
-            <AUTHOR>Rakhmanova, Marina (ed.)</AUTHOR>
-         </AUTHORS>
-         <YEAR>2001</YEAR>
-         <TITLE>Sergei Prokof'ev k 110-letiiu so dnia rozhdeniia: pis'ma, vospominaniia,
-            stat'i [Serge Prokofiev on the 110th anniversary of his birth: letters,
-            reminiscences, articles]</TITLE>
-         <PUBLISHER>Gosudarstvennyi Tsentral'nyi Muzei Muzykal'noi Kul'tury imeni M.
-            I. Glinki</PUBLISHER>
-         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <CUSTOM5>24/09/2002</CUSTOM5>
-         <ACCESSION_NUMBER>190</ACCESSION_NUMBER>
-         <CALL_NUMBER>BIOG-Prok (35) (DUP)</CALL_NUMBER>
-         <NOTES>Duplicate copy</NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
@@ -19228,7 +19166,7 @@
             <AUTHOR>Varunts, Viktor P</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Prokof'ev o Prokof'eve</TITLE>
+         <TITLE>Prokof'ev o Prokof'eve: Stat'i i interv'iu</TITLE>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>18/10/1999</CUSTOM5>
@@ -19245,8 +19183,7 @@
             <AUTHOR>Tarakanov, Mikhail Evgenevich</AUTHOR>
          </AUTHORS>
          <YEAR>1990</YEAR>
-         <TITLE>Sergej Prokofjew: Beiträge zum Thema Dokumente Interpretation Programme Das
-            Werk</TITLE>
+         <TITLE>Sergej Prokofjew 11 April 1891 - 5 März 1953: Beiträge zum Thema Dokumente Interpretation Programme Das Werk</TITLE>
          <PLACE_PUBLISHED>Regensburg</PLACE_PUBLISHED>
          <PUBLISHER>Gustav Bosse Verlag</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
@@ -19308,7 +19245,7 @@
             <AUTHOR>Edelman, G (eds.)</AUTHOR>
          </AUTHORS>
          <YEAR>1962</YEAR>
-         <TITLE>Sergei Prokof'ev, Stat'i i Materialy</TITLE>
+      <TITLE>Sergei Prokof'ev 1953 - 1963: Stat'i i Materialy</TITLE>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>?</CUSTOM5>
@@ -19371,11 +19308,12 @@
          <TITLE>Prokofiev</TITLE>
          <PUBLISHER>Calder &amp; Boyars</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>Miriam John</SUBSIDIARY_AUTHORS>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
          <CALL_NUMBER>BIOG-Prok (45)</CALL_NUMBER>
-         <NOTES>In English by Calder &amp; Boyars. Translation of the 1960 Seuil edition</NOTES>
+         <NOTES>Translation of the 1960 Seuil edition</NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
@@ -19482,24 +19420,6 @@
          <CALL_NUMBER>BIOG-Prok (50)</CALL_NUMBER>
          <NOTES>A duplicate copy (with author's signature) is kept in NM's office (see
             BIOG-Prok (50) (DUP))</NOTES>
-      </RECORD>
-   <RECORD>
-         <REFERENCE_TYPE>20</REFERENCE_TYPE>
-         <REFNUM>496</REFNUM>
-         <AUTHORS>
-            <AUTHOR>Nice, David</AUTHOR>
-         </AUTHORS>
-         <YEAR>2003</YEAR>
-         <TITLE>Prokofiev: From Russia to the West 1891-1935</TITLE>
-         <PLACE_PUBLISHED>New Haven and London</PLACE_PUBLISHED>
-         <PUBLISHER>Yale University Press</PUBLISHER>
-         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <CUSTOM2>In WT 221</CUSTOM2>
-         <CUSTOM5>18/11/2003</CUSTOM5>
-         <ACCESSION_NUMBER>261</ACCESSION_NUMBER>
-         <CALL_NUMBER>BIOG-Prok (50) (DUP)</CALL_NUMBER>
-         <NOTES>Donated by the author with an inscription on the inside cover. In NM's
-            office</NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
@@ -19623,11 +19543,8 @@
          </AUTHORS>
          <YEAR>2004</YEAR>
          <TITLE>Sergej Prokofjew in der Sowjetunion: Verstrickungen - Mißverständnisse -
-            Katastrophen. Ein internationales Symposium. [Sergei Prokofiev in the Soviet union:
-            Involvements - Misunderstandings - Disasters. An international symposium]</TITLE>
-         <SECONDARY_AUTHORS>
-            <SECONDARY_AUTHOR>Kuhn, Ernst</SECONDARY_AUTHOR>
-         </SECONDARY_AUTHORS>
+         Katastrophen. Ein internationales Symposium. [Sergei Prokofiev in the Soviet Union:
+         Involvements - Misunderstandings - Disasters. An International Symposium]</TITLE>
          <SECONDARY_TITLE>Studia Slavica Musicologica: Prokofjew-Studien, Bd. 1</SECONDARY_TITLE>
          <PLACE_PUBLISHED>Berlin</PLACE_PUBLISHED>
          <PUBLISHER>Verlag Ernst Kuhn</PUBLISHER>
@@ -19694,30 +19611,12 @@
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
-         <REFNUM>1942</REFNUM>
-         <AUTHORS>
-            <AUTHOR>Santangelo, Gaetano</AUTHOR>
-         </AUTHORS>
-         <YEAR>1996</YEAR>
-         <TITLE>Pierino e il Lupo</TITLE>
-         <PLACE_PUBLISHED>Milano</PLACE_PUBLISHED>
-         <PUBLISHER>Amadeus</PUBLISHER>
-         <TYPE_OF_WORK>Illustrated Book</TYPE_OF_WORK>
-         <CUSTOM1>Italian</CUSTOM1>
-         <CUSTOM5>02/12/2004</CUSTOM5>
-         <ACCESSION_NUMBER>?</ACCESSION_NUMBER>
-         <CALL_NUMBER>BIOG-Prok (60) (DUP)</CALL_NUMBER>
-         <NOTES>Text by Dario Fo; Illustrations by Emanuele Luzzati. For the accompanying recording
-            see CD 316</NOTES>
-      </RECORD>
-   <RECORD>
-         <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>1967</REFNUM>
          <AUTHORS>
             <AUTHOR>Sviatoslav, Iurii Rodionovich</AUTHOR>
          </AUTHORS>
          <YEAR>2000</YEAR>
-         <TITLE>S. S. Prokof'ev i Shakhmaty</TITLE>
+         <TITLE>S. S. Prokof'ev i Shakhmaty: Vstupitel'naia, stat'i i kommentari</TITLE>
          <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Kompozitor</PUBLISHER>
          <ISBN>5-85285-218-X</ISBN>
@@ -19736,7 +19635,7 @@
          <YEAR>2004</YEAR>
          <TITLE>Sergei Prokof'ev: Vospominaniia, Pis'ma, Stat'i</TITLE>
          <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
-         <PUBLISHER>Deka-BC</PUBLISHER>
+         <PUBLISHER>Deka-VC</PUBLISHER>
          <PAGES>417 + photographs</PAGES>
          <ISBN>5-901951-10-7</ISBN>
          <CUSTOM1>Russian</CUSTOM1>
@@ -19747,31 +19646,12 @@
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
-         <REFNUM>1969</REFNUM>
-         <AUTHORS>
-            <AUTHOR>Rakhmanova, Marina (ed.)</AUTHOR>
-         </AUTHORS>
-         <YEAR>2004</YEAR>
-         <TITLE>Sergei Prokof'ev: Vospominaniia, Pis'ma, Stat'i</TITLE>
-         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
-         <PUBLISHER>Deka-BC</PUBLISHER>
-         <PAGES>417 + photographs</PAGES>
-         <ISBN>5-901951-10-7</ISBN>
-         <CUSTOM1>Russian</CUSTOM1>
-         <CUSTOM2>Kept in Room 221</CUSTOM2>
-         <CUSTOM5>22/02/2005</CUSTOM5>
-         <ACCESSION_NUMBER>94a (21/02/2005)</ACCESSION_NUMBER>
-         <CALL_NUMBER>BIOG-Prok (62) DUP</CALL_NUMBER>
-         <NOTES>Kept in Room 221. Includes index</NOTES>
-      </RECORD>
-   <RECORD>
-         <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>2098</REFNUM>
          <AUTHORS>
             <AUTHOR>Prokofiev, Serge</AUTHOR>
          </AUTHORS>
          <YEAR>2005</YEAR>
-         <TITLE>La Tour vagabonde</TITLE>
+         <TITLE>La Tour Vagabonde</TITLE>
          <PLACE_PUBLISHED>Paris</PLACE_PUBLISHED>
          <PUBLISHER>Éditions Alteratives</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
@@ -19868,7 +19748,7 @@
             <AUTHOR>Prokofiev, Serge</AUTHOR>
          </AUTHORS>
          <YEAR>2007</YEAR>
-         <TITLE>Sergei Prokof'ev: avtobiografiia</TITLE>
+         <TITLE>Sergei Prokof'ev: Avtobiografiia</TITLE>
          <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Klassika-XXI</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
@@ -19972,7 +19852,7 @@
          <AUTHORS>
             <AUTHOR>Morrison, Simon</AUTHOR>
          </AUTHORS>
-         <YEAR>2008</YEAR>
+         <YEAR>2009</YEAR>
          <TITLE>The People's Artist: Prokofiev's Soviet Years</TITLE>
          <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
          <PUBLISHER>Oxford University Press</PUBLISHER>
@@ -20104,8 +19984,7 @@
          <AUTHORS>
             <AUTHOR>Shlifstein, S (ed.)</AUTHOR>
          </AUTHORS>
-         <YEAR>1959?</YEAR>
-         <TITLE>S. Prokofiev: autobiography articles reminiscences</TITLE>
+         <TITLE>S. Prokofiev: Autobiography Articles Reminiscences</TITLE>
          <PLACE_PUBLISHED>Moscow</PLACE_PUBLISHED>
          <PUBLISHER>Foreign Languages Publishing House</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
@@ -20680,7 +20559,7 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>27/03/2009</CUSTOM5>
          <ACCESSION_NUMBER>(183e)</ACCESSION_NUMBER>
-         <CALL_NUMBER>Biog-PROK (73)</CALL_NUMBER>
+         <CALL_NUMBER>Biog-Prok (73)</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
