@@ -18721,10 +18721,10 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>375</REFNUM>
          <AUTHORS>
-            <AUTHOR>Blok, Vladimir</AUTHOR>
+            <AUTHOR>Blok, Vladimir (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1978</YEAR>
-         <TITLE>Sergei Prokofiev: Materials, Articles, and Interviews</TITLE>
+         <TITLE>Sergei Prokofiev: Materials, Articles, Interviews</TITLE>
          <PUBLISHER>Progress Publishers</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>English</CUSTOM1>
@@ -18740,6 +18740,7 @@
          </AUTHORS>
          <YEAR>1991</YEAR>
          <TITLE>Sergei Prokofiev: Soviet Diary 1927 and Other Writings</TITLE>
+         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>Faber &amp; Faber</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <SUBSIDIARY_AUTHORS>
@@ -18755,10 +18756,11 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>376</REFNUM>
          <AUTHORS>
-            <AUTHOR>Seroff, V</AUTHOR>
+            <AUTHOR>Seroff, Victor</AUTHOR>
          </AUTHORS>
          <YEAR>1969</YEAR>
          <TITLE>Sergei Prokofiev: A Soviet Tragedy</TITLE>
+         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>Leslie Frewin</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>?</CUSTOM5>
@@ -18769,13 +18771,17 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>385</REFNUM>
          <AUTHORS>
-            <AUTHOR>Appel, D H (ed.)</AUTHOR>
+            <AUTHOR>Prokofiev, Sergei</AUTHOR>
          </AUTHORS>
          <YEAR>1979</YEAR>
          <TITLE>Prokofiev by Prokofiev: A Composer's Memoir: A unique recollection of youth and education in Imperial Russia</TITLE>
-         <PUBLISHER>Doubleday and Company, Inc.</PUBLISHER>
+         <PLACE_PUBLISHED>Garden City, NY</PLACE_PUBLISHED>
+         <PUBLISHER>Doubleday and Company INC</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <SUBSIDIARY_AUTHORS>Guy Daniels (Trans.)</SUBSIDIARY_AUTHORS>
+         <SUBSIDIARY_AUTHORS>
+            <SUBSIDIARY_AUTHOR>Appel, David H (ed.)</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Daniels, Guy (trans.)</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
          <CALL_NUMBER>BIOG-Prok (13)</CALL_NUMBER>
@@ -18788,6 +18794,7 @@
          </AUTHORS>
          <YEAR>1988</YEAR>
          <TITLE>Prokofiev</TITLE>
+         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>Alderman Press</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>?</CUSTOM5>
@@ -18798,11 +18805,12 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>372</REFNUM>
          <AUTHORS>
-            <AUTHOR>Hanson, L</AUTHOR>
-            <AUTHOR>Hanson, E</AUTHOR>
+            <AUTHOR>Hanson, Lawrence</AUTHOR>
+            <AUTHOR>Hanson, Elisabeth</AUTHOR>
          </AUTHORS>
          <YEAR>1964</YEAR>
-         <TITLE>Prokofiev: The Prodigal Son</TITLE>
+         <TITLE>Prokofiev: The Prodigal Son: An Introduction to his life and work in Three Movements</TITLE>
+         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>Cassell &amp; Company LTD</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>?</CUSTOM5>
@@ -18831,7 +18839,8 @@
             <AUTHOR>Blok, Vladimir (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1972</YEAR>
-         <TITLE>S S Prokof'ev: Stati i issledovaniia</TITLE>
+         <TITLE>S S Prokof'ev: Stat'i i issledovaniia</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>?</CUSTOM5>
@@ -18846,6 +18855,7 @@
          </AUTHORS>
          <YEAR>1996</YEAR>
          <TITLE>Sergej Prokofjew: Komponist im Schatten Stalins (Eine Biographie)</TITLE>
+         <PLACE_PUBLISHED>Berlin</PLACE_PUBLISHED>
          <PUBLISHER>Beltz Quadriga</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>German</CUSTOM1>
@@ -18857,10 +18867,11 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>383</REFNUM>
          <AUTHORS>
-            <AUTHOR>Morozov, S</AUTHOR>
+            <AUTHOR>Morozov, Sergei</AUTHOR>
          </AUTHORS>
          <YEAR>1967</YEAR>
          <TITLE>Prokof'ev</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Molodaia Gvardiia</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>Russian</CUSTOM1>
@@ -18876,9 +18887,10 @@
          </AUTHORS>
          <YEAR>1984</YEAR>
          <TITLE>Prokofiev: His Life and Times</TITLE>
-         <PUBLISHER>Paganiniana Publications, Inc.</PUBLISHER>
+         <PLACE_PUBLISHED>Neptune City, NJ</PLACE_PUBLISHED>
+         <PUBLISHER>Paganiniana Publications INC</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <SUBSIDIARY_AUTHORS>Catherine Young (Trans)</SUBSIDIARY_AUTHORS>
+         <SUBSIDIARY_AUTHORS>Catherine Young (Trans.)</SUBSIDIARY_AUTHORS>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
@@ -18893,6 +18905,7 @@
          </AUTHORS>
          <YEAR>1981</YEAR>
          <TITLE>Sergei Sergeevich Prokof'ev</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>Russian</CUSTOM1>
@@ -18904,10 +18917,11 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>260</REFNUM>
          <AUTHORS>
-            <AUTHOR>Roziner, F</AUTHOR>
+            <AUTHOR>Roziner, Feliks</AUTHOR>
          </AUTHORS>
          <YEAR>1978</YEAR>
          <TITLE>S. Prokof'ev: Tokkata zhizni</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Molodaia Gvardiia</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>?</CUSTOM5>
@@ -18921,7 +18935,7 @@
             <AUTHOR>Brockhaus, Heinz Alfred</AUTHOR>
          </AUTHORS>
          <YEAR>1964</YEAR>
-         <TITLE>Sergej Prokofjew</TITLE>
+         <TITLE>Sergej Prokofjew: Mit einer Auswahl von Aufsätzen des Komponisten</TITLE>
          <PLACE_PUBLISHED>Leipzig</PLACE_PUBLISHED>
          <PUBLISHER>Verlag Philipp Reclam jun.</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
@@ -18938,6 +18952,7 @@
          </AUTHORS>
          <YEAR>1995</YEAR>
          <TITLE>Sergej Prokofjew</TITLE>
+         <PLACE_PUBLISHED>Hamburg</PLACE_PUBLISHED>
          <PUBLISHER>Rowohlt</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>07/11/2000</CUSTOM5>
@@ -18960,10 +18975,10 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>458</REFNUM>
          <AUTHORS>
-            <AUTHOR>Prokofiev, Serge</AUTHOR>
+            <AUTHOR>Prokofiev, Sergei</AUTHOR>
          </AUTHORS>
          <YEAR>1990</YEAR>
-         <TITLE>Sergei Prokof'ev: Dnevnik - 27</TITLE>
+         <TITLE>Dnevnik - 27</TITLE>
          <PLACE_PUBLISHED>Parizh</PLACE_PUBLISHED>
          <PUBLISHER>Sintaksis</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
@@ -18976,13 +18991,13 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>384</REFNUM>
          <AUTHORS>
-            <AUTHOR>Prokofiev, Oleg</AUTHOR>
+            <AUTHOR>Prokofiev, Oleg (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Prokofiev Voyage en URSS 1927</TITLE>
+         <TITLE>Prokofiev: Voyage en URSS 1927</TITLE>
          <PUBLISHER>Actes Sud</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <SUBSIDIARY_AUTHORS>Philippe Mougeot (Trans)</SUBSIDIARY_AUTHORS>
+         <SUBSIDIARY_AUTHORS>Mougeot, Philippe (Trans)</SUBSIDIARY_AUTHORS>
          <CUSTOM1>French</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
@@ -18996,6 +19011,7 @@
          </AUTHORS>
          <YEAR>1991</YEAR>
          <TITLE>Sergei Prokof'ev 1891-1991</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>?</CUSTOM5>
@@ -19009,7 +19025,8 @@
             <AUTHOR>Danko, Larissa</AUTHOR>
          </AUTHORS>
          <YEAR>1966</YEAR>
-         <TITLE>Sergei Sergeevich Prokof'ev 1891 - 1953</TITLE>
+         <TITLE>Sergei Sergeevich Prokof'ev 1891 - 1953: Kratkii ocherk zhizni i tvorchestva</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>Russian</CUSTOM1>
@@ -19026,6 +19043,7 @@
          </AUTHORS>
          <YEAR>1946</YEAR>
          <TITLE>Prokofiev</TITLE>
+         <PLACE_PUBLISHED>Paris</PLACE_PUBLISHED>
          <PUBLISHER>Chêne</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <SUBSIDIARY_AUTHORS>Rostislav Hofmann (Trans)</SUBSIDIARY_AUTHORS>
@@ -19984,7 +20002,7 @@
          <AUTHORS>
             <AUTHOR>Shlifstein, S (ed.)</AUTHOR>
          </AUTHORS>
-         <TITLE>S. Prokofiev: Autobiography Articles Reminiscences</TITLE>
+         <TITLE>S. Prokofiev: Autobiography, Articles, Reminiscences</TITLE>
          <PLACE_PUBLISHED>Moscow</PLACE_PUBLISHED>
          <PUBLISHER>Foreign Languages Publishing House</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
@@ -20005,7 +20023,7 @@
             Prokof'eva</TITLE>
          <SECONDARY_TITLE>Bibliograf Vypusk 15</SECONDARY_TITLE>
          <PLACE_PUBLISHED>Parizh</PLACE_PUBLISHED>
-         <PUBLISHER>Izdanie Assotsiatsii Russkii Institut v Parizhe</PUBLISHER>
+         <PUBLISHER>Izdanie Assotsiatsii "Russkii Institut v Parizhe"</PUBLISHER>
          <PAGES>72</PAGES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>Russian</CUSTOM1>
@@ -20022,10 +20040,10 @@
          <YEAR>2012</YEAR>
          <TITLE>Sergey Prokofiev Diaries 1924-1933: Prodigal Son</TITLE>
          <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
-         <PUBLISHER>Faber and Faber</PUBLISHER>
+         <PUBLISHER>Faber and Faber Ltd.</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <SUBSIDIARY_AUTHORS>
-            <SUBSIDIARY_AUTHOR>Anthony Phillips</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Anthony Phillips (Trans)</SUBSIDIARY_AUTHOR>
          </SUBSIDIARY_AUTHORS>
          <ISBN>9780571234059</ISBN>
          <CUSTOM1>English</CUSTOM1>
@@ -20043,7 +20061,7 @@
          <YEAR>1998</YEAR>
          <TITLE>Sergey Prokofiev</TITLE>
          <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
-         <PUBLISHER>Phaidon</PUBLISHER>
+         <PUBLISHER>Phaidon Press Ltd.</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>103</ACCESSION_NUMBER>
@@ -20056,8 +20074,8 @@
          <AUTHORS>
             <AUTHOR>Zolotnitsky, David</AUTHOR>
          </AUTHORS>
-         <YEAR>1995</YEAR>
-         <TITLE>Sergei Radlov: the Shakespearian fate of a Soviet director</TITLE>
+         <YEAR>1998</YEAR>
+         <TITLE>Sergei Radlov: The Shakespearian Fate of a Soviet Director</TITLE>
          <SECONDARY_AUTHORS>
             <SECONDARY_AUTHOR>John Freedman et.al.</SECONDARY_AUTHOR>
          </SECONDARY_AUTHORS>
@@ -20079,7 +20097,7 @@
             <AUTHOR>Biesold, Maria</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Sergej Rachmaninoff: 1873-1943</TITLE>
+         <TITLE>Sergej Rachmaninoff 1873-1943: Zwischen Moskau und New York: Eine Künstlerbiographie</TITLE>
          <PUBLISHER>Beltz Quadriga</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>?</CUSTOM5>
@@ -20096,11 +20114,11 @@
          <TITLE>Sviatoslav Richter: Notebooks and Conversations</TITLE>
          <PUBLISHER>Faber &amp; Faber</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>Spencer, Stewart (Trans)</SUBSIDIARY_AUTHORS>
          <CUSTOM5>24/09/2002</CUSTOM5>
          <ACCESSION_NUMBER>220</ACCESSION_NUMBER>
          <CALL_NUMBER>BIOG-Rich (1)</CALL_NUMBER>
-         <NOTES>Translated by Stewart Spencer. Chapter 5: 'On Prokofiev' (pp.
-            67-89)</NOTES>
+         <NOTES>Chapter 5: "On Prokofiev" (pp. 67-89)</NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
@@ -20110,6 +20128,7 @@
          </AUTHORS>
          <YEAR>1989</YEAR>
          <TITLE>Preambuly</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>08/11/2000</CUSTOM5>
@@ -20123,7 +20142,7 @@
             <AUTHOR>Viktorov, Viktor</AUTHOR>
          </AUTHORS>
          <YEAR>1977</YEAR>
-         <TITLE>N. Sats i ee Tvorcheskaia Deiatel'nost'</TITLE>
+         <TITLE>N. Sats i ee tvorcheskaia deiatel'nost'</TITLE>
          <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
@@ -20150,8 +20169,8 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>317</REFNUM>
          <AUTHORS>
-            <AUTHOR>Ho, Allan</AUTHOR>
-            <AUTHOR>Feofanov, Dmitri</AUTHOR>
+            <AUTHOR>Ho, Allan (ed.)</AUTHOR>
+            <AUTHOR>Feofanov, Dmitri (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1998</YEAR>
          <TITLE>Shostakovich Reconsidered</TITLE>
@@ -20169,9 +20188,9 @@
             <AUTHOR>Barber, Charles F</AUTHOR>
          </AUTHORS>
          <YEAR>2002</YEAR>
-         <TITLE>Lost in the Stars: the forgotten musical life of Alexander Siloti</TITLE>
+         <TITLE>Lost in the Stars: The Forgotten Musical Life of Alexander Siloti</TITLE>
          <PLACE_PUBLISHED>Lanham</PLACE_PUBLISHED>
-         <PUBLISHER>Scarecrow Press</PUBLISHER>
+         <PUBLISHER>Scarecrow Press, Inc.</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <ISBN>0810841088</ISBN>
          <CUSTOM5>19/04/2004</CUSTOM5>
@@ -20186,7 +20205,7 @@
             <AUTHOR>Slonimsky, Nicolas</AUTHOR>
          </AUTHORS>
          <YEAR>1988</YEAR>
-         <TITLE>Perfect Pitch: a life story</TITLE>
+         <TITLE>Perfect Pitch: A Life Story</TITLE>
          <PLACE_PUBLISHED>Oxford</PLACE_PUBLISHED>
          <PUBLISHER>Oxford University Press</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
@@ -20201,7 +20220,7 @@
             <AUTHOR>Humbertclaude, Eric (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1990</YEAR>
-         <TITLE>(Re)lire Souvtchinski</TITLE>
+         <TITLE>(Re)lire Souvtchinski (1892 - 1985)</TITLE>
          <PUBLISHER>Eric Humbertclaude</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>03/11/2003</CUSTOM5>
@@ -20216,6 +20235,7 @@
          </AUTHORS>
          <YEAR>1999</YEAR>
          <TITLE>Petr Suvchinskii i ego vremia</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Izdatel'skoe Obedinenie 'Kompozitor'</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>07/11/2000</CUSTOM5>
@@ -20229,7 +20249,7 @@
             <AUTHOR>Souvtchinsky, Pierre</AUTHOR>
          </AUTHORS>
          <YEAR>2004</YEAR>
-         <TITLE>Un siècle de musique russe (1830-1930)</TITLE>
+         <TITLE>Un siècle de musique russe (1830-1930): Glinka, Moussorgsky, Tchaikowsky, Stravinsky</TITLE>
          <PLACE_PUBLISHED>Arles</PLACE_PUBLISHED>
          <PUBLISHER>Actes Sud</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
@@ -20248,7 +20268,7 @@
             <AUTHOR>Poldiaeva, Elena</AUTHOR>
          </AUTHORS>
          <YEAR>2005</YEAR>
-         <TITLE>Pisma k Petru Suvchinskomu [Letters to Pierre Souvchinsky]</TITLE>
+         <TITLE>Pisma k Petru Suvchinskomu</TITLE>
          <SECONDARY_TITLE>V muzykal'nom krugu russkogo zarubezh'ia</SECONDARY_TITLE>
          <PLACE_PUBLISHED>Berlin</PLACE_PUBLISHED>
          <PUBLISHER>Osteuropa-förderung</PUBLISHER>
@@ -20264,7 +20284,7 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>3172</REFNUM>
          <AUTHORS>
-            <AUTHOR>Humbertclaude, Eric (ed.)</AUTHOR>
+            <AUTHOR>Humbertclaude, Éric (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>2006</YEAR>
          <TITLE>Pierre Souvtchinski, cahiers d'étude</TITLE>
