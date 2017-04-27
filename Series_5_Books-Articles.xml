@@ -17516,6 +17516,7 @@
          <TITLE>Natalia Gontcharova Exhibition</TITLE>
          <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>Julian Barran Ltd.</PUBLISHER>
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <DATE>1997/06/11 - 1997/08/08</DATE>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>29/01/2007</CUSTOM5>
@@ -17536,15 +17537,16 @@
          <NOTES>Catalogue of the "Leningrad in Manchester" exhibitions</NOTES>
       </RECORD>
    <RECORD>
-         <REFERENCE_TYPE>8</REFERENCE_TYPE>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>2157</REFNUM>
          <AUTHORS>
-            <AUTHOR>Buckle, Richard</AUTHOR>
+            <AUTHOR>Buckle, Richard (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1954</YEAR>
          <TITLE>The Diaghilev Exhibition (from the Edinburgh Festival, 1954)</TITLE>
          <PLACE_PUBLISHED>Edinburgh</PLACE_PUBLISHED>
-         <PUBLISHER>The Observer</PUBLISHER>
+         <PUBLISHER>The Observer Ltd.</PUBLISHER>
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <DATE>1954</DATE>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>19/10/2005</CUSTOM5>
@@ -17552,7 +17554,7 @@
          <CALL_NUMBER>DM-D (18)</CALL_NUMBER>
       </RECORD>
    <RECORD>
-         <REFERENCE_TYPE>8</REFERENCE_TYPE>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>179</REFNUM>
          <AUTHORS>
             <AUTHOR>Strong, Roy</AUTHOR>
@@ -17562,9 +17564,10 @@
             <AUTHOR>Dyer, Philip</AUTHOR>
          </AUTHORS>
          <YEAR>1981</YEAR>
-         <TITLE>Spotlight: four centuries of ballet costume (08/04 - 26/07/1981)</TITLE>
+         <TITLE>Spotlight: Four Centuries of Ballet Costume: A Tribute to the Royal Ballet: 8 April to 26 July 1981</TITLE>
          <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>Victoria and Albert Museum</PUBLISHER>
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <DATE>08/04 - 26/07/1981</DATE>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>07/11/2000</CUSTOM5>
@@ -17572,16 +17575,24 @@
          <CALL_NUMBER>DM-D (4)</CALL_NUMBER>
       </RECORD>
    <RECORD>
-         <REFERENCE_TYPE>8</REFERENCE_TYPE>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>1568</REFNUM>
          <AUTHORS>
             <AUTHOR>Kodicek, Ann</AUTHOR>
          </AUTHORS>
          <YEAR>1996</YEAR>
-         <TITLE>Diaghilev - Creator of the Ballets Russes</TITLE>
+         <TITLE>Diaghilev: Creator of the Ballets Russes: Art, Music, Dance</TITLE>
          <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
-         <PUBLISHER>Barbican Art Gallery; Lund Humphries Publishers</PUBLISHER>
-         <DATE>25/01 - 14/04/1996</DATE>
+         <PUBLISHER>Barbican Art Gallery / Lund Humphries Publishers</PUBLISHER>
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>
+            <SUBSIDIARY_AUTHOR>Bartlett, Rosemund</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Garafola, Lynn</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Pospelov, Gleb</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Pozharskaia, Militsa</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Schouvaloff, Alexander</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Vershinina, Irina</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <ISBN>0 85331 688 0</ISBN>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>24/05/2004</CUSTOM5>
@@ -17704,7 +17715,7 @@
             <AUTHOR>Prokofiev, Serge</AUTHOR>
          </AUTHORS>
          <YEAR>1960</YEAR>
-         <TITLE>Kamennyi Tsvetok [The Stone Flower]</TITLE>
+         <TITLE>Kamennyi Tsvetok</TITLE>
          <PUBLISHER>Gosudarstvennoe Muzykal'noe Izdatel'stvo</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>11/07/2000</CUSTOM5>
@@ -17723,8 +17734,8 @@
          <PUBLISHER>Faber &amp; Faber</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <SUBSIDIARY_AUTHORS>
-            <SUBSIDIARY_AUTHOR>Prokofiev, Oleg</SUBSIDIARY_AUTHOR>
-            <SUBSIDIARY_AUTHOR>Palmer, Christopher</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Prokofiev, Oleg (ed., trans.)</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Palmer, Christopher (trans.)</SUBSIDIARY_AUTHOR>
          </SUBSIDIARY_AUTHORS>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>12b</ACCESSION_NUMBER>
@@ -17848,7 +17859,7 @@
          <PLACE_PUBLISHED>Paris</PLACE_PUBLISHED>
          <PUBLISHER>Edition Russe de Musique</PUBLISHER>
          <PAGES>77</PAGES>
-         <TYPE_OF_WORK>Libretto</TYPE_OF_WORK>
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>French</CUSTOM1>
          <CUSTOM2>Preservation Box</CUSTOM2>
          <CUSTOM5>25/11/2004</CUSTOM5>
@@ -18750,7 +18761,7 @@
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
          <CALL_NUMBER>BIOG-Prok (11)</CALL_NUMBER>
-         <NOTES>Translated and edited by Oleg Prokofiev and Christopher Palmer</NOTES>
+         <NOTES></NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
@@ -19326,7 +19337,7 @@
          <TITLE>Prokofiev</TITLE>
          <PUBLISHER>Calder &amp; Boyars</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <SUBSIDIARY_AUTHORS>Miriam John</SUBSIDIARY_AUTHORS>
+         <SUBSIDIARY_AUTHORS>John, Miriam (trans.)</SUBSIDIARY_AUTHORS>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
@@ -19478,11 +19489,13 @@
          <YEAR>2002</YEAR>
          <TITLE>Dnevnik: 1907 - 1918 (chast' pervaia)</TITLE>
          <PUBLISHER>sprkfv</PUBLISHER>
+         <VOLUME>1</VOLUME>
+         <NUMBER_OF_VOLUMES>3</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>19/11/2003</CUSTOM5>
          <ACCESSION_NUMBER>183</ACCESSION_NUMBER>
          <CALL_NUMBER>BIOG-Prok (53)</CALL_NUMBER>
-         <NOTES>In 3 volumes: volume 1</NOTES>
+         <NOTES></NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
@@ -19493,11 +19506,13 @@
          <YEAR>2002</YEAR>
          <TITLE>Dnevnik: 1919 - 1933 (chast' vtoraia)</TITLE>
          <PUBLISHER>sprkfv</PUBLISHER>
+         <VOLUME>2</VOLUME>
+         <NUMBER_OF_VOLUMES>3</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>19/11/2003</CUSTOM5>
          <ACCESSION_NUMBER>183</ACCESSION_NUMBER>
          <CALL_NUMBER>BIOG-Prok (54)</CALL_NUMBER>
-         <NOTES>In 3 volumes: volume 2</NOTES>
+         <NOTES></NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
@@ -19508,11 +19523,13 @@
          <YEAR>2002</YEAR>
          <TITLE>Dnevnik: Litsa</TITLE>
          <PUBLISHER>sprkfv</PUBLISHER>
+         <VOLUME>3</VOLUME>
+         <NUMBER_OF_VOLUMES>3</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>19/11/2003</CUSTOM5>
          <ACCESSION_NUMBER>183</ACCESSION_NUMBER>
          <CALL_NUMBER>BIOG-Prok (55)</CALL_NUMBER>
-         <NOTES>In 3 volumes: volume 3</NOTES>
+         <NOTES></NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
@@ -19748,6 +19765,8 @@
          <TITLE>Sergey Prokofiev Diaries 1907-1914: Prodigious Youth</TITLE>
          <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>Faber and Faber</PUBLISHER>
+         <VOLUME>1</VOLUME>
+         <NUMBER_OF_VOLUMES>3</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <SUBSIDIARY_AUTHORS>
             <SUBSIDIARY_AUTHOR>Anthony Phillips</SUBSIDIARY_AUTHOR>
@@ -20041,6 +20060,8 @@
          <TITLE>Sergey Prokofiev Diaries 1924-1933: Prodigal Son</TITLE>
          <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>Faber and Faber Ltd.</PUBLISHER>
+         <VOLUME>3</VOLUME>
+         <NUMBER_OF_VOLUMES>3</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <SUBSIDIARY_AUTHORS>
             <SUBSIDIARY_AUTHOR>Anthony Phillips (Trans)</SUBSIDIARY_AUTHOR>
@@ -20050,7 +20071,7 @@
          <CUSTOM5>2012-11-28</CUSTOM5>
          <ACCESSION_NUMBER>521</ACCESSION_NUMBER>
          <CALL_NUMBER>BIOG-Prok (81)</CALL_NUMBER>
-         <NOTES>Volume 3 of 3</NOTES>
+         <NOTES></NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
@@ -20309,7 +20330,8 @@
             <AUTHOR>Jonge, Alex de</AUTHOR>
          </AUTHORS>
          <YEAR>1986</YEAR>
-         <TITLE>Stalin and the shaping of the Soviet Union</TITLE>
+         <TITLE>Stalin and the Shaping of the Soviet Union</TITLE>
+         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>Collins</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>?</CUSTOM5>
@@ -20323,7 +20345,8 @@
             <AUTHOR>Kalashnikov, Iu S</AUTHOR>
          </AUTHORS>
          <YEAR>1983</YEAR>
-         <TITLE>Stanislavskii - reformator opernogo iskusstva</TITLE>
+         <TITLE>Stanislavskii - reformator opernogo iskusstva: materialy, dokumenty</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>14/11/2000</CUSTOM5>
@@ -20337,10 +20360,11 @@
             <AUTHOR>Lukavsky, Radovan</AUTHOR>
             <AUTHOR>Radok, Alfred</AUTHOR>
          </AUTHORS>
-         <YEAR>?</YEAR>
-         <TITLE>Konstantin Sergejevic Stanislavskij [Stanislavsky]</TITLE>
+         <TITLE>Konstantin Sergejevic Stanislavskij</TITLE>
+         <PLACE_PUBLISHED>Prague</PLACE_PUBLISHED>
          <PUBLISHER>Divadelni Ustav Praha</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>Eislerová, Jean</SUBSIDIARY_AUTHORS>
          <CUSTOM5>28/08/2001</CUSTOM5>
          <ACCESSION_NUMBER>200</ACCESSION_NUMBER>
          <CALL_NUMBER>BIOG-Stan (2)</CALL_NUMBER>
@@ -20354,15 +20378,17 @@
             <AUTHOR>Taruskin, Richard</AUTHOR>
          </AUTHORS>
          <YEAR>1996</YEAR>
-         <TITLE>Stravinsky and the Russian Traditions: a biography of the works through Mavra.
-            Volume 1</TITLE>
+         <TITLE>Stravinsky and the Russian Traditions: A Biography of the Works Through Mavra
+            (Volume 1)</TITLE>
          <PLACE_PUBLISHED>Oxford</PLACE_PUBLISHED>
          <PUBLISHER>Oxford University Press</PUBLISHER>
+         <VOLUME>1</VOLUME>
+         <NUMBER_OF_VOLUMES>2</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>11/03/2002</CUSTOM5>
          <ACCESSION_NUMBER>215</ACCESSION_NUMBER>
          <CALL_NUMBER>BIOG-Stra (1)</CALL_NUMBER>
-         <NOTES>In 2 volumes</NOTES>
+         <NOTES></NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
@@ -20371,21 +20397,23 @@
             <AUTHOR>Taruskin, Richard</AUTHOR>
          </AUTHORS>
          <YEAR>1996</YEAR>
-         <TITLE>Stravinsky and the Russian Traditions: a biography of the works through Mavra.
-            Volume 2</TITLE>
+         <TITLE>Stravinsky and the Russian Traditions: A Biography of the Works Through Mavra
+            (Volume 2)</TITLE>
          <PLACE_PUBLISHED>Oxford</PLACE_PUBLISHED>
          <PUBLISHER>Oxford University Press</PUBLISHER>
+         <VOLUME>2</VOLUME>
+         <NUMBER_OF_VOLUMES>2</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>11/03/2002</CUSTOM5>
          <ACCESSION_NUMBER>215</ACCESSION_NUMBER>
          <CALL_NUMBER>BIOG-Stra (2)</CALL_NUMBER>
-         <NOTES>In 2 volumes</NOTES>
+         <NOTES></NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>477</REFNUM>
          <AUTHORS>
-            <AUTHOR>Pasler, Jann</AUTHOR>
+            <AUTHOR>Pasler, Jann (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1986</YEAR>
          <TITLE>Confronting Stravinsky</TITLE>
@@ -20403,7 +20431,7 @@
             <AUTHOR>Toorn, Pieter C van den</AUTHOR>
          </AUTHORS>
          <YEAR>1987</YEAR>
-         <TITLE>Stravinsky and The Rite of Spring</TITLE>
+         <TITLE>Stravinsky and the Rite of Spring: The Beginnings of a Musical Language</TITLE>
          <PLACE_PUBLISHED>Oxford</PLACE_PUBLISHED>
          <PUBLISHER>Oxford University Press</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
@@ -20419,7 +20447,8 @@
             <AUTHOR>Walsh, Stephen</AUTHOR>
          </AUTHORS>
          <YEAR>1999</YEAR>
-         <TITLE>Stravinsky: a Creative Spring. Russia and France 1882-1934</TITLE>
+         <TITLE>Stravinsky: A Creative Spring: Russia and France 1882-1934</TITLE>
+         <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
          <PUBLISHER>Alfred A Knopf</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>09/02/2000</CUSTOM5>
@@ -20430,12 +20459,16 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>473</REFNUM>
          <AUTHORS>
-            <AUTHOR>Craft, Robert</AUTHOR>
+            <AUTHOR>Stravinsky, Vera</AUTHOR>
          </AUTHORS>
          <YEAR>1982</YEAR>
-         <TITLE>Igor and Vera Stravinsky: a photograph album 1921 to 1971</TITLE>
+         <TITLE>Igor and Vera Stravinsky: A Photograph Album 1921 to 1971</TITLE>
          <PUBLISHER>Thames &amp; Hudson</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>
+            <SUBSIDIARY_AUTHOR>McCaffrey, Rita</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Craft, Robert</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>03/11/2003</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
@@ -20445,25 +20478,27 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>338</REFNUM>
          <AUTHORS>
-            <AUTHOR>Szigeti, Joseph</AUTHOR>
+            <AUTHOR>Szígetí, Joseph</AUTHOR>
          </AUTHORS>
-         <YEAR>1967 (1947)</YEAR>
-         <TITLE>With Strings Attached: reminiscences and reflections</TITLE>
+         <YEAR>1967</YEAR>
+         <TITLE>With Strings Attached: Reminiscences and Reflections</TITLE>
+         <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
          <PUBLISHER>Alfred A Knopf</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>123</ACCESSION_NUMBER>
          <CALL_NUMBER>BIOG-Szig (1)</CALL_NUMBER>
-         <NOTES>Second edition: enlarged and revised. 1999</NOTES>
+         <NOTES>Second edition of 1947 publication: enlarged and revised</NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>194</REFNUM>
          <AUTHORS>
-            <AUTHOR>Korabelnikova, L</AUTHOR>
+            <AUTHOR>Korabel'nikova, Liudmila</AUTHOR>
          </AUTHORS>
          <YEAR>1999</YEAR>
          <TITLE>Aleksandr Cherepnin: dolgoe stranstvie</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Iazyki Russkoi Kul'tury</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>07/11/2000</CUSTOM5>
@@ -20482,7 +20517,7 @@
          <PUBLISHER>La Revue Musicale</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <SUBSIDIARY_AUTHORS>
-            <SUBSIDIARY_AUTHOR>Harry Halbreich</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Halbreich, Harry (trans.)</SUBSIDIARY_AUTHOR>
          </SUBSIDIARY_AUTHORS>
          <CUSTOM1>French</CUSTOM1>
          <CUSTOM5>17/08/2004</CUSTOM5>
@@ -20493,12 +20528,17 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>421</REFNUM>
          <AUTHORS>
-            <AUTHOR>Bogdanov-Berezovsky, Valerian Mikhailovich</AUTHOR>
+            <AUTHOR>Bogdanov-Beresovsky, Valerian Mikhailovich</AUTHOR>
          </AUTHORS>
          <YEAR>1952</YEAR>
          <TITLE>Ulanova and the Development of the Soviet Ballet</TITLE>
+         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>Macgibbon &amp; Kee</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>
+            <SUBSIDIARY_AUTHOR>Garry, Stephen (trans.)</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Lawson, Joan (trans.)</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
          <CALL_NUMBER>BIOG-Ulan (1)</CALL_NUMBER>
@@ -20510,7 +20550,8 @@
             <AUTHOR>Kunetskaia, L</AUTHOR>
          </AUTHORS>
          <YEAR>1978</YEAR>
-         <TITLE>Notnaia Biblioteka Sem'i Ul'ianovykh</TITLE>
+         <TITLE>Notnaia Biblioteka Sem'i Ul'ianovykh: Katalog–spravochnik</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>14/11/2000</CUSTOM5>
@@ -20524,14 +20565,16 @@
             <AUTHOR>Samuel, Claude</AUTHOR>
          </AUTHORS>
          <YEAR>1983</YEAR>
-         <TITLE>Mstislav Rostropovich &amp; Galina Vishnevskaya: Russia, Music, and Liberty.
+         <TITLE>Mstislav Rostropovich &amp; Galina Vishnevskaya: Russia, Music, and Liberty:
             Conversations with Claude Samuel</TITLE>
-         <PUBLISHER>Amadeus</PUBLISHER>
+         <PLACE_PUBLISHED>Portland, Oregon</PLACE_PUBLISHED>
+         <PUBLISHER>Amadeus Press</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>Glasow, E. Thomas (trans.)</SUBSIDIARY_AUTHORS>
          <CUSTOM5>11/03/2002</CUSTOM5>
          <ACCESSION_NUMBER>214</ACCESSION_NUMBER>
          <CALL_NUMBER>BIOG-Vish (1)</CALL_NUMBER>
-         <NOTES>Translated by E. Thomas Glasow</NOTES>
+         <NOTES></NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
@@ -20541,8 +20584,10 @@
          </AUTHORS>
          <YEAR>1986</YEAR>
          <TITLE>Galina: A Russian Story</TITLE>
+         <PLACE_PUBLISHED>Great Britain</PLACE_PUBLISHED>
          <PUBLISHER>Sceptre</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>Daniels, Guy (trans.)</SUBSIDIARY_AUTHORS>
          <CUSTOM5>07/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>165</ACCESSION_NUMBER>
          <CALL_NUMBER>BIOG-Vish (2)</CALL_NUMBER>
@@ -20553,7 +20598,7 @@
          <AUTHORS>
             <AUTHOR>Waugh, Alexander</AUTHOR>
          </AUTHORS>
-         <YEAR>2008</YEAR>
+         <YEAR>2009</YEAR>
          <TITLE>The House of Wittgenstein: A Family at War</TITLE>
          <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>Bloomsbury</PUBLISHER>
@@ -20579,7 +20624,7 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>27/03/2009</CUSTOM5>
          <ACCESSION_NUMBER>(183e)</ACCESSION_NUMBER>
-         <CALL_NUMBER>Biog-Prok (73)</CALL_NUMBER>
+         <CALL_NUMBER>BIOG-Prok (73)</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
@@ -20607,14 +20652,22 @@
             <AUTHOR>Kuna, Milan (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1987</YEAR>
-         <TITLE>Antonin Dvorak: correspondence dispatched 1 - 1871-1884</TITLE>
+         <TITLE>Antonín Dvorák: Korespondence a Dokumenty: Kritické Vydání: Svzek 1: Korespondence Odeslaná 1871-1884</TITLE>
          <PLACE_PUBLISHED>Praha</PLACE_PUBLISHED>
          <PUBLISHER>Editio Supraphon</PUBLISHER>
+         <VOLUME>1</VOLUME>
+         <NUMBER_OF_VOLUMES>4</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>
+            <SUBSIDIARY_AUTHOR>Bradová, Ludmila (ed.)</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Cubr, Antonín (ed.)</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Hallová, Markéta (ed.)</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Slavíková, Jitka (ed.)</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <CUSTOM5>10/11/2003</CUSTOM5>
          <ACCESSION_NUMBER>252</ACCESSION_NUMBER>
          <CALL_NUMBER>CORR-Dvor (1)</CALL_NUMBER>
-         <NOTES>Volume 1</NOTES>
+         <NOTES></NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
@@ -20623,14 +20676,22 @@
             <AUTHOR>Kuna, Milan (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1988</YEAR>
-         <TITLE>Antonin Dvorak: correspondence dispatched 2 - 1885-1889</TITLE>
+         <TITLE>Antonín Dvorák: Korespondence a Dokumenty: Kritické Vydání:Svzek 2 Korespondence Odeslaná 1885-1889</TITLE>
          <PLACE_PUBLISHED>Praha</PLACE_PUBLISHED>
          <PUBLISHER>Editio Supraphon</PUBLISHER>
+         <VOLUME>2</VOLUME>
+         <NUMBER_OF_VOLUMES>4</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>
+            <SUBSIDIARY_AUTHOR>Bradová, Ludmila (ed.)</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Cubr, Antonín (ed.)</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Hallová, Markéta (ed.)</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Slavíková, Jitka (ed.)</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <CUSTOM5>10/11/2003</CUSTOM5>
          <ACCESSION_NUMBER>252</ACCESSION_NUMBER>
          <CALL_NUMBER>CORR-Dvor (2)</CALL_NUMBER>
-         <NOTES>Volume 2</NOTES>
+         <NOTES></NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
@@ -20639,14 +20700,22 @@
             <AUTHOR>Kuna, Milan (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1989</YEAR>
-         <TITLE>Antonin Dvorak: correspondence dispatched 3 - 1890-1895</TITLE>
+         <TITLE>Antonín Dvorák: Korespondence a Dokumenty: Kritické Vydání:Svzek 3 Korespondence Odeslaná 1890-1895</TITLE>
          <PLACE_PUBLISHED>Praha</PLACE_PUBLISHED>
          <PUBLISHER>Editio Supraphon</PUBLISHER>
+         <VOLUME>3</VOLUME>
+         <NUMBER_OF_VOLUMES>4</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <CUSTOM5>10/11/2003</CUSTOM5>
+         <SUBSIDIARY_AUTHORS>
+            <SUBSIDIARY_AUTHOR>Bradová, Ludmila (ed.)</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Cubr, Antonín (ed.)</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Hallová, Markéta (ed.)</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Slavíková, Jitka (ed.)</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
+      <CUSTOM5>10/11/2003</CUSTOM5>
          <ACCESSION_NUMBER>252</ACCESSION_NUMBER>
          <CALL_NUMBER>CORR-Dvor (3)</CALL_NUMBER>
-         <NOTES>Volume 3</NOTES>
+         <NOTES></NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
@@ -20655,13 +20724,21 @@
             <AUTHOR>Kuna, Milan (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1995</YEAR>
-         <TITLE>Antonin Dvorak: correspondence dispatched 4 - 1896-1904</TITLE>
+         <TITLE>Antonín Dvorák: Korespondence a Dokumenty: Kritické Vydání:Svzek 4 Korespondence Odeslaná 1896 - 1904</TITLE>
          <PUBLISHER>Barenreiter Editio Supraphon</PUBLISHER>
+         <VOLUME>4</VOLUME>
+         <NUMBER_OF_VOLUMES>4</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>
+            <SUBSIDIARY_AUTHOR>Bradová, Ludmila (ed.)</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Cubr, Antonín (ed.)</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Hallová, Markéta (ed.)</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Slavíková, Jitka (ed.)</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <CUSTOM5>10/11/2003</CUSTOM5>
          <ACCESSION_NUMBER>252</ACCESSION_NUMBER>
          <CALL_NUMBER>CORR-Dvor (4)</CALL_NUMBER>
-         <NOTES>Volume 4</NOTES>
+         <NOTES></NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
@@ -20669,24 +20746,47 @@
          <AUTHORS>
             <AUTHOR>Shlifstein, S (ed.)</AUTHOR>
          </AUTHORS>
-         <YEAR>Vol 1: 1959; vol. 2: 1960</YEAR>
+         <YEAR>1959</YEAR>
          <TITLE>N. Ia. Miaskovskii; stat'i pis'ma vospominaniia</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
+         <VOLUME>1</VOLUME>
+         <NUMBER_OF_VOLUMES>2</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>25/08/99</CUSTOM5>
          <ACCESSION_NUMBER>125</ACCESSION_NUMBER>
-         <CALL_NUMBER>CORR-Mias (1) and (2)</CALL_NUMBER>
-         <NOTES>2 volumes: vol. 1 = CORR-Mias (1); vol.2 = CORR-Mias (2)</NOTES>
+         <CALL_NUMBER>CORR-Mias (1)</CALL_NUMBER>
+         <NOTES>Volume 1 of 2</NOTES>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <REFNUM>341</REFNUM>
+         <AUTHORS>
+         <AUTHOR>Shlifstein, S (ed.)</AUTHOR>
+         </AUTHORS>
+         <YEAR>1960</YEAR>
+         <TITLE>N. Ia. Miaskovskii; stat'i pis'ma vospominaniia</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+         <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
+         <VOLUME>2</VOLUME>
+         <NUMBER_OF_VOLUMES>2</NUMBER_OF_VOLUMES>
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
+         <CUSTOM5>25/08/99</CUSTOM5>
+         <ACCESSION_NUMBER>125</ACCESSION_NUMBER>
+         <CALL_NUMBER>CORR-Mias (2)</CALL_NUMBER>
+         <NOTES>Volume 2 of 2</NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>267</REFNUM>
          <AUTHORS>
-            <AUTHOR>Kabalevskii, Dmitri Borisovich</AUTHOR>
+            <AUTHOR>Kabalevskii, Dmitri Borisovich (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1977</YEAR>
          <TITLE>S.S. Prokof'ev i N. Ia. Miaskovskii: Perepiska</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>?</CUSTOM5>
@@ -20697,10 +20797,14 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>378</REFNUM>
          <AUTHORS>
-            <AUTHOR>Brown, Malcolm Hamrick</AUTHOR>
+            <AUTHOR>Brown, Malcolm Hamrick (ed.)</AUTHOR>
          </AUTHORS>
-         <TITLE>Prokofiev's correspondence with Stravinsky and Shostakovich</TITLE>
+         <TITLE>Prokofiev's Correspondence with Stravinsky and Shostakovich</TITLE>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>
+            <SUBSIDIARY_AUTHOR>Brown, Malcolm Hamrick (trans.)</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Rodriguez, Natalia (trans.)</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
          <CALL_NUMBER>CORR-Prok (2)</CALL_NUMBER>
@@ -20709,12 +20813,14 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>322</REFNUM>
          <AUTHORS>
-            <AUTHOR>Robinson, Harlow</AUTHOR>
+            <AUTHOR>Robinson, Harlow (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1998</YEAR>
          <TITLE>Selected Letters of Sergei Prokofiev</TITLE>
+         <PLACE_PUBLISHED>Boston</PLACE_PUBLISHED>
          <PUBLISHER>Northeastern University Press</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>Robinson, Harlow (trans.)</SUBSIDIARY_AUTHORS>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>105</ACCESSION_NUMBER>
          <CALL_NUMBER>CORR-Prok (3)</CALL_NUMBER>
@@ -20726,7 +20832,7 @@
          <AUTHORS>
             <AUTHOR>Poldiaeva, Elena</AUTHOR>
          </AUTHORS>
-         <TITLE>Petr Souvchinsky Correspondence. Part I (Prokofiev)</TITLE>
+         <TITLE>Petr Souvchinsky Correspondence: Part I (Prokofiev)</TITLE>
          <PUBLISHER>[Unpublished manuscript]</PUBLISHER>
          <VOLUME>1</VOLUME>
          <NUMBER_OF_VOLUMES>2</NUMBER_OF_VOLUMES>
@@ -20735,7 +20841,7 @@
          <CUSTOM5>24/05/04</CUSTOM5>
          <ACCESSION_NUMBER>306 (24/05/2004)</ACCESSION_NUMBER>
          <CALL_NUMBER>CORR-Souv (1)</CALL_NUMBER>
-         <NOTES>2 volumes. CORR-Souv (1) and CORR-Souv (2)</NOTES>
+         <NOTES></NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
@@ -20743,7 +20849,7 @@
          <AUTHORS>
             <AUTHOR>Poldiaeva, Elena</AUTHOR>
          </AUTHORS>
-         <TITLE>Petr Souvchinsky Correspondence. Part II</TITLE>
+         <TITLE>Petr Souvchinsky Correspondence: Part II</TITLE>
          <PUBLISHER>[Unpublished manuscript]</PUBLISHER>
          <VOLUME>2</VOLUME>
          <NUMBER_OF_VOLUMES>2</NUMBER_OF_VOLUMES>
@@ -20752,7 +20858,7 @@
          <CUSTOM5>24/05/04</CUSTOM5>
          <ACCESSION_NUMBER>306 (24/05/2004)</ACCESSION_NUMBER>
          <CALL_NUMBER>CORR-Souv (2)</CALL_NUMBER>
-         <NOTES>2 volumes. CORR-Souv (1) and CORR-Souv (2)</NOTES>
+         <NOTES></NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
@@ -20761,9 +20867,11 @@
             <AUTHOR>Varunts, Viktor P</AUTHOR>
          </AUTHORS>
          <YEAR>1998</YEAR>
-         <TITLE>I. F. Stravinskii: Perepiska s russkimi korrespondentami. Materialy k biografii. Tom
-            1 1882-1912</TITLE>
+         <TITLE>I. F. Stravinskii: Perepiska s russkimi korrespondentami: Materialy k biografii: Tom 1 1882-1912</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Kompozitor</PUBLISHER>
+         <VOLUME>1</VOLUME>
+         <NUMBER_OF_VOLUMES>3</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>18/06/2001</CUSTOM5>
@@ -20777,9 +20885,12 @@
             <AUTHOR>Varunts, Viktor P</AUTHOR>
          </AUTHORS>
          <YEAR>2003</YEAR>
-         <TITLE>I. F. Stravinskii: Perepiska s russkimi korrespondentami. Materialy k biografii. Tom
-            III 1923-1939</TITLE>
+         <TITLE>I. F. Stravinskii: Perepiska s russkimi korrespondentami: Materialy k biografii: Tom
+            II 1923-1939</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Kompozitor</PUBLISHER>
+         <VOLUME>2</VOLUME>
+         <NUMBER_OF_VOLUMES>3</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>03/11/2003</CUSTOM5>
@@ -20794,10 +20905,12 @@
             <AUTHOR>Varunts, Viktor P</AUTHOR>
          </AUTHORS>
          <YEAR>2000</YEAR>
-         <TITLE>I. F. Stravinskii: Perepiska s russkimi korrespondentami. Materialy k biografii. Tom
-            II 1913-1922</TITLE>
+         <TITLE>I. F. Stravinskii: Perepiska s russkimi korrespondentami: Materialy k biografii: Tom
+            III 1913-1922</TITLE>
          <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Kompozitor</PUBLISHER>
+         <VOLUME>3</VOLUME>
+         <NUMBER_OF_VOLUMES>3</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/09/2009</CUSTOM5>
@@ -20811,8 +20924,9 @@
             <AUTHOR>Maggio, Rosalie</AUTHOR>
          </AUTHORS>
          <YEAR>2000</YEAR>
-         <TITLE>How they said it: Wise and witty letters from the famous and infamous</TITLE>
-         <PUBLISHER>Prentice Hall</PUBLISHER>
+         <TITLE>How They Said It: Wise and Witty Letters from the Famous and Infamous</TITLE>
+         <PLACE_PUBLISHED>Paramus, NJ</PLACE_PUBLISHED>
+         <PUBLISHER>Prentice Hall Press</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>09/02/2000</CUSTOM5>
          <CALL_NUMBER>CORR-Vari (1)</CALL_NUMBER>
@@ -20826,6 +20940,7 @@
          </AUTHORS>
          <YEAR>1973</YEAR>
          <TITLE>Slovar' Russkogo Iazyka</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskaia Entsiklopediia</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>14/11/2000</CUSTOM5>
@@ -20839,7 +20954,7 @@
             <AUTHOR>Cook, Christopher (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1979</YEAR>
-         <TITLE>Pears Cyclopaedia</TITLE>
+         <TITLE>Pears Cyclopaedia 88th Edition</TITLE>
          <PUBLISHER>Pelham Books</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>19/08/2004</CUSTOM5>
@@ -20863,10 +20978,11 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>491</REFNUM>
          <AUTHORS>
-            <AUTHOR>Akhmatova, O S</AUTHOR>
+            <AUTHOR>Akhmatova, O S (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1967</YEAR>
          <TITLE>Russko-Angliiskii Slovar'</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskaia Entsiklopediia</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>10/11/2003</CUSTOM5>
@@ -20880,7 +20996,8 @@
             <AUTHOR>Hais, Karel</AUTHOR>
          </AUTHORS>
          <YEAR>1963</YEAR>
-         <TITLE>Anglicko-Cesky a Cesko-Anglicky Kapesni Slovnik</TITLE>
+         <TITLE>Kapesni Slovnik: Anglicko-Chesky a Chesko-Anglicky</TITLE>
+         <PLACE_PUBLISHED>Praha</PLACE_PUBLISHED>
          <PUBLISHER>Statni Pedagogicke Nakladatelstvi</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>10/11/2003</CUSTOM5>
@@ -20894,7 +21011,8 @@
             <AUTHOR>Zaimovskii, S G</AUTHOR>
          </AUTHORS>
          <YEAR>1959</YEAR>
-         <TITLE>Anglo-Russkii Russko-Angliiskii Slovar'</TITLE>
+         <TITLE>Kratkii Anglo-Russkii i Russko-Angliiskii Slovar'</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Gosudarstvennoe Izdatel'stvo Inostrannykh i Natsional'nykh
             Slovarei</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
@@ -20910,6 +21028,7 @@
          </AUTHORS>
          <YEAR>1957</YEAR>
          <TITLE>Anglo-Russkii Slovar'</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Gosudarstvennoe Izdatel'stvo Inostrannykh i Natsional'nykh
             Slovarei</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
@@ -20925,7 +21044,8 @@
          </AUTHORS>
          <YEAR>2000</YEAR>
          <TITLE>Preservation Politics: Dance Revived Reconstructed Remade</TITLE>
-         <PUBLISHER>Dance Books</PUBLISHER>
+         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+         <PUBLISHER>Dance Books Ltd</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>21/08/2001</CUSTOM5>
          <ACCESSION_NUMBER>199</ACCESSION_NUMBER>
@@ -20942,7 +21062,7 @@
             <AUTHOR>Fédorovski, Vladimir</AUTHOR>
          </AUTHORS>
          <YEAR>2002</YEAR>
-         <TITLE>L'Histoire secrète des Ballets russes</TITLE>
+         <TITLE>L'Histoire Secrète des Ballets Russes: De Diaghilev a Picasso, de Cocteau a Stravinsky et Noureev</TITLE>
          <PUBLISHER>Editions du Rocher</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>24/09/2002</CUSTOM5>
@@ -20953,12 +21073,17 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>422</REFNUM>
          <AUTHORS>
-            <AUTHOR>Spencer, C</AUTHOR>
+            <AUTHOR>Spencer, Charles</AUTHOR>
          </AUTHORS>
-         <YEAR>1974/1979</YEAR>
+         <YEAR>1979</YEAR>
          <TITLE>The World of Serge Diaghilev</TITLE>
-         <PUBLISHER>Penguin</PUBLISHER>
+         <PLACE_PUBLISHED>Middlesex, England</PLACE_PUBLISHED>
+         <PUBLISHER>Penguin Books</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>
+            <SUBSIDIARY_AUTHOR>Battersby, Martin</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Dyer, Philip</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
          <CALL_NUMBER>DM-D (11)</CALL_NUMBER>
@@ -20969,8 +21094,10 @@
          <AUTHORS>
             <AUTHOR>Bazhov, P</AUTHOR>
          </AUTHORS>
+         <YEAR>1999</YEAR>
          <TITLE>Kamennyi Tsvetok</TITLE>
-         <PUBLISHER>Makhaon</PUBLISHER>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+         <PUBLISHER>Machaon</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>09/02/2000</CUSTOM5>
          <ACCESSION_NUMBER>148</ACCESSION_NUMBER>
@@ -20980,13 +21107,14 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>417</REFNUM>
          <AUTHORS>
-            <AUTHOR>Grigorovich, Iurii Nikolaevich</AUTHOR>
-            <AUTHOR>Demidov, A</AUTHOR>
+            <AUTHOR>Grigorovich, Yuri</AUTHOR>
+            <AUTHOR>Demidov, Alexander</AUTHOR>
          </AUTHORS>
          <YEAR>1988</YEAR>
-         <TITLE>Ivan the Terrible</TITLE>
-         <PUBLISHER>T.F.H. Publishing</PUBLISHER>
+         <TITLE>The Authorized Bolshoi Ballet Book of Ivan the Terrible</TITLE>
+         <PUBLISHER>T.F.H. Publications, Inc.</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SECONDARY_AUTHORS>Levcoeva, N (trans.)</SECONDARY_AUTHORS>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
          <CALL_NUMBER>DM-D (13)</CALL_NUMBER>
@@ -20996,13 +21124,15 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>418</REFNUM>
          <AUTHORS>
-            <AUTHOR>Grigorovich, Iurii Nikolaevich</AUTHOR>
-            <AUTHOR>Demidov, A</AUTHOR>
+            <AUTHOR>Grigorovich, Yuri</AUTHOR>
+            <AUTHOR>Demidov, Alexander</AUTHOR>
          </AUTHORS>
          <YEAR>1990</YEAR>
-         <TITLE>Romeo and Juliet</TITLE>
-         <PUBLISHER>T.F.H. Publishing</PUBLISHER>
+         <TITLE>The Authorized Bolshoi Ballet Book of Romeo and Juliet</TITLE>
+         <PLACE_PUBLISHED>Neptune City, NJ</PLACE_PUBLISHED>
+         <PUBLISHER>T.F.H. Publications, Inc.</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>Coey, Tim (trans.)</SUBSIDIARY_AUTHORS>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
          <CALL_NUMBER>DM-D (14)</CALL_NUMBER>
@@ -21014,10 +21144,12 @@
          <AUTHORS>
             <AUTHOR>Shakespeare, William</AUTHOR>
          </AUTHORS>
-         <YEAR>1984/1988</YEAR>
+         <YEAR>1988</YEAR>
          <TITLE>Romeo and Juliet</TITLE>
+         <PLACE_PUBLISHED>Cambridge</PLACE_PUBLISHED>
          <PUBLISHER>Cambridge University Press</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>Evans, G. Blakemore (ed.)</SUBSIDIARY_AUTHORS>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
          <CALL_NUMBER>DM-D (15)</CALL_NUMBER>
@@ -21030,11 +21162,13 @@
          </AUTHORS>
          <YEAR>1989</YEAR>
          <TITLE>Ballets Russes</TITLE>
+         <PLACE_PUBLISHED>Secaucus, NJ</PLACE_PUBLISHED>
          <PUBLISHER>Wellfleet Press</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>24/11/2003</CUSTOM5>
          <ACCESSION_NUMBER>17</ACCESSION_NUMBER>
          <CALL_NUMBER>DM-D (16)</CALL_NUMBER>
+         <NOTES>Duplicate Copy</NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
@@ -21044,18 +21178,20 @@
          </AUTHORS>
          <YEAR>1989</YEAR>
          <TITLE>Ballets Russes</TITLE>
+         <PLACE_PUBLISHED>Secaucus, NJ</PLACE_PUBLISHED>
          <PUBLISHER>Wellfleet Press</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
          <CALL_NUMBER>DM-D (17)</CALL_NUMBER>
+         <NOTES>Duplicate Copy</NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>1563</REFNUM>
          <AUTHORS>
-            <AUTHOR>Amati, Manuela</AUTHOR>
-            <AUTHOR>Zanetti, Antonella (eds.)</AUTHOR>
+            <AUTHOR>Amati, Manuela (ed.)</AUTHOR>
+            <AUTHOR>Zanetti, Antonella (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1998</YEAR>
          <TITLE>Il Teatro per la Città</TITLE>
@@ -21076,13 +21212,17 @@
          </AUTHORS>
          <YEAR>1990</YEAR>
          <TITLE>Soviet Choreographers in the 1920s</TITLE>
+         <PLACE_PUBLISHED>Lodon</PLACE_PUBLISHED>
          <PUBLISHER>Dance Books</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>
+            <SUBSIDIARY_AUTHOR>Visson, Lynn (trans.)</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Banes, Sally (ed.)</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <CUSTOM5>15/05/2001</CUSTOM5>
          <ACCESSION_NUMBER>189</ACCESSION_NUMBER>
          <CALL_NUMBER>DM-D (2)</CALL_NUMBER>
-         <NOTES>Translated by Lynn Visson. Edited (with additional translations) by Sally
-            Banes</NOTES>
+         <NOTES></NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
@@ -21093,13 +21233,12 @@
          <YEAR>1943</YEAR>
          <TITLE>The New Soviet Theatre</TITLE>
          <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
-         <PUBLISHER>George Allen &amp; Unwin</PUBLISHER>
+         <PUBLISHER>George Allen &amp; Unwin, Ltd.</PUBLISHER>
          <PAGES>242</PAGES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>23/11/2004</CUSTOM5>
-         <ACCESSION_NUMBER>197b (10/11/2004) [revised 14/12/2006; previously classified ART
-            (16)]</ACCESSION_NUMBER>
+         <ACCESSION_NUMBER>197b (10/11/2004)</ACCESSION_NUMBER>
          <CALL_NUMBER>DM-D (20)</CALL_NUMBER>
       </RECORD>
    <RECORD>
@@ -21128,6 +21267,7 @@
          </AUTHORS>
          <YEAR>1967</YEAR>
          <TITLE>Rannie Balety Stravinskogo</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Nauka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>24/11/2003</CUSTOM5>
@@ -21138,11 +21278,11 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>503</REFNUM>
          <AUTHORS>
-            <AUTHOR>Docherty, Peter</AUTHOR>
-            <AUTHOR>White, Tim (eds.)</AUTHOR>
+            <AUTHOR>Docherty, Peter (ed.)</AUTHOR>
+            <AUTHOR>White, Tim (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1996</YEAR>
-         <TITLE>Design for Performance: from Diaghilev to the Pet Shop Boys</TITLE>
+         <TITLE>Design for Performance: From Diaghilev to the Pet Shop Boys</TITLE>
          <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>Lund Humphries Publishers</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
@@ -21154,10 +21294,10 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>423</REFNUM>
          <AUTHORS>
-            <AUTHOR>Percival, J</AUTHOR>
+            <AUTHOR>Percival, John</AUTHOR>
          </AUTHORS>
-         <YEAR>1971/1979</YEAR>
-         <TITLE>The world of Diaghilev</TITLE>
+         <YEAR>1979</YEAR>
+         <TITLE>The World of Diaghilev</TITLE>
          <PUBLISHER>Herbert Press</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>?</CUSTOM5>
@@ -21168,11 +21308,11 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>424</REFNUM>
          <AUTHORS>
-            <AUTHOR>Garafola, L</AUTHOR>
+            <AUTHOR>Garafola, Lynn</AUTHOR>
          </AUTHORS>
          <YEAR>1989</YEAR>
          <TITLE>Diaghilev's Ballets Russes</TITLE>
-         <PLACE_PUBLISHED>Oxford</PLACE_PUBLISHED>
+         <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
          <PUBLISHER>Oxford University Press</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>?</CUSTOM5>
@@ -21186,9 +21326,11 @@
             <AUTHOR>Grigoriev, S L</AUTHOR>
          </AUTHORS>
          <YEAR>1953</YEAR>
-         <TITLE>The Diaghilev Ballet 1909-1929</TITLE>
+         <TITLE>The Diaghilev Ballet: 1909-1929</TITLE>
+         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>Constable</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>Bowen, Vera (trans.) (ed.)</SUBSIDIARY_AUTHORS>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
          <CALL_NUMBER>DM-D (9)</CALL_NUMBER>
@@ -21200,14 +21342,18 @@
             <AUTHOR>Egorova, Tatiana K</AUTHOR>
          </AUTHORS>
          <YEAR>1997</YEAR>
-         <TITLE>Soviet Film Music: an historical survey</TITLE>
+         <TITLE>Soviet Film Music: An Historical Survey</TITLE>
+         <PLACE_PUBLISHED>Amsterdam</PLACE_PUBLISHED>
          <PUBLISHER>Harwood Academic Publishers</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>
+            <SUBSIDIARY_AUTHOR>Ganf, Tatiana A.</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Egunova, Natalia A.</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <CUSTOM5>21/08/2001</CUSTOM5>
          <ACCESSION_NUMBER>198</ACCESSION_NUMBER>
          <CALL_NUMBER>DM-F (1)</CALL_NUMBER>
-         <NOTES>Translated by Tatiana A. Ganf and Natalia A. Egunova. Contemporary Music Studies
-            vol. 13</NOTES>
+         <NOTES>Contemporary Music Studies Vol. 13</NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
@@ -21216,8 +21362,7 @@
             <AUTHOR>Wünschel, Ulrich</AUTHOR>
          </AUTHORS>
          <YEAR>2006</YEAR>
-         <TITLE>Sergej Prokofjews Filmmusik zu Sergej Eisensteins Alexander Newski [Sergei
-            Prokofiev's Film Music for Sergei Eisenstein's Alexander Nevsky]</TITLE>
+         <TITLE>Sergej Prokofjews Filmmusik zu Sergej Eisensteins "Alexander Newski"</TITLE>
          <PLACE_PUBLISHED>Hofheim</PLACE_PUBLISHED>
          <PUBLISHER>Wolke Verlag</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
@@ -21236,9 +21381,10 @@
          <AUTHORS>
             <AUTHOR>Eisenstein, Sergei</AUTHOR>
          </AUTHORS>
-         <YEAR>1970</YEAR>
+         <YEAR>1985</YEAR>
          <TITLE>Ivan the Terrible</TITLE>
-         <PUBLISHER>Lorrimer Publishing</PUBLISHER>
+         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+         <PUBLISHER>Lorrimer Publishing Ltd.</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
@@ -21249,11 +21395,17 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>432</REFNUM>
          <AUTHORS>
-            <AUTHOR>Montagu, I (ed.)</AUTHOR>
+            <AUTHOR>Montagu, Ivor (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1963</YEAR>
-         <TITLE>Ivan the Terrible: a Screenplay by Sergei M. Eisenstein</TITLE>
+         <TITLE>Ivan the Terrible: A Screenplay by Sergei M. Eisenstein</TITLE>
+         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+         <PUBLISHER>Secker and Warburg</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>
+            <SUBSIDIARY_AUTHOR>Montagu, Ivor (trans.)</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Marshall, Herbert (trans.)</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
          <CALL_NUMBER>DM-F (3)</CALL_NUMBER>
@@ -21263,13 +21415,15 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>426</REFNUM>
          <AUTHORS>
-            <AUTHOR>Leyda, J</AUTHOR>
-            <AUTHOR>Voynow, Z</AUTHOR>
+            <AUTHOR>Leyda, Jay</AUTHOR>
+            <AUTHOR>Voynow, Zina</AUTHOR>
          </AUTHORS>
          <YEAR>1982</YEAR>
-         <TITLE>Eisenstein at Work</TITLE>
+         <TITLE>Eisenstein At Work</TITLE>
+         <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
          <PUBLISHER>Methuen</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>Perry, Ted (intro.)</SUBSIDIARY_AUTHORS>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
          <CALL_NUMBER>DM-F (4)</CALL_NUMBER>
@@ -21278,11 +21432,11 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>429</REFNUM>
          <AUTHORS>
-            <AUTHOR>Christie, I</AUTHOR>
-            <AUTHOR>Elliott, D</AUTHOR>
+            <AUTHOR>Christie, Ian (ed.)</AUTHOR>
+            <AUTHOR>Elliott, David (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1988</YEAR>
-         <TITLE>Eisenstein at ninety</TITLE>
+         <TITLE>Eisenstein At Ninety</TITLE>
          <PLACE_PUBLISHED>Oxford</PLACE_PUBLISHED>
          <PUBLISHER>Museum of Modern Art</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
@@ -21299,9 +21453,11 @@
             <AUTHOR>Eisenstein, Sergei</AUTHOR>
          </AUTHORS>
          <YEAR>1970</YEAR>
-         <TITLE>Notes of a Film Director</TITLE>
-         <PUBLISHER>Dover</PUBLISHER>
+         <TITLE>Notes Of a Film Director</TITLE>
+         <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
+         <PUBLISHER>Dover, Inc.</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>Griffith, Richard</SUBSIDIARY_AUTHORS>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
          <CALL_NUMBER>DM-F (6)</CALL_NUMBER>
@@ -21315,6 +21471,7 @@
          </AUTHORS>
          <YEAR>2002</YEAR>
          <TITLE>October</TITLE>
+         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>BFI Publishing</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>24/09/2002</CUSTOM5>
@@ -21328,7 +21485,8 @@
             <AUTHOR>Tsivian, Yuri</AUTHOR>
          </AUTHORS>
          <YEAR>2002</YEAR>
-         <TITLE>Ivan the Terrible</TITLE>
+         <TITLE>Ivan The Terrible</TITLE>
+         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>BFI Publishing</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>24/09/2002</CUSTOM5>
@@ -21339,12 +21497,16 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>427</REFNUM>
          <AUTHORS>
-            <AUTHOR>Leyda, J (ed.)</AUTHOR>
+            <AUTHOR>Eisenstein, Sergei</AUTHOR>
          </AUTHORS>
          <YEAR>1984</YEAR>
-         <TITLE>Eisenstein: two films</TITLE>
+         <TITLE>Eisenstein: Two Films</TITLE>
          <PUBLISHER>Lorrimer Publishing</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>
+            <SUBSIDIARY_AUTHOR>Leyda, Jay (ed.)</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Matias, Diana (trans.)</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
          <CALL_NUMBER>DM-F (9)</CALL_NUMBER>
@@ -21358,6 +21520,7 @@
          </AUTHORS>
          <YEAR>1996</YEAR>
          <TITLE>Rannie Opery Prokof'eva</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Gosudarstvennyi Institut Iskusstvovnaniia</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>?</CUSTOM5>
@@ -21386,7 +21549,7 @@
             <AUTHOR>Lischke, A</AUTHOR>
          </AUTHORS>
          <YEAR>2000</YEAR>
-         <TITLE>Guerre et Paix - Prokofiev</TITLE>
+         <TITLE>Guerre et Paix: Prokofiev</TITLE>
          <PUBLISHER>L'Avant Scène Opera</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>07/11/2000</CUSTOM5>
@@ -21401,10 +21564,6 @@
          </AUTHORS>
          <YEAR>2002</YEAR>
          <TITLE>Russian Opera and the Symbolist Movement</TITLE>
-         <SECONDARY_AUTHORS>
-            <SECONDARY_AUTHOR>Taruskin, Richard</SECONDARY_AUTHOR>
-         </SECONDARY_AUTHORS>
-         <SECONDARY_TITLE>California Studies in 20th-Century Music</SECONDARY_TITLE>
          <PLACE_PUBLISHED>Berkeley</PLACE_PUBLISHED>
          <PUBLISHER>University of California Press</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
@@ -21421,9 +21580,9 @@
             <AUTHOR>Zarubin, V I</AUTHOR>
          </AUTHORS>
          <YEAR>1994</YEAR>
-         <TITLE>Bol'shoi Teatr: pervye postanovki oper na russkoi stsene, 1825-1993</TITLE>
+         <TITLE>Bol'shoi Teatr: Pervye postanovki oper na russkoi stsene 1825-1993</TITLE>
          <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
-         <PUBLISHER>Ellis Luck</PUBLISHER>
+         <PUBLISHER>Ellis Lak</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <ISBN>5719500278</ISBN>
          <CUSTOM1>Russian</CUSTOM1>
@@ -21438,14 +21597,55 @@
             <AUTHOR>Swift, Richard</AUTHOR>
          </AUTHORS>
          <YEAR>2006</YEAR>
-         <TITLE>Sergei Prokofiev : annals of his operas as staged and performed at opera houses and
-            concert halls around the world</TITLE>
-         <PLACE_PUBLISHED>Pittsburgh, Pa.</PLACE_PUBLISHED>
+         <TITLE>Sergei Prokofiev: Annals of His Operas as Staged and Performed at Opera Houses and
+            Concert Halls Around the World</TITLE>
+         <PLACE_PUBLISHED>Pittsburgh, PA</PLACE_PUBLISHED>
          <PUBLISHER>Red Lead Press</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>07/12/2006 (NM)</CUSTOM5>
          <CALL_NUMBER>DM-O (15)</CALL_NUMBER>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <AUTHORS>
+            <AUTHOR>Shostakovich, Dmitry</AUTHOR>
+         </AUTHORS>
+         <YEAR>1963</YEAR>
+         <TITLE>Katerina Ismailova: Lady Macbeth of the Mtsensk District</TITLE>
+         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+         <PUBLISHER>Hertford &amp; Harlow</PUBLISHER>
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SECONDARY_AUTHORS>Downes, Edward (trans.)</SECONDARY_AUTHORS>
+         <CUSTOM1>English</CUSTOM1>
+         <CUSTOM5>10/02/05</CUSTOM5>
+         <CALL_NUMBER>DM-O (16)</CALL_NUMBER>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <AUTHORS>Liven, Baron</AUTHORS>
+         <YEAR>1990</YEAR>
+         <TITLE>Maddalena: An Opera in One Act by Sergei Prokofiev</TITLE>
+         <PUBLISHER>Boosey &amp; Hawkes Music Publishers Ltd.</PUBLISHER>
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SECONDARY_AUTHORS>
+            <SECONDARY_AUTHOR>Makaroff, Dmitri (trans.)</SECONDARY_AUTHOR>
+            <SECONDARY_AUTHOR>Downes, Edward (trans.)</SECONDARY_AUTHOR>
+         </SECONDARY_AUTHORS>
+         <CUSTOM1>English</CUSTOM1>
+         <CALL_NUMBER>DM-O (17)</CALL_NUMBER>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <AUTHORS>Prokofieff, Serge</AUTHORS>
+         <YEAR>1929</YEAR>
+         <TITLE>Le Joueur: Comédie lyrique en 4 actes et 6 tableaux d'apres Dostoievski</TITLE>
+         <PLACE_PUBLISHED>Bruxelles</PLACE_PUBLISHED>
+         <PUBLISHER>Edition Russe de Musique</PUBLISHER>
+         <TYPE_OF_WORK>Script</TYPE_OF_WORK>
+         <SECONDARY_AUTHOR>Spaak, Paul (trans.)</SECONDARY_AUTHOR>
+         <CUSTOM1>French</CUSTOM1>
+         <CALL_NUMBER>DM-O (18)</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
@@ -21456,7 +21656,7 @@
          <YEAR>1975</YEAR>
          <TITLE>Sheridan's Plays</TITLE>
          <SECONDARY_AUTHORS>
-            <SECONDARY_AUTHOR>Cecil Price</SECONDARY_AUTHOR>
+            <SECONDARY_AUTHOR>Price, Cecil (trans.)</SECONDARY_AUTHOR>
          </SECONDARY_AUTHORS>
          <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>Oxford University Press</PUBLISHER>
@@ -21504,13 +21704,18 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>433</REFNUM>
          <AUTHORS>
-            <AUTHOR>Briusov, Valery</AUTHOR>
+            <AUTHOR>Briussov, Valeri</AUTHOR>
          </AUTHORS>
-         <YEAR>1930/1975</YEAR>
-         <TITLE>The Fiery Angel</TITLE>
-         <PUBLISHER>Neville Spearman</PUBLISHER>
+         <YEAR>1975</YEAR>
+         <TITLE>The Fiery Angel: A Sixteenth Century Romance</TITLE>
+         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+         <PUBLISHER>Neville Spearman Limited</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <CUSTOM5>?</CUSTOM5>
+         <SECONDARY_AUTHORS>
+            <SECONDARY_AUTHOR>Montagu, Ivor (trans.)</SECONDARY_AUTHOR>
+            <SECONDARY_AUTHOR>Nalbandov, Sergei (trans.)</SECONDARY_AUTHOR>
+         </SECONDARY_AUTHORS>
+         <CUSTOM1>English</CUSTOM1>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
          <CALL_NUMBER>DM-O (3)</CALL_NUMBER>
       </RECORD>
@@ -21521,9 +21726,11 @@
             <AUTHOR>Volkov, Anatolii Isaakovich</AUTHOR>
          </AUTHORS>
          <YEAR>1976</YEAR>
-         <TITLE>"Voina i Mir" Prokof'eva: opyt analiza variantov opery</TITLE>
+         <TITLE>"Voina i Mir" Prokof'eva: Ppyt analiza variantov opery</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>25/08/99</CUSTOM5>
          <ACCESSION_NUMBER>130</ACCESSION_NUMBER>
          <CALL_NUMBER>DM-O (4)</CALL_NUMBER>
@@ -21536,11 +21743,12 @@
          </AUTHORS>
          <YEAR>1963</YEAR>
          <TITLE>Opery S. Prokof'eva</TITLE>
+         <PLACE_PUBLISHED>Leningrad</PLACE_PUBLISHED>
          <PUBLISHER>Gosudarstvennoe Muzykal'noe Izdatel'stvo</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>Russian</CUSTOM1>
-         <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>86 (b)</ACCESSION_NUMBER>
+         <CUSTOM1>Russian</CUSTOM1>
          <CALL_NUMBER>DM-O (5)</CALL_NUMBER>
       </RECORD>
    <RECORD>
@@ -21550,9 +21758,11 @@
             <AUTHOR>Mnatsakanova, E</AUTHOR>
          </AUTHORS>
          <YEAR>1962</YEAR>
-         <TITLE>Opera S.S. Prokof'eva 'Obruchenie v Monastyre'</TITLE>
+         <TITLE>Opera S.S. Prokof'eva 'Obruchenie v Monastyre' ('Duen'ia')</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>91</ACCESSION_NUMBER>
          <CALL_NUMBER>DM-O (6)</CALL_NUMBER>
@@ -21565,11 +21775,61 @@
          </AUTHORS>
          <YEAR>1960</YEAR>
          <TITLE>Opera S.S. Prokof'eva 'Voina i Mir'</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>91</ACCESSION_NUMBER>
          <CALL_NUMBER>DM-O (7)</CALL_NUMBER>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <REFNUM></REFNUM>
+         <AUTHORS>
+            <AUTHOR>Prokofiev, Sergei</AUTHOR>
+         </AUTHORS>
+         <YEAR>1991</YEAR>
+         <TITLE>'Igrok' S Prokof'eva</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+         <PUBLISHER>Muzyka</PUBLISHER>
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>Guseva, O (ed.)</SUBSIDIARY_AUTHORS>
+         <CUSTOM1>Russian</CUSTOM1>
+         <CUSTOM5>?</CUSTOM5>
+         <ACCESSION_NUMBER>97</ACCESSION_NUMBER>
+         <CALL_NUMBER>DM-O (8)</CALL_NUMBER>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <REFNUM></REFNUM>
+         <AUTHORS>Prokofieff, Sergei</AUTHORS>
+         <YEAR>1948</YEAR>
+         <TITLE>The Duenna</TITLE>
+         <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
+         <PUBLISHER>AM - RUS Music Agency, Inc.</PUBLISHER>
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>Karsavina, Jean (trans.)</SUBSIDIARY_AUTHORS>
+         <CUSTOM1>English</CUSTOM1>
+         <ACCESSION_NUMBER></ACCESSION_NUMBER>   
+         <CALL_NUMBER>DM-O (9)</CALL_NUMBER>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <REFNUM></REFNUM>
+         <AUTHORS>Prokofieff, Serge</AUTHORS>
+         <YEAR>1975</YEAR>
+         <TITLE>The Gambler (Le Joueur): Opera in Four Acts and Six Scenes</TITLE>
+         <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
+         <PUBLISHER>Boosey &amp; Hawkes</PUBLISHER>
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SECONDARY_AUTHORS>
+            <SECONDARY_AUTHOR>Palmer, Irving (trans.)</SECONDARY_AUTHOR>
+            <SECONDARY_AUTHOR>Palmer, Georgette (trans.)</SECONDARY_AUTHOR>
+         </SECONDARY_AUTHORS>
+         <CUSTOM1>English</CUSTOM1>
+         <ACCESSION_NUMBER></ACCESSION_NUMBER>
+         <CALL_NUMBER>DM-O (10)</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
@@ -21753,12 +22013,13 @@
          <YEAR>1962</YEAR>
          <TITLE>Muzyka i Sovremennost': Sbornik Statei</TITLE>
          <PUBLISHER>Gosudarstvennoe Muzykal'noe Izdatel'stvo</PUBLISHER>
+         <VOLUME>1</VOLUME>
+         <NUMBER_OF_VOLUMES>2</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>04.10.1999</CUSTOM5>
          <ACCESSION_NUMBER>136a</ACCESSION_NUMBER>
          <CALL_NUMBER>ESSAY (11)</CALL_NUMBER>
-         <NOTES>First of 2 volumes. Moscow. Articles on Prokofiev Shostakovich &amp;
-            Sviridov</NOTES>
+         <NOTES>Articles on Prokofiev Shostakovich &amp; Sviridov</NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
@@ -21769,11 +22030,13 @@
          <YEAR>1963</YEAR>
          <TITLE>Muzyka i Sovremennost': Sbornik Statei</TITLE>
          <PUBLISHER>Gosudarstvennoe Muzykal'noe Izdatel'stvo</PUBLISHER>
+         <VOLUME>2</VOLUME>
+         <NUMBER_OF_VOLUMES>2</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>04.10.1999</CUSTOM5>
          <ACCESSION_NUMBER>136b</ACCESSION_NUMBER>
          <CALL_NUMBER>ESSAY (12)</CALL_NUMBER>
-         <NOTES>Second of 2 volumes. Moscow. Articles on Prokofiev and Khachaturian</NOTES>
+         <NOTES>Articles on Prokofiev and Khachaturian</NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
