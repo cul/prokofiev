@@ -21835,13 +21835,15 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>394</REFNUM>
          <AUTHORS>
-            <AUTHOR>Hastings, C</AUTHOR>
+            <AUTHOR>Hastings, Selina</AUTHOR>
          </AUTHORS>
          <YEAR>1987</YEAR>
-         <TITLE>Peter and the wolf</TITLE>
+         <TITLE>Peter and the Wolf</TITLE>
+         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>Walker Books</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <CUSTOM5>?</CUSTOM5>
+         <SUBSIDIARY_AUTHORS>Cartwright, Reg</SUBSIDIARY_AUTHORS>
+         <CUSTOM1>English</CUSTOM1>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
          <CALL_NUMBER>DM-other (1)</CALL_NUMBER>
          <NOTES>Children's book. Story retold by Selina Hastings. Illustrated by Reg
@@ -21851,12 +21853,15 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>505</REFNUM>
          <AUTHORS>
-            <AUTHOR>Prokofiev, Serge</AUTHOR>
+            <AUTHOR>Prokofiev, Sergei</AUTHOR>
          </AUTHORS>
          <YEAR>1995</YEAR>
          <TITLE>Peter and the Wolf</TITLE>
+         <PLACE_PUBLISHED>Oxford, NJ</PLACE_PUBLISHED>
          <PUBLISHER>US-Mid-East Performing Arts Council</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>Girgis, Nazih (trans.)</SUBSIDIARY_AUTHORS>
+         <CUSTOM1>Arabic</CUSTOM1>
          <CUSTOM5>24/11/2003</CUSTOM5>
          <ACCESSION_NUMBER>115</ACCESSION_NUMBER>
          <CALL_NUMBER>DM-other (2)</CALL_NUMBER>
@@ -21864,24 +21869,9 @@
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
-         <REFNUM>1706</REFNUM>
-         <AUTHORS>
-            <AUTHOR>Prokofiev, Serge</AUTHOR>
-         </AUTHORS>
-         <YEAR>1995</YEAR>
-         <TITLE>Peter and the Wolf</TITLE>
-         <PUBLISHER>US-Mid-East Performing Arts Council</PUBLISHER>
-         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <CUSTOM5>19/08/2004</CUSTOM5>
-         <ACCESSION_NUMBER>115a</ACCESSION_NUMBER>
-         <CALL_NUMBER>DM-other (2) (DUP)</CALL_NUMBER>
-         <NOTES>Translated into Arabic by Nazih Girgis. Illustrated by Madeleine Toth</NOTES>
-      </RECORD>
-   <RECORD>
-         <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>506</REFNUM>
          <AUTHORS>
-            <AUTHOR>Prokofiev, Serge</AUTHOR>
+            <AUTHOR>Prokofiev, Sergey</AUTHOR>
          </AUTHORS>
          <YEAR>1960</YEAR>
          <TITLE>Petia i Volk</TITLE>
@@ -21900,7 +21890,7 @@
             <AUTHOR>Miquel, Joëlle</AUTHOR>
          </AUTHORS>
          <YEAR>1995</YEAR>
-         <TITLE>Le bûcher d'hiver ou Pierre et Maris de Serge Prokofiev</TITLE>
+         <TITLE>Le bûcher d'hiver conte musical de Serge Prokofiev</TITLE>
          <PLACE_PUBLISHED>Paris</PLACE_PUBLISHED>
          <PUBLISHER>Chant du Monde</PUBLISHER>
          <TYPE_OF_WORK>Book with CD</TYPE_OF_WORK>
@@ -21909,6 +21899,21 @@
          <ACCESSION_NUMBER>115b (08/07/2004)</ACCESSION_NUMBER>
          <CALL_NUMBER>DM-other (4)</CALL_NUMBER>
          <NOTES>Book with CD</NOTES>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <REFNUM></REFNUM>
+         <AUTHORS>
+               <AUTHOR>Pownall, David</AUTHOR>
+         </AUTHORS>
+         <YEAR>1983</YEAR>
+         <TITLE>Master Class</TITLE>
+         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+         <PUBLISHER>Faber &amp; Faber Ltd</PUBLISHER>
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>English</CUSTOM1>
+         <ACCESSION_NUMBER>197j</ACCESSION_NUMBER>
+         <CALL_NUMBER>DM-other (5)</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
@@ -21923,8 +21928,8 @@
          <PAGES>219</PAGES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <SUBSIDIARY_AUTHORS>
-            <SUBSIDIARY_AUTHOR>Vic Schneierson</SUBSIDIARY_AUTHOR>
-            <SUBSIDIARY_AUTHOR>W Perelman</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Schneierson, Vic (trans.)</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Perelman, Vic (trans.)</SUBSIDIARY_AUTHOR>
          </SUBSIDIARY_AUTHORS>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>09/06/2005</CUSTOM5>
@@ -21940,11 +21945,11 @@
          </AUTHORS>
          <YEAR>1969</YEAR>
          <TITLE>Notes of a Director</TITLE>
-         <PLACE_PUBLISHED>Miami</PLACE_PUBLISHED>
+         <PLACE_PUBLISHED>Coral Gables, Florida</PLACE_PUBLISHED>
          <PUBLISHER>University of Miami Press</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <SUBSIDIARY_AUTHORS>
-            <SUBSIDIARY_AUTHOR>William Kuhlke</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Kuhlke, William (trans.)</SUBSIDIARY_AUTHOR>
          </SUBSIDIARY_AUTHORS>
          <ISBN>870241052</ISBN>
          <CUSTOM1>English</CUSTOM1>
@@ -21964,6 +21969,10 @@
          <PUBLISHER>Éditions Gallimard Jeunesse</PUBLISHER>
          <PAGES>31</PAGES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>
+            <SUBSIDIARY_AUTHOR>Tallec, Olivier</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Giraudeau, Bernard</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <ISBN>978-2-07-062483-6</ISBN>
          <CUSTOM1>French</CUSTOM1>
          <CUSTOM5>24/03/2010</CUSTOM5>
@@ -21982,6 +21991,7 @@
          </AUTHORS>
          <YEAR>1940</YEAR>
          <TITLE>Peterburgskaia opera i ee mastera 1890 - 1910</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Gosudarstvennoe Izdatel'stvo "Iskustvo"</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>Russian</CUSTOM1>
@@ -21997,9 +22007,11 @@
             <AUTHOR>Raaben, Lev Nikolaevich</AUTHOR>
          </AUTHORS>
          <YEAR>1984</YEAR>
-         <TITLE>Muzyka XX veka: ocherki. Chast' 2 - 1917 -1945. Kniga 4</TITLE>
+         <TITLE>Muzyka XX veka: Ocherki. Chast' 2 - 1917 -1945. Kniga 4</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>ESSAY (10)</CALL_NUMBER>
@@ -22011,11 +22023,13 @@
             <AUTHOR>Lebedeva, T A (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1962</YEAR>
-         <TITLE>Muzyka i Sovremennost': Sbornik Statei</TITLE>
+         <TITLE>Muzyka i Sovremennost': Sbornik Statei: Vypusk Pervoi</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Gosudarstvennoe Muzykal'noe Izdatel'stvo</PUBLISHER>
          <VOLUME>1</VOLUME>
          <NUMBER_OF_VOLUMES>2</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>04.10.1999</CUSTOM5>
          <ACCESSION_NUMBER>136a</ACCESSION_NUMBER>
          <CALL_NUMBER>ESSAY (11)</CALL_NUMBER>
@@ -22028,11 +22042,13 @@
             <AUTHOR>Lebedeva, T A (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1963</YEAR>
-         <TITLE>Muzyka i Sovremennost': Sbornik Statei</TITLE>
+         <TITLE>Muzyka i Sovremennost': Sbornik Statei: Vypusk Vtoroi</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Gosudarstvennoe Muzykal'noe Izdatel'stvo</PUBLISHER>
          <VOLUME>2</VOLUME>
          <NUMBER_OF_VOLUMES>2</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>04.10.1999</CUSTOM5>
          <ACCESSION_NUMBER>136b</ACCESSION_NUMBER>
          <CALL_NUMBER>ESSAY (12)</CALL_NUMBER>
@@ -22046,9 +22062,11 @@
             <AUTHOR>Shakhnazarova, N G</AUTHOR>
          </AUTHORS>
          <YEAR>1981</YEAR>
-         <TITLE>Sovetskaia Muzyka na sovremennom etape</TITLE>
+         <TITLE>Sovetskaia Muzyka na sovremennom etape: Stat'i i Interv'iu</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>ESSAY (13)</CALL_NUMBER>
@@ -22060,9 +22078,10 @@
             <AUTHOR>Farbshteina, A A</AUTHOR>
          </AUTHORS>
          <YEAR>1977</YEAR>
-         <TITLE>Muzyka v sotsialisticheskom obshchestve</TITLE>
+         <TITLE>Muzyka v sotsialisticheskom obshchestveL: Vypusk Tretoi</TITLE>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <TYPE_OF_WORK>Russian</TYPE_OF_WORK>
          <CUSTOM5>07/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>ESSAY (14)</CALL_NUMBER>
@@ -22074,9 +22093,11 @@
             <AUTHOR>Balasanian, S</AUTHOR>
          </AUTHORS>
          <YEAR>1978</YEAR>
-         <TITLE>Muzyka Rossii: vypusk 2</TITLE>
+         <TITLE>Muzyka Rossii: Vypusk Vtoroi</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russia</CUSTOM1>
          <CUSTOM5>15/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>ESSAY (15)</CALL_NUMBER>
@@ -22088,9 +22109,11 @@
             <AUTHOR>Gozenpud, Abram Akimovich</AUTHOR>
          </AUTHORS>
          <YEAR>1963</YEAR>
-         <TITLE>Russkii Sovetskii Opernii Teatr</TITLE>
+         <TITLE>Russkii Sovetskii Opernii Teatr (1917 - 1941): Ocherk Istorii</TITLE>
+         <PLACE_PUBLISHED>Leningrad</PLACE_PUBLISHED>
          <PUBLISHER>Gosudarstvennoe Muzykal'noe Izdatel'stvo</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>91</ACCESSION_NUMBER>
          <CALL_NUMBER>ESSAY (16)</CALL_NUMBER>
@@ -22102,9 +22125,10 @@
             <AUTHOR>Gozenpud, Abram Akimovich</AUTHOR>
          </AUTHORS>
          <YEAR>1975</YEAR>
-         <TITLE>Russkii Opernyi Teatr Mezhdu Dvukh Revolutsii 1905-1917</TITLE>
+         <TITLE>Russkii Opernyi Teatr Mezhdu Dvukh Revolutsii (1905-1917)</TITLE>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>115</ACCESSION_NUMBER>
          <CALL_NUMBER>ESSAY (17)</CALL_NUMBER>
@@ -22118,8 +22142,10 @@
          </AUTHORS>
          <YEAR>1980</YEAR>
          <TITLE>Opera i ee stsenicheskoe voploshchenie</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>07/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>ESSAY (18)</CALL_NUMBER>
@@ -22132,8 +22158,10 @@
          </AUTHORS>
          <YEAR>1965</YEAR>
          <TITLE>Stranitsy Istorii Sovetskogo Teatra</TITLE>
-         <PUBLISHER>Izdatel'stvo 'Iskusstvo'</PUBLISHER>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+         <PUBLISHER>Iskusstvo</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>07/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>ESSAY (19)</CALL_NUMBER>
@@ -22146,13 +22174,16 @@
          </AUTHORS>
          <YEAR>1975</YEAR>
          <TITLE>Iz Proshlogo Sovetskoi Muzykal'noi Kul'tury</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
+         <VOLUME>1</VOLUME>
+         <NUMBER_OF_VOLUMES>3</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>102</ACCESSION_NUMBER>
          <CALL_NUMBER>ESSAY (2)</CALL_NUMBER>
-         <NOTES>1999. Vol.1 of 3</NOTES>
+         <NOTES></NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
@@ -22162,8 +22193,10 @@
          </AUTHORS>
          <YEAR>1973</YEAR>
          <TITLE>Izbrannye stat'i</TITLE>
+         <PLACE_PUBLISHED>Leningrad</PLACE_PUBLISHED>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>07/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>168</ACCESSION_NUMBER>
          <CALL_NUMBER>ESSAY (20)</CALL_NUMBER>
@@ -22176,8 +22209,10 @@
          </AUTHORS>
          <YEAR>1978</YEAR>
          <TITLE>Ocherki i issledovaniia po istorii russkoi muzyki</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>08/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>ESSAY (21)</CALL_NUMBER>
@@ -22190,6 +22225,7 @@
          </AUTHORS>
          <YEAR>1986</YEAR>
          <TITLE>Vek Nyneshnii i vek minuvshii: Stat'i o muzyke</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>09/02/2000</CUSTOM5>
@@ -22200,12 +22236,14 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>217</REFNUM>
          <AUTHORS>
-            <AUTHOR>Varunts, Viktor P</AUTHOR>
+            <AUTHOR>Varunts, Viktor P (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1981</YEAR>
-         <TITLE>Leo Ginzburg: izbrannoe</TITLE>
+         <TITLE>Leo Ginzburg: Izbrannoe: Dirizhery i orkestry: Voprosy teorii i praktiki dirizhirovaniia</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>ESSAY (23)</CALL_NUMBER>
@@ -22217,7 +22255,8 @@
             <AUTHOR>Bronfin, E</AUTHOR>
          </AUTHORS>
          <YEAR>1977</YEAR>
-         <TITLE>O sovremennoi muzykal'noi kritike</TITLE>
+         <TITLE>O Sovremennoi muzykal'noi kritike: Posobie dlia seminarov</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>08/11/2000</CUSTOM5>
@@ -22231,9 +22270,11 @@
             <AUTHOR>Asafiev, Boris Vladimirovich</AUTHOR>
          </AUTHORS>
          <YEAR>1982</YEAR>
-         <TITLE>O muzyke XX veka</TITLE>
+         <TITLE>O Muzyke XX veka: Poiasneniia i prilozheniia k programmam simfonicheskikh i kamernykh kontsertov</TITLE>
+         <PLACE_PUBLISHED>Leningrad</PLACE_PUBLISHED>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>07/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>169</ACCESSION_NUMBER>
          <CALL_NUMBER>ESSAY (25)</CALL_NUMBER>
@@ -22242,13 +22283,15 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>195</REFNUM>
          <AUTHORS>
-            <AUTHOR>Rakhmanova, Marina</AUTHOR>
+            <AUTHOR>Rakhmanova, Marina (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1999</YEAR>
          <TITLE>Trudy gosudarstvennogo tsentral'nogo muzeia muzykal'noi kul'tury
-            imeni M. I. Glinki: 1</TITLE>
-         <PUBLISHER>Izdatel'skii Dom 'Kompozitor'</PUBLISHER>
+            imeni M. I. Glinki: Vypusk Pervoi</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+         <PUBLISHER>Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>07/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>94</ACCESSION_NUMBER>
          <CALL_NUMBER>ESSAY (26)</CALL_NUMBER>
@@ -22261,8 +22304,10 @@
          </AUTHORS>
          <YEAR>1981</YEAR>
          <TITLE>Izbrannye Stat'i</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>ESSAY (27)</CALL_NUMBER>
@@ -22271,13 +22316,14 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>224</REFNUM>
          <AUTHORS>
-            <AUTHOR>Grigoriev, L</AUTHOR>
-            <AUTHOR>Platek, Ia</AUTHOR>
+            <AUTHOR>Grigoriev, L (ed.)</AUTHOR>
+            <AUTHOR>Platek, Ia (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1970</YEAR>
-         <TITLE>Liubiteliam Gramplastinki</TITLE>
+         <TITLE>Liubiteliam Gramplastinki: Vypusk Pervoi</TITLE>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>ESSAY (28)</CALL_NUMBER>
@@ -22286,10 +22332,11 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>232</REFNUM>
          <AUTHORS>
-            <AUTHOR>Tarshis, N A</AUTHOR>
+            <AUTHOR>Tarshis, Nadezhda</AUTHOR>
          </AUTHORS>
          <YEAR>1978</YEAR>
-         <TITLE>Muzyka Spektaklia</TITLE>
+         <TITLE>Muzyka spektaklia</TITLE>
+         <PLACE_PUBLISHED>Leningrad</PLACE_PUBLISHED>
          <PUBLISHER>Iskusstvo</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>14/11/2000</CUSTOM5>
@@ -22303,14 +22350,17 @@
             <AUTHOR>Livanova, Tamara Nikolaevna (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1976</YEAR>
-         <TITLE>Iz Proshlogo Sovetskoi Muzykal'noi Kul'tury</TITLE>
+         <TITLE>Iz Proshlogo Sovetskoi Muzykal'noi Kul'tury: Vypusk Vtroi</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
+         <VOLUME>2</VOLUME>
+         <NUMBER_OF_VOLUMES>3</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>80a</ACCESSION_NUMBER>
          <CALL_NUMBER>ESSAY (3)</CALL_NUMBER>
-         <NOTES>Vol. 2</NOTES>
+         <NOTES></NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
@@ -22319,10 +22369,11 @@
             <AUTHOR>Levando, P P (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1988</YEAR>
-         <TITLE>Natsional'nye Traditsii Russkogo Khorovogo Iskusstva</TITLE>
-         <PLACE_PUBLISHED>St Petersburg</PLACE_PUBLISHED>
+         <TITLE>Natsional'nye Traditsii Russkogo Khorovogo Iskusstva: Tvorchestvo, Ispolnitel'stvo, Obrazovanie</TITLE>
+         <PLACE_PUBLISHED>Leningrad</PLACE_PUBLISHED>
          <PUBLISHER>Conservatory Rimsky-Korsakov</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>04.10.1999</CUSTOM5>
          <ACCESSION_NUMBER>137</ACCESSION_NUMBER>
          <CALL_NUMBER>ESSAY (30)</CALL_NUMBER>
@@ -22337,8 +22388,10 @@
          </AUTHORS>
          <YEAR>1980</YEAR>
          <TITLE>Liubiteliam Muzyki Posviashchaetsia</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>ESSAY (31)</CALL_NUMBER>
@@ -22350,9 +22403,11 @@
             <AUTHOR>Adzhemov, Konstantin Khristoforovich</AUTHOR>
          </AUTHORS>
          <YEAR>1972</YEAR>
-         <TITLE>Nezabyvaemoe: Vospominaniia</TITLE>
+         <TITLE>Nezabyvaemoe: Vospominaniia: Ocherki i stat'i</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>09/02/2000</CUSTOM5>
          <ACCESSION_NUMBER>115</ACCESSION_NUMBER>
          <CALL_NUMBER>ESSAY (32)</CALL_NUMBER>
@@ -22364,9 +22419,10 @@
             <AUTHOR>Olkhovich, E M</AUTHOR>
          </AUTHORS>
          <YEAR>1976</YEAR>
-         <TITLE>Muzyka v dramaticheskom teatre</TITLE>
+         <TITLE>Muzyka v dramaticheskom teatre: Sbornik statei</TITLE>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>07/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>ESSAY (33)</CALL_NUMBER>
@@ -22378,9 +22434,11 @@
             <AUTHOR>Zvereva, S G</AUTHOR>
          </AUTHORS>
          <YEAR>1999</YEAR>
-         <TITLE>Keldyshevskii sbornik</TITLE>
+         <TITLE>Keldyshevskii sbornik: Muzykal'no–istoricheskie chteniia pamiati Iu. V. Keldysha</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Gosudarstvennyi Institut Iskusstvoznaniia</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>07/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>179</ACCESSION_NUMBER>
          <CALL_NUMBER>ESSAY (34)</CALL_NUMBER>
@@ -22389,13 +22447,15 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>200</REFNUM>
          <AUTHORS>
-            <AUTHOR>Prokhorava, I</AUTHOR>
+            <AUTHOR>Prokhorova, I</AUTHOR>
             <AUTHOR>Skudina, G</AUTHOR>
          </AUTHORS>
          <YEAR>1976</YEAR>
-         <TITLE>Sovetskaia Muzykal'naia Literatura</TITLE>
+         <TITLE>Sovetskaia Muzykal'naia Literatura: Dlia VII Klassa Detskoi Muzykal'noi Shkoly</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>07/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>ESSAY (35)</CALL_NUMBER>
@@ -22407,9 +22467,11 @@
             <AUTHOR>Nekrasova, L A</AUTHOR>
          </AUTHORS>
          <YEAR>1996</YEAR>
-         <TITLE>Musorgskii i muzyka XX veka</TITLE>
+         <TITLE>Musorgskii i muzyka XX veka: Sbornik statei</TITLE>
+         <PLACE_PUBLISHED>Sankt–Peterburg</PLACE_PUBLISHED>
          <PUBLISHER>Sankt-Peterburgskaia Gosudarstvennaia Konservatoriia</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>07/11/2000</CUSTOM5>
          <CALL_NUMBER>ESSAY (36)</CALL_NUMBER>
       </RECORD>
@@ -22417,13 +22479,14 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>434</REFNUM>
          <AUTHORS>
-            <AUTHOR>Dale, J (ed.)</AUTHOR>
+            <AUTHOR>Lade, John (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1980</YEAR>
-         <TITLE>Building a Library 2</TITLE>
+         <TITLE>Building a Library 2: A listen's guide to record collecting</TITLE>
          <PLACE_PUBLISHED>Oxford</PLACE_PUBLISHED>
          <PUBLISHER>Oxford University Press</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
          <CALL_NUMBER>ESSAY (37)</CALL_NUMBER>
@@ -22436,8 +22499,10 @@
          </AUTHORS>
          <YEAR>1923</YEAR>
          <TITLE>Musical Chronicle (1917-1923)</TITLE>
+         <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
          <PUBLISHER>Harcourt Brace &amp; Company</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>09/02/2000</CUSTOM5>
          <ACCESSION_NUMBER>155</ACCESSION_NUMBER>
          <CALL_NUMBER>ESSAY (38)</CALL_NUMBER>
@@ -22449,9 +22514,9 @@
             <AUTHOR>Edmunds, Neil (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>2004</YEAR>
-         <TITLE>Soviet Music and Society under Lenin and Stalin: the baton and sickle</TITLE>
+         <TITLE>Soviet Music and Society under Lenin and Stalin: The baton and sickle</TITLE>
          <SECONDARY_AUTHORS>
-            <SECONDARY_AUTHOR>Richard Sakwa</SECONDARY_AUTHOR>
+            <SECONDARY_AUTHOR>Sakwa, Richard</SECONDARY_AUTHOR>
          </SECONDARY_AUTHORS>
          <SECONDARY_TITLE>BASEES/RoutledgeCurzon Series on Russian and East European
             Studies</SECONDARY_TITLE>
@@ -22500,9 +22565,11 @@
             <AUTHOR>Livanova, Tamara Nikolaevna (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1982</YEAR>
-         <TITLE>Iz Proshlogo Sovetskoi Muzykal'noi Kul'tury</TITLE>
+         <TITLE>Iz Proshlogo Sovetskoi Muzykal'noi Kul'tury: Vypusk Tretoi</TITLE>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <VOLUME>3</VOLUME>
+         <NUMBER_OF_VOLUMES>3</NUMBER_OF_VOLUMES>
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>80b</ACCESSION_NUMBER>
@@ -22513,11 +22580,11 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>1662</REFNUM>
          <AUTHORS>
-            <AUTHOR>Matich, Olga</AUTHOR>
-            <AUTHOR>Heim, Michael (eds.)</AUTHOR>
+            <AUTHOR>Matich, Olga (ed.)</AUTHOR>
+            <AUTHOR>Heim, Michael (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1984</YEAR>
-         <TITLE>The Third Wave: Russian literature in emigration</TITLE>
+         <TITLE>The Third Wave: Russian Literature in Emigration (Tret'ia Volna: Russkaia literatura v emigratsii)</TITLE>
          <PLACE_PUBLISHED>Ann Arbor</PLACE_PUBLISHED>
          <PUBLISHER>Ardis</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
@@ -22526,16 +22593,17 @@
          <CUSTOM5>17/08/2004</CUSTOM5>
          <ACCESSION_NUMBER>115a (16/06/2004)</ACCESSION_NUMBER>
          <CALL_NUMBER>ESSAY (40)</CALL_NUMBER>
+         <NOTES>Collection of essays in English and in Russian</NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>1976</REFNUM>
          <AUTHORS>
             <AUTHOR>Valkova, V.</AUTHOR>
-            <AUTHOR>Getselev (eds.), B.</AUTHOR>
+            <AUTHOR>Getselev, B. (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1997</YEAR>
-         <TITLE>Iskusstvo XX veka: ukhodiashchaia epokha?. Sbornik statei (Tom I)</TITLE>
+         <TITLE>Iskusstvo XX veka: ukhodiashchaia epokha?: Sbornik statei (Tom I)</TITLE>
          <PLACE_PUBLISHED>Nizhnii Novgorod</PLACE_PUBLISHED>
          <PUBLISHER>Nizhegorodskaia Gosudarstvennaia Konservatoriia Im. M. I. Glinki</PUBLISHER>
          <VOLUME>1</VOLUME>
@@ -22554,7 +22622,7 @@
             <AUTHOR>Morrison, Simon (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>2011</YEAR>
-         <TITLE>Three Oranges Journal Highlights: selected essays from Three Oranges Journal
+         <TITLE>Three Oranges Journal Highlights: Selected Essays from Three Oranges Journal,
             2001-2010</TITLE>
          <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>Serge Prokofiev Foundation</PUBLISHER>
@@ -22570,12 +22638,15 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>240</REFNUM>
          <AUTHORS>
-            <AUTHOR>Gordeeva, E</AUTHOR>
+            <AUTHOR>Gordeeva, E (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1968</YEAR>
-         <TITLE>Muzykal'noe Nasledstvo: tom II</TITLE>
+         <TITLE>Muzykal'noe Nasledstvo: Tom II: Chast' vtoriia</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <VOLUME>2</VOLUME>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>ESSAY (5)</CALL_NUMBER>
@@ -22584,12 +22655,15 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>218</REFNUM>
          <AUTHORS>
-            <AUTHOR>Gordeeva, E</AUTHOR>
+            <AUTHOR>Gordeeva, E (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1976</YEAR>
-         <TITLE>Muzykal'noe Nasledstvo: tom IV</TITLE>
+         <TITLE>Muzykal'noe Nasledstvo: Tom IV</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <VOLUME>4</VOLUME>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>ESSAY (6)</CALL_NUMBER>
@@ -22601,11 +22675,14 @@
             <AUTHOR>Danilevich, Lev Vasilevich (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1979</YEAR>
-         <TITLE>Muzykal'nyi Sovremennik Vypusk 3</TITLE>
+         <TITLE>Muzykal'nyi Sovremennik: Sbornik statei: Vypusk 3</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <VOLUME>3</VOLUME>
          <CUSTOM5>14/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
+         <CALL_NUMBER>Russian</CALL_NUMBER>
          <CALL_NUMBER>ESSAY (7)</CALL_NUMBER>
          <NOTES>Acquire vols. 1 and 2</NOTES>
       </RECORD>
@@ -22613,12 +22690,15 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>227</REFNUM>
          <AUTHORS>
-            <AUTHOR>Nikolaev, Alexander Alexandrovich</AUTHOR>
+            <AUTHOR>Nikolaev, Alexander Alexandrovich (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1976</YEAR>
-         <TITLE>Muzykal'noe ispolnitel'stvo: deviatyi sbornik statei</TITLE>
+         <TITLE>Muzykal'noe ispolnitel'stvo: deviatyi sbornik statei: Vypusk Deviatoi</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <VOLUME>9</VOLUME>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>ESSAY (8)</CALL_NUMBER>
@@ -22630,9 +22710,11 @@
             <AUTHOR>Iarustovskii, B</AUTHOR>
          </AUTHORS>
          <YEAR>1978</YEAR>
-         <TITLE>Ocherki po Dramaturgii Opery XX Veka</TITLE>
+         <TITLE>Ocherki po Dramaturgii Opery XX Veka: Kniga vtoraia</TITLE>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <VOLUME>2</VOLUME>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>15/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>ESSAY (9)</CALL_NUMBER>
@@ -22641,12 +22723,14 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>354</REFNUM>
          <AUTHORS>
-            <AUTHOR>Austin, William</AUTHOR>
+            <AUTHOR>Austin, William W.</AUTHOR>
          </AUTHORS>
          <YEAR>1966</YEAR>
          <TITLE>Music in the 20th century: from Debussy through Stravinsky</TITLE>
-         <PUBLISHER>Norton</PUBLISHER>
+         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+         <PUBLISHER>J. M. Dent &amp; Sons LTD.</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>12/01/2000</CUSTOM5>
          <ACCESSION_NUMBER>140</ACCESSION_NUMBER>
          <CALL_NUMBER>HIST (1)</CALL_NUMBER>
@@ -22659,9 +22743,11 @@
             <AUTHOR>Abraham, Gerald</AUTHOR>
          </AUTHORS>
          <YEAR>1936</YEAR>
-         <TITLE>Masters of Russian Music</TITLE>
+         <TITLE>Masters of Russian Music: Biographical Studies of teh Great Russian Composers</TITLE>
+         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>Duckworth</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
          <CALL_NUMBER>HIST (10)</CALL_NUMBER>
@@ -22677,6 +22763,7 @@
          <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>Barrie &amp; Jenkins</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
          <CALL_NUMBER>HIST (11)</CALL_NUMBER>
@@ -22685,12 +22772,14 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>391</REFNUM>
          <AUTHORS>
-            <AUTHOR>Krebs, Stanley D</AUTHOR>
+            <AUTHOR>Krebs, Stanley Dale</AUTHOR>
          </AUTHORS>
          <YEAR>1970</YEAR>
-         <TITLE>Soviet composers and the development of Soviet music</TITLE>
-         <PUBLISHER>George Allen &amp; Unwin</PUBLISHER>
+         <TITLE>Soviet Composers and the Development of Soviet Music</TITLE>
+         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+         <PUBLISHER>George Allen &amp; Unwin LTD</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
          <CALL_NUMBER>HIST (12)</CALL_NUMBER>
@@ -22715,10 +22804,11 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>285</REFNUM>
          <AUTHORS>
-            <AUTHOR>Alfeevskaia, G</AUTHOR>
+            <AUTHOR>Alfeevskaia, G C</AUTHOR>
          </AUTHORS>
          <YEAR>1993</YEAR>
          <TITLE>Istoriia Otechestvennoi Muzyki Sovetskogo Perioda</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Moskovskii Gosudarstvennyi Otkrytyi Pedagogicheskii Institut</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>Russian</CUSTOM1>
@@ -22737,6 +22827,7 @@
          <PLACE_PUBLISHED>Oxford</PLACE_PUBLISHED>
          <PUBLISHER>Oxford University Press</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>12/01/2000</CUSTOM5>
          <CALL_NUMBER>HIST (15)</CALL_NUMBER>
       </RECORD>
@@ -22744,12 +22835,15 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>406</REFNUM>
          <AUTHORS>
-            <AUTHOR>Boelza, I</AUTHOR>
+            <AUTHOR>Boelza, Egor</AUTHOR>
          </AUTHORS>
          <YEAR>1944</YEAR>
          <TITLE>Handbook of Soviet Musicians</TITLE>
-         <PUBLISHER>Pilot Press</PUBLISHER>
+         <SUBSIDIARY_AUTHORS>Bush, Alan (ed.)</SUBSIDIARY_AUTHORS>
+         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+         <PUBLISHER>The Pilot Press</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
          <CALL_NUMBER>HIST (16)</CALL_NUMBER>
@@ -22758,12 +22852,14 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>209</REFNUM>
          <AUTHORS>
-            <AUTHOR>Kosacheva, P</AUTHOR>
+            <AUTHOR>Kosacheva, R (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1980</YEAR>
-         <TITLE>Kompozitory Moskvy</TITLE>
+         <TITLE>Kompozitory Moskvy: Vypusk Vtoroi: G. Gladkov, I. Kataev, V. Kikta, V. Pikul', T. Smirnova</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>08/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>HIST (17)</CALL_NUMBER>
@@ -22772,27 +22868,15 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>405</REFNUM>
          <AUTHORS>
-            <AUTHOR>Moisenko, Rena</AUTHOR>
+            <AUTHOR>Moisenco, Rena</AUTHOR>
          </AUTHORS>
          <YEAR>1942</YEAR>
          <TITLE>Twenty Soviet Composers</TITLE>
+         <SECONDARY_TITLE>Keynote Series Book 1</SECONDARY_TITLE>
+         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>Workers' Music Association</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>English</CUSTOM1>
-         <CUSTOM5>?</CUSTOM5>
-         <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
-         <CALL_NUMBER>HIST (18)</CALL_NUMBER>
-      </RECORD>
-   <RECORD>
-         <REFERENCE_TYPE>20</REFERENCE_TYPE>
-         <REFNUM>435</REFNUM>
-         <AUTHORS>
-            <AUTHOR>Moisenko, Rena</AUTHOR>
-         </AUTHORS>
-         <YEAR>1942</YEAR>
-         <TITLE>Twenty Soviet Composers</TITLE>
-         <PUBLISHER>Workers' Music Association</PUBLISHER>
-         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
          <CALL_NUMBER>HIST (18)</CALL_NUMBER>
@@ -22804,10 +22888,11 @@
             <AUTHOR>Werth, Alexander</AUTHOR>
          </AUTHORS>
          <YEAR>1949</YEAR>
-         <TITLE>Musical uproar in Moscow</TITLE>
+         <TITLE>Musical Uproar in Moscow</TITLE>
          <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>Turnstile Press</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
          <CALL_NUMBER>HIST (19)</CALL_NUMBER>
@@ -22816,12 +22901,14 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>183</REFNUM>
          <AUTHORS>
-            <AUTHOR>Aranovsky, Mark</AUTHOR>
+            <AUTHOR>Aranovsky, Mark (ed)</AUTHOR>
          </AUTHORS>
          <YEAR>1997</YEAR>
-         <TITLE>Russkaia muzyka i XX vek</TITLE>
+         <TITLE>Russkaia muzyka i XX vek: Russkoe myzkal'noe iskusstvo v istorii xudozhestvennoi kul'tury xx veka</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Gosudarstvennyi Institut Iskusstvoznaniia</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>07/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>172</ACCESSION_NUMBER>
          <CALL_NUMBER>HIST (2)</CALL_NUMBER>
@@ -22836,6 +22923,7 @@
          <TITLE>The Soviet Proletarian Music Movement</TITLE>
          <PUBLISHER>Peter Lang</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>30/01/2001</CUSTOM5>
          <CALL_NUMBER>HIST (20)</CALL_NUMBER>
       </RECORD>
@@ -22846,9 +22934,9 @@
             <AUTHOR>Nichols, Roger</AUTHOR>
          </AUTHORS>
          <YEAR>2002</YEAR>
-         <TITLE>The Harlequin Years: music in Paris 1917-1929</TITLE>
+         <TITLE>The Harlequin Years: Music in Paris 1917-1929</TITLE>
          <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
-         <PUBLISHER>Thames &amp; Hudson</PUBLISHER>
+         <PUBLISHER>Thames &amp; Hudson Ltd</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <ISBN>0500510954</ISBN>
          <CUSTOM1>English</CUSTOM1>
@@ -22863,7 +22951,7 @@
             <AUTHOR>Whittall, Arnold</AUTHOR>
          </AUTHORS>
          <YEAR>1988</YEAR>
-         <TITLE>Music since the First World War</TITLE>
+         <TITLE>Music Since the First World War</TITLE>
          <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>J. M. Dent &amp; Sons Ltd</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
@@ -22880,7 +22968,7 @@
             <AUTHOR>Petrone, Karen</AUTHOR>
          </AUTHORS>
          <YEAR>2000</YEAR>
-         <TITLE>Life Has Become More Joyous, Comrades: celebrations in the time of Stalin</TITLE>
+         <TITLE>Life Has Become More Joyous, Comrades: Celebrations in the Time of Stalin</TITLE>
          <SECONDARY_AUTHORS>
             <SECONDARY_AUTHOR>Rabinowitch, Alexander</SECONDARY_AUTHOR>
             <SECONDARY_AUTHOR>Rosenberg, William G.</SECONDARY_AUTHOR>
@@ -22905,7 +22993,7 @@
          <YEAR>1997</YEAR>
          <TITLE>Sumbur vmesto muzyki: Stalinskaia kul'turnaia revoliutsiia 1936-1938</TITLE>
          <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
-         <PUBLISHER>Iuridicheskaia kniga</PUBLISHER>
+         <PUBLISHER>Iuridicheskaia Kniga</PUBLISHER>
          <ISBN>5-88711-064-3</ISBN>
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>18/03/2005</CUSTOM5>
@@ -22920,7 +23008,7 @@
             <AUTHOR>Lemaire, Frans C.</AUTHOR>
          </AUTHORS>
          <YEAR>1994</YEAR>
-         <TITLE>La musique de xxe siècle en Russie et dans les anciennes Républiques
+         <TITLE>La musique du xxe siècle en Russie et dans les anciennes Républiques
             soviètiques</TITLE>
          <SECONDARY_TITLE>Les chemins de la musique</SECONDARY_TITLE>
          <PLACE_PUBLISHED>Mesnil-sur-l'Estrée</PLACE_PUBLISHED>
@@ -22941,7 +23029,7 @@
             <AUTHOR>Vishnevetskii, Igor</AUTHOR>
          </AUTHORS>
          <YEAR>2005</YEAR>
-         <TITLE>Evraziiskoe uklonenie v muzyke 1920-1930-x godov</TITLE>
+         <TITLE>Evraziiskoe uklonenie v muzyke 1920-1930-x godov: stat'i i materialy</TITLE>
          <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Novoe literaturnoe obozrenie</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
@@ -22963,7 +23051,7 @@
             <AUTHOR>Wallace, Helen</AUTHOR>
          </AUTHORS>
          <YEAR>2007</YEAR>
-         <TITLE>Boosey &amp; Hawkes: The publishing story</TITLE>
+         <TITLE>Boosey &amp; Hawkes: The Publishing Story</TITLE>
          <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>Boosey &amp; Hawkes</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
@@ -22975,78 +23063,20 @@
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
-         <REFNUM>3328</REFNUM>
-         <AUTHORS>
-            <AUTHOR>Ohtaguro, Motoo</AUTHOR>
-         </AUTHORS>
-         <YEAR>1917</YEAR>
-         <TITLE>The Russian Ballet [Roshia-Buyo]</TITLE>
-         <PLACE_PUBLISHED>Ohmori, Tokyo</PLACE_PUBLISHED>
-         <PUBLISHER>Ongaku-to-Mungaku-Sha</PUBLISHER>
-         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <CUSTOM1>Japanese</CUSTOM1>
-         <CUSTOM5>30/05/2008</CUSTOM5>
-         <ACCESSION_NUMBER>420</ACCESSION_NUMBER>
-         <CALL_NUMBER>HIST (28)</CALL_NUMBER>
-         <NOTES>LOCATION: Publications-fragile: box 4, SC Store Bay R6&#xD;Notes from Shin-ichi
-            Numabe, depositor:&#xD;Published on 25 June 1917&#xD;Translation of p82 (final
-            page)&#xD;"The cover of this book has copied the one of the book 'Russian
-            Painting' by Alexandre Benois. Some fifty illustrations in this book are reproduced
-            from various books about the Russian Ballets, the magazine 'Commoedia
-            illustré' and photographs taken by a famous master Hoppé."</NOTES>
-      </RECORD>
-   <RECORD>
-         <REFERENCE_TYPE>20</REFERENCE_TYPE>
-         <REFNUM>3329</REFNUM>
-         <AUTHORS>
-            <AUTHOR>Ohtaguro, Motoo</AUTHOR>
-         </AUTHORS>
-         <YEAR>1918</YEAR>
-         <TITLE>Zoku-Bahaa-yori-Shenberuhi [From Bach to Schoenberg, part II)</TITLE>
-         <PLACE_PUBLISHED>Ohmori, Tokyo</PLACE_PUBLISHED>
-         <PUBLISHER>Ongaku-to-Bungaku-Sha</PUBLISHER>
-         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <CUSTOM1>Japanese</CUSTOM1>
-         <CUSTOM5>30/05/2008</CUSTOM5>
-         <ACCESSION_NUMBER>420</ACCESSION_NUMBER>
-         <CALL_NUMBER>HIST (29)</CALL_NUMBER>
-         <NOTES>LOCATION: Publications-fragile: box 4, SC Store Bay R6&#xD;Notes from Shin-ichi
-            Numabe, depositor:Published on 28 April 1918&#xD;Chapters:&#xD;1. G. W. Chadwick; 2. G.
-            Mahler; 3. C. M. Loeffler; 4. E. MacDowell; 5. F. Delius; 6. P. Dukas; 7. E. Granados;
-            8. G. Bantock; 9. F. Schmitt; 10. H. Hadley; 11. Vaughan Williams; 12. M. Ravel; 13. J.
-            A. Carpenter; 14. C. Scott; 15. F. Bridge; 16. C. W. Cadman; 17. P. A. Grainger; 18. A.
-            Bax; 19. Sergei Prokofief [sic]; 20. Leo Ornstein</NOTES>
-      </RECORD>
-   <RECORD>
-         <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>272</REFNUM>
          <AUTHORS>
-            <AUTHOR>Brown, Malcolm Hamrick</AUTHOR>
-            <AUTHOR>Wiley, R J (eds.)</AUTHOR>
+            <AUTHOR>Brown, Malcolm Hamrick (ed.)</AUTHOR>
+            <AUTHOR>Wiley, Roland John (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1985</YEAR>
          <TITLE>Slavonic and Western Music: Essays for Gerald Abraham</TITLE>
-         <PLACE_PUBLISHED>Oxford</PLACE_PUBLISHED>
-         <PUBLISHER>Oxford University Press</PUBLISHER>
+         <PLACE_PUBLISHED>Ann Arbor</PLACE_PUBLISHED>
+         <PUBLISHER>Michigan University Press</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>14</ACCESSION_NUMBER>
          <CALL_NUMBER>HIST (3)</CALL_NUMBER>
-      </RECORD>
-   <RECORD>
-         <REFERENCE_TYPE>20</REFERENCE_TYPE>
-         <REFNUM>395</REFNUM>
-         <AUTHORS>
-            <AUTHOR>Brown, Malcolm Hamrick</AUTHOR>
-            <AUTHOR>Wiley, R J (eds.)</AUTHOR>
-         </AUTHORS>
-         <YEAR>1985</YEAR>
-         <TITLE>Slavonic and Western Music: essays for Gerald Abraham</TITLE>
-         <PUBLISHER>UMI Research Press</PUBLISHER>
-         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <CUSTOM5>19/08/2004</CUSTOM5>
-         <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
-         <CALL_NUMBER>HIST (3) (DUP)</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
@@ -23055,7 +23085,7 @@
             <AUTHOR>Perkhin, V. V.</AUTHOR>
          </AUTHORS>
          <YEAR>2007</YEAR>
-         <TITLE>Deiateli russkogo iskusstva i M. B. Khrapchenko 1939-1948</TITLE>
+         <TITLE>Deiateli russkogo iskusstva i M. B. Khrapchenko: Predsedatel' Vsesoiuznogo komiteta po delam iskusstv: aprel' 1939 - ianvar' 1948</TITLE>
          <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Nauka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
@@ -23073,7 +23103,8 @@
             <AUTHOR>Pascal Huynh</AUTHOR>
          </AUTHORS>
          <YEAR>2010</YEAR>
-         <TITLE>Lénine, Staline et la musique</TITLE>
+         <TITLE>Lénine, Staline et la Musique</TITLE>
+         <SECONDARY_TITLE>Musée de la musique 12 octobre 2010 – 16 janvier 2011</SECONDARY_TITLE>
          <PLACE_PUBLISHED>Paris</PLACE_PUBLISHED>
          <PUBLISHER>Fayard&#xD;Cité de la musique</PUBLISHER>
          <PAGES>255</PAGES>
@@ -23096,8 +23127,10 @@
          </AUTHORS>
          <YEAR>1968</YEAR>
          <TITLE>Kniga o Sovetskoi Muzyke</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>15/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>HIST (4)</CALL_NUMBER>
@@ -23109,9 +23142,11 @@
             <AUTHOR>Keldysh, Iurii Vsevolodovich</AUTHOR>
          </AUTHORS>
          <YEAR>1997</YEAR>
-         <TITLE>Istoriia Russkoi Muzyki, 1890-1917; Tom 10 A</TITLE>
+         <TITLE>Istoriia Russkoi Muzyki 1890-1917: Tom 10 A</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>100</ACCESSION_NUMBER>
          <CALL_NUMBER>HIST (5)</CALL_NUMBER>
@@ -23128,6 +23163,7 @@
          <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>John Baker</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
          <CALL_NUMBER>HIST (6)</CALL_NUMBER>
@@ -23140,6 +23176,7 @@
          </AUTHORS>
          <YEAR>1970</YEAR>
          <TITLE>Muzyka Revoliutsii</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>09/02/2000</CUSTOM5>
@@ -23150,12 +23187,14 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>402</REFNUM>
          <AUTHORS>
-            <AUTHOR>Leonard, R A</AUTHOR>
+            <AUTHOR>Leonard, Richard Anthony</AUTHOR>
          </AUTHORS>
          <YEAR>1956</YEAR>
          <TITLE>A History of Russian Music</TITLE>
+         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>Jarrolds</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
          <CALL_NUMBER>HIST (8)</CALL_NUMBER>
@@ -23167,9 +23206,11 @@
             <AUTHOR>Abraham, Gerald</AUTHOR>
          </AUTHORS>
          <YEAR>1935</YEAR>
-         <TITLE>Studies in Russian Music</TITLE>
+         <TITLE>Studies in Russian Music: Critical Essays on the Most Important of Rimsky-Korsakov's Operas, Borodin's 'Prince Igor,' Dargamozhsky's 'Stone Guest,' etc.; With Chapters on Glinka, Mussorgsky, Balakirev and Tchaikovsky</TITLE>
+         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>William Reeves</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
          <CALL_NUMBER>HIST (9)</CALL_NUMBER>
@@ -23178,16 +23219,57 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>1695</REFNUM>
          <AUTHORS>
-            <AUTHOR>Keldysh, Iurii Vsevolodovich</AUTHOR>
+            <AUTHOR>Keldysh, Iurii Vsevolodovich (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1974</YEAR>
-         <TITLE>Muzykal'naia Entsiklopediia Vol 1</TITLE>
+         <TITLE>Muzykal'naia Entsiklopediia: Vol 1</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
+         <VOLUME>1</VOLUME>
+         <NUMBER_OF_VOLUMES>6</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>19/08/2004</CUSTOM5>
          <ACCESSION_NUMBER>53</ACCESSION_NUMBER>
          <CALL_NUMBER>MUSDICT (1)</CALL_NUMBER>
+      </RECORD>
+      <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <REFNUM>347</REFNUM>
+         <AUTHORS>
+         <AUTHOR>Agin, M C (ed.)</AUTHOR>
+         </AUTHORS>
+         <YEAR>1991-1994</YEAR>
+         <TITLE>Vokal'no-Entsiklopedicheskii Slovar' Biobibliografiia: Tom IV</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+         <PUBLISHER>Izdatel'stvo Respublikanskogo Koordinatsionnogo Khozraschetnogo Redaktsionno-Izdatel'skogo Tsentra</PUBLISHER>
+         <VOLUME>4</VOLUME>
+         <NUMBER_OF_VOLUMES>5</NUMBER_OF_VOLUMES>
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
+         <CUSTOM5>25/08/99</CUSTOM5>
+         <ACCESSION_NUMBER>131</ACCESSION_NUMBER>
+         <CALL_NUMBER>MUSDICT (10)</CALL_NUMBER>
+         <NOTES>5 volumes. Biography and bibliography</NOTES>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <REFNUM>347</REFNUM>
+         <AUTHORS>
+            <AUTHOR>Agin, M C (ed.)</AUTHOR>
+         </AUTHORS>
+         <YEAR>1991-1994</YEAR>
+         <TITLE>Vokal'no-Entsiklopedicheskii Slovar' Biobibliografiia: Tom V</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+         <PUBLISHER>Izdatel'stvo Respublikanskogo Koordinatsionnogo Khozraschetnogo Redaktsionno-Izdatel'skogo Tsentra</PUBLISHER>
+         <VOLUME>5</VOLUME>
+         <NUMBER_OF_VOLUMES>5</NUMBER_OF_VOLUMES>
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
+         <CUSTOM5>25/08/99</CUSTOM5>
+         <ACCESSION_NUMBER>131</ACCESSION_NUMBER>
+         <CALL_NUMBER>MUSDICT (11)</CALL_NUMBER>
+         <NOTES>5 volumes. Biography and bibliography</NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
@@ -23196,8 +23278,11 @@
             <AUTHOR>Shteinpress, Boris Solomonovich</AUTHOR>
          </AUTHORS>
          <YEAR>1983</YEAR>
-         <TITLE>Opernye Prem'ery XX Veka, 1901-1940, Slovar'</TITLE>
+         <TITLE>Opernye Prem'ery XX Veka (1901-1940) Slovar'</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
+         <VOLUME>1</VOLUME>
+         <NUMBER_OF_VOLUMES>2</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
@@ -23210,12 +23295,16 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>352</REFNUM>
          <AUTHORS>
-            <AUTHOR>Shteinpress, Boris Solomonovich</AUTHOR>
+            <AUTHOR>Shteinpress, Boris Solomonovich (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1986</YEAR>
-         <TITLE>Opernye Prem'ery XX Veka: 1941-1960; Slovar'</TITLE>
+         <TITLE>Opernye Prem'ery XX Veka (1941-1960) Slovar'</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
+         <VOLUME>2</VOLUME>
+         <NUMBER_OF_VOLUMES>2</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>28/10/1999</CUSTOM5>
          <ACCESSION_NUMBER>115</ACCESSION_NUMBER>
          <CALL_NUMBER>MUSDICT (13)</CALL_NUMBER>
@@ -23228,8 +23317,10 @@
          </AUTHORS>
          <YEAR>1976</YEAR>
          <TITLE>A Bibliography of Russian Composers</TITLE>
+         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>White Lion Publishing</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
          <CALL_NUMBER>MUSDICT (14)</CALL_NUMBER>
@@ -23241,9 +23332,11 @@
             <AUTHOR>Bernandt, Grigorii Borisovich</AUTHOR>
          </AUTHORS>
          <YEAR>1962</YEAR>
-         <TITLE>Slovar' Oper 1736 - 1959</TITLE>
+         <TITLE>Slovar' Oper (1736 - 1959): Vpervye postavlennykh ili izdannykh v dorevoliutsionnoi Rossii i v SSSR</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>115</ACCESSION_NUMBER>
          <CALL_NUMBER>MUSDICT (15)</CALL_NUMBER>
@@ -23253,13 +23346,14 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>358</REFNUM>
          <AUTHORS>
-            <AUTHOR>Vodarsky-Shiraeff, Alexandria</AUTHOR>
+            <AUTHOR>Vodarsky-Shiraeff, Alexandria (ed.)</AUTHOR>
          </AUTHORS>
-         <YEAR>1969 (1940)</YEAR>
-         <TITLE>Russian Composers and Musicians: a biographical dictionary</TITLE>
-         <PLACE_PUBLISHED>NY</PLACE_PUBLISHED>
+         <YEAR>1969</YEAR>
+         <TITLE>Russian Composers and Musicians: A Biographical Dictionary</TITLE>
+         <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
          <PUBLISHER>Greenwood Press</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>09/02/2000</CUSTOM5>
          <ACCESSION_NUMBER>147</ACCESSION_NUMBER>
          <CALL_NUMBER>MUSDICT (16)</CALL_NUMBER>
@@ -23273,8 +23367,10 @@
          </AUTHORS>
          <YEAR>1966</YEAR>
          <TITLE>Entsiklopedicheskii Muzykal'nyi Slovar'</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskaia Entsiklopediia</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>91</ACCESSION_NUMBER>
          <CALL_NUMBER>MUSDICT (17)</CALL_NUMBER>
@@ -23283,12 +23379,15 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>247</REFNUM>
          <AUTHORS>
-            <AUTHOR>Golubovskii, I V (ed.)</AUTHOR>
+            <AUTHOR>Buluchevskii, Iu.</AUTHOR>
+            <AUTHOR>Fomin, V.</AUTHOR>
          </AUTHORS>
          <YEAR>1975</YEAR>
          <TITLE>Kratkii Muzykal'nyi Slovar' dlia uchashchikhsia</TITLE>
+         <SUBSIDIARY_AUTHORS>Golubovskii, I V (ed.)</SUBSIDIARY_AUTHORS>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>MUSDICT (18)</CALL_NUMBER>
@@ -23297,13 +23396,15 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>237</REFNUM>
          <AUTHORS>
-            <AUTHOR>Keldysh, G V</AUTHOR>
+            <AUTHOR>Keldysh, G V (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1959</YEAR>
          <TITLE>Entsiklopedicheskii Muzykal'nyi Slovar'</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Gosudarstvennoe Nauchnoe Izdatel'stvo Bol'shaia Sovetskaia
             Entsiklopediia</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>MUSDICT (19)</CALL_NUMBER>
@@ -23312,11 +23413,14 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>274</REFNUM>
          <AUTHORS>
-            <AUTHOR>Keldysh, Iurii Vsevolodovich</AUTHOR>
+            <AUTHOR>Keldysh, Iurii Vsevolodovich (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1974</YEAR>
-         <TITLE>Muzykal'naia Entsiklopediia Vol 2</TITLE>
+         <TITLE>Muzykal'naia Entsiklopediia: Vol 2</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
+         <VOLUME>2</VOLUME>
+         <NUMBER_OF_VOLUMES>6</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
@@ -23332,10 +23436,11 @@
             <AUTHOR>Leikind, O L</AUTHOR>
          </AUTHORS>
          <YEAR>1994</YEAR>
-         <TITLE>Khudozhniki Russkoi Emigratsii (1917-1941)</TITLE>
+         <TITLE>Khudozhniki Russkoi Emigratsii (1917-1941): Biograficheskii slovar'</TITLE>
          <PLACE_PUBLISHED>Peterburg</PLACE_PUBLISHED>
-         <PUBLISHER>Izdatel'stvo Chernysheva</PUBLISHER>
+         <PUBLISHER>Chernysheva</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>07/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>178</ACCESSION_NUMBER>
          <CALL_NUMBER>MUSDICT (20)</CALL_NUMBER>
@@ -23348,8 +23453,10 @@
          </AUTHORS>
          <YEAR>1986</YEAR>
          <TITLE>Kratkii Opernyi Slovar'</TITLE>
+         <PLACE_PUBLISHED>Kiev</PLACE_PUBLISHED>
          <PUBLISHER>Muzichna Ukraina</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>MUSDICT (21)</CALL_NUMBER>
@@ -23358,10 +23465,11 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>340</REFNUM>
          <AUTHORS>
-            <AUTHOR>Pruzhansky, A</AUTHOR>
+            <AUTHOR>Pruzhansky, A. M.</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Otechestvennye Pevtsy: 1750-1917</TITLE>
+         <TITLE>Otechestvennye Pevtsy (1750-1917): Slovar'</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>Russian</CUSTOM1>
@@ -23378,8 +23486,10 @@
          </AUTHORS>
          <YEAR>1969</YEAR>
          <TITLE>Kratkii Biograficheskii Slovar' Zarubezhnykh Kompozitorov</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>MUSDICT (23)</CALL_NUMBER>
@@ -23388,10 +23498,11 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>187</REFNUM>
          <AUTHORS>
-            <AUTHOR>Grigorovich, Iurii Nikolaevich</AUTHOR>
+            <AUTHOR>Grigorovich, Iurii Nikolaevich (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1981</YEAR>
          <TITLE>Balet entsiklopediia</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskaia Entsiklopediia</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>Russian</CUSTOM1>
@@ -23403,12 +23514,14 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>246</REFNUM>
          <AUTHORS>
-            <AUTHOR>Milchina, A E</AUTHOR>
+            <AUTHOR>Milchina, A E (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1983</YEAR>
          <TITLE>Slovar' Izdatel'skikh Terminov</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Kniga</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>MUSDICT (25)</CALL_NUMBER>
@@ -23421,9 +23534,11 @@
             <AUTHOR>Iampolskii, Izrail Markovich</AUTHOR>
          </AUTHORS>
          <YEAR>1979</YEAR>
-         <TITLE>Kto Pisal o Muzyke. Tom III</TITLE>
+         <TITLE>Kto pisal o muzyke: Bio-bibliograficheskii slovar' muzykal'nykh kritikov i lits, pisavshikh o musyke v dorevoliutsionnoi Rossii i SSSR: Tom III R - CH</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>115</ACCESSION_NUMBER>
          <CALL_NUMBER>MUSDICT (26)</CALL_NUMBER>
@@ -23433,11 +23548,14 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>1696</REFNUM>
          <AUTHORS>
-            <AUTHOR>Keldysh, Iurii Vsevolodovich</AUTHOR>
+            <AUTHOR>Keldysh, Iurii Vsevolodovich (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1974</YEAR>
-         <TITLE>Muzykal'naia Entsiklopediia Vol 3</TITLE>
+         <TITLE>Muzykal'naia Entsiklopediia: Vol 3</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
+         <VOLUME>3</VOLUME>
+         <NUMBER_OF_VOLUMES>6</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>19/08/2004</CUSTOM5>
@@ -23448,10 +23566,13 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>1697</REFNUM>
          <AUTHORS>
-            <AUTHOR>Keldysh, Iurii Vsevolodovich</AUTHOR>
+            <AUTHOR>Keldysh, Iurii Vsevolodovich (ed.)</AUTHOR>
          </AUTHORS>
-         <TITLE>Muzykal'naia Entsiklopediia Vol 4</TITLE>
+         <TITLE>Muzykal'naia Entsiklopediia: Vol 4</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
+         <VOLUME>4</VOLUME>
+         <NUMBER_OF_VOLUMES>6</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>19/08/2004</CUSTOM5>
@@ -23462,10 +23583,13 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>1698</REFNUM>
          <AUTHORS>
-            <AUTHOR>Keldysh, Iurii Vsevolodovich</AUTHOR>
+            <AUTHOR>Keldysh, Iurii Vsevolodovich (ed.)</AUTHOR>
          </AUTHORS>
-         <TITLE>Muzykal'naia Entsiklopediia Vol 5</TITLE>
+         <TITLE>Muzykal'naia Entsiklopediia: Vol 5</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
+         <VOLUME>5</VOLUME>
+         <NUMBER_OF_VOLUMES>6</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>19/08/2004</CUSTOM5>
@@ -23476,11 +23600,14 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>326</REFNUM>
          <AUTHORS>
-            <AUTHOR>Keldysh, Iurii Vsevolodovich</AUTHOR>
+            <AUTHOR>Keldysh, Iurii Vsevolodovich (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1982</YEAR>
          <TITLE>Muzykal'naia Entsiklopediia: Vol 6</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
+         <VOLUME>6</VOLUME>
+         <NUMBER_OF_VOLUMES>6</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
@@ -23495,26 +23622,70 @@
             <AUTHOR>Agin, M C</AUTHOR>
          </AUTHORS>
          <YEAR>1991-1994</YEAR>
-         <TITLE>Vokal'no-Entsiklopedicheskii Slovar' biobibliografiia</TITLE>
+         <TITLE>Vokal'no-Entsiklopedicheskii Slovar' biobibliografiia: Tom Pervoi</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Izdatel'stvo Respublikanskogo Koordinatsionnogo Khozraschetnogo
             Redaktsionno-Izdatel'skogo Tsentra</PUBLISHER>
+         <VOLUME>1</VOLUME>
+         <NUMBER_OF_VOLUMES>5</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>25/08/99</CUSTOM5>
          <ACCESSION_NUMBER>131</ACCESSION_NUMBER>
-         <CALL_NUMBER>MUSDICT (7) MUSDICT (8) MUSDICT (9) MUSDICT (10) MUSDICT (11)</CALL_NUMBER>
+         <CALL_NUMBER>MUSDICT (7)</CALL_NUMBER>
          <NOTES>5 volumes. Biography and bibliography</NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <REFNUM>347</REFNUM>
+         <AUTHORS>
+            <AUTHOR>Agin, M C</AUTHOR>
+         </AUTHORS>
+         <YEAR>1991-1994</YEAR>
+         <TITLE>Vokal'no-Entsiklopedicheskii Slovar' biobibliografiia: Tom Vtoroi</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+         <PUBLISHER>Izdatel'stvo Respublikanskogo Koordinatsionnogo Khozraschetnogo
+            Redaktsionno-Izdatel'skogo Tsentra</PUBLISHER>
+         <VOLUME>2</VOLUME>
+         <NUMBER_OF_VOLUMES>5</NUMBER_OF_VOLUMES>
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM5>25/08/99</CUSTOM5>
+         <ACCESSION_NUMBER>131</ACCESSION_NUMBER>
+         <CALL_NUMBER>MUSDICT (8)</CALL_NUMBER>
+         <NOTES>5 volumes. Biography and bibliography</NOTES>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <REFNUM>347</REFNUM>
+         <AUTHORS>
+            <AUTHOR>Agin, M C</AUTHOR>
+         </AUTHORS>
+         <YEAR>1991-1994</YEAR>
+         <TITLE>Vokal'no-Entsiklopedicheskii Slovar' biobibliografiia: Tom Tretoi</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+         <PUBLISHER>Izdatel'stvo Respublikanskogo Koordinatsionnogo Khozraschetnogo
+            Redaktsionno-Izdatel'skogo Tsentra</PUBLISHER>
+         <VOLUME>3</VOLUME>
+         <NUMBER_OF_VOLUMES>5</NUMBER_OF_VOLUMES>
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM5>25/08/99</CUSTOM5>
+         <ACCESSION_NUMBER>131</ACCESSION_NUMBER>
+         <CALL_NUMBER>MUSDICT (9)</CALL_NUMBER>
+         <NOTES>5 volumes. Biography and bibliography</NOTES>
+      </RECORD> 
+   <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>441</REFNUM>
          <AUTHORS>
-            <AUTHOR>Mnoukhine, Lev</AUTHOR>
+            <AUTHOR>Mnoukhine, Lev (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1995</YEAR>
          <TITLE>L'Émigration Russe: chronique de la vie scientifique, culturelle et
             sociale en France 1920-1940</TITLE>
          <PUBLISHER>YMCA-Press</PUBLISHER>
+         <VOLUME>1</VOLUME>
+         <NUMBER_OF_VOLUMES>5</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>French</CUSTOM1>
          <CUSTOM5>30/01/2001</CUSTOM5>
          <ACCESSION_NUMBER>183</ACCESSION_NUMBER>
          <CALL_NUMBER>REF (1)</CALL_NUMBER>
@@ -23528,8 +23699,10 @@
          </AUTHORS>
          <YEAR>1997</YEAR>
          <TITLE>La Société Triton (1932-1939)</TITLE>
+         <PLACE_PUBLISHED>Paris</PLACE_PUBLISHED>
          <PUBLISHER>Université de Paris-Sorbonne Observatoire Musical Français</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>French</CUSTOM1>
          <CUSTOM5>09/01/2001</CUSTOM5>
          <ACCESSION_NUMBER>186</ACCESSION_NUMBER>
          <CALL_NUMBER>REF (10)</CALL_NUMBER>
@@ -23538,12 +23711,14 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>234</REFNUM>
          <AUTHORS>
-            <AUTHOR>Tiurin, Iu</AUTHOR>
+            <AUTHOR>Tiurin, Iu (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1976</YEAR>
          <TITLE>V Mire Muzyki: Kalendar' na 1977 god</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>REF (11)</CALL_NUMBER>
@@ -23552,12 +23727,14 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>235</REFNUM>
          <AUTHORS>
-            <AUTHOR>Lev, V</AUTHOR>
+            <AUTHOR>Lev, V (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1975</YEAR>
-         <TITLE>V Mire Muzyki: kalendar' na 1976 god</TITLE>
+         <TITLE>V Mire Muzyki: Kalendar' na 1976 god</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>REF (12)</CALL_NUMBER>
@@ -23568,8 +23745,10 @@
          <AUTHORS>
             <AUTHOR>Burbank, Richard</AUTHOR>
          </AUTHORS>
+         <SUBSIDIARY_AUTHORS>Slonimsky, Nicolas</SUBSIDIARY_AUTHORS>
          <YEAR>1984</YEAR>
          <TITLE>Twentieth Century Music: A Chronology</TITLE>
+         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>Thames &amp; Hudson</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>English</CUSTOM1>
@@ -23582,12 +23761,14 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>241</REFNUM>
          <AUTHORS>
-            <AUTHOR>Komarova, T K</AUTHOR>
+            <AUTHOR>Komarova, T K (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1961</YEAR>
-         <TITLE>Letopis' Muzykal'noi Literatury: 4 - 1961</TITLE>
+         <TITLE>Letopis' Muzykal'noi Literatury: Tom IV - 1961</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Vsesoiuznoi Knizhnoi Palaty</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>REF (14)</CALL_NUMBER>
@@ -23599,9 +23780,11 @@
             <AUTHOR>Iagolim, Boris Savelevich</AUTHOR>
          </AUTHORS>
          <YEAR>1969</YEAR>
-         <TITLE>Muzykal'nyi Kalendar: 1970 god</TITLE>
+         <TITLE>Muzykal'nyi Kalendar (1970)</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>REF (15)</CALL_NUMBER>
@@ -23614,10 +23797,12 @@
             <AUTHOR>Iagolim, Boris Savelevich</AUTHOR>
          </AUTHORS>
          <YEAR>1974</YEAR>
-         <TITLE>Sovetskaia Literatura o Muzyke: bibliograficheskii ukazatel' knig,
-            zhurnal'nykh statei i retsenzii 1966-1967 gg</TITLE>
+         <TITLE>Sovetskaia Literatura o muzyke: Bibliograficheskii ukazatel' knig,
+            zhurnal'nykh statei i retsenzii (1966-1967)</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>REF (16)</CALL_NUMBER>
@@ -23625,14 +23810,13 @@
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>230</REFNUM>
-         <AUTHORS>
-            <AUTHOR>?</AUTHOR>
-         </AUTHORS>
          <YEAR>1976</YEAR>
-         <TITLE>Muzykal'naia literatura iz SSSR: tematicheskii katalog dlia zaiavok No
+         <TITLE>Muzykal'naia literatura iz SSSR: Tematicheskii katalog dlia zaiavok: No
             1</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Mezhdunarodnaia Kniga</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>REF (17)</CALL_NUMBER>
@@ -23642,13 +23826,15 @@
          <REFNUM>243</REFNUM>
          <AUTHORS>
             <AUTHOR>Koltypina, Galina Borisovna</AUTHOR>
-            <AUTHOR>Pavlova, N G</AUTHOR>
+            <AUTHOR>Pavlova, N. G.</AUTHOR>
          </AUTHORS>
          <YEAR>1984</YEAR>
-         <TITLE>Sovetskaia Literatura o Muzyke: bibliograficheskii ukazatel' knig,
-            zhurnal'nykh statei i retsenzii za 1968-1970 gg</TITLE>
+         <TITLE>Sovetskaia literatura o muzyke: Bibliograficheskii ukazatel' knig,
+            zhurnal'nykh statei i retsenzii za 1968-1970: Chast' II</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>REF (18)</CALL_NUMBER>
@@ -23660,9 +23846,11 @@
             <AUTHOR>Kislova, N</AUTHOR>
          </AUTHORS>
          <YEAR>1975</YEAR>
-         <TITLE>Plan Vypuska Literatury na 1976 god</TITLE>
+         <TITLE>Plan Vypuska Literatury (1976)</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>REF (19)</CALL_NUMBER>
@@ -23671,13 +23859,16 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>442</REFNUM>
          <AUTHORS>
-            <AUTHOR>Mnoukhine, Lev</AUTHOR>
+            <AUTHOR>Mnoukhine, Lev (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1995</YEAR>
          <TITLE>L'Émigration Russe: chronique de la vie scientifique, culturelle et
             sociale en France 1920-1940</TITLE>
          <PUBLISHER>YMCA-Press</PUBLISHER>
+         <VOLUME>2</VOLUME>
+         <NUMBER_OF_VOLUMES>5</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>French</CUSTOM1>
          <CUSTOM5>30/01/2001</CUSTOM5>
          <ACCESSION_NUMBER>183</ACCESSION_NUMBER>
          <CALL_NUMBER>REF (2)</CALL_NUMBER>
@@ -23690,9 +23881,11 @@
             <AUTHOR>Ivanov, G K</AUTHOR>
          </AUTHORS>
          <YEAR>1970</YEAR>
-         <TITLE>Notoizdatel'skoe delo v Rossii</TITLE>
+         <TITLE>Notoizdatel'skoe delo v Rossii: Istoricheskaia Spravka</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>REF (20)</CALL_NUMBER>
@@ -23701,12 +23894,14 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>210</REFNUM>
          <AUTHORS>
-            <AUTHOR>Maslovataia, P</AUTHOR>
+            <AUTHOR>Maslovataia, R</AUTHOR>
          </AUTHORS>
          <YEAR>1987</YEAR>
          <TITLE>Izdatel'stvo 'Muzyka'</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>08/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>REF (21)</CALL_NUMBER>
@@ -23719,9 +23914,13 @@
             <AUTHOR>Poliakova, Liudmilla Viktorovna</AUTHOR>
          </AUTHORS>
          <YEAR>1971</YEAR>
-         <TITLE>Opernye Libretto: kratkoe izlozhenie soderzhaniai oper (tom pervyi)</TITLE>
+         <TITLE>Opernye Libretto: Kratkoe izlozhenie soderzhaniai oper: Russkaia opera i opera narodov CCCR: Tom Pervyi</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Muzyka</PUBLISHER>
+         <VOLUME>1</VOLUME>
+         <NUMBER_OF_VOLUMES>2</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>REF (22)</CALL_NUMBER>
@@ -23734,9 +23933,13 @@
             <AUTHOR>Tsypin, G M</AUTHOR>
          </AUTHORS>
          <YEAR>1972</YEAR>
-         <TITLE>Opernye Libretto: kratkoe izlozhenie soderzhaniai oper (tom vtoroi)</TITLE>
+         <TITLE>Opernye Libretto: Kratkoe izlozhenie soderzhaniai oper: Russkaia opera i opera narodov CCCR: Tom Vtoroi</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Muzyka</PUBLISHER>
+         <VOLUME>2</VOLUME>
+         <NUMBER_OF_VOLUMES>2</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>REF (23)</CALL_NUMBER>
@@ -23745,12 +23948,15 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>221</REFNUM>
          <AUTHORS>
-            <AUTHOR>Tigranova, G G</AUTHOR>
+            <AUTHOR>Tigranova, G G (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1988</YEAR>
-         <TITLE>Leningradskaia Konservatoriia v vospominaniaikh - kniga 2</TITLE>
+         <TITLE>Leningradskaia Konservatoriia v vospominaniaikh: Kniga 2</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Muzyka</PUBLISHER>
+         <VOLUME>2</VOLUME>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>REF (24)</CALL_NUMBER>
@@ -23762,9 +23968,11 @@
             <AUTHOR>Grosheva, Elena Andreevna</AUTHOR>
          </AUTHORS>
          <YEAR>1962</YEAR>
-         <TITLE>Bol'shoi Teatr SSSR: v proshlom i nastoiashchem</TITLE>
+         <TITLE>Bol'shoi Teatr SSSR: V proshlom i nastoiashchem</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>REF (25)</CALL_NUMBER>
@@ -23779,6 +23987,7 @@
          <TITLE>Muzykal'nyi Pavlovsk</TITLE>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>08/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>REF (26)</CALL_NUMBER>
@@ -23787,22 +23996,20 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>180</REFNUM>
          <AUTHORS>
-            <AUTHOR>Ghristi, C</AUTHOR>
+            <AUTHOR>Ghristi, Christophe</AUTHOR>
          </AUTHORS>
          <YEAR>1996</YEAR>
          <TITLE>Theatre du Capitole: Toulouse</TITLE>
          <PUBLISHER>Theatre du Capitole</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>French</CUSTOM1>
          <CUSTOM5>07/11/2000</CUSTOM5>
          <CALL_NUMBER>REF (27)</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>490</REFNUM>
-         <AUTHORS>
-            <AUTHOR>?</AUTHOR>
-         </AUTHORS>
-         <TITLE>Stagione lirica 1969/1970</TITLE>
+         <TITLE>La Stagione lirica (1969-1970)</TITLE>
          <PUBLISHER>Teatro alla Scala</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>Italian</CUSTOM1>
@@ -23817,7 +24024,7 @@
             <AUTHOR>Turbet, Richard (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>2003</YEAR>
-         <TITLE>Music Librarianship in the United Kingdom: fifty years of the United Kingdon branch
+         <TITLE>Music Librarianship in the United Kingdom: Fifty Years of the United Kingdon Branch
             of the International Association of Music Libraries, Archives and Documentation
             Centres</TITLE>
          <PLACE_PUBLISHED>Aldershot</PLACE_PUBLISHED>
@@ -23832,12 +24039,14 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>443</REFNUM>
          <AUTHORS>
-            <AUTHOR>Mnoukhine, Lev</AUTHOR>
+            <AUTHOR>Mnoukhine, Lev (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1996</YEAR>
-         <TITLE>L'Émigration Russe: chronique de la vie scientifique, culturelle et
+         <TITLE>L'Émigration Russe: Chronique de la vie scientifique, culturelle et
             sociale en France 1920-1940</TITLE>
          <PUBLISHER>YMCA-Press</PUBLISHER>
+         <VOLUME>3</VOLUME>
+         <NUMBER_OF_VOLUMES>5</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>30/01/2001</CUSTOM5>
          <ACCESSION_NUMBER>183</ACCESSION_NUMBER>
@@ -23851,8 +24060,8 @@
             <AUTHOR>Pavlova, N G</AUTHOR>
          </AUTHORS>
          <YEAR>1980</YEAR>
-         <TITLE>Spravochnaia literatura po muzyke: annotirovannyi ukazatel' izdanii na russkom
-            iazyke 1971-1978gg.</TITLE>
+         <TITLE>Spravochnaia literatura po muzyke: Annotirovannyi ukazatel' izdanii na russkom
+            iazyke (1971-1978)</TITLE>
          <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Gosudarstvennaia ordena Lenina biblioteka SSSR imeni V. I. Lenina</PUBLISHER>
          <PAGES>127</PAGES>
@@ -23869,7 +24078,7 @@
          </AUTHORS>
          <YEAR>1989</YEAR>
          <TITLE>Bibliograficheskie posobiia po muzyke: Annotirovannyi perechen' ukazatelei
-            literatury, izdannykh na russkom iazyke 1976-1986gg.</TITLE>
+            literatury, izdannykh na russkom iazyke (1976-1986)</TITLE>
          <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Gosudarstvennaia ordena Lenina biblioteka SSSR imeni V. I. Lenina</PUBLISHER>
          <PAGES>183</PAGES>
@@ -23886,8 +24095,10 @@
             <AUTHOR>Kuz'min, E. I</AUTHOR>
          </AUTHORS>
          <YEAR>1996</YEAR>
-         <TITLE>Bol'shie i malye biblioteki Rossii: Spravochnik</TITLE>
+         <TITLE>Bol'shie i malye biblioteki Rossii: Spravochnik: Chast' 6</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Libereia</PUBLISHER>
+         <VOLUME>6</VOLUME>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <ISBN>5851290293</ISBN>
          <CUSTOM1>Russian</CUSTOM1>
@@ -23898,7 +24109,7 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>177</REFNUM>
          <AUTHORS>
-            <AUTHOR>Khvalenskaia, E</AUTHOR>
+            <AUTHOR>Al'tshullep, A Ia (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1996</YEAR>
          <TITLE>Putevoditel' po kabinetu rukopisei</TITLE>
@@ -23934,7 +24145,7 @@
             <AUTHOR>Elliot, Paula</AUTHOR>
          </AUTHORS>
          <YEAR>1997</YEAR>
-         <TITLE>Pro-Musica: Patronage, Performance, and a Periodical. An index to the
+         <TITLE>Pro-Musica: Patronage, Performance, and a Periodical: An index to the
             quarterlies</TITLE>
          <SECONDARY_TITLE>MLA Index and Bibliography Series</SECONDARY_TITLE>
          <PLACE_PUBLISHED>Canton</PLACE_PUBLISHED>
@@ -23948,13 +24159,16 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>444</REFNUM>
          <AUTHORS>
-            <AUTHOR>Mnoukhine, Lev</AUTHOR>
+            <AUTHOR>Mnoukhine, Lev (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1997</YEAR>
          <TITLE>L'Émigration Russe: chronique de la vie scientifique, culturelle et
             sociale en France 1920-1940l</TITLE>
          <PUBLISHER>YMCA-Press</PUBLISHER>
+         <VOLUME>4</VOLUME>
+         <NUMBER_OF_VOLUMES>5</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>French</CUSTOM1>
          <CUSTOM5>30/01/2001</CUSTOM5>
          <ACCESSION_NUMBER>183</ACCESSION_NUMBER>
          <CALL_NUMBER>REF (4)</CALL_NUMBER>
@@ -23964,13 +24178,16 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>445</REFNUM>
          <AUTHORS>
-            <AUTHOR>Mnoukhine, Lev</AUTHOR>
+            <AUTHOR>Mnoukhine, Lev (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>2000</YEAR>
          <TITLE>L'Émigration Russe: chronique de la vie scientifique, culturelle et
             sociale en France 1920-1940</TITLE>
          <PUBLISHER>YMCA-Press; Russkii Put'</PUBLISHER>
+         <VOLUME>5</VOLUME>
+         <NUMBER_OF_VOLUMES>5</NUMBER_OF_VOLUMES>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>French</CUSTOM1>
          <CUSTOM5>30/01/2001</CUSTOM5>
          <ACCESSION_NUMBER>183</ACCESSION_NUMBER>
          <CALL_NUMBER>REF (5)</CALL_NUMBER>
