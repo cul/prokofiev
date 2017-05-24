@@ -24367,12 +24367,14 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>484</REFNUM>
          <AUTHORS>
-            <AUTHOR>Burghauser, Jarmil</AUTHOR>
+            <AUTHOR>Burghauser, Jarmil (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1996</YEAR>
-         <TITLE>Antonin Dvorak: thematic catalogue</TITLE>
+         <TITLE>Antonin Dvorak: Thematic Catalogue</TITLE>
+         <PLACE_PUBLISHED>Praha</PLACE_PUBLISHED>
          <PUBLISHER>Barenreiter Editio Supraphon</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Czech, German, and English</CUSTOM1>
          <CUSTOM5>10/11/2003</CUSTOM5>
          <ACCESSION_NUMBER>251</ACCESSION_NUMBER>
          <CALL_NUMBER>REF (6)</CALL_NUMBER>
@@ -24385,9 +24387,11 @@
             <AUTHOR>Brook, Barry</AUTHOR>
          </AUTHORS>
          <YEAR>1972</YEAR>
-         <TITLE>Thematic Catalogues in Music: an annotated bibliography</TITLE>
-         <PUBLISHER>Pendragon</PUBLISHER>
+         <TITLE>Thematic Catalogues in Music: An Annotated Bibliography</TITLE>
+         <PLACE_PUBLISHED>Hillsdale, NY</PLACE_PUBLISHED>
+         <PUBLISHER>Pendragon Press</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>25/08/99</CUSTOM5>
          <ACCESSION_NUMBER>127</ACCESSION_NUMBER>
          <CALL_NUMBER>REF (7)</CALL_NUMBER>
@@ -24399,26 +24403,33 @@
             <AUTHOR>Hulme, Derek C</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Dmitri Shostakovich: a catalogue bibliography and discography (2nd ed)</TITLE>
+         <TITLE>Dmitri Shostakovich: A Catalogue Bibliography and Discography</TITLE>
          <PLACE_PUBLISHED>Oxford</PLACE_PUBLISHED>
          <PUBLISHER>Clarendon Press</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>Shostakovich, Irina</SUBSIDIARY_AUTHORS>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>10/11/2003</CUSTOM5>
          <ACCESSION_NUMBER>253</ACCESSION_NUMBER>
          <CALL_NUMBER>REF (8)</CALL_NUMBER>
-         <NOTES>With a foreword by Irina Shostakovich</NOTES>
+         <NOTES>With a foreword by Irina Shostakovich, (2nd ed)</NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>318</REFNUM>
          <AUTHORS>
-            <AUTHOR>Bennett, J R</AUTHOR>
+            <AUTHOR>Bennett, John R</AUTHOR>
          </AUTHORS>
          <YEAR>1981</YEAR>
-         <TITLE>Melodiya; a Soviet Russian L.P. Discography</TITLE>
+         <TITLE>Melodiya; A Soviet Russian L.P. Discography</TITLE>
+         <PLACE_PUBLISHED>Westport, CT</PLACE_PUBLISHED>
          <PUBLISHER>Greenwood Press</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>
+            <SUBSIDIARY_AUTHOR>Semeonff, Boris</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Zhelezny, Anatoli</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
+         <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>99</ACCESSION_NUMBER>
          <CALL_NUMBER>REF (9)</CALL_NUMBER>
@@ -24428,16 +24439,21 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>329</REFNUM>
          <AUTHORS>
-            <AUTHOR>Roberts, P D</AUTHOR>
+            <AUTHOR>Roberts, Peter Dean</AUTHOR>
          </AUTHORS>
          <YEAR>1993</YEAR>
-         <TITLE>Modernism in Russian Piano Music</TITLE>
+         <TITLE>Modernism in Russian Piano Music: Skriabin, Prokofiev, and Their Russian Contemporaries</TITLE>
+         <SECONDARY_TITLE>Russian Music Studies</SECONDARY_TITLE>
+         <PLACE_PUBLISHED>Bloomington and Indianapolis</PLACE_PUBLISHED>
          <PUBLISHER>Indiana University Press</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <VOLUME>1</VOLUME>
+         <NUMBER_OF_VOLUMES>2</NUMBER_OF_VOLUMES>
+         <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>01/03/99</CUSTOM5>
          <ACCESSION_NUMBER>116</ACCESSION_NUMBER>
-         <CALL_NUMBER>TH (1) and TH (2)</CALL_NUMBER>
-         <NOTES>2 volumes</NOTES>
+         <CALL_NUMBER>TH (1)</CALL_NUMBER>
+         <NOTES></NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
@@ -24446,7 +24462,8 @@
             <AUTHOR>Berkov, Viktor Osipovich (ed.)</AUTHOR>
          </AUTHORS>
          <YEAR>1968</YEAR>
-         <TITLE>Forma Perioda na Primerakh Muzyki S.Prokof'eva</TITLE>
+         <TITLE>Forma Perioda na Primerakh Muzyki S.Prokof'eva: Khrestomatiia</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>Russian</CUSTOM1>
@@ -24463,8 +24480,11 @@
          </AUTHORS>
          <YEAR>1966</YEAR>
          <TITLE>Nekotorye Osobennosti Garmonii Prokof'eva</TITLE>
+         <SECONDARY_TITLE>Metodicheskoe posobie po garmonii</SECONDARY_TITLE>
+         <PLACE_PUBLISHED>Leningrad</PLACE_PUBLISHED>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>94</ACCESSION_NUMBER>
          <CALL_NUMBER>TH (11)</CALL_NUMBER>
@@ -24473,12 +24493,14 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>299</REFNUM>
          <AUTHORS>
-            <AUTHOR>Rogozhina, N</AUTHOR>
+            <AUTHOR>Rogozhina, Nina Ivanovna</AUTHOR>
          </AUTHORS>
          <YEAR>1964</YEAR>
          <TITLE>Vokal'no-simfonicheskie proizvedeniia S. Prokof'eva</TITLE>
+         <PLACE_PUBLISHED>Leningrad</PLACE_PUBLISHED>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>94</ACCESSION_NUMBER>
          <CALL_NUMBER>TH (12)</CALL_NUMBER>
@@ -24487,13 +24509,14 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>255</REFNUM>
          <AUTHORS>
-            <AUTHOR>Rogozhina, N</AUTHOR>
+            <AUTHOR>Rogozhina, Nina Ivanovna</AUTHOR>
          </AUTHORS>
          <YEAR>1971</YEAR>
-         <TITLE>Romansy i pesni S.S. Prokof'eva,</TITLE>
+         <TITLE>Romansy i pesni S. S. Prokof'eva,</TITLE>
          <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>4</ACCESSION_NUMBER>
          <CALL_NUMBER>TH (13)</CALL_NUMBER>
@@ -24502,12 +24525,14 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>305</REFNUM>
          <AUTHORS>
-            <AUTHOR>Soroker, Ia</AUTHOR>
+            <AUTHOR>Soroker, Iakov L'vovich</AUTHOR>
          </AUTHORS>
          <YEAR>1973</YEAR>
          <TITLE>Kamerno-Instrumental'nye Ansambli S. Prokof'eva</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>94</ACCESSION_NUMBER>
          <CALL_NUMBER>TH (14)</CALL_NUMBER>
@@ -24516,12 +24541,14 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>302</REFNUM>
          <AUTHORS>
-            <AUTHOR>Soroker, Ia</AUTHOR>
+            <AUTHOR>Soroker, Iakov L'vovich</AUTHOR>
          </AUTHORS>
          <YEAR>1965</YEAR>
          <TITLE>Skripichnoe Tvorchestvo S. Prokof'eva</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>94</ACCESSION_NUMBER>
          <CALL_NUMBER>TH (15)</CALL_NUMBER>
@@ -24530,15 +24557,18 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>311</REFNUM>
          <AUTHORS>
-            <AUTHOR>Rogozhina, N</AUTHOR>
+            <AUTHOR>Rogozhina, Nina Ivanovna</AUTHOR>
          </AUTHORS>
          <YEAR>1958</YEAR>
          <TITLE>Kantata S. Prokof'eva 'Alexander Nevsky'</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>94</ACCESSION_NUMBER>
          <CALL_NUMBER>TH (16)</CALL_NUMBER>
+         <NOTES>With illustrations</NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
@@ -24548,8 +24578,10 @@
          </AUTHORS>
          <YEAR>1973</YEAR>
          <TITLE>Violonchel'noe Tvorchestvo Prokof'eva</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>91</ACCESSION_NUMBER>
          <CALL_NUMBER>TH (17)</CALL_NUMBER>
@@ -24563,6 +24595,7 @@
          </AUTHORS>
          <YEAR>1959</YEAR>
          <TITLE>Kontserty dlia violoncheli s orkestrom S. Prokof'eva</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Gosudarstvennoe Muzykal'noe Izdatel'stvo</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>Russian</CUSTOM1>
@@ -24579,12 +24612,34 @@
          </AUTHORS>
          <YEAR>1959</YEAR>
          <TITLE>Kontserty dlia violoncheli s orkestrom S. Prokof'eva</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Gosudarstvennoe Muzykal'noe Izdatel'stvo</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>91</ACCESSION_NUMBER>
          <CALL_NUMBER>TH (19)</CALL_NUMBER>
-         <NOTES>Missing title page</NOTES>
+         <NOTES>Missing title page, Duplicate Copy</NOTES>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <REFNUM>329</REFNUM>
+         <AUTHORS>
+            <AUTHOR>Roberts, Peter Dean</AUTHOR>
+         </AUTHORS>
+         <YEAR>1993</YEAR>
+         <TITLE>Modernism in Russian Piano Music: Skriabin, Prokofiev, and Their Russian Contemporaries</TITLE>
+         <SECONDARY_TITLE>Russian Music Studies</SECONDARY_TITLE>
+         <PLACE_PUBLISHED>Bloomington and Indianapolis</PLACE_PUBLISHED>
+         <PUBLISHER>Indiana University Press</PUBLISHER>
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <VOLUME>2</VOLUME>
+         <NUMBER_OF_VOLUMES>2</NUMBER_OF_VOLUMES>
+         <CUSTOM1>English</CUSTOM1>
+         <CUSTOM5>01/03/99</CUSTOM5>
+         <ACCESSION_NUMBER>116</ACCESSION_NUMBER>
+         <CALL_NUMBER>TH (2)</CALL_NUMBER>
+         <NOTES>2 volumes</NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
@@ -24593,7 +24648,7 @@
             <AUTHOR>Blok, Vladimir</AUTHOR>
          </AUTHORS>
          <YEAR>1969</YEAR>
-         <TITLE>Muzyka Prokof'eva dlia Detei</TITLE>
+         <TITLE>Muzyka Prokof'eva dlia detei</TITLE>
          <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
@@ -24607,12 +24662,14 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>263</REFNUM>
          <AUTHORS>
-            <AUTHOR>Vasilenko, S</AUTHOR>
+            <AUTHOR>Vasilenko, Sergei</AUTHOR>
          </AUTHORS>
          <YEAR>1965</YEAR>
          <TITLE>Balety Prokof'eva</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>25</ACCESSION_NUMBER>
          <CALL_NUMBER>TH (21)</CALL_NUMBER>
@@ -24621,29 +24678,35 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>300</REFNUM>
          <AUTHORS>
-            <AUTHOR>Vasilenko, S</AUTHOR>
+            <AUTHOR>Vasilenko, Sergei</AUTHOR>
          </AUTHORS>
          <YEAR>1965</YEAR>
          <TITLE>Balety Prokof'eva</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>94</ACCESSION_NUMBER>
          <CALL_NUMBER>TH (22)</CALL_NUMBER>
+         <NOTES>Duplicate Copy</NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>308</REFNUM>
          <AUTHORS>
-            <AUTHOR>Gakkel, L</AUTHOR>
+            <AUTHOR>Gakkel, Leonid Evgenevich</AUTHOR>
          </AUTHORS>
          <YEAR>1960</YEAR>
          <TITLE>Fortep'iannoe Tvorchestvo S.S. Prokof'eva</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Gosudarstvennoe Muzykal'noe Izdatel'stvo</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>91</ACCESSION_NUMBER>
          <CALL_NUMBER>TH (23)</CALL_NUMBER>
+         <NOTES>Missing Book Cover</NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
@@ -24654,8 +24717,10 @@
          </AUTHORS>
          <YEAR>1961</YEAR>
          <TITLE>Fortep'iannye Sonaty S. S. Prokof'eva</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Gosudarstvennoe Muzykal'noe Izdatel'stvo</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>91</ACCESSION_NUMBER>
          <CALL_NUMBER>TH (24)</CALL_NUMBER>
@@ -24665,12 +24730,14 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>296</REFNUM>
          <AUTHORS>
-            <AUTHOR>Zemtsovskii, I</AUTHOR>
+            <AUTHOR>Zemtsovskii, Isaly Iosifovich</AUTHOR>
          </AUTHORS>
          <YEAR>1978</YEAR>
-         <TITLE>Fol'klor i Kompozitor</TITLE>
+         <TITLE>Fol'klor i Kompozitor: Teoreticheskie etody</TITLE>
+         <PLACE_PUBLISHED>Leningrad</PLACE_PUBLISHED>
          <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>95</ACCESSION_NUMBER>
          <CALL_NUMBER>TH (25)</CALL_NUMBER>
@@ -24683,8 +24750,10 @@
          </AUTHORS>
          <YEAR>1987</YEAR>
          <TITLE>Orkestrovye Stili v Russkoi Muzyke</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>07/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>170</ACCESSION_NUMBER>
          <CALL_NUMBER>TH (26)</CALL_NUMBER>
@@ -24693,12 +24762,18 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>190</REFNUM>
          <AUTHORS>
-            <AUTHOR>Soroker, Ia</AUTHOR>
+            <AUTHOR>Soroker, Yakov</AUTHOR>
          </AUTHORS>
          <YEAR>1995</YEAR>
          <TITLE>Ukrainian Musical Elements in Classical Music</TITLE>
+         <PLACE_PUBLISHED>Toronto and Edmonton</PLACE_PUBLISHED>
          <PUBLISHER>Canadian Institute of Ukrainian Studies Press</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>
+            <SUBSIDIARY_AUTHOR>Samilenko, Olya (trans.)</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Hornjatkevych, Andrij (ed.)</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
+         <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>07/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>174</ACCESSION_NUMBER>
          <CALL_NUMBER>TH (27)</CALL_NUMBER>
@@ -24745,12 +24820,14 @@
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>265</REFNUM>
          <AUTHORS>
-            <AUTHOR>Fiess, S</AUTHOR>
+            <AUTHOR>Fiess, Stephen C E</AUTHOR>
          </AUTHORS>
          <YEAR>1994</YEAR>
          <TITLE>The Piano Works of Serge Prokofiev</TITLE>
+         <PLACE_PUBLISHED>Metuchen, NJ and London</PLACE_PUBLISHED>
          <PUBLISHER>Scarecrow Press</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>15</ACCESSION_NUMBER>
          <CALL_NUMBER>TH (3)</CALL_NUMBER>
@@ -24811,7 +24888,7 @@
             <AUTHOR>Berman, Boris</AUTHOR>
          </AUTHORS>
          <YEAR>2008</YEAR>
-         <TITLE>Prokofiev's Piano Sonatas: a guide for the listener and the performer</TITLE>
+         <TITLE>Prokofiev's Piano Sonatas: A Guide for the Listener and the Performer</TITLE>
          <PLACE_PUBLISHED>New Haven and London</PLACE_PUBLISHED>
          <PUBLISHER>Yale University Press</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
@@ -24832,6 +24909,7 @@
          <PLACE_PUBLISHED>New Haven and London</PLACE_PUBLISHED>
          <PUBLISHER>Yale University Press</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>76a</ACCESSION_NUMBER>
          <CALL_NUMBER>TH (4)</CALL_NUMBER>
@@ -24843,9 +24921,11 @@
             <AUTHOR>Tarakanov, Mikhail Evgenevich</AUTHOR>
          </AUTHORS>
          <YEAR>1968</YEAR>
-         <TITLE>Stil' Simfonii Prokof'eva</TITLE>
+         <TITLE>Stil' Simfonii Prokof'eva: Issledovanie</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>91</ACCESSION_NUMBER>
          <CALL_NUMBER>TH (5)</CALL_NUMBER>
@@ -24858,8 +24938,10 @@
          </AUTHORS>
          <YEAR>1964</YEAR>
          <TITLE>Simfonii Prokof'eva</TITLE>
+         <PLACE_PUBLISHED>Leningrad</PLACE_PUBLISHED>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>91</ACCESSION_NUMBER>
          <CALL_NUMBER>TH (6)</CALL_NUMBER>
@@ -24873,8 +24955,10 @@
          </AUTHORS>
          <YEAR>1967</YEAR>
          <TITLE>Sovremennye Cherty Garmonii Prokof'eva</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>91</ACCESSION_NUMBER>
          <CALL_NUMBER>TH (7)</CALL_NUMBER>
@@ -24887,37 +24971,27 @@
             <AUTHOR>Aranovsky, Mark</AUTHOR>
          </AUTHORS>
          <YEAR>1969</YEAR>
-         <TITLE>Melodika S. Prokof'eva</TITLE>
+         <TITLE>Melodika S. Prokof'eva: Issledovatel'skie ocherki</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>91</ACCESSION_NUMBER>
          <CALL_NUMBER>TH (8)</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
-         <REFNUM>258</REFNUM>
-         <AUTHORS>
-            <AUTHOR>Aranovsky, Mark</AUTHOR>
-         </AUTHORS>
-         <YEAR>1969</YEAR>
-         <TITLE>Melodika S. Prokof'eva</TITLE>
-         <PUBLISHER>Muzyka</PUBLISHER>
-         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <CUSTOM5>19/08/2004</CUSTOM5>
-         <ACCESSION_NUMBER>39</ACCESSION_NUMBER>
-         <CALL_NUMBER>TH (8) (DUP)</CALL_NUMBER>
-      </RECORD>
-   <RECORD>
-         <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>304</REFNUM>
          <AUTHORS>
-            <AUTHOR>Skorik, M</AUTHOR>
+            <AUTHOR>Skorik, Miroslav Mikhailovich</AUTHOR>
          </AUTHORS>
          <YEAR>1969</YEAR>
          <TITLE>Ladovaia sistema S. Prokof'eva</TITLE>
+         <PLACE_PUBLISHED>Kiev</PLACE_PUBLISHED>
          <PUBLISHER>Muzichna Ukraina</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>94</ACCESSION_NUMBER>
          <CALL_NUMBER>TH (9)</CALL_NUMBER>
