@@ -21375,6 +21375,27 @@
          <CALL_NUMBER>DM-D (3)</CALL_NUMBER>
       </RECORD>
    <RECORD>
+      <REFERENCE_TYPE>20</REFERENCE_TYPE>
+      <REFNUM>179</REFNUM>
+      <AUTHORS>
+         <AUTHOR>Strong, Roy</AUTHOR>
+         <AUTHOR>Guest, Ivor</AUTHOR>
+         <AUTHOR>Buckle, Richard</AUTHOR>
+         <AUTHOR>Woodcock, Sarah</AUTHOR>
+         <AUTHOR>Dyer, Philip</AUTHOR>
+      </AUTHORS>
+      <YEAR>1981</YEAR>
+      <TITLE>Spotlight: Four Centuries of Ballet Costume: A Tribute to the Royal Ballet: 8 April to 26 July 1981</TITLE>
+      <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+      <PUBLISHER>Victoria and Albert Museum</PUBLISHER>
+      <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+      <DATE>08/04 - 26/07/1981</DATE>
+      <CUSTOM1>English</CUSTOM1>
+      <CUSTOM5>07/11/2000</CUSTOM5>
+      <ACCESSION_NUMBER>309 (24/05/2004)</ACCESSION_NUMBER>
+      <CALL_NUMBER>DM-D (4)</CALL_NUMBER>
+   </RECORD>
+   <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>503</REFNUM>
          <AUTHORS>
@@ -21421,6 +21442,31 @@
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
          <CALL_NUMBER>DM-D (7)</CALL_NUMBER>
       </RECORD>
+   <RECORD>
+      <REFERENCE_TYPE>20</REFERENCE_TYPE>
+      <REFNUM>1568</REFNUM>
+      <AUTHORS>
+         <AUTHOR>Kodicek, Ann</AUTHOR>
+      </AUTHORS>
+      <YEAR>1996</YEAR>
+      <TITLE>Diaghilev: Creator of the Ballets Russes: Art, Music, Dance</TITLE>
+      <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+      <PUBLISHER>Barbican Art Gallery / Lund Humphries Publishers</PUBLISHER>
+      <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+      <SUBSIDIARY_AUTHORS>
+         <SUBSIDIARY_AUTHOR>Bartlett, Rosemund</SUBSIDIARY_AUTHOR>
+         <SUBSIDIARY_AUTHOR>Garafola, Lynn</SUBSIDIARY_AUTHOR>
+         <SUBSIDIARY_AUTHOR>Pospelov, Gleb</SUBSIDIARY_AUTHOR>
+         <SUBSIDIARY_AUTHOR>Pozharskaia, Militsa</SUBSIDIARY_AUTHOR>
+         <SUBSIDIARY_AUTHOR>Schouvaloff, Alexander</SUBSIDIARY_AUTHOR>
+         <SUBSIDIARY_AUTHOR>Vershinina, Irina</SUBSIDIARY_AUTHOR>
+      </SUBSIDIARY_AUTHORS>
+      <ISBN>0 85331 688 0</ISBN>
+      <CUSTOM1>English</CUSTOM1>
+      <CUSTOM5>24/05/2004</CUSTOM5>
+      <ACCESSION_NUMBER>308 (24/05/2004)</ACCESSION_NUMBER>
+      <CALL_NUMBER>DM-D (8)</CALL_NUMBER>
+   </RECORD>
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM>420</REFNUM>
