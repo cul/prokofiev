@@ -8,7 +8,7 @@
             <AUTHOR>Downes, Edward</AUTHOR>
          </AUTHORS>
          <YEAR>1972</YEAR>
-         <TITLE>Prokofiev's 'War and Peace'</TITLE>
+         <ARTICLE_TITLE>Prokofiev's "War and Peace"</ARTICLE_TITLE>
          <JOURNAL_TITLE>Opera</JOURNAL_TITLE>
          <VOLUME>23</VOLUME>
          <NUMBER>10</NUMBER>
@@ -28,7 +28,7 @@
             <AUTHOR>Ostretsov, A.</AUTHOR>
          </AUTHORS>
          <YEAR>1934</YEAR>
-         <TITLE>Kontsert iz proizvedenii Sergeia Prokof’eva</TITLE>
+         <ARTICLE_TITLE>Kontsert iz proizvedenii Sergeia Prokof’eva</ARTICLE_TITLE>
          <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>6</NUMBER>
          <PAGES>85-88</PAGES>
@@ -47,8 +47,8 @@
             <AUTHOR>Kreitner, G.</AUTHOR>
          </AUTHORS>
          <YEAR>1937</YEAR>
-         <TITLE>“Romeo i Dzhul’etta” - Simfonicheskaia siuita S.
-            Prokof’eva</TITLE>
+         <ARTICLE_TITLE>“Romeo i Dzhul’etta” - Simfonicheskaia siuita S.
+            Prokof’eva</ARTICLE_TITLE>
          <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>10</NUMBER>
          <PAGES>77-84</PAGES>
@@ -66,7 +66,7 @@
             <AUTHOR>Ostretsov, A.</AUTHOR>
          </AUTHORS>
          <YEAR>1939</YEAR>
-         <TITLE>Kantata “Aleksandr Nevsky” S. Prokof’eva</TITLE>
+         <ARTICLE_TITLE>Kantata “Aleksandr Nevsky” S. Prokof’eva</ARTICLE_TITLE>
          <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>11</NUMBER>
          <PAGES>24-45</PAGES>
@@ -86,7 +86,7 @@
             <AUTHOR>Nestiev, Izrail Vladimirovich</AUTHOR>
          </AUTHORS>
          <YEAR>1939</YEAR>
-         <TITLE>Obraz narodnogo schast'ia</TITLE>
+         <ARTICLE_TITLE>Obraz narodnogo schast'ia</ARTICLE_TITLE>
          <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>12</NUMBER>
          <PAGES>31-35</PAGES>
@@ -106,8 +106,8 @@
             <AUTHOR>Danilevich, Lev Vasilevich</AUTHOR>
          </AUTHORS>
          <YEAR>1939</YEAR>
-         <TITLE>Posle dekady</TITLE>
-         <SECONDARY_TITLE>Aleksandr Nevsky</SECONDARY_TITLE>
+         <ARTICLE_TITLE>Posle dekady</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>"Aleksandr Nevsky"</SECONDARY_ARTICLE_TITLE>
          <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>12</NUMBER>
          <PAGES>49-50</PAGES>
@@ -127,8 +127,8 @@
             <AUTHOR>Ostretsov, A.</AUTHOR>
          </AUTHORS>
          <YEAR>1939</YEAR>
-         <TITLE>Novye simfonii</TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Novye simfonii</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>12</NUMBER>
          <PAGES>56-65</PAGES>
          <DATE>1939-12</DATE>
@@ -147,8 +147,8 @@
             <AUTHOR>Druskin, M.</AUTHOR>
          </AUTHORS>
          <YEAR>1940</YEAR>
-         <TITLE>Balet “Romeo i Dzhul’etta” S. Prokof’eva</TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Balet “Romeo i Dzhul’etta” S. Prokof’eva</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>3</NUMBER>
          <PAGES>10-19</PAGES>
          <DATE>1940-03</DATE>
@@ -166,8 +166,8 @@
             <AUTHOR>Edel'man, Georgii</AUTHOR>
          </AUTHORS>
          <YEAR>1940</YEAR>
-         <TITLE>Shestaia sonata S. Prokof'eva</TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Shestaia sonata S. Prokof'eva</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>8</NUMBER>
          <PAGES>55-59</PAGES>
          <DATE>1940-08</DATE>
@@ -185,8 +185,8 @@
             <AUTHOR>Nest'ev, Izrail Vladimirovich</AUTHOR>
          </AUTHORS>
          <YEAR>1940</YEAR>
-         <TITLE>"Semyon Kotko" S. Prokof'eva</TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>"Semyon Kotko" S. Prokof'eva</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>9</NUMBER>
          <PAGES>7-30</PAGES>
          <DATE>1940-09</DATE>
@@ -204,9 +204,9 @@
             <AUTHOR>Neigauz, G.</AUTHOR>
          </AUTHORS>
          <YEAR>1940</YEAR>
-         <TITLE>Pervaia krupnaia udacha</TITLE>
-         <SECONDARY_TITLE>Semyon Kotko</SECONDARY_TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Pervaia krupnaia udacha</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>"Semyon Kotko"</SECONDARY_ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>10</NUMBER>
          <PAGES>25</PAGES>
          <DATE>1940-09</DATE>
@@ -225,9 +225,9 @@
             <AUTHOR>Panchekhin, N.</AUTHOR>
          </AUTHORS>
          <YEAR>1940</YEAR>
-         <TITLE>Nit' pravdy</TITLE>
-         <SECONDARY_TITLE>Semyon Kotko</SECONDARY_TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Nit' pravdy</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>"Semyon Kotko"</SECONDARY_ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>10</NUMBER>
          <PAGES>27-29</PAGES>
          <DATE>1940-10</DATE>
@@ -246,9 +246,9 @@
             <AUTHOR>Tsukkerman, V.</AUTHOR>
          </AUTHORS>
          <YEAR>1940</YEAR>
-         <TITLE>Neskol’ko myslei o sovetskoi opere</TITLE>
-         <SECONDARY_TITLE>Semyon Kotko</SECONDARY_TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Neskol’ko myslei o sovetskoi opere</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>"Semyon Kotko"</SECONDARY_ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>12</NUMBER>
          <PAGES>66-78</PAGES>
          <DATE>1940-12</DATE>
@@ -267,8 +267,8 @@
             <AUTHOR>Nestiev, Izrail Vladimirovich</AUTHOR>
          </AUTHORS>
          <YEAR>1941</YEAR>
-         <TITLE>Sergei Prokof’ev: materialy k tvorcheskoi biografii</TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Sergei Prokof’ev: Materialy k tvorcheskoi biografii</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>57-70</PAGES>
          <DATE>1941-04</DATE>
@@ -286,8 +286,8 @@
             <AUTHOR>Nestiev, Izrail Vladimirovich</AUTHOR>
          </AUTHORS>
          <YEAR>1946</YEAR>
-         <TITLE>O stile S. Prokof'eva</TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>O stile S. Prokof'eva</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>10-26</PAGES>
          <DATE>1946-04</DATE>
@@ -308,8 +308,8 @@
             <AUTHOR>Prokofiev, Serge</AUTHOR>
          </AUTHORS>
          <YEAR>1946</YEAR>
-         <TITLE>Po okonchanii konservatorii: Sergei Prokof'ev iz avtobiografii</TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Po okonchanii konservatorii: Sergei Prokof'ev iz avtobiografii</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>27-37</PAGES>
          <DATE>1946-04</DATE>
@@ -327,8 +327,8 @@
             <AUTHOR>Khokhlovkina, A.</AUTHOR>
          </AUTHORS>
          <YEAR>1946</YEAR>
-         <TITLE>"Voina i mir" Sergeia Prokof'eva: Ocherk pervyi</TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>"Voina i mir" Sergeia Prokof'eva: Ocherk pervyi</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>8-9</NUMBER>
          <PAGES>15-28</PAGES>
          <DATE>1946-09</DATE>
@@ -346,9 +346,9 @@
             <AUTHOR>Glezer, R.</AUTHOR>
          </AUTHORS>
          <YEAR>1946</YEAR>
-         <TITLE>“Voina i mir” Sergeia Prokof’eva v Leningradskom
-            Gosudarstvennom Akademicheskom Malom Opernom teatre</TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>“Voina i mir” Sergeia Prokof’eva v Leningradskom
+            Gosudarstvennom Akademicheskom Malom Opernom teatre</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>8-9</NUMBER>
          <PAGES>29-34</PAGES>
          <DATE>1946-09</DATE>
@@ -366,8 +366,8 @@
             <AUTHOR>Tsychovich, T.</AUTHOR>
          </AUTHORS>
          <YEAR>1946</YEAR>
-         <TITLE>"Zolushka", balet S. Prokof'eva</TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>"Zolushka," balet S. Prokof'eva</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>8-9</NUMBER>
          <PAGES>35-50</PAGES>
          <DATE>1946-09</DATE>
@@ -382,11 +382,11 @@
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>2212</REFNUM>
          <AUTHORS>
-            <AUTHOR>Unknown</AUTHOR>
+            <AUTHOR>Anon.</AUTHOR>
          </AUTHORS>
          <YEAR>1948</YEAR>
-         <TITLE>Pis'mo S. S. Prokof'eva</TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Pis'mo S. S. Prokof'eva</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>1</NUMBER>
          <PAGES>66-67 &amp; 78-79</PAGES>
          <DATE>1948-01</DATE>
@@ -405,10 +405,9 @@
             <AUTHOR>Volkov, A</AUTHOR>
          </AUTHORS>
          <YEAR>1953</YEAR>
-         <TITLE>Pamiati S. S. Prokof'eva</TITLE>
+         <ARTICLE_TITLE>Pamiati S. S. Prokof'eva</ARTICLE_TITLE>
          <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
          <NUMBER>4</NUMBER>
-         <PAGES>?</PAGES>
          <DATE>1953-04</DATE>
          <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
          <ALTERNATE_TITLE>Journal</ALTERNATE_TITLE>
@@ -424,9 +423,9 @@
             <AUTHOR>Shostakovich, Dmitri Dmitrievich</AUTHOR>
          </AUTHORS>
          <YEAR>1957</YEAR>
-         <TITLE>Simfoniia sveta i radosti zhizni</TITLE>
-         <SECONDARY_TITLE>7-iia simfoniia S. Prokof'eva</SECONDARY_TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Simfoniia sveta i radosti zhizni</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>7-iia simfoniia S. Prokof'eva</SECONDARY_ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>6</NUMBER>
          <PAGES>57-60</PAGES>
          <DATE>1957-06</DATE>
@@ -445,9 +444,9 @@
             <AUTHOR>Lesnikov, A.</AUTHOR>
          </AUTHORS>
          <YEAR>1957</YEAR>
-         <TITLE>Balet "Kamennyi tsvetok" v teatre imeni kirova</TITLE>
-         <SECONDARY_TITLE>Muzykal'nyi teatr</SECONDARY_TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Balet "Kamennyi tsvetok" v teatre imeni kirova</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Muzykal'nyi teatr</SECONDARY_ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>7</NUMBER>
          <PAGES>69-73</PAGES>
          <DATE>1957-07</DATE>
@@ -466,8 +465,8 @@
             <AUTHOR>I. N.</AUTHOR>
          </AUTHORS>
          <YEAR>1959</YEAR>
-         <TITLE>"Semyon Kotko" v efire</TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>"Semyon Kotko" v efire</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>3</NUMBER>
          <PAGES>149-150</PAGES>
          <DATE>1959-03</DATE>
@@ -487,8 +486,8 @@
             <AUTHOR>Meien, E.</AUTHOR>
          </AUTHORS>
          <YEAR>1960</YEAR>
-         <TITLE>E. Mnatsakanova. Opera S. S. Prokof'eva "Voina i mir"</TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>E. Mnatsakanova. Opera S. S. Prokof'eva "Voina i mir"</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>6</NUMBER>
          <PAGES>199</PAGES>
          <DATE>1960-06</DATE>
@@ -507,10 +506,10 @@
             <AUTHOR>V. B.</AUTHOR>
          </AUTHORS>
          <YEAR>1960</YEAR>
-         <TITLE>Sergei Prokof'ev. "Petia i volk". Risunki B. Korneeva.
+         <ARTICLE_TITLE>Sergei Prokof'ev. "Petia i volk." Risunki B. Korneeva.
             Izdatel'stvo "Detskii mir". Ministerstva kul'tury RSFSR,
-            1960</TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+            1960</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>9</NUMBER>
          <PAGES>195-196</PAGES>
          <DATE>1960-09</DATE>
@@ -528,8 +527,8 @@
             <AUTHOR>Genina, L.</AUTHOR>
          </AUTHORS>
          <YEAR>1961</YEAR>
-         <TITLE>Novye obrazy - starye resheniia</TITLE>
-         <SECONDARY_TITLE>Semyon Kotko</SECONDARY_TITLE>
+         <ARTICLE_TITLE>Novye obrazy - starye resheniia</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>"Semyon Kotko"</SECONDARY_ARTICLE_TITLE>
          <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>98-103</PAGES>
@@ -549,12 +548,12 @@
             <AUTHOR>Poliakova, Liudmilla Viktorovna</AUTHOR>
          </AUTHORS>
          <YEAR>1964</YEAR>
-         <TITLE>Prokof'ev na gruzinskoi stsene</TITLE>
-         <SECONDARY_TITLES>
-            <SECONDARY_TITLE>Na muzykal'nykh stsenakh strany</SECONDARY_TITLE>
-            <SECONDARY_TITLE>Semyon Kotko</SECONDARY_TITLE>
-         </SECONDARY_TITLES>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Prokof'ev na gruzinskoi stsene</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLES>
+            <SECONDARY_ARTICLE_TITLE>Na muzykal'nykh stsenakh strany</SECONDARY_ARTICLE_TITLE>
+            <SECONDARY_ARTICLE_TITLE>"Semyon Kotko"</SECONDARY_ARTICLE_TITLE>
+         </SECONDARY_ARTICLE_TITLES>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>10</NUMBER>
          <PAGES>34-38</PAGES>
          <DATE>1964-10</DATE>
@@ -573,8 +572,8 @@
             <AUTHOR>Blok, Vladimir</AUTHOR>
          </AUTHORS>
          <YEAR>1967</YEAR>
-         <TITLE>Neopublikovannye rukopisi</TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Neopublikovannye rukopisi</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>93-99</PAGES>
          <DATE>1967-04</DATE>
@@ -593,8 +592,8 @@
             <AUTHOR>Aranovsky, Mark</AUTHOR>
          </AUTHORS>
          <YEAR>1968</YEAR>
-         <TITLE>Put' k rastsvetu</TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Put'k rastsvetu</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>95-100</PAGES>
          <DATE>1968-04</DATE>
@@ -613,8 +612,8 @@
             <AUTHOR>Rogal'-Levitsky, Dm.</AUTHOR>
          </AUTHORS>
          <YEAR>1968</YEAR>
-         <TITLE>Vstrechi s khudozhnikom</TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Vstrechi s khudozhnikom</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>101-108</PAGES>
          <DATE>1968-04</DATE>
@@ -633,8 +632,8 @@
             <AUTHOR>Poulenc, Francis</AUTHOR>
          </AUTHORS>
          <YEAR>1968</YEAR>
-         <TITLE>Ego fortepiannaia muzyka...</TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Ego fortepiannaia muzyka...</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>108-111</PAGES>
          <DATE>1968-04</DATE>
@@ -654,9 +653,9 @@
             <AUTHOR>Tarakanov, Mikhail Evgenevich</AUTHOR>
          </AUTHORS>
          <YEAR>1969</YEAR>
-         <TITLE>Bol'she doveriia muzyke!</TITLE>
-         <SECONDARY_TITLE>Semyon Kotko</SECONDARY_TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Bol'she doveriia muzyke!</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>"Semyon Kotko"</SECONDARY_ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>3</NUMBER>
          <PAGES>108-112</PAGES>
          <DATE>1969-03</DATE>
@@ -675,9 +674,9 @@
             <AUTHOR>Nest'ev, Izrail Vladimirovich</AUTHOR>
          </AUTHORS>
          <YEAR>1970</YEAR>
-         <TITLE>O "Leninskoi kantate" (Iz istorii muzykal'noi leniniany)</TITLE>
-         <SECONDARY_TITLE>K izucheniu naslediia S. Prokof'eva</SECONDARY_TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>O "Leninskoi kantate" (Iz istorii muzykal'noi leniniany)</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>K izucheniu naslediia S. Prokof'eva</SECONDARY_ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>93-103</PAGES>
          <DATE>1970-04</DATE>
@@ -695,12 +694,12 @@
             <AUTHOR>Ordzhonikidze, Givi</AUTHOR>
          </AUTHORS>
          <YEAR>1970</YEAR>
-         <TITLE>Shel soldat s fronta</TITLE>
-         <SECONDARY_TITLES>
-            <SECONDARY_TITLE>Muzykal'nyi teatr</SECONDARY_TITLE>
-            <SECONDARY_TITLE>Semyon Kotko</SECONDARY_TITLE>
-         </SECONDARY_TITLES>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Shel soldat s fronta</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLES>
+            <SECONDARY_ARTICLE_TITLE>Muzykal'nyi teatr</SECONDARY_ARTICLE_TITLE>
+            <SECONDARY_ARTICLE_TITLE>Semyon Kotko</SECONDARY_ARTICLE_TITLE>
+         </SECONDARY_ARTICLE_TITLES>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>8</NUMBER>
          <PAGES>27-36</PAGES>
          <DATE>1970-08</DATE>
@@ -718,8 +717,8 @@
             <AUTHOR>Martynov, I.</AUTHOR>
          </AUTHORS>
          <YEAR>1971</YEAR>
-         <TITLE>Iz epistoliarnogo naslediia</TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Iz epistoliarnogo naslediia</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>60-62</PAGES>
          <DATE>1971-04</DATE>
@@ -738,9 +737,9 @@
             <AUTHOR>Rozhdestvensky, Gennadi</AUTHOR>
          </AUTHORS>
          <YEAR>1973</YEAR>
-         <TITLE>O sud'be baleta S. Prokof'eva "Romeo i Dzhuletta"</TITLE>
-         <SECONDARY_TITLE>Pus'mo v redaktsiu</SECONDARY_TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>O sud'be baleta S. Prokof'eva "Romeo i Dzhuletta"</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Pus'mo v redaktsiu</SECONDARY_ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>12</NUMBER>
          <PAGES>56-58</PAGES>
          <DATE>1973-12</DATE>
@@ -758,9 +757,9 @@
             <AUTHOR>Sokol'sky, M.</AUTHOR>
          </AUTHORS>
          <YEAR>1975</YEAR>
-         <TITLE>Uroki "Igroka"</TITLE>
-         <SECONDARY_TITLE>Vozvrashchaias' k napechatannomu</SECONDARY_TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Uroki "Igroka"</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Vozvrashchaias' k napechatannomu</SECONDARY_ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>7</NUMBER>
          <PAGES>54-56</PAGES>
          <DATE>1975-07</DATE>
@@ -778,9 +777,9 @@
             <AUTHOR>Nest'ev, Izrail Vladimirovich</AUTHOR>
          </AUTHORS>
          <YEAR>1975</YEAR>
-         <TITLE>A stoilo li peredelyvat' Prokof'eva?</TITLE>
-         <SECONDARY_TITLE>Balet "Ivan groznyi"</SECONDARY_TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>A stoilo li peredelyvat' Prokof'eva?</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Balet "Ivan groznyi"</SECONDARY_ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>9</NUMBER>
          <PAGES>35-39</PAGES>
          <DATE>1975-09</DATE>
@@ -798,9 +797,9 @@
             <AUTHOR>Nekrasova, N</AUTHOR>
          </AUTHORS>
          <YEAR>1979</YEAR>
-         <TITLE>Osvaivaia nasledie velikogo mastera...</TITLE>
-         <SECONDARY_TITLE>Semyon Kotko</SECONDARY_TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Osvaivaia nasledie velikogo mastera...</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>"Semyon Kotko"</SECONDARY_ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>5</NUMBER>
          <PAGES>55-57</PAGES>
          <DATE>1979-05</DATE>
@@ -819,8 +818,8 @@
             <AUTHOR>Tyshler, A.</AUTHOR>
          </AUTHORS>
          <YEAR>1979</YEAR>
-         <TITLE>V rabote nad "Semyon Kotko"</TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>V rabote nad "Semyon Kotko"</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>5</NUMBER>
          <PAGES>58-59</PAGES>
          <DATE>1979-05</DATE>
@@ -838,9 +837,9 @@
             <AUTHOR>Pokrovskii, Boris Alexandrovich</AUTHOR>
          </AUTHORS>
          <YEAR>1981</YEAR>
-         <TITLE>Ego teatr utverzhdal pravdu</TITLE>
-         <SECONDARY_TITLE>K 90-letiiu S. S. Prokof'eva</SECONDARY_TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Ego teatr utverzhdal pravdu</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>K 90-letiiu S. S. Prokof'eva</SECONDARY_ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>83-86</PAGES>
          <DATE>1981-04</DATE>
@@ -858,8 +857,8 @@
             <AUTHOR>Grigorovich, Iurii Nikolaevich</AUTHOR>
          </AUTHORS>
          <YEAR>1981</YEAR>
-         <TITLE>Podobnaia kamennomu tsvetku</TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Podobnaia kamennomu tsvetku</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>86-87</PAGES>
          <DATE>1981-04</DATE>
@@ -878,9 +877,9 @@
             <AUTHOR>Pavlinova, V.</AUTHOR>
          </AUTHORS>
          <YEAR>1981</YEAR>
-         <TITLE>Vazhnaia cherta fortepiannogo tvorchestva</TITLE>
-         <SECONDARY_TITLE>Iz rabot molodykh muzykantov</SECONDARY_TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Vazhnaia cherta fortepiannogo tvorchestva</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Iz rabot molodykh muzykantov</SECONDARY_ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>88-93</PAGES>
          <DATE>1981-04</DATE>
@@ -899,8 +898,8 @@
             <AUTHOR>Dukhovskaia, V.</AUTHOR>
          </AUTHORS>
          <YEAR>1981</YEAR>
-         <TITLE>Zametki iz dnevnika</TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Zametki iz dnevnika</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>93-96</PAGES>
          <DATE>1981-04</DATE>
@@ -919,8 +918,8 @@
             <AUTHOR>Vil'koreiskaia, T.</AUTHOR>
          </AUTHORS>
          <YEAR>1981</YEAR>
-         <TITLE>Nezabyvaemaia vstrecha</TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Nezabyvaemaia vstrecha</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>97</PAGES>
          <DATE>1981-04</DATE>
@@ -939,8 +938,8 @@
             <AUTHOR>Kunin, I.</AUTHOR>
          </AUTHORS>
          <YEAR>1981</YEAR>
-         <TITLE>Sorok let druzhby</TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Sorok let druzhby</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>97-100</PAGES>
          <DATE>1981-04</DATE>
@@ -956,13 +955,13 @@
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>2255</REFNUM>
          <YEAR>1981</YEAR>
-         <TITLE>"Voina i mir" S. Prokof'eva</TITLE>
-         <SECONDARY_TITLE>Bol'shoi teatr SSSR</SECONDARY_TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>"Voina i mir" S. Prokof'eva</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Bol'shoi teatr SSSR</SECONDARY_ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>5</NUMBER>
          <PAGES>55</PAGES>
          <DATE>1981-05</DATE>
-         <TYPE_OF_WORK>[Photographs]</TYPE_OF_WORK>
+         <TYPE_OF_WORK>Photographs</TYPE_OF_WORK>
          <ALTERNATE_TITLE>Journal</ALTERNATE_TITLE>
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>09/12/2005</CUSTOM5>
@@ -976,8 +975,8 @@
             <AUTHOR>Babkov, M.</AUTHOR>
          </AUTHORS>
          <YEAR>1981</YEAR>
-         <TITLE>Muzei v Sontsovke</TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Muzei v Sontsovke</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>8</NUMBER>
          <PAGES>138-139</PAGES>
          <DATE>1981-08</DATE>
@@ -995,8 +994,8 @@
             <AUTHOR>Nekrasov, A.</AUTHOR>
          </AUTHORS>
          <YEAR>1981</YEAR>
-         <TITLE>Prokof'evskaia vesna</TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Prokof'evskaia vesna</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>9</NUMBER>
          <PAGES>142</PAGES>
          <DATE>1981-09</DATE>
@@ -1014,9 +1013,9 @@
             <AUTHOR>Nest'ev, Izrail Vladimirovich</AUTHOR>
          </AUTHORS>
          <YEAR>1983</YEAR>
-         <TITLE>Chetyre druzhby</TITLE>
-         <SECONDARY_TITLE>Petr Suvchinskii i russkie muzykanty</SECONDARY_TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Chetyre druzhby</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Petr Suvchinskii i russkie muzykanty</SECONDARY_ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>3</NUMBER>
          <PAGES>83-95</PAGES>
          <DATE>1983-03</DATE>
@@ -1034,9 +1033,9 @@
             <AUTHOR>Kandinskii, A. I.</AUTHOR>
          </AUTHORS>
          <YEAR>1983</YEAR>
-         <TITLE>Dialogiia Prokof'eva na opernoi stsene</TITLE>
-         <SECONDARY_TITLE>"Voina i mir"</SECONDARY_TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Dialogiia Prokof'eva na opernoi stsene</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>"Voina i mir"</SECONDARY_ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>6</NUMBER>
          <PAGES>40-45</PAGES>
          <DATE>1983-06</DATE>
@@ -1054,9 +1053,9 @@
             <AUTHOR>Stepanova, I.</AUTHOR>
          </AUTHORS>
          <YEAR>1983</YEAR>
-         <TITLE>Epos i drama</TITLE>
-         <SECONDARY_TITLE>K izucheniiu naslediia S. S. Prokof'eva</SECONDARY_TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Epos i drama</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>K izucheniiu naslediia S. S. Prokof'eva</SECONDARY_ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>8</NUMBER>
          <PAGES>90-95</PAGES>
          <DATE>1983-08</DATE>
@@ -1074,9 +1073,9 @@
             <AUTHOR>Sviiasov, E.</AUTHOR>
          </AUTHORS>
          <YEAR>1983</YEAR>
-         <TITLE>"Undina"</TITLE>
-         <SECONDARY_TITLE>K istorii iunosheskogo sochineniia</SECONDARY_TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>"Undina"</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>K istorii iunosheskogo sochineniia</SECONDARY_ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>8</NUMBER>
          <PAGES>96-97</PAGES>
          <DATE>1983-08</DATE>
@@ -1094,9 +1093,9 @@
             <AUTHOR>Savkina, Natalia Pavlovna</AUTHOR>
          </AUTHORS>
          <YEAR>1990</YEAR>
-         <TITLE>Tri portreta i razviazka</TITLE>
-         <SECONDARY_TITLE>Izuchaia nasledie S. S. Prokofieva</SECONDARY_TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Tri portreta i razviazka</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Izuchaia nasledie S. S. Prokofieva</SECONDARY_ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>104-111</PAGES>
          <DATE>1990-04</DATE>
@@ -1118,10 +1117,10 @@
             <AUTHOR>Savkina, Natalia Pavlovna</AUTHOR>
          </AUTHORS>
          <YEAR>1990</YEAR>
-         <TITLE>Tri portreta i razviazka: iz nabliudenii nad stilem opery S. S. Prokof'eva
-            "Maddalena"</TITLE>
-         <SECONDARY_TITLE>Izuchaia nasledie S. S. Prokofieva</SECONDARY_TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Tri portreta i razviazka: iz nabliudenii nad stilem opery S. S. Prokof'eva
+            "Maddalena"</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Izuchaia nasledie S. S. Prokofieva</SECONDARY_ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>5</NUMBER>
          <PAGES>108-114</PAGES>
          <DATE>1990-05</DATE>
@@ -1143,9 +1142,9 @@
             <AUTHOR>Tarakanov, Mikhail Evgenevich</AUTHOR>
          </AUTHORS>
          <YEAR>1990</YEAR>
-         <TITLE>Apologiia nepriznaniia</TITLE>
-         <SECONDARY_TITLE>Tvorchestvo</SECONDARY_TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Apologiia nepriznaniia</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Tvorchestvo</SECONDARY_ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>7</NUMBER>
          <PAGES>6-13</PAGES>
          <DATE>1990-07</DATE>
@@ -1164,8 +1163,8 @@
             <AUTHOR>Zhuravleva, Aina</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Vladimir Deshevov: desiatiletie poiska</TITLE>
-         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Vladimir Deshevov: Desiatiletie poiska</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>2</NUMBER>
          <PAGES>64-75</PAGES>
          <DATE>1991-02</DATE>
@@ -1185,8 +1184,8 @@
             <AUTHOR>Palmer, Christopher</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Prokofiev, Eisenstein and Ivan</TITLE>
-         <JOURNAL_TITLE>Musical Times</JOURNAL_TITLE>
+         <ARTICLE_TITLE>Prokofiev, Eisenstein and Ivan</ARTICLE_TITLE>
+         <JOURNAL_TITLE>The Musical Times</JOURNAL_TITLE>
          <VOLUME>cxxxii</VOLUME>
          <NUMBER>1778</NUMBER>
          <PAGES>179-181</PAGES>
@@ -1197,7 +1196,7 @@
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>28/11/2000 (revised 22/12/2005)</CUSTOM5>
          <CUSTOM6>Original and typescript</CUSTOM6>
-         <Notes>Other call number spa-tex-per-0045</Notes>
+         <Notes>ALSO spa-tex-per-0045</Notes>
          <CALL_NUMBER>spa-tex-atl-0059</CALL_NUMBER>
       </RECORD>
    <RECORD>
@@ -1207,9 +1206,9 @@
             <AUTHOR>Anon.</AUTHOR>
          </AUTHORS>
          <YEAR>1949</YEAR>
-         <TITLE>Serge Prokofieff</TITLE>
-         <SECONDARY_TITLE>Prokofieff Number</SECONDARY_TITLE>
+         <ARTICLE_TITLE>Serge Prokofieff</ARTICLE_TITLE>
          <JOURNAL_TITLE>Tempo</JOURNAL_TITLE>
+         <SECONDARY_JOURNAL_TITLE>Prokofieff Number</SECONDARY_JOURNAL_TITLE>
          <NUMBER>11</NUMBER>
          <PAGES>4</PAGES>
          <DATE>1949 (Spring)</DATE>
@@ -1218,10 +1217,86 @@
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>11/01/2006</CUSTOM5>
          <CUSTOM6>Original and photocopy</CUSTOM6>
-         <CALL_NUMBER>[spa-tex-per-0072] / spa-tex-atl-0060</CALL_NUMBER>
-         <NOTES>Introduction to an issue dedicated to Prokofiev</NOTES>
-   </RECORD>
-   
+         <NOTES>Introduction to an issue dedicated to Prokofiev – 
+            ALSO spa-tex-per-0072</NOTES>
+         <CALL_NUMBER>spa-tex-atl-0060</CALL_NUMBER>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>1</REFERENCE_TYPE>
+         <REFNUM>2354</REFNUM>
+         <AUTHOR>Moreux, Serge</AUTHOR>
+         <YEAR>1949</YEAR>
+         <ARTICLE_TITLE>Prokofiev: An Intimate Portrait</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Tempo</JOURNAL_TITLE>
+         <SECONDARY_JOURNAL_TITLE>Prokofieff Number</SECONDARY_JOURNAL_TITLE>
+         <NUMBER>11</NUMBER>
+         <PAGES>5-9</PAGES>
+         <DATE>1949 (Spring)</DATE>
+         <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+         <ALTERNATE_TITLE>Journal</ALTERNATE_TITLE>
+         <CUSTOM1>Englihs</CUSTOM1>
+         <CUSTOM5>11/01/2006</CUSTOM5>
+         <CUSTOM6>Original and photocopy</CUSTOM6>
+         <NOTES>ALSO spa-tex-per-0072</NOTES>
+         <CALL_NUMBER>spa-tex-atl-0061</CALL_NUMBER>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>1</REFERENCE_TYPE>
+         <REFNUM>2355</REFNUM>
+         <AUTHOR>Swarsenski, Hans</AUTHOR>
+         <YEAR>1949</YEAR>
+         <ARTICLE_TITLE>Prokofiev's Orchestral Music</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Tempo</JOURNAL_TITLE>
+         <SECONDARY_JOURNAL_TITLE>Prokofieff Number</SECONDARY_JOURNAL_TITLE>
+         <NUMBER>11</NUMBER>
+         <PAGES>10-25</PAGES>
+         <DATE>1949 (Spring)</DATE>
+         <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+         <ALTERNATE_TITLE>Journal</ALTERNATE_TITLE>
+         <CUSTOM1>English</CUSTOM1>
+         <CUSTOM5>11/01/2006</CUSTOM5>
+         <CUSTOM6>Original and photocopy</CUSTOM6>
+         <Notes>ALSO spa-tex-per-0072</Notes>
+         <CALL_NUMBER>spa-tex-atl-0062</CALL_NUMBER>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>1</REFERENCE_TYPE>
+         <REFNUM>2356</REFNUM>
+         <AUTHOR>Merrick, Frank</AUTHOR>
+         <YEAR>1949</YEAR>
+         <ARTICLE_TITLE>Prokofiev's Works For Solo Piano</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Tempo</JOURNAL_TITLE>
+         <SECONDARY_JOURNAL_TITLE>Prokofieff Number</SECONDARY_JOURNAL_TITLE>
+         <NUMBER>11</NUMBER>
+         <PAGES>26-29</PAGES>
+         <DATE>1949 (Spring)</DATE>
+         <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+         <ALTERNATE_TITLE>Journal</ALTERNATE_TITLE>
+         <CUSTOM1>English</CUSTOM1>
+         <CUSTOM5>11/01/2006</CUSTOM5>
+         <CUSTOM6>Original and photocopy</CUSTOM6>
+         <NOTES>ALSO spa-tex-per-0072</NOTES>
+         <CALL_NUMBER>spa-tex-atl-0063</CALL_NUMBER>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>1</REFERENCE_TYPE>
+         <REFNUM>2357</REFNUM>
+         <AUTHOR>Morley, Iris</AUTHOR>
+         <YEAR>1949</YEAR>
+         <ARTICLE_TITLE>Cinderella and Romeo and Juliet</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Tempo</JOURNAL_TITLE>
+         <SECONDARY_JOURNAL_TITLE>Prokofieff Number</SECONDARY_JOURNAL_TITLE>
+         <NUMBER>11</NUMBER>
+         <PAGES>30-34</PAGES>
+         <DATE>1949 (Spring)</DATE>
+         <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+         <ALTERNATE_TITLE>Essay</ALTERNATE_TITLE>
+         <CUSTOM1>English</CUSTOM1>
+         <CUSTOM5>11/01/2006</CUSTOM5>
+         <CUSTOM6>Original and photocopy</CUSTOM6>
+         <NOTES>ALSO spa-tex-per-0072</NOTES>
+         <CALL_NUMBER>spa-tex-atl-0064</CALL_NUMBER>
+      </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>2483</REFNUM>
@@ -1229,8 +1304,9 @@
             <AUTHOR>Blok, Vladimir</AUTHOR>
          </AUTHORS>
          <YEAR>1973</YEAR>
-         <TITLE>Besedy o Muzyke: Simfoniia-Kontsert S. Prokof'eva</TITLE>
-         <SECONDARY_TITLE>Muzykal'naia zhizn'</SECONDARY_TITLE>
+         <ARTICLE_TITLE>Simfoniia-Kontsert S. Prokof'eva</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Besedy o Muzyke</SECONDARY_ARTICLE_TITLE>
+         <JOURNAL_TITLE>Muzykal'naia Zhizn'</JOURNAL_TITLE>
          <NUMBER>3</NUMBER>
          <PAGES>15-16</PAGES>
          <DATE>1973</DATE>
@@ -1249,8 +1325,8 @@
             <AUTHOR>Lebedeva, T</AUTHOR>
          </AUTHORS>
          <YEAR>1977</YEAR>
-         <TITLE>"Petia i Volk"</TITLE>
-         <SECONDARY_TITLE>Muzykal'naia zhizn'</SECONDARY_TITLE>
+         <ARTICLE_TITLE>"Petia i Volk"</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Muzykal'naia Zhizn'</JOURNAL_TITLE>
          <NUMBER>7</NUMBER>
          <PAGES>20</PAGES>
          <DATE>1977</DATE>
@@ -1269,8 +1345,8 @@
             <AUTHOR>Iuzefovich, V. A.</AUTHOR>
          </AUTHORS>
          <YEAR>1977</YEAR>
-         <TITLE>David Oistrakh i Sergei Prokofiev</TITLE>
-         <SECONDARY_TITLE>Muzykal'naia zhizn'</SECONDARY_TITLE>
+         <ARTICLE_TITLE>David Oistrakh i Sergei Prokofiev</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Muzykal'naia Zhizn'</JOURNAL_TITLE>
          <NUMBER>12</NUMBER>
          <PAGES>15-17</PAGES>
          <DATE>1977</DATE>
@@ -1279,9 +1355,9 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>19/01/2006</CUSTOM5>
          <CUSTOM6>Cutting</CUSTOM6>
+         <NOTES>Viktor Iuzefovich interviews Igor Oistrakh</NOTES>
          <ACCESSION_NUMBER>91</ACCESSION_NUMBER>
          <CALL_NUMBER>spa-tex-atl-0067</CALL_NUMBER>
-         <NOTES>Viktor Iuzefovich interviews Igor Oistrakh</NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -1290,8 +1366,8 @@
             <AUTHOR>Kozlova, M G (Miral'da Georgievna)</AUTHOR>
          </AUTHORS>
          <YEAR>1983</YEAR>
-         <TITLE>S. S. Prokofiev pishel muzyku k fil'mu...</TITLE>
-         <SECONDARY_TITLE>Muzykal'naia zhizn'</SECONDARY_TITLE>
+         <ARTICLE_TITLE>S. S. Prokofiev pishet muzyku k fil'mu...</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Muzykal'naia Zhizn'</JOURNAL_TITLE>
          <NUMBER>16</NUMBER>
          <PAGES>18-19</PAGES>
          <DATE>1983</DATE>
@@ -1310,9 +1386,9 @@
             <AUTHOR>Kats, B</AUTHOR>
          </AUTHORS>
          <YEAR>1984</YEAR>
-         <TITLE>V chas muzhestva: o triade fortepiannykh sonat S. Prokof'eva. (Iz
-            sokrovishchnitsy sovetskoi muzyki)</TITLE>
-         <SECONDARY_TITLE>Muzykal'naia zhizn'</SECONDARY_TITLE>
+         <ARTICLE_TITLE>V chas muzhestva</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>O triade fortepiannykh sonat S. Prokof'eva</SECONDARY_ARTICLE_TITLE>
+         <JOURNAL_TITLE>Muzykal'naia Zhizn'</JOURNAL_TITLE>
          <NUMBER>18</NUMBER>
          <PAGES>?</PAGES>
          <DATE>1984</DATE>
@@ -1321,6 +1397,7 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>19/01/2006</CUSTOM5>
          <CUSTOM6>Photocopy</CUSTOM6>
+         <NOTES>Iz sokrovishchnitsy sovetskoi muzyki</NOTES>
          <CALL_NUMBER>spa-tex-atl-0069</CALL_NUMBER>
       </RECORD>
    <RECORD>
@@ -1330,8 +1407,9 @@
             <AUTHOR>Volkov, A</AUTHOR>
          </AUTHORS>
          <YEAR>1987</YEAR>
-         <TITLE>Byt' soboi SPrkfv (klassiki sovetskoi muzyki)</TITLE>
-         <SECONDARY_TITLE>Muzykal'naia zhizn'</SECONDARY_TITLE>
+         <ARTICLE_TITLE>Byt' soboi SPrkfv</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Klassiki sovetskoi muzyki</SECONDARY_ARTICLE_TITLE>
+         <JOURNAL_TITLE>Muzykal'naia Zhizn'</JOURNAL_TITLE>
          <NUMBER>14</NUMBER>
          <PAGES>?</PAGES>
          <DATE>1987</DATE>
@@ -1349,10 +1427,9 @@
             <AUTHOR>Anon.</AUTHOR>
          </AUTHORS>
          <YEAR>1987</YEAR>
-         <TITLE>Prokofiev: zhizn' muzyki i pamiat' o nem</TITLE>
-         <SECONDARY_TITLE>Muzykal'naia zhizn'</SECONDARY_TITLE>
+         <ARTICLE_TITLE>Prokofiev: Zhizn', muzyki i pamiat' o nem</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Muzykal'naia Zhizn'</JOURNAL_TITLE>
          <NUMBER>7</NUMBER>
-         <PAGES>?</PAGES>
          <DATE>1987</DATE>
          <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
          <ALTERNATE_TITLE>Journal</ALTERNATE_TITLE>
@@ -1368,10 +1445,10 @@
             <AUTHOR>Savkina, Natalia Pavlovna</AUTHOR>
          </AUTHORS>
          <YEAR>1987</YEAR>
-         <TITLE>Vozvrashchenie shedevra: ob opera S. Prokof'eva "Maddalena"</TITLE>
-         <SECONDARY_TITLE>Muzykal'naia zhizn'</SECONDARY_TITLE>
+         <ARTICLE_TITLE>Vozvrashchenie shedevra</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Ob opera S. Prokof'eva "Maddalena"</SECONDARY_ARTICLE_TITLE>
+         <JOURNAL_TITLE>Muzykal'naia Zhizn'</JOURNAL_TITLE>
          <NUMBER>17</NUMBER>
-         <PAGES>?</PAGES>
          <DATE>1987</DATE>
          <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
          <ALTERNATE_TITLE>Journal</ALTERNATE_TITLE>
@@ -1387,8 +1464,9 @@
             <AUTHOR>Savkina, Natalia Pavlovna</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>S. Prokofiev: iz dnevnika</TITLE>
-         <SECONDARY_TITLE>Muzykal'naia zhizn'</SECONDARY_TITLE>
+         <ARTICLE_TITLE>S. Prokofiev</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Iz dnevnika</SECONDARY_ARTICLE_TITLE>
+         <JOURNAL_TITLE>Muzykal'naia Zhizn'</JOURNAL_TITLE>
          <NUMBER>9-10</NUMBER>
          <PAGES>4-6</PAGES>
          <DATE>1991</DATE>
@@ -1406,8 +1484,8 @@
             <AUTHOR>Sergeeva, Natalia</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Golos pamiati</TITLE>
-         <SECONDARY_TITLE>Muzykal'naia zhizn'</SECONDARY_TITLE>
+         <ARTICLE_TITLE>Golos pamiati</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Muzykal'naia Zhizn'</JOURNAL_TITLE>
          <NUMBER>9-10</NUMBER>
          <PAGES>6-8</PAGES>
          <DATE>1991</DATE>
@@ -1426,8 +1504,8 @@
             <AUTHOR>Kuznetsova, Tatiana</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Portret prem'ery na fone istoricheskogo peizazh</TITLE>
-         <SECONDARY_TITLE>Muzykal'naia zhizn'</SECONDARY_TITLE>
+         <ARTICLE_TITLE>Portret prem'ery na fone istoricheskogo peizazh</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Muzykal'naia Zhizn'</JOURNAL_TITLE>
          <NUMBER>9-10</NUMBER>
          <PAGES>8-9</PAGES>
          <DATE>1991</DATE>
@@ -1445,8 +1523,8 @@
             <AUTHOR>Volkov, A</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>S perom v ruke</TITLE>
-         <SECONDARY_TITLE>Muzykal'naia zhizn'</SECONDARY_TITLE>
+         <ARTICLE_TITLE>S perom v ruke</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Muzykal'naia Zhizn'</JOURNAL_TITLE>
          <NUMBER>9-10</NUMBER>
          <PAGES>10-11</PAGES>
          <DATE>1991</DATE>
@@ -1464,8 +1542,8 @@
             <AUTHOR>Anon.</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Pravo byt' schastlivym</TITLE>
-         <SECONDARY_TITLE>Muzykal'naia zhizn'</SECONDARY_TITLE>
+         <ARTICLE_TITLE>Pravo byt' schastlivym</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Muzykal'naia Zhizn'</JOURNAL_TITLE>
          <NUMBER>9-10</NUMBER>
          <PAGES>12-13</PAGES>
          <DATE>1991</DATE>
@@ -1480,11 +1558,11 @@
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>2496</REFNUM>
          <AUTHORS>
-            <AUTHOR>Tiumeneva, G.</AUTHOR>
+            <AUTHOR>Tumeneva, G.</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Neizvestnye pis'ma S. S. Prokof'eva</TITLE>
-         <SECONDARY_TITLE>Muzykal'naia zhizn'</SECONDARY_TITLE>
+         <ARTICLE_TITLE>Neizvestnye pis'ma S. S. Prokof'eva</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Muzykal'naia Zhizn'</JOURNAL_TITLE>
          <NUMBER>9-10</NUMBER>
          <PAGES>14</PAGES>
          <DATE>1991</DATE>
@@ -1502,8 +1580,9 @@
             <AUTHOR>Glebov, Igor</AUTHOR>
          </AUTHORS>
          <YEAR>1923</YEAR>
-         <TITLE>Skazka pro Shuta semerykh shutov pereshutivshego</TITLE>
-         <SECONDARY_TITLE>K novym beregam</SECONDARY_TITLE>
+         <ARTICLE_TITLE>Skazka pro Shuta semerykh shutov pereshutivshego</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Libretto baleta S. Prokof'eva</SECONDARY_ARTICLE_TITLE>
+         <JOURNAL_TITLE>K novym beregam</JOURNAL_TITLE>
          <NUMBER>1</NUMBER>
          <PAGES>13-18</PAGES>
          <DATE>1923-04</DATE>
@@ -1521,8 +1600,8 @@
             <AUTHOR>Zhiliaev, N</AUTHOR>
          </AUTHORS>
          <YEAR>1923</YEAR>
-         <TITLE>Sergei Prokof'ev</TITLE>
-         <SECONDARY_TITLE>K novym beregam</SECONDARY_TITLE>
+         <ARTICLE_TITLE>Sergei Prokof'ev</ARTICLE_TITLE>
+         <JOURNAL_TITLE>K novym beregam</JOURNAL_TITLE>
          <NUMBER>1</NUMBER>
          <PAGES>18-20</PAGES>
          <DATE>1923-04</DATE>
@@ -1540,8 +1619,8 @@
             <AUTHOR>Feinberg, S</AUTHOR>
          </AUTHORS>
          <YEAR>1923</YEAR>
-         <TITLE>O fortep'iannom stile S. Prokof'eva</TITLE>
-         <SECONDARY_TITLE>K novym beregam</SECONDARY_TITLE>
+         <ARTICLE_TITLE>O fortep'iannom stile S. Prokof'eva</ARTICLE_TITLE>
+         <JOURNAL_TITLE>K novym beregam</JOURNAL_TITLE>
          <NUMBER>1</NUMBER>
          <PAGES>20-22</PAGES>
          <DATE>1923-04</DATE>
@@ -1559,9 +1638,9 @@
             <AUTHOR>Alexeev, A</AUTHOR>
          </AUTHORS>
          <YEAR>1924</YEAR>
-         <TITLE>Glazunov, Prokofiev, Stravinsky. (K pervomu po vozobnovlenii kontsertu
-            Persimfansa.)</TITLE>
-         <SECONDARY_TITLE>Muzykal'naia nov'</SECONDARY_TITLE>
+         <ARTICLE_TITLE>Glazunov, Prokofiev, Stravinsky</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>K pervomu po vozobnovlenii kontsertu Persimfansa</SECONDARY_ARTICLE_TITLE>
+         <JOURNAL_TITLE>Muzykal'naia nov'</JOURNAL_TITLE>
          <NUMBER>10</NUMBER>
          <PAGES>20</PAGES>
          <DATE>1924</DATE>
@@ -1579,9 +1658,9 @@
             <AUTHOR>Anon.</AUTHOR>
          </AUTHORS>
          <YEAR>1927</YEAR>
-         <TITLE>Beseda s S. Prokof'evym</TITLE>
-         <SECONDARY_TITLE>Muzyka i Revoliutsiia</SECONDARY_TITLE>
-         <NUMBER>3</NUMBER>
+         <ARTICLE_TITLE>Beseda s S. Prokof'evym</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Muzyka i Revoliutsiia</JOURNAL_TITLE>
+         <NUMBER>2</NUMBER>
          <PAGES>30</PAGES>
          <DATE>1927</DATE>
          <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
@@ -1598,8 +1677,8 @@
             <AUTHOR>Braudo, Evgenii</AUTHOR>
          </AUTHORS>
          <YEAR>1927</YEAR>
-         <TITLE>Kontserty S. Prokof'eva</TITLE>
-         <SECONDARY_TITLE>Muzyka i Revoliutsiia</SECONDARY_TITLE>
+         <ARTICLE_TITLE>Kontserty S. Prokof'eva</ARTICLE_TITLE>
+         <JOURNAL_TITLE>Muzyka i Revoliutsiia</JOURNAL_TITLE>
          <NUMBER>2</NUMBER>
          <PAGES>29-30</PAGES>
          <DATE>1927</DATE>
@@ -1617,8 +1696,8 @@
             <AUTHOR>Austin, William</AUTHOR>
          </AUTHORS>
          <YEAR>1956</YEAR>
-         <TITLE>Prokofiev's fifth symphony</TITLE>
-         <SECONDARY_TITLE>The Music Review</SECONDARY_TITLE>
+         <ARTICLE_TITLE>Prokofiev's Fifth Symphony</ARTICLE_TITLE>
+         <JOURNAL_TITLE>The Music Review</JOURNAL_TITLE>
          <VOLUME>17</VOLUME>
          <DATE>1956</DATE>
          <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
