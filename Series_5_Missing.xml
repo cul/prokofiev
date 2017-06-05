@@ -1,8 +1,27 @@
-MISSING
-
 <?xml version="1.0" encoding="UTF-8"?>
 
 <outputxml>
+    <RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>87</REFNUM>
+        <AUTHORS>
+            <AUTHOR>Rakhmanova, Marina</AUTHOR>
+        </AUTHORS>
+        <YEAR>2001</YEAR>
+        <TITLE>Londonskie Apel'siny</TITLE>
+        <SECONDARY_TITLE>Rossiiskaia Muzykal'naia Gazeta</SECONDARY_TITLE>
+        <NUMBER>2</NUMBER>
+        <PAGES>1, 4-5</PAGES>
+        <DATE>2001</DATE>
+        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <ALTERNATE_TITLE>Newspaper</ALTERNATE_TITLE>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM5>28/08/2001 (revised 16/02/2006)</CUSTOM5>
+        <CUSTOM6>Photocopy (original in Archive)</CUSTOM6>
+        <CALL_NUMBER>spa-tex-atl-0043</CALL_NUMBER>
+        <NOTES>Article about the launch of the Prokofiev Association and 'Three
+            Oranges'</NOTES>
+    </RECORD>
     <RECORD>
         <REFERENCE_TYPE>1</REFERENCE_TYPE>
         <REFNUM>30</REFNUM>
@@ -282,6 +301,367 @@ MISSING
         <ACCESSION_NUMBER>?</ACCESSION_NUMBER>
         <CALL_NUMBER>(See Articles for Students)</CALL_NUMBER>
     </RECORD>
-
-
+   <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <REFNUM>335</REFNUM>
+         <YEAR>1998</YEAR>
+         <TITLE>Philip's Atlas of the World</TITLE>
+         <PUBLISHER>Philips</PUBLISHER>
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>English</CUSTOM1>
+         <CUSTOM5></CUSTOM5>
+         <ACCESSION_NUMBER>120</ACCESSION_NUMBER>
+         <NOTES>Reference. Eighth Edition. 1999&#xD;Kept in Room 220.</NOTES>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <REFNUM>323</REFNUM>
+         <AUTHORS>
+            <AUTHOR>Blok, Vladimir</AUTHOR>
+         </AUTHORS>
+         <YEAR>1978</YEAR>
+         <TITLE>Sergei Prokofiev: Material, Articles, Interviews</TITLE>
+         <PUBLISHER>Progress Publishers</PUBLISHER>
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>English</CUSTOM1>
+         <CUSTOM5>?</CUSTOM5>
+         <ACCESSION_NUMBER>106</ACCESSION_NUMBER>
+         <NOTES>1999&#xD;Kept on shelf in Room 221.</NOTES>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <REFNUM>178</REFNUM>
+         <AUTHORS>
+            <AUTHOR>Gershkovich, F</AUTHOR>
+         </AUTHORS>
+         <YEAR>1973</YEAR>
+         <TITLE>Trudy po znakovym sistemam</TITLE>
+         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+         <PUBLISHER>Tartu</PUBLISHER>
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>English</CUSTOM1>
+         <CUSTOM5>07/11/2000</CUSTOM5>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <REFNUM>452</REFNUM>
+         <AUTHORS>
+            <AUTHOR>Grassi, Paolo</AUTHOR>
+         </AUTHORS>
+         <YEAR>1973?</YEAR>
+         <TITLE>Teatro Bolscioj dell'URSS [Bol'shoi Teatr Soiuza SSR]</TITLE>
+         <PUBLISHER>Teatro alla Scala</PUBLISHER>
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM5>03/07/2001</CUSTOM5>
+         <NOTES>Extracts from this book according to the index entries for Prokofiev</NOTES>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <REFNUM>468</REFNUM>
+         <AUTHORS>
+            <AUTHOR>Greene, Justin</AUTHOR>
+         </AUTHORS>
+         <TITLE>Masterclass</TITLE>
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM5>01/10/2002</CUSTOM5>
+         <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
+         <NOTES>Photocopy of the play script (characters: Zhdanov Prokofiev Shostakovich and
+            Stalin). In Box 1 ('Articles in Journals')</NOTES>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <REFNUM>264</REFNUM>
+         <AUTHORS>
+            <AUTHOR>Hanson, L</AUTHOR>
+            <AUTHOR>Hanson, E</AUTHOR>
+         </AUTHORS>
+         <YEAR>1964</YEAR>
+         <TITLE>Prokofiev: the Prodigal Son</TITLE>
+         <PUBLISHER>Cassell</PUBLISHER>
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM5>?</CUSTOM5>
+         <ACCESSION_NUMBER>43</ACCESSION_NUMBER>
+         <NOTES>Kept on shelf in Room 221.</NOTES>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <REFNUM>336</REFNUM>
+         <AUTHORS>
+            <AUTHOR>Ho, Allan</AUTHOR>
+            <AUTHOR>Feofanov, Dmitri</AUTHOR>
+         </AUTHORS>
+         <YEAR>1989</YEAR>
+         <TITLE>Biographical Dictionary of Russian/Soviet Composers</TITLE>
+         <PUBLISHER>Greenwood Press</PUBLISHER>
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM5>?</CUSTOM5>
+         <ACCESSION_NUMBER>121</ACCESSION_NUMBER>
+         <NOTES>Dedicated by D. Feofanov. 1999&#xD;Kept on shelf in Room 221.</NOTES>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <REFNUM>257</REFNUM>
+         <AUTHORS>
+            <AUTHOR>Nestiev, Izrail Vladimirovich</AUTHOR>
+            <AUTHOR>Edelman, G (eds.)</AUTHOR>
+         </AUTHORS>
+         <YEAR>1965</YEAR>
+         <TITLE>Sergei Prokof'ev; Stat'i i Materialy</TITLE>
+         <PUBLISHER>Muzyka</PUBLISHER>
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM5>?</CUSTOM5>
+         <ACCESSION_NUMBER>22</ACCESSION_NUMBER>
+         <NOTES>2nd edition; (1st edition in 1962 with Sov. Komp.)&#xD;Kept on shelf in Room
+            221</NOTES>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <REFNUM>438</REFNUM>
+         <AUTHORS>
+            <AUTHOR>Prokofiev, Serge</AUTHOR>
+         </AUTHORS>
+         <YEAR>1960</YEAR>
+         <TITLE>Kamennyi Tsvetok</TITLE>
+         <PUBLISHER>Gosudarstvennoe Muzykal'noe Izdatel'stvo</PUBLISHER>
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM5>11/07/2000</CUSTOM5>
+         <ACCESSION_NUMBER>161b</ACCESSION_NUMBER>
+         <NOTES>Pamphlet in Russian commissioned by the Kirov Theater. With many photos from the St
+            Petersburg première on 25 April 1957</NOTES>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <REFNUM>269</REFNUM>
+         <AUTHORS>
+            <AUTHOR>Prokofiev, Serge</AUTHOR>
+         </AUTHORS>
+         <YEAR>1991</YEAR>
+         <TITLE>Sergei Prokofiev Soviet Diary 1927 and other writings</TITLE>
+         <PUBLISHER>Faber &amp; Faber</PUBLISHER>
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <SUBSIDIARY_AUTHORS>
+            <SUBSIDIARY_AUTHOR>Prokofiev, Oleg (ed., trans.)</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Palmer, Christopher (trans.)</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
+         <CUSTOM5>?</CUSTOM5>
+         <ACCESSION_NUMBER>12b</ACCESSION_NUMBER>
+         <NOTES>Kept on shelf in Room 221.&#xD;Edited and translated by Oleg Prokofiev and
+            Christopher Palmer</NOTES>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <REFNUM>270</REFNUM>
+         <AUTHORS>
+            <AUTHOR>Robinson, Harlow</AUTHOR>
+         </AUTHORS>
+         <YEAR>1987</YEAR>
+         <TITLE>Sergei Prokofiev</TITLE>
+         <PUBLISHER>Robert Hale</PUBLISHER>
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM5>?</CUSTOM5>
+         <ACCESSION_NUMBER>9</ACCESSION_NUMBER>
+         <NOTES>Kept on shelf in Room 221.</NOTES>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <REFNUM>252</REFNUM>
+         <AUTHORS>
+            <AUTHOR>Samuel, Claude</AUTHOR>
+         </AUTHORS>
+         <YEAR>1960</YEAR>
+         <TITLE>Prokofiev</TITLE>
+         <PUBLISHER>Seuil</PUBLISHER>
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM5>?</CUSTOM5>
+         <ACCESSION_NUMBER>1</ACCESSION_NUMBER>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <REFNUM>379</REFNUM>
+         <AUTHORS>
+            <AUTHOR>Samuel, Claude</AUTHOR>
+         </AUTHORS>
+         <YEAR>1960</YEAR>
+         <TITLE>Prokofiev</TITLE>
+         <PUBLISHER>Seuil</PUBLISHER>
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>French</CUSTOM1>
+         <CUSTOM5>?</CUSTOM5>
+         <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
+         <NOTES>Kept on shelf in Room 221.</NOTES>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <REFNUM>1490</REFNUM>
+         <AUTHORS>
+            <AUTHOR>Soanes, Catherine, et al,</AUTHOR>
+         </AUTHORS>
+         <YEAR>2003</YEAR>
+         <TITLE>Oxford Dictionary of English (2nd Edition)</TITLE>
+         <PLACE_PUBLISHED>Oxford &amp; New York</PLACE_PUBLISHED>
+         <PUBLISHER>Oxford University Press</PUBLISHER>
+         <EDITION>2nd</EDITION>
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <ISBN>0198613474</ISBN>
+         <CUSTOM1>English</CUSTOM1>
+         <CUSTOM2>NM's Office (WT221)</CUSTOM2>
+         <CUSTOM5>29/03/2004</CUSTOM5>
+         <NOTES>Kept in NM's Office (WT221)</NOTES>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <REFNUM>1489</REFNUM>
+         <AUTHORS>
+            <AUTHOR>Thompson, Della (Managing Editor)</AUTHOR>
+         </AUTHORS>
+         <YEAR>2000</YEAR>
+         <TITLE>Oxford Russian Dictionary (3rd edition)</TITLE>
+         <PLACE_PUBLISHED>Oxford &amp; New York</PLACE_PUBLISHED>
+         <PUBLISHER>Oxford University Press</PUBLISHER>
+         <EDITION>3rd</EDITION>
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <ISBN>0198601603</ISBN>
+         <CUSTOM1>English - Russian</CUSTOM1>
+         <CUSTOM2>NM's Office (WT221)</CUSTOM2>
+         <CUSTOM5>29/03/2004</CUSTOM5>
+         <NOTES>Kept in NM's Office (WT221)</NOTES>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <REFNUM>380</REFNUM>
+         <AUTHORS>
+            <AUTHOR>Vasilenko, S</AUTHOR>
+         </AUTHORS>
+         <YEAR>1965</YEAR>
+         <TITLE>Balety Prokof'eva</TITLE>
+         <PUBLISHER>Muzyka</PUBLISHER>
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Russian</CUSTOM1>
+         <CUSTOM5>?</CUSTOM5>
+         <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <REFNUM>448</REFNUM>
+         <AUTHORS>
+            <AUTHOR>Walker, G P M</AUTHOR>
+         </AUTHORS>
+         <YEAR>1973</YEAR>
+         <TITLE>Russian for Librarians</TITLE>
+         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+         <PUBLISHER>Clive Bingley</PUBLISHER>
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM5>06/03/2001</CUSTOM5>
+         <ACCESSION_NUMBER>187</ACCESSION_NUMBER>
+         <NOTES>Kept on shelf in Room 221.</NOTES>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <REFNUM>1906</REFNUM>
+         <AUTHORS>
+            <AUTHOR>Prokofiev, Serge</AUTHOR>
+         </AUTHORS>
+         <TITLE>Le joueur: livret</TITLE>
+         <PLACE_PUBLISHED>Paris</PLACE_PUBLISHED>
+         <PUBLISHER>Edition Russe de Musique</PUBLISHER>
+         <PAGES>77</PAGES>
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>French</CUSTOM1>
+         <CUSTOM2>Preservation Box</CUSTOM2>
+         <CUSTOM5>25/11/2004</CUSTOM5>
+         <ACCESSION_NUMBER>115a (16/06/2004)</ACCESSION_NUMBER>
+         <CALL_NUMBER>(In Preservation Box)</CALL_NUMBER>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <REFNUM>1957</REFNUM>
+         <AUTHORS>
+            <AUTHOR>Dickinson, Professor Peter</AUTHOR>
+         </AUTHORS>
+         <YEAR>1996</YEAR>
+         <TITLE>Style-Modulation as a Compositional Technique (Inaugural Lecture 23 January
+            1996)</TITLE>
+         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+         <PUBLISHER>Goldsmiths College</PUBLISHER>
+         <PAGES>20</PAGES>
+         <ISBN>0 902 986 13 9</ISBN>
+         <CUSTOM1>English</CUSTOM1>
+         <CUSTOM2>See file 'Goldsmiths College Professorial Inaugural Lectures'</CUSTOM2>
+         <CUSTOM5>16/12/2004</CUSTOM5>
+         <CALL_NUMBER>(See Location)</CALL_NUMBER>
+         <NOTES>Photocopy of original (made by Jennifer New, Internal Communications)</NOTES>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <REFNUM>1944</REFNUM>
+         <AUTHORS>
+            <AUTHOR>Glasser, Professor Stanley</AUTHOR>
+         </AUTHORS>
+         <YEAR>1991</YEAR>
+         <TITLE>Quo Vadit? The problem of cliché, convention and aural reference in
+            contemporary composition. (Inaugural Lecture 5 March 1991)</TITLE>
+         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+         <PUBLISHER>Goldsmiths College</PUBLISHER>
+         <ISBN>0 902986 33 3</ISBN>
+         <CUSTOM1>English</CUSTOM1>
+         <CUSTOM2>See file 'Goldsmiths College Professorial Inaugural Lectures</CUSTOM2>
+         <CUSTOM5>02/12/2004</CUSTOM5>
+         <ACCESSION_NUMBER>331</ACCESSION_NUMBER>
+         <CALL_NUMBER>(See Location)</CALL_NUMBER>
+         <NOTES>Photocopy of original (made by Jennifer New, Internal Communications)</NOTES>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <REFNUM>1943</REFNUM>
+         <AUTHORS>
+            <AUTHOR>Lawson, Professor Colin</AUTHOR>
+         </AUTHORS>
+         <YEAR>2000</YEAR>
+         <TITLE>Unsettling old scores: Illuminating the performance? (Inaugural Lecture 1 February
+            2000)</TITLE>
+         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+         <PUBLISHER>Goldsmiths College</PUBLISHER>
+         <ISBN>0 902986 89 9</ISBN>
+         <CUSTOM1>English</CUSTOM1>
+         <CUSTOM2>See file 'Goldsmiths College Professorial Inaugural Lectures</CUSTOM2>
+         <CUSTOM5>02/12/2004</CUSTOM5>
+         <ACCESSION_NUMBER>331</ACCESSION_NUMBER>
+         <CALL_NUMBER>(See Location)</CALL_NUMBER>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <REFNUM>1956</REFNUM>
+         <AUTHORS>
+            <AUTHOR>Musgrave, Professor Michael</AUTHOR>
+         </AUTHORS>
+         <YEAR>1996</YEAR>
+         <TITLE>An Audience for Classical Music: The Achievement of August Manns at the Crystal
+            Palace (Inaugural Lecture 7 May 1996)</TITLE>
+         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+         <PUBLISHER>Goldsmiths College</PUBLISHER>
+         <PAGES>22</PAGES>
+         <ISBN>0 902986 19 8</ISBN>
+         <CUSTOM1>English</CUSTOM1>
+         <CUSTOM2>See file 'Goldsmiths College Professorial Inaugural Lectures'</CUSTOM2>
+         <CUSTOM5>16/12/2004</CUSTOM5>
+         <CALL_NUMBER>(See Location)</CALL_NUMBER>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <REFNUM>1955</REFNUM>
+         <AUTHORS>
+            <AUTHOR>Shevtsova, Professor Maria</AUTHOR>
+         </AUTHORS>
+         <YEAR>2002</YEAR>
+         <TITLE>Performance, Embodiment, Voice</TITLE>
+         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+         <PUBLISHER>Goldsmiths College</PUBLISHER>
+         <PAGES>19</PAGES>
+         <ISBN>1 904158 06 4</ISBN>
+         <CUSTOM1>English</CUSTOM1>
+         <CUSTOM2>See file 'Goldsmiths College Professorial Inaugural Lectures'</CUSTOM2>
+         <CUSTOM5>06/12/2004</CUSTOM5>
+         <ACCESSION_NUMBER>?</ACCESSION_NUMBER>
+         <CALL_NUMBER>(See Location)</CALL_NUMBER>
+      </RECORD>
 </outputxml>
