@@ -5534,12 +5534,58 @@
         <ACCESSION_NUMBER>412</ACCESSION_NUMBER>
         <CALL_NUMBER>HIST (27)</CALL_NUMBER>
     </RECORD>
-    <RECORD>
-        <REFERENCE_TYPE>20</REFERENCE_TYPE>
-        <REFNUM>3343</REFNUM>
-        <AUTHORS>
-            <AUTHOR>Perkhin, V. V.</AUTHOR>
-        </AUTHORS>
+   <RECORD>
+      <REFERENCE_TYPE>20</REFERENCE_TYPE>
+      <REFNUM>3328</REFNUM>
+      <AUTHORS>
+         <AUTHOR>Ohtaguro, Motoo</AUTHOR>
+      </AUTHORS>
+      <YEAR>1917</YEAR>
+      <TITLE>Roshia-Buyo</TITLE>
+      <SECONDARY_TITLE>The Russian Ballet</SECONDARY_TITLE>
+      <PLACE_PUBLISHED>Ohmori, Tokyo</PLACE_PUBLISHED>
+      <PUBLISHER>Ongaku-to-Mungaku-Sha</PUBLISHER>
+      <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+      <CUSTOM1>Japanese</CUSTOM1>
+      <CUSTOM5>30/05/2008</CUSTOM5>
+      <ACCESSION_NUMBER>420</ACCESSION_NUMBER>
+      <CALL_NUMBER>HIST (28)</CALL_NUMBER>
+      <LOCATION>Publications-Fragile Box 4 (218)</LOCATION>
+      <NOTES>Notes from Shin-ichi Numabe, depositor:&#xD;Published on 25 June 1917&#xD;Translation of p82 (final
+         page)&#xD;"The cover of this book has copied the one of the book 'Russian
+         Painting' by Alexandre Benois. Some fifty illustrations in this book are reproduced
+         from various books about the Russian Ballets, the magazine 'Commoedia
+         illustré' and photographs taken by a famous master Hoppé."</NOTES>
+     </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>20</REFERENCE_TYPE>
+         <REFNUM>3329</REFNUM>
+         <AUTHORS>
+            <AUTHOR>Ohtaguro, Motoo</AUTHOR>
+         </AUTHORS>
+         <YEAR>1918</YEAR>
+         <TITLE>Zoku-Bahaa-yori-Shenberuhi</TITLE>
+         <SECONDARY_TITLE>From Bach to Schoenberg, Part II</SECONDARY_TITLE>
+         <PLACE_PUBLISHED>Ohmori, Tokyo</PLACE_PUBLISHED>
+         <PUBLISHER>Ongaku-to-Bungaku-Sha</PUBLISHER>
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
+         <CUSTOM1>Japanese</CUSTOM1>
+         <CUSTOM5>30/05/2008</CUSTOM5>
+         <ACCESSION_NUMBER>420</ACCESSION_NUMBER>
+         <CALL_NUMBER>HIST (29)</CALL_NUMBER>
+         <LOCATION>Publications-Fragile Box 4 (218)</LOCATION>
+         <NOTES>Notes from Shin-ichi Numabe, depositor:Published on 28 April 1918&#xD;Chapters:&#xD;1. G. W. Chadwick; 2. G.
+            Mahler; 3. C. M. Loeffler; 4. E. MacDowell; 5. F. Delius; 6. P. Dukas; 7. E. Granados;
+            8. G. Bantock; 9. F. Schmitt; 10. H. Hadley; 11. Vaughan Williams; 12. M. Ravel; 13. J.
+            A. Carpenter; 14. C. Scott; 15. F. Bridge; 16. C. W. Cadman; 17. P. A. Grainger; 18. A.
+            Bax; 19. Sergei Prokofief [sic]; 20. Leo Ornstein</NOTES>
+      </RECORD>
+   <RECORD>
+            <REFERENCE_TYPE>20</REFERENCE_TYPE>
+            <REFNUM>3343</REFNUM>
+            <AUTHORS>
+               <AUTHOR>Perkhin, V. V.</AUTHOR>
+            </AUTHORS>
         <YEAR>2007</YEAR>
         <TITLE>Deiateli russkogo iskusstva i M. B. Khrapchenko: Predsedatel' Vsesoiuznogo komiteta po delam iskusstv: aprel' 1939 - ianvar' 1948</TITLE>
         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
