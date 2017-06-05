@@ -977,7 +977,7 @@
          </AUTHORS>
          <YEAR>1981</YEAR>
          <TITLE>Muzei v Sontsovke</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
          <NUMBER>8</NUMBER>
          <PAGES>138-139</PAGES>
          <DATE>1981-08</DATE>
@@ -995,8 +995,8 @@
             <AUTHOR>Nekrasov, A.</AUTHOR>
          </AUTHORS>
          <YEAR>1981</YEAR>
-         <TITLE>Prokof'evskaia vesna [g. Donetsk]</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <TITLE>Prokof'evskaia vesna</TITLE>
+         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
          <NUMBER>9</NUMBER>
          <PAGES>142</PAGES>
          <DATE>1981-09</DATE>
@@ -1011,11 +1011,12 @@
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>2258</REFNUM>
          <AUTHORS>
-            <AUTHOR>Nestiev, Izrail Vladimirovich</AUTHOR>
+            <AUTHOR>Nest'ev, Izrail Vladimirovich</AUTHOR>
          </AUTHORS>
          <YEAR>1983</YEAR>
-         <TITLE>Chetyre druzhby: Petr Suvchinskii i russkie muzykanty</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <TITLE>Chetyre druzhby</TITLE>
+         <SECONDARY_TITLE>Petr Suvchinskii i russkie muzykanty</SECONDARY_TITLE>
+         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
          <NUMBER>3</NUMBER>
          <PAGES>83-95</PAGES>
          <DATE>1983-03</DATE>
@@ -1033,9 +1034,9 @@
             <AUTHOR>Kandinskii, A. I.</AUTHOR>
          </AUTHORS>
          <YEAR>1983</YEAR>
-         <TITLE>Dialogiia Prokof'eva na opernoi stsene ["Voina i mir" v post.
-            Permskogo teatra opery i baleta im. Tchaikovskogo]</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <TITLE>Dialogiia Prokof'eva na opernoi stsene</TITLE>
+         <SECONDARY_TITLE>"Voina i mir"</SECONDARY_TITLE>
+         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
          <NUMBER>6</NUMBER>
          <PAGES>40-45</PAGES>
          <DATE>1983-06</DATE>
@@ -1053,8 +1054,9 @@
             <AUTHOR>Stepanova, I.</AUTHOR>
          </AUTHORS>
          <YEAR>1983</YEAR>
-         <TITLE>Epos i drama (K izucheniiu naslediia S. S. Prokof'eva)</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <TITLE>Epos i drama</TITLE>
+         <SECONDARY_TITLE>K izucheniiu naslediia S. S. Prokof'eva</SECONDARY_TITLE>
+         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
          <NUMBER>8</NUMBER>
          <PAGES>90-95</PAGES>
          <DATE>1983-08</DATE>
@@ -1072,8 +1074,9 @@
             <AUTHOR>Sviiasov, E.</AUTHOR>
          </AUTHORS>
          <YEAR>1983</YEAR>
-         <TITLE>"Undina": k istorii iunosheskogo sochineniia</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <TITLE>"Undina"</TITLE>
+         <SECONDARY_TITLE>K istorii iunosheskogo sochineniia</SECONDARY_TITLE>
+         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
          <NUMBER>8</NUMBER>
          <PAGES>96-97</PAGES>
          <DATE>1983-08</DATE>
@@ -1091,19 +1094,22 @@
             <AUTHOR>Savkina, Natalia Pavlovna</AUTHOR>
          </AUTHORS>
          <YEAR>1990</YEAR>
-         <TITLE>Tri portreta i razviazka [Izuchaia nasledie S. S. Prokofieva]</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <TITLE>Tri portreta i razviazka</TITLE>
+         <SECONDARY_TITLE>Izuchaia nasledie S. S. Prokofieva</SECONDARY_TITLE>
+         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>104-111</PAGES>
          <DATE>1990-04</DATE>
          <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
          <ALTERNATE_TITLE>Journal</ALTERNATE_TITLE>
          <ISBN>0131-6818</ISBN>
+         <PART_NUMBER>1</PART_NUMBER>
+         <NUMBER_OF_PARTS>2</NUMBER_OF_PARTS>
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>13/12/2005</CUSTOM5>
          <CUSTOM6>Original and cutting</CUSTOM6>
-         <CALL_NUMBER>spa-tex-atl-0055 / [SOVMUZ]</CALL_NUMBER>
-         <NOTES>Part 1 of 2. Final part appears in 1990/5 (see spa-tex-atl-056)</NOTES>
+         <CALL_NUMBER>spa-tex-atl-0055</CALL_NUMBER>
+         <NOTES>Part 1 of 2. Part 2 spa-tex-atl-056</NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -1113,19 +1119,22 @@
          </AUTHORS>
          <YEAR>1990</YEAR>
          <TITLE>Tri portreta i razviazka: iz nabliudenii nad stilem opery S. S. Prokof'eva
-            "Maddalena" [Izuchaia nasledie S. S. Prokofieva]</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+            "Maddalena"</TITLE>
+         <SECONDARY_TITLE>Izuchaia nasledie S. S. Prokofieva</SECONDARY_TITLE>
+         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
          <NUMBER>5</NUMBER>
          <PAGES>108-114</PAGES>
          <DATE>1990-05</DATE>
          <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
          <ALTERNATE_TITLE>Journal</ALTERNATE_TITLE>
          <ISBN>0131-6818</ISBN>
+         <PART_NUMBER>2</PART_NUMBER>
+         <NUMBER_OF_PARTS>2</NUMBER_OF_PARTS>
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>13/12/2005</CUSTOM5>
          <CUSTOM6>Original and cutting</CUSTOM6>
-         <CALL_NUMBER>spa-tex-atl-0056 / [SOVMUZ]</CALL_NUMBER>
-         <NOTES>Part 2 of 2. Part 1 appears in 1990/4 (see spa-tex-atl-055</NOTES>
+         <CALL_NUMBER>spa-tex-atl-0056</CALL_NUMBER>
+         <NOTES>Part 2 of 2. Part 1 spa-tex-atl-0055</NOTES>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -1135,7 +1144,8 @@
          </AUTHORS>
          <YEAR>1990</YEAR>
          <TITLE>Apologiia nepriznaniia</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <SECONDARY_TITLE>Tvorchestvo</SECONDARY_TITLE>
+         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
          <NUMBER>7</NUMBER>
          <PAGES>6-13</PAGES>
          <DATE>1990-07</DATE>
@@ -1145,7 +1155,7 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>13/12/2005</CUSTOM5>
          <CUSTOM6>Original and cutting</CUSTOM6>
-         <CALL_NUMBER>spa-tex-atl-0057 / [SOVMUZ]</CALL_NUMBER>
+         <CALL_NUMBER>spa-tex-atl-0057</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -1154,9 +1164,8 @@
             <AUTHOR>Zhuravleva, Aina</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Vladimir Deshevov: desiatiletie poiska [Correspondence between Prokofiev and
-            Milhaud]</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <TITLE>Vladimir Deshevov: desiatiletie poiska</TITLE>
+         <JOURNAL_TITLE>Sovetskaia muzyka</JOURNAL_TITLE>
          <NUMBER>2</NUMBER>
          <PAGES>64-75</PAGES>
          <DATE>1991-02</DATE>
@@ -1166,8 +1175,53 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>13/12/2005</CUSTOM5>
          <CUSTOM6>Photocopy</CUSTOM6>
+         <NOTES>Correspondence between Prokofiev and Milhaud</NOTES>
          <CALL_NUMBER>spa-tex-atl-0058</CALL_NUMBER>
       </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>1</REFERENCE_TYPE>
+         <REFNUM>11</REFNUM>
+         <AUTHORS>
+            <AUTHOR>Palmer, Christopher</AUTHOR>
+         </AUTHORS>
+         <YEAR>1991</YEAR>
+         <TITLE>Prokofiev, Eisenstein and Ivan</TITLE>
+         <JOURNAL_TITLE>Musical Times</JOURNAL_TITLE>
+         <VOLUME>cxxxii</VOLUME>
+         <NUMBER>1778</NUMBER>
+         <PAGES>179-181</PAGES>
+         <DATE>1991-04</DATE>
+         <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+         <ALTERNATE_TITLE>Journal</ALTERNATE_TITLE>
+         <ISBN>0027-4666</ISBN>
+         <CUSTOM1>English</CUSTOM1>
+         <CUSTOM5>28/11/2000 (revised 22/12/2005)</CUSTOM5>
+         <CUSTOM6>Original and typescript</CUSTOM6>
+         <Notes>Other call number spa-tex-per-0045</Notes>
+         <CALL_NUMBER>spa-tex-atl-0059</CALL_NUMBER>
+      </RECORD>
+   <RECORD>
+         <REFERENCE_TYPE>1</REFERENCE_TYPE>
+         <REFNUM>2353</REFNUM>
+         <AUTHORS>
+            <AUTHOR>Anon.</AUTHOR>
+         </AUTHORS>
+         <YEAR>1949</YEAR>
+         <TITLE>Serge Prokofieff</TITLE>
+         <SECONDARY_TITLE>Prokofieff Number</SECONDARY_TITLE>
+         <JOURNAL_TITLE>Tempo</JOURNAL_TITLE>
+         <NUMBER>11</NUMBER>
+         <PAGES>4</PAGES>
+         <DATE>1949 (Spring)</DATE>
+         <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+         <ALTERNATE_TITLE>Journal</ALTERNATE_TITLE>
+         <CUSTOM1>English</CUSTOM1>
+         <CUSTOM5>11/01/2006</CUSTOM5>
+         <CUSTOM6>Original and photocopy</CUSTOM6>
+         <CALL_NUMBER>[spa-tex-per-0072] / spa-tex-atl-0060</CALL_NUMBER>
+         <NOTES>Introduction to an issue dedicated to Prokofiev</NOTES>
+   </RECORD>
+   
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>2483</REFNUM>
