@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<outputxml>
+    <RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>87</REFNUM>
+        <AUTHORS>
+            <AUTHOR>Rakhmanova, Marina</AUTHOR>
+        </AUTHORS>
+        <YEAR>2001</YEAR>
+        <TITLE>Londonskie Apel'siny</TITLE>
+        <SECONDARY_TITLE>Rossiiskaia Muzykal'naia Gazeta</SECONDARY_TITLE>
+        <NUMBER>2</NUMBER>
+        <PAGES>1, 4-5</PAGES>
+        <DATE>2001</DATE>
+        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <ALTERNATE_TITLE>Newspaper</ALTERNATE_TITLE>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM5>28/08/2001 (revised 16/02/2006)</CUSTOM5>
+        <CUSTOM6>Photocopy (original in Archive)</CUSTOM6>
+        <CALL_NUMBER>spa-tex-atl-0043</CALL_NUMBER>
+        <NOTES>Article about the launch of the Prokofiev Association and 'Three
+            Oranges'</NOTES>
+    </RECORD>
+    <RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>30</REFNUM>
+        <AUTHORS>
+            <AUTHOR>Alley, Ross</AUTHOR>
+        </AUTHORS>
+        <YEAR>1998</YEAR>
+        <TITLE>Cinderella - What's in a ballet score?</TITLE>
+        <SECONDARY_TITLE>The Dancing Times</SECONDARY_TITLE>
+        <PAGES>305-309</PAGES>
+        <DATE>1998-01</DATE>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>28/11/2000</CUSTOM5>
+        <CUSTOM6>Photocopy</CUSTOM6>
+        <NOTES>MISSING</NOTES>
+    </RECORD>
+</outputxml>
