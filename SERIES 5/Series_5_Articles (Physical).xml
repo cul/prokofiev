@@ -1790,7 +1790,7 @@
          <YEAR>1927</YEAR>
          <ARTICLE_TITLE>Kontserty S. Prokof'eva</ARTICLE_TITLE>
          <JOURNAL_TITLE>Muzyka i Revoliutsiia</JOURNAL_TITLE>
-         <NUMBER>3</NUMBER>
+         <NUMBER>2</NUMBER>
          <PAGES>32</PAGES>
          <DATE>1927</DATE>
          <TYPE_OF_WORK>Review</TYPE_OF_WORK>
@@ -2121,9 +2121,8 @@
             <AUTHOR>Brown, Malcolm Hamrick</AUTHOR>
          </AUTHORS>
          <YEAR>1981</YEAR>
-         <ARTICLE_TITLE>'Prokofiev by Prokofiev</ARTICLE_TITLE>
-         <SECONDARY_ARTICLE_TITLE>A Composer's Memoir,' 'Sergei
-            Prokofiev, a Soviet Tragedy'</SECONDARY_ARTICLE_TITLE>
+         <ARTICLE_TITLE>'Prokofiev by Prokofiev: a composer's memoir', 'Sergei Prokofiev, a Soviet tragedy: 
+            The Case of Sergei Prokofiev, His Life and Work, His Critics, And His Executioners'</ARTICLE_TITLE>
          <JOURNAL_TITLE>Slavic Review</JOURNAL_TITLE>
          <SECONDARY_AUTHOR>Prokofiev, Lina</SECONDARY_AUTHOR>
          <VOLUME>40</VOLUME>
@@ -2795,7 +2794,7 @@
          <YEAR>1927</YEAR>
          <ARTICLE_TITLE>Iubileinyi kontsert Persimfansa</ARTICLE_TITLE>
          <JOURNAL_TITLE>Muzyka i Revoliutsiia</JOURNAL_TITLE>
-         <NUMBER>3</NUMBER>
+         <NUMBER>2</NUMBER>
          <PAGES>31</PAGES>
          <DATE>1927</DATE>
          <TYPE_OF_WORK>Review</TYPE_OF_WORK>
@@ -2814,7 +2813,7 @@
          <YEAR>1927</YEAR>
          <ARTICLE_TITLE>Ekstrennyi kontsert Persimfansa</ARTICLE_TITLE>
          <JOURNAL_TITLE>Muzyka i Revoliutsiia</JOURNAL_TITLE>
-         <NUMBER>3</NUMBER>
+         <NUMBER>2</NUMBER>
          <PAGES>31-32</PAGES>
          <DATE>1927</DATE>
          <TYPE_OF_WORK>Review</TYPE_OF_WORK>
@@ -3292,6 +3291,7 @@
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>3147</REFNUM>
+         <AUTHOR>Anon.</AUTHOR>
          <YEAR>1955</YEAR>
          <ARTICLE_TITLE>Yugoslav Ballet - 'Romeo and Juliet'</ARTICLE_TITLE>
          <JOURNAL_TITLE>The Times</JOURNAL_TITLE>
@@ -3311,6 +3311,7 @@
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>3148</REFNUM>
+         <AUTHOR>Anon.</AUTHOR>
          <YEAR>1955</YEAR>
          <ARTICLE_TITLE>"Romeo and Juliet"</ARTICLE_TITLE>
          <JOURNAL_TITLE>The Stage</JOURNAL_TITLE>

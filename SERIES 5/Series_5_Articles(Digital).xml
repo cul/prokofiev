@@ -382,28 +382,69 @@
         <CALL_NUMBER>spa-tex-atl-0160-ef</CALL_NUMBER>
     </RECORD>
 <RECORD>
-    <REFERENCE_TYPE>1</REFERENCE_TYPE>
-    <REFNUM>2573</REFNUM>
-    <AUTHORS>
-        <AUTHOR>Morrison, Simon</AUTHOR>
-    </AUTHORS>
-    <YEAR>2005</YEAR>
-    <ARTICLE_TITLE>Sergey Prokof'yev: Dnevnik 1907-1933</ARTICLE_TITLE>
-    <JOURNAL_TITLE>Journal of the American Musicological Society</JOURNAL_TITLE>
-    <SECONDARY_AUTHOR>Prokof'yev, Svyatoslav (ed.)</SECONDARY_AUTHOR>
-    <VOLUME>58</VOLUME>
-    <NUMBER>1</NUMBER>
-    <PAGES>233-243</PAGES>
-    <DATE>2005</DATE>
-    <TYPE_OF_WORK>Review</TYPE_OF_WORK>
-    <ALTERNATE_TITLE>Journal</ALTERNATE_TITLE>
-    <CUSTOM1>English</CUSTOM1>
-    <CUSTOM5>16/05/2006</CUSTOM5>
-    <CUSTOM6>Digital</CUSTOM6>
-    <NOTES>Full title:
-        "Sergei Prokof'yev: Dnevnik 1907-1933, edited by Svyatoslav Prokof'yev. 2
-        vols. Paris: sprkfv [Serge Prokofiev Estate], 2002. 812 pp.; 890 pp."</NOTES>
-    <URL>Q:\prokofiev\DIGITISED HOLDINGS\TEXTS\Articles\spa-tex-atl-0163-ef.pdf</URL>
-    <CALL_NUMBER>spa-tex-atl-0163-ef</CALL_NUMBER>
-</RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2573</REFNUM>
+        <AUTHORS>
+            <AUTHOR>Morrison, Simon</AUTHOR>
+        </AUTHORS>
+        <YEAR>2005</YEAR>
+        <ARTICLE_TITLE>Sergey Prokof'yev: Dnevnik 1907-1933</ARTICLE_TITLE>
+        <JOURNAL_TITLE>Journal of the American Musicological Society</JOURNAL_TITLE>
+        <SECONDARY_AUTHOR>Prokof'yev, Svyatoslav (ed.)</SECONDARY_AUTHOR>
+        <VOLUME>58</VOLUME>
+        <NUMBER>1</NUMBER>
+        <PAGES>233-243</PAGES>
+        <DATE>2005</DATE>
+        <TYPE_OF_WORK>Review</TYPE_OF_WORK>
+        <ALTERNATE_TITLE>Journal</ALTERNATE_TITLE>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>16/05/2006</CUSTOM5>
+        <CUSTOM6>Digital</CUSTOM6>
+        <NOTES>Full title:
+            "Sergei Prokof'yev: Dnevnik 1907-1933, edited by Svyatoslav Prokof'yev. 2
+            vols. Paris: sprkfv [Serge Prokofiev Estate], 2002. 812 pp.; 890 pp."</NOTES>
+        <URL>Q:\prokofiev\DIGITISED HOLDINGS\TEXTS\Articles\spa-tex-atl-0163-ef.pdf</URL>
+        <CALL_NUMBER>spa-tex-atl-0163-ef</CALL_NUMBER>
+    </RECORD>
+ <RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>3388</REFNUM>
+        <AUTHORS>
+            <AUTHOR>Lobacheva, Nadezhda</AUTHOR>
+        </AUTHORS>
+        <YEAR>2008</YEAR>
+        <ARTICLE_TITLE>Prokof'ev-chitatel': k istorii opernykh zamyslov 1940-kh godov</ARTICLE_TITLE>
+        <JOURNAL_TITLE>Muzykal'naia akademiia</JOURNAL_TITLE>
+        <NUMBER>4</NUMBER>
+        <PAGES>63-69</PAGES>
+        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <ALTERNATE_TITLE>Journal</ALTERNATE_TITLE>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM5>16/07/2009</CUSTOM5>
+        <CUSTOM6>Digital</CUSTOM6>
+        <URL></URL>
+        <CALL_NUMBER>spa-tex-atl-0180-ef</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>3426</REFNUM>
+        <AUTHORS>
+            <AUTHOR>Robinson, Harlow</AUTHOR>
+        </AUTHORS>
+        <YEAR>1991</YEAR>
+        <ARTICLE_TITLE>Flirting with Decadence: Sergei Prokofiev and Ognennyi angel</ARTICLE_TITLE>
+        <JOURNAL_TITLE>Opera Quarterly</JOURNAL_TITLE>
+        <VOLUME>8</VOLUME>
+        <NUMBER>4</NUMBER>
+        <PAGES>1-7</PAGES>
+        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <ALTERNATE_TITLE>Journal</ALTERNATE_TITLE>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>15/12/2009</CUSTOM5>
+        <CUSTOM6>Digital</CUSTOM6>
+        <KEYWORDS>
+            <KEYWORD>The Fiery Angel (Op. 37)</KEYWORD>
+        </KEYWORDS>
+        <CALL_NUMBER>spa-tex-atl-0182</CALL_NUMBER>
+    </RECORD>
 </outputxml>
