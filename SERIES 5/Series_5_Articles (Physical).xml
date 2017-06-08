@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <outputxml>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -137,8 +136,8 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>06/12/2005</CUSTOM5>
          <CUSTOM6>Photocopy</CUSTOM6>
-         <CALL_NUMBER>spa-tex-atl-0007</CALL_NUMBER>
          <NOTES>Extract of article – full article continues to pg72, which is not included</NOTES>
+         <CALL_NUMBER>spa-tex-atl-0007</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -236,8 +235,8 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>06/12/2005</CUSTOM5>
          <CUSTOM6>Photocopy</CUSTOM6>
-         <CALL_NUMBER>spa-tex-atl-0012</CALL_NUMBER>
          <NOTES>K sporam ob opere "Semyon Kotko" – Page 28 is partly illegible</NOTES>
+         <CALL_NUMBER>spa-tex-atl-0012</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -434,7 +433,6 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>07/12/2005</CUSTOM5>
          <CUSTOM6>Photocopy</CUSTOM6>
-         <NOTES></NOTES>
          <CALL_NUMBER>spa-tex-atl-0022</CALL_NUMBER>
       </RECORD>
    <RECORD>
@@ -455,7 +453,6 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>07/12/2005</CUSTOM5>
          <CUSTOM6>Photocopy</CUSTOM6>
-         <NOTES></NOTES>
          <CALL_NUMBER>spa-tex-atl-0023</CALL_NUMBER>
       </RECORD>
    <RECORD>
@@ -476,7 +473,7 @@
          <CUSTOM5>07/12/2005</CUSTOM5>
          <CUSTOM6>Photocopy</CUSTOM6>
          <NOTES>[Opera S. Prokof'eva v post. Vsesoiuznogo
-         Radio]</NOTES>
+            Radio]</NOTES>
          <CALL_NUMBER>spa-tex-atl-0024</CALL_NUMBER>
       </RECORD>
    <RECORD>
@@ -727,8 +724,8 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>08/12/2005</CUSTOM5>
          <CUSTOM6>Cutting</CUSTOM6>
-         <CALL_NUMBER>spa-tex-atl-0036</CALL_NUMBER>
          <NOTES>Publikatsiia podgotovlena I. Martynovym</NOTES>
+         <CALL_NUMBER>spa-tex-atl-0036</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -1107,8 +1104,8 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>13/12/2005</CUSTOM5>
          <CUSTOM6>Original and cutting</CUSTOM6>
-         <CALL_NUMBER>spa-tex-atl-0055</CALL_NUMBER>
          <NOTES>Part 1 of 2. Part 2 spa-tex-atl-056</NOTES>
+         <CALL_NUMBER>spa-tex-atl-0055</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -1132,8 +1129,8 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>13/12/2005</CUSTOM5>
          <CUSTOM6>Original and cutting</CUSTOM6>
-         <CALL_NUMBER>spa-tex-atl-0056</CALL_NUMBER>
          <NOTES>Part 2 of 2. Part 1 spa-tex-atl-0055</NOTES>
+         <CALL_NUMBER>spa-tex-atl-0056</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -1376,8 +1373,8 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>19/01/2006</CUSTOM5>
          <CUSTOM6>Photocopy</CUSTOM6>
-         <CALL_NUMBER>spa-tex-atl-0068</CALL_NUMBER>
          <NOTES>Letters between Prokofiev and Gendel'shtein</NOTES>
+         <CALL_NUMBER>spa-tex-atl-0068</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -1494,8 +1491,8 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>01/02/2006</CUSTOM5>
          <CUSTOM6>Photocopy</CUSTOM6>
-         <CALL_NUMBER>spa-tex-atl-0074</CALL_NUMBER>
          <NOTES>Interview with Boris Alexandrovich Pokrovsky</NOTES>
+         <CALL_NUMBER>spa-tex-atl-0074</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -2074,8 +2071,8 @@
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>13/02/2006</CUSTOM5>
          <CUSTOM6>Cutting</CUSTOM6>
-         <CALL_NUMBER>spa-tex-atl-0104</CALL_NUMBER>
          <NOTES>Based on a text translated from Russian</NOTES>
+         <CALL_NUMBER>spa-tex-atl-0104</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -2138,8 +2135,8 @@
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>13/02/2006</CUSTOM5>
          <CUSTOM6>Cutting</CUSTOM6>
-         <CALL_NUMBER>spa-tex-atl-0107</CALL_NUMBER>
          <NOTES>Copy contains Lina Prokofiev's annotations – a review</NOTES>
+         <CALL_NUMBER>spa-tex-atl-0107</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -2263,7 +2260,7 @@
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM3>SP analytical literature</CUSTOM3>
          <CUSTOM5>28/11/2000 (revised 14/02/2006)</CUSTOM5>
-         <CUSTOM6>Off-print / electronic file</CUSTOM6>
+         <CUSTOM6>Digital</CUSTOM6>
          <URL>Q:\prokofiev\DIGITISED HOLDINGS\TEXTS\Articles\spa-tex-atl-0113-ef</URL>
          <CALL_NUMBER>spa-tex-atl-0113</CALL_NUMBER>
       </RECORD>
@@ -2306,8 +2303,8 @@
          <CUSTOM5>28/11/2000 (revised 14/02/2006)</CUSTOM5>
          <CUSTOM6>Script (pre-publication)</CUSTOM6>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
-         <CALL_NUMBER>spa-tex-atl-0115</CALL_NUMBER>
          <NOTES>Photocopy of published article: spa-tex-atl-149</NOTES>
+         <CALL_NUMBER>spa-tex-atl-0115</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -2470,7 +2467,7 @@
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM3>SP analytical literature</CUSTOM3>
          <CUSTOM5>14/02/2006</CUSTOM5>
-         <CUSTOM6>Off-print (Jstor) / electronic file</CUSTOM6>
+         <CUSTOM6>Digital</CUSTOM6>
          <URL>Q:\prokofiev\DIGITISED HOLDINGS\TEXTS\Articles\spa-tex-atl-0123-ef</URL>
          <CALL_NUMBER>spa-tex-atl-0123</CALL_NUMBER>
       </RECORD>
@@ -2593,7 +2590,7 @@
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM3>SP analytical literature</CUSTOM3>
          <CUSTOM5>14/02/2006</CUSTOM5>
-         <CUSTOM6>Off-print (Jstor) / electronic file</CUSTOM6>
+         <CUSTOM6>Digital</CUSTOM6>
          <URL>Q:\prokofiev\DIGITISED HOLDINGS\TEXTS\Articles\spa-tex-atl-0129-ef</URL>
          <CALL_NUMBER>spa-tex-atl-0129</CALL_NUMBER>
       </RECORD>
@@ -2636,7 +2633,7 @@
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM3>SP analytical literature</CUSTOM3>
          <CUSTOM5>14/02/2006</CUSTOM5>
-         <CUSTOM6>Off-print (Jstor) / electronic file</CUSTOM6>
+         <CUSTOM6>Digital</CUSTOM6>
          <NOTES>Includes music-analytical consideration of Op. 22 No. 1. Article cited by Arnold
             Whittall in his Prokofiev and America conference paper on 8 May 2004.</NOTES>
          <URL>Q:\prokofiev\DIGITISED HOLDINGS\TEXTS\Articles\spa-tex-atl-0131-ef</URL>
@@ -2661,7 +2658,7 @@
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM3>SP analytical literature</CUSTOM3>
          <CUSTOM5>14/02/2006</CUSTOM5>
-         <CUSTOM6>Off-print (Jstor) / electronic file</CUSTOM6>
+         <CUSTOM6>Digital</CUSTOM6>
          <URL>Q:\prokofiev\DIGITISED HOLDINGS\TEXTS\Articles\spa-tex-atl-0132-ef</URL>
          <CALL_NUMBER>spa-tex-atl-0132</CALL_NUMBER>
       </RECORD>
@@ -2683,7 +2680,7 @@
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM3>SP analytical literature</CUSTOM3>
          <CUSTOM5>14/02/2006</CUSTOM5>
-         <CUSTOM6>Off-print (Jstor) / electronic file</CUSTOM6>
+         <CUSTOM6>Digital</CUSTOM6>
          <URL>Q:\prokofiev\DIGITISED HOLDINGS\TEXTS\Articles\spa-tex-atl-0133-ef</URL>
          <CALL_NUMBER>spa-tex-atl-0133</CALL_NUMBER>
       </RECORD>
@@ -2866,6 +2863,29 @@
          <CALL_NUMBER>spa-tex-atl-0142</CALL_NUMBER>
       </RECORD>
    <RECORD>
+      <REFERENCE_TYPE>1</REFERENCE_TYPE>
+      <REFNUM>87</REFNUM>
+      <AUTHORS>
+         <AUTHOR>Rakhmanova, Marina</AUTHOR>
+      </AUTHORS>
+      <YEAR>2001</YEAR>
+      <TITLE>Londonskie Apel'siny</TITLE>
+      <SECONDARY_TITLE>Rossiiskaia Muzykal'naia Gazeta</SECONDARY_TITLE>
+      <NUMBER>2</NUMBER>
+      <PAGES>1, 4-5</PAGES>
+      <DATE>2001</DATE>
+      <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+      <ALTERNATE_TITLE>Newspaper</ALTERNATE_TITLE>
+      <CUSTOM1>Russian</CUSTOM1>
+      <CUSTOM5>28/08/2001 (revised 16/02/2006)</CUSTOM5>
+      <CUSTOM6>Photocopy (original in Archive)</CUSTOM6>
+      <NOTES>Article about the launch of the Prokofiev Association and 'Three
+         Oranges'</NOTES>
+      <NOTES>Article about the launch of the Prokofiev Association and 'Three
+         Oranges'</NOTES>
+      <CALL_NUMBER>spa-tex-atl-0143</CALL_NUMBER>
+   </RECORD>
+<RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>57</REFNUM>
          <AUTHORS>
@@ -3006,7 +3026,7 @@
          <ALTERNATE_TITLE>Journal</ALTERNATE_TITLE>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>21/04/2006</CUSTOM5>
-         <CUSTOM6>Photocopy / Electronic file</CUSTOM6>
+         <CUSTOM6>Digital</CUSTOM6>
          <URL>Q:\prokofiev\DIGITISED HOLDINGS\TEXTS\Articles\Soviet travel\spa-tex-atl-150-ef</URL>
          <CALL_NUMBER>spa-tex-atl-0150</CALL_NUMBER>
       </RECORD>
@@ -3026,7 +3046,7 @@
          <ALTERNATE_TITLE>Journal</ALTERNATE_TITLE>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>24/04/2006</CUSTOM5>
-         <CUSTOM6>Photocopy / Electronic file</CUSTOM6>
+         <CUSTOM6>Digital</CUSTOM6>
          <NOTES>Special Theatre Number. A. Tairov, Director of the Moscow Kamerny Theatre and
             Honored Artist of the Republic</NOTES>
          <URL>Q:\prokofiev\DIGITISED HOLDINGS\TEXTS\Articles\Soviet travel\spa-tex-atl-151-ef</URL>
@@ -3048,7 +3068,7 @@
          <ALTERNATE_TITLE>Journal</ALTERNATE_TITLE>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>24/04/2006</CUSTOM5>
-         <CUSTOM6>Photocopy / Electronic file</CUSTOM6>
+         <CUSTOM6>Digital</CUSTOM6>
          <NOTES>Special Theatre Number</NOTES>
          <URL>Q:\prokofiev\DIGITISED HOLDINGS\TEXTS\Articles\Soviet travel\spa-tex-atl-152-ef</URL>
          <CALL_NUMBER>spa-tex-atl-0152</CALL_NUMBER>
@@ -3069,7 +3089,7 @@
          <ALTERNATE_TITLE>Journal</ALTERNATE_TITLE>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>24/04/2006</CUSTOM5>
-         <CUSTOM6>Photocopy / Electronic file</CUSTOM6>
+         <CUSTOM6>Digital</CUSTOM6>
          <NOTES>Special Theatre Number. Natalia Satz, founder and director of the Moscow Theatre for
             Shildren; Honored Artist of the Republic</NOTES>
          <URL>Q:\prokofiev\DIGITISED HOLDINGS\TEXTS\Articles\Soviet travel\spa-tex-atl-153-ef</URL>
@@ -3092,7 +3112,7 @@
          <ALTERNATE_TITLE>Journal</ALTERNATE_TITLE>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>24/04/2006</CUSTOM5>
-         <CUSTOM6>Photocopy / Electronic file</CUSTOM6>
+         <CUSTOM6>Digital</CUSTOM6>
          <NOTES>Special Theatre Number. S. Bogomanov, organsier of the Moscow Theatre Festival and
             the Leningrad Festival of Music</NOTES>
          <URL>Q:\prokofiev\DIGITISED HOLDINGS\TEXTS\Articles\Soviet travel\spa-tex-atl-154-ef</URL>
@@ -3114,7 +3134,7 @@
          <ALTERNATE_TITLE>Journal</ALTERNATE_TITLE>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>24/04/2006</CUSTOM5>
-         <CUSTOM6>Photocopy / Electronic file</CUSTOM6>
+         <CUSTOM6>Digital</CUSTOM6>
          <NOTES>Special Theatre Number</NOTES>
          <URL>Q:\prokofiev\DIGITISED HOLDINGS\TEXTS\Articles\Soviet travel\spa-tex-atl-155-ef</URL>
          <CALL_NUMBER>spa-tex-atl-0155</CALL_NUMBER>
@@ -3135,105 +3155,12 @@
          <ALTERNATE_TITLE>Journal</ALTERNATE_TITLE>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>24/04/2006</CUSTOM5>
-         <CUSTOM6>Photocopy / Electronic file</CUSTOM6>
+         <CUSTOM6>Digital</CUSTOM6>
          <NOTES>Special Number about Soviet Children</NOTES>
          <URL>Q:\prokofiev\DIGITISED HOLDINGS\TEXTS\Articles\Soviet travel\spa-tex-atl-156-ef</URL>
          <CALL_NUMBER>spa-tex-atl-0156</CALL_NUMBER>
       </RECORD>
-   <RECORD>
-         <REFERENCE_TYPE>1</REFERENCE_TYPE>
-         <REFNUM>2562</REFNUM>
-         <AUTHORS>
-            <AUTHOR>Anon.</AUTHOR>
-         </AUTHORS>
-         <YEAR>1935</YEAR>
-         <ARTICLE_TITLE>Szigeti and Beecham in Prokofieff Violin Concerto</ARTICLE_TITLE>
-         <JOURNAL_TITLE>Columbia Christmas List</JOURNAL_TITLE>
-         <PAGES>3</PAGES>
-         <DATE>1935-12</DATE>
-         <TYPE_OF_WORK>Announcement</TYPE_OF_WORK>
-         <ALTERNATE_TITLE>Magazine</ALTERNATE_TITLE>
-         <CUSTOM1>English</CUSTOM1>
-         <CUSTOM5>25/04/2006</CUSTOM5>
-         <CUSTOM6>Electronic file</CUSTOM6>
-         <ACCESSION_NUMBER>197</ACCESSION_NUMBER>
-         <NOTES>Discography announcement - Szigeti playing Prokofiev's Violin Concerto No. 1
-            with Sir Thomas Beecham and the London Philharmonic Orchestra. Print-out in folder
-            'Recordings of SPs music' in WT221</NOTES>
-         <URL>Q:\prokofiev\DIGITISED HOLDINGS\TEXTS\Articles\spa-tex-atl-157-ef</URL>
-         <CALL_NUMBER>spa-tex-atl-0157</CALL_NUMBER>
-      </RECORD>
-   <RECORD>
-         <REFERENCE_TYPE>1</REFERENCE_TYPE>
-         <REFNUM>2563</REFNUM>
-         <AUTHORS>
-            <AUTHOR>Quevedo, María de</AUTHOR>
-         </AUTHORS>
-         <YEAR>1930</YEAR>
-         <ARTICLE_TITLE>Sergio Prokofief</ARTICLE_TITLE>
-         <JOURNAL_TITLE>Musicalia</JOURNAL_TITLE>
-         <NUMBER>10</NUMBER>
-         <PAGES>21-22</PAGES>
-         <DATE>1930-01/03</DATE>
-         <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
-         <ALTERNATE_TITLE>Journal</ALTERNATE_TITLE>
-         <CUSTOM1>Spanish</CUSTOM1>
-         <CUSTOM5>25/04/2006</CUSTOM5>
-         <CUSTOM6>Electronic file</CUSTOM6>
-         <NOTES>Article referred to by Prokofiev in his letter to Quevedo of 05/06/1930 (SPA
-            Correspondence: folder XXIV, p. 180). Letter published in English translation in
-            'Three Oranges', No. 3, p. 10</NOTES>
-         <URL>Q:\prokofiev\DIGITISED HOLDINGS\TEXTS\Articles\Musicalia\spa-tex-atl-158-ef</URL>
-         <CALL_NUMBER>spa-tex-atl-0158</CALL_NUMBER>
-      </RECORD>
-   <RECORD>
-         <REFERENCE_TYPE>1</REFERENCE_TYPE>
-         <REFNUM>2564</REFNUM>
-         <AUTHORS>
-            <AUTHOR>Anon.</AUTHOR>
-         </AUTHORS>
-         <YEAR>1930</YEAR>
-         <ARTICLE_TITLE>Notas biográficas de Prokofief</ARTICLE_TITLE>
-         <JOURNAL_TITLE>Musicalia</JOURNAL_TITLE>
-         <NUMBER>10</NUMBER>
-         <PAGES>22-25</PAGES>
-         <DATE>1930-01/03</DATE>
-         <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
-         <ALTERNATE_TITLE>Journal</ALTERNATE_TITLE>
-         <CUSTOM1>Spanish</CUSTOM1>
-         <CUSTOM5>25/04/2006</CUSTOM5>
-         <CUSTOM6>Electronic file</CUSTOM6>
-         <CALL_NUMBER>spa-tex-atl-0159-ef</CALL_NUMBER>
-         <NOTES>Article referred to by Prokofiev in his letter to Quevedo of 05/06/1930 (SPA
-            Correspondence: folder XXIV, p. 180). Letter published in English translation in
-            'Three Oranges', No. 3, p. 10</NOTES>
-         <URL>Q:\prokofiev\DIGITISED HOLDINGS\TEXTS\Articles\Musicalia\spa-tex-atl-159-ef</URL>
-      </RECORD>
-   <RECORD>
-         <REFERENCE_TYPE>1</REFERENCE_TYPE>
-         <REFNUM>2565</REFNUM>
-         <AUTHORS>
-            <AUTHOR>Prokofiev, Serge</AUTHOR>
-         </AUTHORS>
-         <YEAR>1930</YEAR>
-         <ARTICLE_TITLE>Carta sobre le Música Rusa Contemporánea</ARTICLE_TITLE>
-         <JOURNAL_TITLE>Musicalia</JOURNAL_TITLE>
-         <NUMBER>12</NUMBER>
-         <PAGES>83-85</PAGES>
-         <DATE>1930-07/08</DATE>
-         <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
-         <ALTERNATE_TITLE>Journal</ALTERNATE_TITLE>
-         <CUSTOM1>Spanish</CUSTOM1>
-         <CUSTOM5>25/04/2006</CUSTOM5>
-         <CUSTOM6>Electronic file</CUSTOM6>
-         <CALL_NUMBER>spa-tex-atl-0160-ef</CALL_NUMBER>
-         <NOTES>Article sent by Prokofiev with his letter to Quevedo of 05/06/1930 (SPA
-            Correspondence: folder XXIV, p. 180). Prokofiev submitted the article in French, which
-            was translated into Spanish for publication. The original article (in French) is
-            published in English translation in 'Three Oranges', No. 3, p. 11</NOTES>
-         <URL>Q:\prokofiev\DIGITISED HOLDINGS\TEXTS\Articles\Musicalia\spa-tex-atl-160-ef</URL>
-      </RECORD>
-   <RECORD>
+<RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>2566</REFNUM>
          <AUTHORS>
@@ -3253,8 +3180,8 @@
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>26/04/2006</CUSTOM5>
          <CUSTOM6>Photocopy</CUSTOM6>
-         <CALL_NUMBER>spa-tex-atl-0161</CALL_NUMBER>
          <NOTES>Interview with Mr Scholes. Pianola; Duo-Art</NOTES>
+         <CALL_NUMBER>spa-tex-atl-0161</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -3266,7 +3193,7 @@
          <ARTICLE_TITLE>Orchestral: His Master's Voice</ARTICLE_TITLE>
          <SECONDARY_ARTICLE_TITLE>Gramaphone Reivew</SECONDARY_ARTICLE_TITLE>
          <JOURNAL_TITLE>Gramophone</JOURNAL_TITLE>
-         <VOLUME>[?]</VOLUME>
+         <VOLUME></VOLUME>
          <NUMBER>11</NUMBER>
          <PAGES>229-230</PAGES>
          <DATE>1927-11</DATE>
@@ -3275,34 +3202,9 @@
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>26/04/2006</CUSTOM5>
          <CUSTOM6>Photocopy</CUSTOM6>
-         <CALL_NUMBER>spa-tex-atl-0162</CALL_NUMBER>
          <NOTES>Review of an HMV LP issue (D.1259) of three pieces from Love for Three Oranges, with
             the LSO conducted by Albert Coates</NOTES>
-      </RECORD>
-   <RECORD>
-         <REFERENCE_TYPE>1</REFERENCE_TYPE>
-         <REFNUM>2573</REFNUM>
-         <AUTHORS>
-            <AUTHOR>Morrison, Simon</AUTHOR>
-         </AUTHORS>
-         <YEAR>2005</YEAR>
-         <ARTICLE_TITLE>Sergei Prokofiev</ARTICLE_TITLE>
-         <SECONDARY_ARTICLE_TITLE>Dnevnik 1907-1933</SECONDARY_ARTICLE_TITLE>
-         <JOURNAL_TITLE>Journal of the American Musicological Society</JOURNAL_TITLE>
-         <VOLUME>58</VOLUME>
-         <NUMBER>1</NUMBER>
-         <PAGES>233-243</PAGES>
-         <DATE>2005</DATE>
-         <TYPE_OF_WORK>Essay / review</TYPE_OF_WORK>
-         <ALTERNATE_TITLE>Journal</ALTERNATE_TITLE>
-         <CUSTOM1>English</CUSTOM1>
-         <CUSTOM5>16/05/2006</CUSTOM5>
-         <CUSTOM6>Electronic file</CUSTOM6>
-         <CALL_NUMBER>spa-tex-atl-0163-ef</CALL_NUMBER>
-         <NOTES>Full title:
-            "Sergei Prokof'yev: Dnevnik 1907-1933, edited by Svyatoslav Prokof'yev. 2
-            vols. Paris: sprkfv [Serge Prokofiev Estate], 2002. 812 pp.; 890 pp."</NOTES>
-         <URL>Q:\prokofiev\DIGITISED HOLDINGS\TEXTS\Articles\spa-tex-atl-0163-ef.pdf</URL>
+         <CALL_NUMBER>spa-tex-atl-0162</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -3312,7 +3214,7 @@
          </AUTHORS>
          <YEAR>2006</YEAR>
          <ARTICLE_TITLE>Animal magic</ARTICLE_TITLE>
-         <SECONDARY_ARTICLE_TITLE>Review of 'Peter and the Wolf', Hackney Empire, London</SECONDARY_ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Review of 'Peter and the Wolf,' Hackney Empire, London</SECONDARY_ARTICLE_TITLE>
          <JOURNAL_TITLE>FT Magazine</JOURNAL_TITLE>
          <PAGES>36-37</PAGES>
          <DATE>2006-04-1/2</DATE>
@@ -3321,9 +3223,9 @@
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>17/05/2006</CUSTOM5>
          <CUSTOM6>Photocopy</CUSTOM6>
-         <CALL_NUMBER>spa-tex-atl-0164</CALL_NUMBER>
          <NOTES>Review includes material from interviews with Noëlle Mann and Edward
-            Morgan</NOTES>
+         Morgan</NOTES>
+         <CALL_NUMBER>spa-tex-atl-0164</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -3341,10 +3243,10 @@
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>17/07/2006</CUSTOM5>
          <CUSTOM6>Photocopy</CUSTOM6>
-         <CALL_NUMBER>spa-tex-atl-0165</CALL_NUMBER>
          <NOTES>Article about Nikolina Gora, the dacha village outside Moscow where Prokofiev stayed
             for periods of time on his return to Russia. The article includes a photograph of
             Prokofiev and Rostropovich taken at Nikolina Gora</NOTES>
+         <CALL_NUMBER>spa-tex-atl-0165</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -3380,12 +3282,12 @@
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>27/11/2006</CUSTOM5>
          <CUSTOM6>Photocopy</CUSTOM6>
-         <CALL_NUMBER>spa-tex-atl-0167</CALL_NUMBER>
          <NOTES>Discussion of Alan
             Bush paper at meeting of the Musical Association entitled 'What is Modern
             Music?'. References to Andre Gide's Retour de l'U.R.S.S.&#xD;Also on this
             page, preview of concerto including first London performance of Prokofiev Concerto for
             Violin No. 2 (Op. 63), with Robert Soëtens as soloist - 1936-12-20.</NOTES>
+         <CALL_NUMBER>spa-tex-atl-0167</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -3399,12 +3301,12 @@
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>28/11/2006</CUSTOM5>
          <CUSTOM6>Photocopy</CUSTOM6>
-         <CALL_NUMBER>spa-tex-atl-0168</CALL_NUMBER>
          <KEYWORDS>
             <KEYWORD>Romeo and Juliet (Op. 64)</KEYWORD>
          </KEYWORDS>
          <NOTES>Review of first London performance of Romeo and Juliet (Yugoslav National
             Ballet)</NOTES>
+         <CALL_NUMBER>spa-tex-atl-0168</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -3419,12 +3321,10 @@
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>28/11/2006</CUSTOM5>
          <CUSTOM6>Photocopy</CUSTOM6>
-         <CALL_NUMBER>spa-tex-atl-0169</CALL_NUMBER>
-         <KEYWORDS>
-            <KEYWORD>Romeo and Juliet (Op. 64)</KEYWORD>
-         </KEYWORDS>
+         <KEYWORD>Romeo and Juliet (Op. 64)</KEYWORD>
          <NOTES>Review of first London performance of Romeo and Juliet (Yugoslav National
             Ballet)</NOTES>
+         <CALL_NUMBER>spa-tex-atl-0169</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -3441,13 +3341,11 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>28/11/2006</CUSTOM5>
          <CUSTOM6>Photocopy</CUSTOM6>
-         <CALL_NUMBER>spa-tex-atl-0170</CALL_NUMBER>
-         <KEYWORDS>
-            <KEYWORD>Peter and the Wolf (Op. 67)</KEYWORD>
-         </KEYWORDS>
+         <KEYWORD>Peter and the Wolf (Op. 67)</KEYWORD>
          <NOTES>Review by of second performance of Peter and the Wolf at the Central Children's
             Theatre 1936-05-05.&#xD;English translation of this review published in Three Oranges
             Issue 12.</NOTES>
+         <CALL_NUMBER>spa-tex-atl-0170</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -3501,11 +3399,11 @@
          <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/12/2006</CUSTOM5>
-         <CALL_NUMBER>spa-tex-atl-0173</CALL_NUMBER>
          <KEYWORDS>
             <KEYWORD>Love for three oranges</KEYWORD>
          </KEYWORDS>
          <NOTES>Meyerhold's adaptation of Gozzi's tale</NOTES>
+         <CALL_NUMBER>spa-tex-atl-0173</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -3580,7 +3478,6 @@
          <CUSTOM5>10/10/2007</CUSTOM5>
          <CUSTOM6>Photocopy</CUSTOM6>
          <ACCESSION_NUMBER>399</ACCESSION_NUMBER>
-         <CALL_NUMBER>spa-tex-atl-0176</CALL_NUMBER>
          <NOTES>Includes page "Activities of some of the members of the honorary board"
             [including Prokofiev]&#xD;&#xD;"Pro-Musica Quarterly, official journal of the
             Pro-Musica Society, was published in New York City from September 1923 to October 1929.
@@ -3591,6 +3488,7 @@
             contemporary French and American composers. PMQ is an essential primary source for the
             study of early twentieth-century music in the United States."
             (www.ripm.org)</NOTES>
+         <CALL_NUMBER>spa-tex-atl-0176</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -3609,8 +3507,8 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>20/11/2007</CUSTOM5>
          <CUSTOM6>Photocopy</CUSTOM6>
-         <CALL_NUMBER>spa-tex-atl-0177</CALL_NUMBER>
          <NOTES>[The Gambler: tragedy - satire]</NOTES>
+         <CALL_NUMBER>spa-tex-atl-0177</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -3653,64 +3551,6 @@
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
-         <REFNUM>3388</REFNUM>
-         <AUTHORS>
-            <AUTHOR>Lobacheva, Nadezhda</AUTHOR>
-         </AUTHORS>
-         <YEAR>2008</YEAR>
-         <ARTICLE_TITLE>Prokof'ev-chitatel': k istorii opernykh zamyslov 1940-kh godov</ARTICLE_TITLE>
-         <JOURNAL_TITLE>Muzykal'naia akademiia</JOURNAL_TITLE>
-         <NUMBER>4</NUMBER>
-         <PAGES>63-69</PAGES>
-         <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
-         <ALTERNATE_TITLE>Journal</ALTERNATE_TITLE>
-         <CUSTOM1>Russian</CUSTOM1>
-         <CUSTOM5>16/07/2009</CUSTOM5>
-         <CUSTOM6>Xerox</CUSTOM6>
-         <CALL_NUMBER>spa-tex-atl-0180</CALL_NUMBER>
-      </RECORD>
-   <RECORD>
-         <REFERENCE_TYPE>1</REFERENCE_TYPE>
-         <REFNUM>3281</REFNUM>
-         <AUTHORS>
-            <AUTHOR>Robinson, Harlow</AUTHOR>
-         </AUTHORS>
-         <YEAR>1984</YEAR>
-         <ARTICLE_TITLE>Dostoevsky and Opera: Prokofiev's The Gambler</ARTICLE_TITLE>
-         <JOURNAL_TITLE>Musical Quarterly</JOURNAL_TITLE>
-         <NUMBER>Winter 1984</NUMBER>
-         <PAGES>96-106</PAGES>
-         <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
-         <ALTERNATE_TITLE>Journal</ALTERNATE_TITLE>
-         <CUSTOM1>English</CUSTOM1>
-         <CUSTOM5>10/12/2007</CUSTOM5>
-         <CUSTOM6>Photocopy</CUSTOM6>
-         <CALL_NUMBER>spa-tex-atl-0181</CALL_NUMBER>
-      </RECORD>
-   <RECORD>
-         <REFERENCE_TYPE>1</REFERENCE_TYPE>
-         <REFNUM>3426</REFNUM>
-         <AUTHORS>
-            <AUTHOR>Robinson, Harlow</AUTHOR>
-         </AUTHORS>
-         <YEAR>1991</YEAR>
-         <ARTICLE_TITLE>Flirting with Decadence: Sergei Prokofiev and Ognennyi angel</ARTICLE_TITLE>
-         <JOURNAL_TITLE>Opera Quarterly</JOURNAL_TITLE>
-         <VOLUME>8</VOLUME>
-         <NUMBER>4</NUMBER>
-         <PAGES>1-7</PAGES>
-         <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
-         <ALTERNATE_TITLE>Journal</ALTERNATE_TITLE>
-         <CUSTOM1>English</CUSTOM1>
-         <CUSTOM5>15/12/2009</CUSTOM5>
-         <CUSTOM6>Photocopy</CUSTOM6>
-         <CALL_NUMBER>spa-tex-atl-0182</CALL_NUMBER>
-         <KEYWORDS>
-            <KEYWORD>The Fiery Angel (Op. 37)</KEYWORD>
-         </KEYWORDS>
-      </RECORD>
-   <RECORD>
-         <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>3614</REFNUM>
          <AUTHORS>
             <AUTHOR>Van Puymbroeck, Stefan</AUTHOR>
@@ -3722,28 +3562,9 @@
          <CUSTOM5>2013-05-31</CUSTOM5>
          <CUSTOM6>Photocopy</CUSTOM6>
          <ACCESSION_NUMBER>529</ACCESSION_NUMBER>
-         <CALL_NUMBER>spa-tex-atl-0183</CALL_NUMBER>
          <NOTES>Lecture given at Goldsmiths, University of London, 10 May 2008&#xD;&#xD;Printed from
-            electronic file saved in Q:\Prokofiev\DIGITISED HOLDINGS\TEXTS\Stefan Van
-            Puymbroeck_Fiery Angel Lecture</NOTES>
-      </RECORD>
-   <RECORD>
-         <REFERENCE_TYPE>1</REFERENCE_TYPE>
-         <REFNUM>3615</REFNUM>
-         <AUTHORS>
-            <AUTHOR>Bianchi, Carlo</AUTHOR>
-         </AUTHORS>
-         <YEAR>2013</YEAR>
-         <ARTICLE_TITLE>Corpi de ballo e corpi da favola nel teatro musicale sovietico di Sergej
-            Prokof'ev</ARTICLE_TITLE>
-         <JOURNAL_TITLE>Gli spazi della musica</JOURNAL_TITLE>
-         <VOLUME>2</VOLUME>
-         <NUMBER>1</NUMBER>
-         <ALTERNATE_TITLE>Online</ALTERNATE_TITLE>
-         <CUSTOM1>Italian</CUSTOM1>
-         <CUSTOM5>26/07/2013</CUSTOM5>
-         <CUSTOM6>Printout</CUSTOM6>
-         <CALL_NUMBER>spa-tex-atl-0184</CALL_NUMBER>
-         <NOTES>University of Turin</NOTES>
+               electronic file saved in Q:\Prokofiev\DIGITISED HOLDINGS\TEXTS\Stefan Van
+               Puymbroeck_Fiery Angel Lecture – UPDATE: Cannot find electronic file</NOTES>
+         <CALL_NUMBER>spa-tex-atl-0183</CALL_NUMBER>
       </RECORD>
 </outputxml>

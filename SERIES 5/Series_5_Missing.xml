@@ -1,28 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <outputxml>
-    <RECORD>
+
+<RECORD>
         <REFERENCE_TYPE>1</REFERENCE_TYPE>
-        <REFNUM>87</REFNUM>
+        <REFNUM>3388</REFNUM>
         <AUTHORS>
-            <AUTHOR>Rakhmanova, Marina</AUTHOR>
+            <AUTHOR>Lobacheva, Nadezhda</AUTHOR>
         </AUTHORS>
-        <YEAR>2001</YEAR>
-        <TITLE>Londonskie Apel'siny</TITLE>
-        <SECONDARY_TITLE>Rossiiskaia Muzykal'naia Gazeta</SECONDARY_TITLE>
-        <NUMBER>2</NUMBER>
-        <PAGES>1, 4-5</PAGES>
-        <DATE>2001</DATE>
+        <YEAR>2008</YEAR>
+        <ARTICLE_TITLE>Prokof'ev-chitatel': k istorii opernykh zamyslov 1940-kh godov</ARTICLE_TITLE>
+        <JOURNAL_TITLE>Muzykal'naia akademiia</JOURNAL_TITLE>
+        <NUMBER>4</NUMBER>
+        <PAGES>63-69</PAGES>
         <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
-        <ALTERNATE_TITLE>Newspaper</ALTERNATE_TITLE>
+        <ALTERNATE_TITLE>Journal</ALTERNATE_TITLE>
         <CUSTOM1>Russian</CUSTOM1>
-        <CUSTOM5>28/08/2001 (revised 16/02/2006)</CUSTOM5>
-        <CUSTOM6>Photocopy (original in Archive)</CUSTOM6>
-        <CALL_NUMBER>spa-tex-atl-0043</CALL_NUMBER>
-        <NOTES>Article about the launch of the Prokofiev Association and 'Three
-            Oranges'</NOTES>
+        <CUSTOM5>16/07/2009</CUSTOM5>
+        <CUSTOM6>Xerox</CUSTOM6>
+        <CALL_NUMBER>spa-tex-atl-0180</CALL_NUMBER>
     </RECORD>
-    <RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>3281</REFNUM>
+        <AUTHORS>
+            <AUTHOR>Robinson, Harlow</AUTHOR>
+        </AUTHORS>
+        <YEAR>1984</YEAR>
+        <ARTICLE_TITLE>Dostoevsky and Opera: Prokofiev's The Gambler</ARTICLE_TITLE>
+        <JOURNAL_TITLE>Musical Quarterly</JOURNAL_TITLE>
+        <NUMBER>Winter 1984</NUMBER>
+        <PAGES>96-106</PAGES>
+        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <ALTERNATE_TITLE>Journal</ALTERNATE_TITLE>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>10/12/2007</CUSTOM5>
+        <CUSTOM6>Photocopy</CUSTOM6>
+        <CALL_NUMBER>spa-tex-atl-0181</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>3426</REFNUM>
+        <AUTHORS>
+            <AUTHOR>Robinson, Harlow</AUTHOR>
+        </AUTHORS>
+        <YEAR>1991</YEAR>
+        <ARTICLE_TITLE>Flirting with Decadence: Sergei Prokofiev and Ognennyi angel</ARTICLE_TITLE>
+        <JOURNAL_TITLE>Opera Quarterly</JOURNAL_TITLE>
+        <VOLUME>8</VOLUME>
+        <NUMBER>4</NUMBER>
+        <PAGES>1-7</PAGES>
+        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <ALTERNATE_TITLE>Journal</ALTERNATE_TITLE>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>15/12/2009</CUSTOM5>
+        <CUSTOM6>Photocopy</CUSTOM6>
+        <KEYWORDS>
+            <KEYWORD>The Fiery Angel (Op. 37)</KEYWORD>
+        </KEYWORDS>
+        <CALL_NUMBER>spa-tex-atl-0182</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>3615</REFNUM>
+        <AUTHORS>
+            <AUTHOR>Bianchi, Carlo</AUTHOR>
+        </AUTHORS>
+        <YEAR>2013</YEAR>
+        <ARTICLE_TITLE>Corpi de ballo e corpi da favola nel teatro musicale sovietico di Sergej
+            Prokof'ev</ARTICLE_TITLE>
+        <JOURNAL_TITLE>Gli spazi della musica</JOURNAL_TITLE>
+        <VOLUME>2</VOLUME>
+        <NUMBER>1</NUMBER>
+        <ALTERNATE_TITLE>Online</ALTERNATE_TITLE>
+        <CUSTOM1>Italian</CUSTOM1>
+        <CUSTOM5>26/07/2013</CUSTOM5>
+        <CUSTOM6>Printout</CUSTOM6>
+        <NOTES>University of Turin</NOTES>
+        <CALL_NUMBER>spa-tex-atl-0184</CALL_NUMBER>
+    </RECORD>
+<RECORD>
         <REFERENCE_TYPE>1</REFERENCE_TYPE>
         <REFNUM>30</REFNUM>
         <AUTHORS>
