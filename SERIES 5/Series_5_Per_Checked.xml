@@ -124,6 +124,7 @@
         <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>Print</CUSTOM2>
         <CUSTOM5>11/05/2005</CUSTOM5>
         <CALL_NUMBER>spa-tex-per-0116</CALL_NUMBER>
     </RECORD>
@@ -142,7 +143,829 @@
         <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>Print</CUSTOM2>
         <CUSTOM5>11/05/2005</CUSTOM5>
         <CALL_NUMBER>spa-tex-per-0117</CALL_NUMBER>
+    </RECORD>
+ <RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2053</REFNUM>
+        <AUTHORS>
+            <EDITOR>Popov, I. E.</EDITOR>
+        </AUTHORS>
+        <YEAR>1990</YEAR>
+        <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
+        <NUMBER>13 (783)</NUMBER>
+        <DATE>1990-07</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ISBN>01312383</ISBN>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>Print</CUSTOM2>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0118</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2054</REFNUM>
+        <AUTHORS>
+            <EDITOR>Platek, Ia M</EDITOR>
+        </AUTHORS>
+        <YEAR>1991</YEAR>
+        <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
+        <NUMBER>2 (796)</NUMBER>
+        <DATE>1991-01</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ISBN>01312383</ISBN>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>Print</CUSTOM2>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0119</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2055</REFNUM>
+        <AUTHORS>
+            <EDITOR>Platek, Ia M</EDITOR>
+        </AUTHORS>
+        <YEAR>1998</YEAR>
+        <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Kompozitor</PUBLISHER>
+        <NUMBER>1 (914)</NUMBER>
+        <DATE>1998-01</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ISBN>01312383</ISBN>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0120</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2056</REFNUM>
+        <AUTHORS>
+            <EDITOR>Platek, Ia M</EDITOR>
+        </AUTHORS>
+        <YEAR>1998</YEAR>
+        <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Kompozitor</PUBLISHER>
+        <NUMBER>2 (915)</NUMBER>
+        <DATE>1998-02</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ISBN>01312383</ISBN>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0121</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2057</REFNUM>
+        <AUTHORS>
+            <EDITOR>Platek, Ia M</EDITOR>
+        </AUTHORS>
+        <YEAR>1998</YEAR>
+        <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Kompozitor</PUBLISHER>
+        <NUMBER>3 (916)</NUMBER>
+        <DATE>1998-03</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ISBN>01312383</ISBN>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0122</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2058</REFNUM>
+        <AUTHORS>
+            <EDITOR>Platek, Ia M</EDITOR>
+        </AUTHORS>
+        <YEAR>1998</YEAR>
+        <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Kompozitor</PUBLISHER>
+        <NUMBER>4 (917)</NUMBER>
+        <DATE>1998-04</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ISBN>01312383</ISBN>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0123</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2059</REFNUM>
+        <AUTHORS>
+            <EDITOR>Platek, Ia M</EDITOR>
+        </AUTHORS>
+        <YEAR>1998</YEAR>
+        <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Kompozitor</PUBLISHER>
+        <NUMBER>5 (918)</NUMBER>
+        <DATE>1998-05</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ISBN>01312383</ISBN>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0124</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2060</REFNUM>
+        <AUTHORS>
+            <EDITOR>Platek, Ia M</EDITOR>
+        </AUTHORS>
+        <YEAR>1998</YEAR>
+        <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Kompozitor</PUBLISHER>
+        <NUMBER>5 (919)</NUMBER>
+        <DATE>1998-06</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ISBN>01312383</ISBN>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0125</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2061</REFNUM>
+        <AUTHORS>
+            <EDITOR>Platek, Ia M</EDITOR>
+        </AUTHORS>
+        <YEAR>1998</YEAR>
+        <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Kompozitor</PUBLISHER>
+        <NUMBER>7 (920)</NUMBER>
+        <DATE>1998-07</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ISBN>01312383</ISBN>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0126</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2062</REFNUM>
+        <AUTHORS>
+            <EDITOR>Platek, Ia M</EDITOR>
+        </AUTHORS>
+        <YEAR>1998</YEAR>
+        <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Kompozitor</PUBLISHER>
+        <NUMBER>8 (921)</NUMBER>
+        <DATE>1998-08</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ISBN>01312383</ISBN>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0127</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2063</REFNUM>
+        <AUTHORS>
+            <EDITOR>Platek, Ia M</EDITOR>
+        </AUTHORS>
+        <YEAR>1998</YEAR>
+        <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Kompozitor</PUBLISHER>
+        <NUMBER>9 (922)</NUMBER>
+        <DATE>1998-09</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ISBN>01312383</ISBN>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0128</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2064</REFNUM>
+        <AUTHORS>
+            <EDITOR>Platek, Ia M</EDITOR>
+        </AUTHORS>
+        <YEAR>1998</YEAR>
+        <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Kompozitor</PUBLISHER>
+        <NUMBER>10 (923)</NUMBER>
+        <DATE>1998-10</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ISBN>01312383</ISBN>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0129</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2065</REFNUM>
+        <AUTHORS>
+            <EDITOR>Platek, Ia M</EDITOR>
+        </AUTHORS>
+        <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Kompozitor</PUBLISHER>
+        <NUMBER>11 (924)</NUMBER>
+        <DATE>1998-11</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ISBN>01312383</ISBN>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0130</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2066</REFNUM>
+        <AUTHORS>
+            <EDITOR>Platek, Ia M</EDITOR>
+        </AUTHORS>
+        <YEAR>1998</YEAR>
+        <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Kompozitor</PUBLISHER>
+        <NUMBER>12 (925)</NUMBER>
+        <DATE>1998-12</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ISBN>01312383</ISBN>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0131</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2067</REFNUM>
+        <AUTHORS>
+            <EDITOR>Platek, Ia M</EDITOR>
+        </AUTHORS>
+        <YEAR>1999</YEAR>
+        <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Kompozitor</PUBLISHER>
+        <NUMBER>1 (926)</NUMBER>
+        <DATE>1999-01</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ISBN>01312383</ISBN>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0132</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2068</REFNUM>
+        <AUTHORS>
+            <EDITOR>Platek, Ia M</EDITOR>
+        </AUTHORS>
+        <YEAR>1999</YEAR>
+        <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Kompozitor</PUBLISHER>
+        <NUMBER>2 (927)</NUMBER>
+        <DATE>1999-02</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ISBN>01312383</ISBN>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0133</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2069</REFNUM>
+        <AUTHORS>
+            <EDITOR>Platek, Ia M</EDITOR>
+        </AUTHORS>
+        <YEAR>1999</YEAR>
+        <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Kompozitor</PUBLISHER>
+        <NUMBER>3 (928)</NUMBER>
+        <DATE>1999-03</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ISBN>01312383</ISBN>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0134</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2070</REFNUM>
+        <AUTHORS>
+            <EDITOR>Platek, Ia M</EDITOR>
+        </AUTHORS>
+        <YEAR>1999</YEAR>
+        <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Kompozitor</PUBLISHER>
+        <NUMBER>4 (929)</NUMBER>
+        <DATE>1999-04</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ISBN>01312383</ISBN>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0135</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2071</REFNUM>
+        <AUTHORS>
+            <EDITOR>Platek, Ia M</EDITOR>
+        </AUTHORS>
+        <YEAR>1999</YEAR>
+        <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Kompozitor</PUBLISHER>
+        <NUMBER>5 (930)</NUMBER>
+        <DATE>1999-05</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ISBN>01312383</ISBN>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0136</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2072</REFNUM>
+        <AUTHORS>
+            <EDITOR>Platek, Ia M</EDITOR>
+        </AUTHORS>
+        <YEAR>1999</YEAR>
+        <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Kompozitor</PUBLISHER>
+        <NUMBER>6 (931)</NUMBER>
+        <DATE>1999-06</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ISBN>01312383</ISBN>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0137</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2073</REFNUM>
+        <AUTHORS>
+            <EDITOR>Platek, Ia M</EDITOR>
+        </AUTHORS>
+        <YEAR>1999</YEAR>
+        <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Kompozitor</PUBLISHER>
+        <NUMBER>7 (932)</NUMBER>
+        <DATE>1999-07</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ISBN>01312383</ISBN>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0138</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2074</REFNUM>
+        <AUTHORS>
+            <EDITOR>Platek, Ia M</EDITOR>
+        </AUTHORS>
+        <YEAR>1999</YEAR>
+        <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Kompozitor</PUBLISHER>
+        <NUMBER>8 (933)</NUMBER>
+        <DATE>1999-08</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ISBN>01312383</ISBN>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0139</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2075</REFNUM>
+        <AUTHORS>
+            <EDITOR>Platek, Ia M</EDITOR>
+        </AUTHORS>
+        <YEAR>1999</YEAR>
+        <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Kompozitor</PUBLISHER>
+        <NUMBER>9 (934)</NUMBER>
+        <DATE>1999-09</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ISBN>01312383</ISBN>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0140</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2076</REFNUM>
+        <AUTHORS>
+            <EDITOR>Platek, Ia M</EDITOR>
+        </AUTHORS>
+        <YEAR>2000</YEAR>
+        <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Kompozitor</PUBLISHER>
+        <NUMBER>3 (940)</NUMBER>
+        <DATE>2000-03</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ISBN>01312383</ISBN>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0141</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2077</REFNUM>
+        <AUTHORS>
+            <EDITOR>Platek, Ia M</EDITOR>
+        </AUTHORS>
+        <YEAR>2000</YEAR>
+        <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Kompozitor</PUBLISHER>
+        <NUMBER>4 (941)</NUMBER>
+        <DATE>2000-04</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ISBN>01312383</ISBN>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0142</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2078</REFNUM>
+        <AUTHORS>
+            <EDITOR>Platek, Ia M</EDITOR>
+        </AUTHORS>
+        <YEAR>2001</YEAR>
+        <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Kompozitor</PUBLISHER>
+        <NUMBER>6 (955)</NUMBER>
+        <DATE>2001-06</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ISBN>01312383</ISBN>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0143</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2079</REFNUM>
+        <AUTHORS>
+            <EDITOR>Platek, Ia M</EDITOR>
+        </AUTHORS>
+        <YEAR>2001</YEAR>
+        <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Kompozitor</PUBLISHER>
+        <NUMBER>8 (957)</NUMBER>
+        <DATE>2001-08</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ISBN>01312383</ISBN>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0144</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2080</REFNUM>
+        <AUTHORS>
+            <EDITOR>Platek, Ia M</EDITOR>
+        </AUTHORS>
+        <YEAR>2001</YEAR>
+        <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Kompozitor</PUBLISHER>
+        <NUMBER>9 (958)</NUMBER>
+        <DATE>2001-09</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ISBN>01312383</ISBN>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0145</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2081</REFNUM>
+        <AUTHORS>
+            <EDITOR>Platek, Ia M</EDITOR>
+        </AUTHORS>
+        <YEAR>2001</YEAR>
+        <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Kompozitor</PUBLISHER>
+        <NUMBER>10 (989)</NUMBER>
+        <DATE>2001-10</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ISBN>01312383</ISBN>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0146</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2082</REFNUM>
+        <AUTHORS>
+            <EDITOR>Platek, Ia M</EDITOR>
+        </AUTHORS>
+        <YEAR>2001</YEAR>
+        <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Kompozitor</PUBLISHER>
+        <NUMBER>11 (990)</NUMBER>
+        <DATE>2001-11</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ISBN>01312383</ISBN>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0147</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2083</REFNUM>
+        <AUTHORS>
+            <EDITOR>Platek, Ia M</EDITOR>
+        </AUTHORS>
+        <YEAR>2001</YEAR>
+        <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Kompozitor</PUBLISHER>
+        <NUMBER>12 (991)</NUMBER>
+        <DATE>2001-12</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ISBN>01312383</ISBN>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0148</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2084</REFNUM>
+        <AUTHORS>
+            <EDITOR>Platek, Ia M</EDITOR>
+        </AUTHORS>
+        <YEAR>2002</YEAR>
+        <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Kompozitor</PUBLISHER>
+        <NUMBER>1 (992)</NUMBER>
+        <DATE>2002-01</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ISBN>01312383</ISBN>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0149</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2085</REFNUM>
+        <AUTHORS>
+            <EDITOR>Enisherlov, V. P.</EDITOR>
+        </AUTHORS>
+        <YEAR>1991</YEAR>
+        <PERIODICAL_TITLE>Nashe Nasledie</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Iskusstvo</PUBLISHER>
+        <NUMBER>2 (20)</NUMBER>
+        <DATE>1991</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ISBN>02341395</ISBN>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0150</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2086</REFNUM>
+        <AUTHORS>
+            <EDITOR>Sofronov, A. V.</EDITOR>
+        </AUTHORS>
+        <YEAR>1973</YEAR>
+        <PERIODICAL_TITLE>Ogonek</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Pravda</PUBLISHER>
+        <NUMBER>29 (2402)</NUMBER>
+        <DATE>1973-07-14</DATE>
+        <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0151</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2087</REFNUM>
+        <AUTHORS>
+            <EDITOR>Korotich, V. A.</EDITOR>
+        </AUTHORS>
+        <YEAR>1991</YEAR>
+        <PERIODICAL_TITLE>Ogonek</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Pravda</PUBLISHER>
+        <NUMBER>12 (3322)</NUMBER>
+        <DATE>1991-03-16/23</DATE>
+        <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
+        <ISBN>01310097</ISBN>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0152</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2088</REFNUM>
+        <AUTHORS>
+            <EDITOR>Korotich, V. A.</EDITOR>
+        </AUTHORS>
+        <YEAR>1991</YEAR>
+        <PERIODICAL_TITLE>Ogonek</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Pravda</PUBLISHER>
+        <NUMBER>21 (3331)</NUMBER>
+        <DATE>1991-05-18/25</DATE>
+        <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
+        <ISBN>01310097</ISBN>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0153</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2101</REFNUM>
+        <AUTHORS>
+            <EDITOR>Carlweitz, Staffan</EDITOR>
+        </AUTHORS>
+        <YEAR>1991</YEAR>
+        <PERIODICAL_TITLE>På Operan</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Stockholm</PLACE_PUBLISHED>
+        <PUBLISHER>Kungliga Teatern</PUBLISHER>
+        <VOLUME>1990-91</VOLUME>
+        <NUMBER>3</NUMBER>
+        <DATE>Mars 1991</DATE>
+        <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
+        <CUSTOM1>Swedish</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>05/08/2005</CUSTOM5>
+        <NOTES>Includes an article on Prokofiev, pp. 5-7</NOTES>
+        <CALL_NUMBER>spa-tex-per-0154</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2102</REFNUM>
+        <AUTHORS>
+            <EDITOR>Heldt, Dr Gerhard</EDITOR>
+        </AUTHORS>
+        <YEAR>1985</YEAR>
+        <PERIODICAL_TITLE>Blätter der Bayerischen Staatsoper, Spielzeit 1985-86</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>München</PLACE_PUBLISHED>
+        <PUBLISHER>Bayerische Staatsoper</PUBLISHER>
+        <NUMBER>II</NUMBER>
+        <DATE>1985-11</DATE>
+        <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
+        <CUSTOM1>German</CUSTOM1>
+        <CUSTOM5>05/08/2005</CUSTOM5>
+        <NOTES>Article on Prokofiev, pp. 21-23</NOTES>
+        <CALL_NUMBER>spa-tex-per-0155</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2103</REFNUM>
+        <AUTHORS>
+            <EDITOR>Gomm, Barbara</EDITOR>
+            <EDITOR>Hartwig, Helmut Andreas</EDITOR>
+        </AUTHORS>
+        <YEAR>1984</YEAR>
+        <PERIODICAL_TITLE>Theatermagazin der Bundeshauptstadt, Spielzeit 1983-84</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Bonn</PLACE_PUBLISHED>
+        <PUBLISHER>Bühnen der Stadt Bonn</PUBLISHER>
+        <NUMBER>8</NUMBER>
+        <DATE>10.04.1984</DATE>
+        <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
+        <CUSTOM1>German</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>05/08/2005</CUSTOM5>
+        <NOTES>Article on the production of The Fiery Angel, pp. 7-11</NOTES>
+        <CALL_NUMBER>spa-tex-per-0156</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>900</REFNUM>
+        <EDITOR></EDITOR>
+        <YEAR>1990</YEAR>
+        <PERIODICAL_TITLE>The Pianola Journal</PERIODICAL_TITLE>
+        <PUBLISHER>The Pianola Institute</PUBLISHER>
+        <NUMBER>3</NUMBER>
+        <DATE>1990</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>28/10/2002</CUSTOM5>
+        <NOTES>Contributors: Edwin Evans; Denis Hall; Rex Lawson; Michael Magnus Osborn; Gerald
+            Stonehill</NOTES>
+        <CALL_NUMBER>spa-tex-per-0157</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>901</REFNUM>
+        <YEAR>1993</YEAR>
+        <EDITOR></EDITOR>
+        <PERIODICAL_TITLE>The Pianola Journal</PERIODICAL_TITLE>
+        <PUBLISHER>The Pianola Institute</PUBLISHER>
+        <NUMBER>5</NUMBER>
+        <DATE>1993</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>28/10/2002</CUSTOM5>
+        <NOTES>Contributors: Drui Fergison; Denis Hall; Rex Lawson; Colin Osman; David Smith; Guy
+            Montrose Whipple</NOTES>
+        <CALL_NUMBER>spa-tex-per-0158</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>902</REFNUM>
+        <YEAR>1998</YEAR>
+        <EDITOR></EDITOR>
+        <PERIODICAL_TITLE>The Pianola Journal</PERIODICAL_TITLE>
+        <PUBLISHER>The Pianola Institute</PUBLISHER>
+        <NUMBER>10</NUMBER>
+        <DATE>1998</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>28/10/2002</CUSTOM5>
+        <NOTES>Contributors: Charles Amirkhanian; Denis Hall; Wendy Hiscocks; Lionel Salter</NOTES>
+        <CALL_NUMBER>spa-tex-per-0159</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>903</REFNUM>
+        <YEAR>1998</YEAR>
+        <EDITOR></EDITOR>
+        <PERIODICAL_TITLE>The Pianola Journal</PERIODICAL_TITLE>
+        <PUBLISHER>The Pianola Institute</PUBLISHER>
+        <NUMBER>11</NUMBER>
+        <DATE>1998</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>28/10/2002</CUSTOM5>
+        <NOTES>Contributors: Jeanette Koch; Samuel Langford; Rex Lawson</NOTES>
+        <CALL_NUMBER>spa-tex-per-0160</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>904</REFNUM>
+        <YEAR>1999</YEAR>
+        <EDITOR></EDITOR>
+        <PERIODICAL_TITLE>The Pianola Journal</PERIODICAL_TITLE>
+        <PUBLISHER>The Pianola Institute</PUBLISHER>
+        <NUMBER>12</NUMBER>
+        <DATE>1999</DATE>
+        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM2>PRINT</CUSTOM2>
+        <CUSTOM5>28/10/2002</CUSTOM5>
+        <NOTES>Contributors: Julian Dyer; Denis Hall; Rex Lawson; Nigel Simone</NOTES>
+        <CALL_NUMBER>spa-tex-per-0161</CALL_NUMBER>
     </RECORD>
 </outputxml>

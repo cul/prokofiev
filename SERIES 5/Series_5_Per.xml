@@ -3,13 +3,13 @@
 <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>2321</REFNUM>
-         <AUTHORS>
+         <ARTICLE_AUTHORS>
             <AUTHOR>Mendl-Schrama, Heleen</AUTHOR>
-         </AUTHORS>
+         </ARTICLE_AUTHORS>
          <YEAR>1992</YEAR>
-         <TITLE>Sergei Prokofjev 1891-1953: componist, pianist, dirigent, maarschrijver van
-            dagboeken en korte verhalen</TITLE>
-         <SECONDARY_TITLE>Pianowereld</SECONDARY_TITLE>
+         <ARTICLE_TITLE>Sergei Prokofjev 1891-1953: componist, pianist, dirigent, maarschrijver van
+            dagboeken en korte verhalen</ARTICLE_TITLE>
+         <PERIODICAL_TITLE>Pianowereld</PERIODICAL_TITLE>
          <VOLUME>8</VOLUME>
          <NUMBER>3</NUMBER>
          <PAGES>6-9</PAGES>
@@ -2341,7 +2341,24 @@
          <CUSTOM5>29/11/2000 (revised 12/01/2006)</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
          <CALL_NUMBER>[spa-tex-per-0113]</CALL_NUMBER>
-      </RECORD>
+   </RECORD>
+<RECORD>
+      <REFERENCE_TYPE>4</REFERENCE_TYPE>
+      <REFNUM>2049</REFNUM>
+      <AUTHORS>
+         <EDITOR>Belyi, Viktor Arkadevich</EDITOR>
+      </AUTHORS>
+      <YEAR>1966</YEAR>
+      <TITLE>Muzykal'naia Zhizn'</TITLE>
+      <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+      <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
+      <NUMBER>8</NUMBER>
+      <DATE>1966-04</DATE>
+      <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+      <CUSTOM1>Russian</CUSTOM1>
+      <CUSTOM5>11/05/2005</CUSTOM5>
+      <CALL_NUMBER>spa-tex-per-0114</CALL_NUMBER>
+   </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>44</REFNUM>

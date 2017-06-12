@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <outputxml>
-
-
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>3179</REFNUM>
+        <AUTHOR>Bogdanov-Berezovsky, Valerian Mikhailovich</AUTHOR>
+        <ARTICLE_TITLE>"Voina i mir" Prokof'eva</ARTICLE_TITLE>
+        <SECONDARY_ARTICLE_TITLE>Leningradskii Malyi opernyi teatr</SECONDARY_ARTICLE_TITLE>
+        <JOURNAL_TITLE>Teatr</JOURNAL_TITLE>
+        <VOLUME>7</VOLUME>
+        <NUMBER>47</NUMBER>
+        <PAGES>6-8</PAGES>
+        <TYPE_OF_WORK>Review</TYPE_OF_WORK>
+        <ALTERNATE_TITLE>Journal</ALTERNATE_TITLE>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM5>29/01/2007</CUSTOM5>
+        <CUSTOM6>Photocopy</CUSTOM6>
+        <CALL_NUMBER>spa-tex-atl-0176 – incorrectly labeled – there is already a 0176</CALL_NUMBER>
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>1</REFERENCE_TYPE>
         <REFNUM>3281</REFNUM>
