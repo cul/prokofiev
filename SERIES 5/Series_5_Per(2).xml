@@ -2798,10 +2798,10 @@
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>2107</REFNUM>
          <AUTHORS>
-            <AUTHOR>Korev, Iurii Semenovich</AUTHOR>
+            <EDITOR>Korev, Iurii Semenovich</EDITOR>
          </AUTHORS>
          <YEAR>2005</YEAR>
-         <TITLE>Muzykal'naia Akademiia</TITLE>
+         <PERIODICAL_TITLE>Muzykal'naia Akademiia</PERIODICAL_TITLE>
          <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Kompozitor</PUBLISHER>
          <NUMBER>1</NUMBER>
@@ -2817,10 +2817,10 @@
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>2108</REFNUM>
          <AUTHORS>
-            <AUTHOR>Sadie, Stanley</AUTHOR>
+            <EDITOR>Sadie, Stanley</EDITOR>
          </AUTHORS>
          <YEAR>1980</YEAR>
-         <TITLE>The Musical Times</TITLE>
+         <PERIODICAL_TITLE>The Musical Times</PERIODICAL_TITLE>
          <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>Novello</PUBLISHER>
          <VOLUME>cxxi</VOLUME>
@@ -2837,10 +2837,10 @@
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>2109</REFNUM>
          <AUTHORS>
-            <AUTHOR>Kreid, Vadim</AUTHOR>
+            <EDITOR>Kreid, Vadim</EDITOR>
          </AUTHORS>
          <YEAR>2005</YEAR>
-         <TITLE>Novyi Zhurnal (The New Review)</TITLE>
+         <PERIODICALTITLE>Novyi Zhurnal (The New Review)</PERIODICALTITLE>
          <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
          <PUBLISHER>The New Review</PUBLISHER>
          <NUMBER>238</NUMBER>
@@ -2856,10 +2856,10 @@
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>2114</REFNUM>
          <AUTHORS>
-            <AUTHOR>Goddijn, Hans</AUTHOR>
+            <EDITOR>Goddijn, Hans</EDITOR>
          </AUTHORS>
          <YEAR>2005</YEAR>
-         <TITLE>Pianowereld</TITLE>
+         <PERIODICAL_TITLE>Pianowereld</PERIODICAL_TITLE>
          <PLACE_PUBLISHED>Rotterdam</PLACE_PUBLISHED>
          <NUMBER>21</NUMBER>
          <DATE>2005-08/09</DATE>
@@ -2872,8 +2872,11 @@
    <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>2116</REFNUM>
+         <AUTHORS>
+            <EDITOR></EDITOR>
+         </AUTHORS>
          <YEAR>1980</YEAR>
-         <TITLE>Steinblomsten: organ of the Norwegian Prokofiev Society</TITLE>
+         <PERIODICAL_TITLE>Steinblomsten: organ of the Norwegian Prokofiev Society</PERIODICAL_TITLE>
          <PLACE_PUBLISHED>Oslo</PLACE_PUBLISHED>
          <PUBLISHER>Norwegian Prokofiev Society</PUBLISHER>
          <NUMBER>1</NUMBER>
@@ -2886,8 +2889,11 @@
    <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>2117</REFNUM>
+         <AUTHORS>
+            <EDITOR></EDITOR>
+         </AUTHORS>
          <YEAR>1980</YEAR>
-         <TITLE>Steinblomsten: organ of the Norwegian Prokofiev Society</TITLE>
+         <PERIODICAL_TITLE>Steinblomsten: organ of the Norwegian Prokofiev Society</PERIODICAL_TITLE>
          <PLACE_PUBLISHED>Oslo</PLACE_PUBLISHED>
          <PUBLISHER>Norwegian Prokofiev Society</PUBLISHER>
          <NUMBER>2</NUMBER>
@@ -2901,10 +2907,10 @@
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>2118</REFNUM>
          <AUTHORS>
-            <AUTHOR>Ralph, Richard</AUTHOR>
+            <EDITOR>Ralph, Richard</EDITOR>
          </AUTHORS>
          <YEAR>2000</YEAR>
-         <TITLE>Dance Research: the journal of the Society for Dance Research</TITLE>
+         <PERIODICAL_TITLE>Dance Research: the journal of the Society for Dance Research</PERIODICAL_TITLE>
          <PLACE_PUBLISHED>Edinburgh</PLACE_PUBLISHED>
          <PUBLISHER>Edinburgh University Press</PUBLISHER>
          <VOLUME>18</VOLUME>
@@ -2921,10 +2927,10 @@
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>2641</REFNUM>
          <AUTHORS>
-            <AUTHOR>Siepmann, Jeremy</AUTHOR>
+            <EDITOR>Siepmann, Jeremy</EDITOR>
          </AUTHORS>
          <YEAR>2003</YEAR>
-         <TITLE>Piano</TITLE>
+         <PERIODICAL_TITLE>Piano</PERIODICAL_TITLE>
          <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>Rheingold Publishing</PUBLISHER>
          <VOLUME>11</VOLUME>
@@ -2933,17 +2939,17 @@
          <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>18/07/2006</CUSTOM5>
-         <CALL_NUMBER>spa-tex-per-0169</CALL_NUMBER>
          <NOTES>Contains item(s) regarding the Prokofiev 2003 celebrations</NOTES>
+         <CALL_NUMBER>spa-tex-per-0169</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>2645</REFNUM>
          <AUTHORS>
-            <AUTHOR>Wallace, Helen</AUTHOR>
+            <EDITOR>Wallace, Helen</EDITOR>
          </AUTHORS>
          <YEAR>2003</YEAR>
-         <TITLE>BBC Music Magazine</TITLE>
+         <PERIODICAL_TITLE>BBC Music Magazine</PERIODICAL_TITLE>
          <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>BBC</PUBLISHER>
          <VOLUME>11</VOLUME>
@@ -2952,65 +2958,65 @@
          <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>18/07/2006</CUSTOM5>
-         <CALL_NUMBER>spa-tex-per-0170</CALL_NUMBER>
          <NOTES>Contains item(s) regarding the Prokofiev 2003 celebrations</NOTES>
+         <CALL_NUMBER>spa-tex-per-0170</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>2648</REFNUM>
          <AUTHORS>
-            <AUTHOR>Goddijn, Hans</AUTHOR>
+            <EDITOR>Goddijn, Hans</EDITOR>
          </AUTHORS>
          <YEAR>2003</YEAR>
-         <TITLE>Pianowereld</TITLE>
+         <PERIODICAL_TITLE>Pianowereld</PERIODICAL_TITLE>
          <DATE>2003-05</DATE>
          <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
          <CUSTOM1>Dutch</CUSTOM1>
          <CUSTOM5>18/07/2006</CUSTOM5>
-         <CALL_NUMBER>spa-tex-per-0171</CALL_NUMBER>
          <NOTES>Contains item(s) regarding the Prokofiev 2003 celebrations</NOTES>
+         <CALL_NUMBER>spa-tex-per-0171</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>2650</REFNUM>
          <AUTHORS>
-            <AUTHOR>Nouailhac, Orianne</AUTHOR>
+            <EDITOR>Nouailhac, Orianne</EDITOR>
          </AUTHORS>
          <YEAR>2003</YEAR>
-         <TITLE>Piano, le magazine</TITLE>
+         <PERIODICAL_TITLE>Piano, le magazine</PERIODICAL_TITLE>
          <NUMBER>34</NUMBER>
          <DATE>2003-05/06</DATE>
          <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
          <CUSTOM1>French</CUSTOM1>
          <CUSTOM5>18/07/2006</CUSTOM5>
-         <CALL_NUMBER>spa-tex-per-0172</CALL_NUMBER>
          <NOTES>Contains item(s) regarding the Prokofiev 2003 celebrations</NOTES>
+         <CALL_NUMBER>spa-tex-per-0172</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>2651</REFNUM>
          <AUTHORS>
-            <AUTHOR>Jolly, James</AUTHOR>
+            <EDITOR>Jolly, James</EDITOR>
          </AUTHORS>
          <YEAR>2003</YEAR>
-         <TITLE>Gramophone</TITLE>
+         <PERIODICAL_TITLE>Gramophone</PERIODICAL_TITLE>
          <VOLUME>81</VOLUME>
          <NUMBER>968</NUMBER>
          <DATE>2003-07</DATE>
          <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>18/07/2006</CUSTOM5>
-         <CALL_NUMBER>spa-tex-per-0173</CALL_NUMBER>
          <NOTES>Contains item(s) regarding the Prokofiev 2003 celebrations</NOTES>
+         <CALL_NUMBER>spa-tex-per-0173</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>2653</REFNUM>
          <AUTHORS>
-            <AUTHOR>Adjoubei, Svetlana A.</AUTHOR>
+            <EDITOR>Adjoubei, Svetlana A.</EDITOR>
          </AUTHORS>
          <YEAR>2003</YEAR>
-         <TITLE>Rossica</TITLE>
+         <PERIODICAL_TITLE>Rossica</PERIODICAL_TITLE>
          <PLACE_PUBLISHED>Lonfon</PLACE_PUBLISHED>
          <PUBLISHER>Academia Rossica</PUBLISHER>
          <NUMBER>9</NUMBER>
@@ -3019,17 +3025,17 @@
          <ISBN>1472-9350</ISBN>
          <CUSTOM1>English and Russian</CUSTOM1>
          <CUSTOM5>18/07/2006</CUSTOM5>
-         <CALL_NUMBER>spa-tex-per-0174</CALL_NUMBER>
          <NOTES>Contains item(s) regarding the Prokofiev 2003 celebrations</NOTES>
+         <CALL_NUMBER>spa-tex-per-0174</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>2656</REFNUM>
          <AUTHORS>
-            <AUTHOR>Young, Jekaterina</AUTHOR>
+            <EDITOR>Young, Jekaterina</EDITOR>
          </AUTHORS>
          <YEAR>2003</YEAR>
-         <TITLE>Slavonica</TITLE>
+         <PERIODICAL_TITLE>Slavonica</PERIODICAL_TITLE>
          <PLACE_PUBLISHED>Leeds</PLACE_PUBLISHED>
          <PUBLISHER>Maney</PUBLISHER>
          <VOLUME>9</VOLUME>
@@ -3039,51 +3045,51 @@
          <ISBN>1361-7427</ISBN>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>18/07/2006</CUSTOM5>
-         <CALL_NUMBER>spa-tex-per-0175</CALL_NUMBER>
          <NOTES>Contains item(s) regarding the Prokofiev 2003 celebrations</NOTES>
+         <CALL_NUMBER>spa-tex-per-0175</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>2658</REFNUM>
          <AUTHORS>
-            <AUTHOR>Goddijn, Hans</AUTHOR>
+            <EDITOR>Goddijn, Hans</EDITOR>
          </AUTHORS>
          <YEAR>2003</YEAR>
-         <TITLE>Pianowereld</TITLE>
+         <PERIODICAL_TITLE>Pianowereld</PERIODICAL_TITLE>
          <NUMBER>2</NUMBER>
          <DATE>2003-03</DATE>
          <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
          <CUSTOM1>Dutch</CUSTOM1>
          <CUSTOM5>18/07/2006</CUSTOM5>
-         <CALL_NUMBER>spa-tex-per-0176</CALL_NUMBER>
          <NOTES>Contains item(s) regarding the Prokofiev 2003 celebrations</NOTES>
+         <CALL_NUMBER>spa-tex-per-0176</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>2662</REFNUM>
          <AUTHORS>
-            <AUTHOR>Allison, John</AUTHOR>
+            <EDITOR>Allison, John</EDITOR>
          </AUTHORS>
          <YEAR>2006</YEAR>
-         <TITLE>Opera</TITLE>
+         <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
          <VOLUME>57</VOLUME>
          <NUMBER>7</NUMBER>
          <DATE>2006-07</DATE>
          <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>20/07/2006</CUSTOM5>
-         <CALL_NUMBER>spa-tex-per-0177</CALL_NUMBER>
          <NOTES>Contains article on 'Betrothal in a Monastery' with an image from
             Prokofiev Archive</NOTES>
+         <CALL_NUMBER>spa-tex-per-0177</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>2666</REFNUM>
          <AUTHORS>
-            <AUTHOR>Quetin, Laurine</AUTHOR>
+            <EDITOR>Quetin, Laurine</EDITOR>
          </AUTHORS>
          <YEAR>2005</YEAR>
-         <TITLE>Musicorum</TITLE>
+         <PERIODICAL_TITLE>Musicorum</PERIODICAL_TITLE>
          <PLACE_PUBLISHED>Tours</PLACE_PUBLISHED>
          <PUBLISHER>Presses Universitaires François-Rabelais</PUBLISHER>
          <DATE>2005</DATE>
@@ -3097,11 +3103,11 @@
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>2503</REFNUM>
          <AUTHORS>
-            <AUTHOR>Schwarz, Boris</AUTHOR>
+            <EDITOR>Schwarz, Boris</EDITOR>
          </AUTHORS>
          <YEAR>1981</YEAR>
-         <TITLE>Eastern European Folk and Art Music (in 'IMS Report, Berkeley
-            1977')</TITLE>
+         <PERIODICAL_TITLE>Eastern European Folk and Art Music (in 'IMS Report, Berkeley
+            1977')</PERIODICAL_TITLE>
          <PLACE_PUBLISHED>Kassel</PLACE_PUBLISHED>
          <PUBLISHER>Barenreiter</PUBLISHER>
          <PAGES>26-52</PAGES>
@@ -3115,10 +3121,10 @@
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>2530</REFNUM>
          <AUTHORS>
-            <AUTHOR>Crépu, Michel</AUTHOR>
+            <EDITOR>Crépu, Michel</EDITOR>
          </AUTHORS>
          <YEAR>2006</YEAR>
-         <TITLE>Revue des Deux Mondes</TITLE>
+         <PERIODICAL_TITLE>Revue des Deux Mondes</PERIODICAL_TITLE>
          <PLACE_PUBLISHED>Paris</PLACE_PUBLISHED>
          <PUBLISHER>Société de la Revue des Deux Mondes</PUBLISHER>
          <NUMBER>2</NUMBER>
@@ -3134,10 +3140,10 @@
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>2593</REFNUM>
          <AUTHORS>
-            <AUTHOR>Jolly, James</AUTHOR>
+            <EDITOR>Jolly, James</EDITOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Gramophone</TITLE>
+         <PERIODICAL_TITLE>Gramophone</PERIODICAL_TITLE>
          <PLACE_PUBLISHED>Harrow</PLACE_PUBLISHED>
          <PUBLISHER>General Gramophone Publications</PUBLISHER>
          <VOLUME>68</VOLUME>
@@ -3153,10 +3159,10 @@
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>2604</REFNUM>
          <AUTHORS>
-            <AUTHOR>Gerould, Daniel</AUTHOR>
+            <EDITOR>Gerould, Daniel</EDITOR>
          </AUTHORS>
          <YEAR>2004</YEAR>
-         <TITLE>Slavic and East European Performance</TITLE>
+         <PERIODICAL_TITLE>Slavic and East European Performance</PERIODICAL_TITLE>
          <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
          <PUBLISHER>Martin E. Segal Theatre Center</PUBLISHER>
          <VOLUME>24</VOLUME>
@@ -3166,17 +3172,17 @@
          <ISBN>1047-0019</ISBN>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>17/07/2006</CUSTOM5>
-         <CALL_NUMBER>spa-tex-per-0183</CALL_NUMBER>
          <NOTES>Contains item(s) regarding the Prokofiev 2003 celebrations</NOTES>
+         <CALL_NUMBER>spa-tex-per-0183</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>2607</REFNUM>
          <AUTHORS>
-            <AUTHOR>Dadswell, Mel</AUTHOR>
+            <EDITOR>Dadswell, Mel</EDITOR>
          </AUTHORS>
          <YEAR>2003</YEAR>
-         <TITLE>East-West Review</TITLE>
+         <PERIODICAL_TITLE>East-West Review</PERIODICAL_TITLE>
          <PUBLISHER>Great Britain - Russia Society</PUBLISHER>
          <NUMBER>Summer-Autumn Edition</NUMBER>
          <DATE>2003</DATE>
@@ -3184,17 +3190,17 @@
          <CUSTOM1>English and Russian</CUSTOM1>
          <CUSTOM5>17/07/2006</CUSTOM5>
          <ACCESSION_NUMBER>290 (01/03/2004)</ACCESSION_NUMBER>
-         <CALL_NUMBER>spa-tex-per-0184</CALL_NUMBER>
          <NOTES>Contains item(s) regarding the Prokofiev 2003 celebrations</NOTES>
+         <CALL_NUMBER>spa-tex-per-0184</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>2609</REFNUM>
          <AUTHORS>
-            <AUTHOR>Dadswell, Mel</AUTHOR>
+            <EDITOR>Dadswell, Mel</EDITOR>
          </AUTHORS>
          <YEAR>2003-04</YEAR>
-         <TITLE>East-West Review</TITLE>
+         <PERIODICAL_TITLE>East-West Review</PERIODICAL_TITLE>
          <PUBLISHER>Great Britain - Russia Society</PUBLISHER>
          <NUMBER>Winter Edition</NUMBER>
          <DATE>2003-04</DATE>
@@ -3202,49 +3208,49 @@
          <CUSTOM1>English and Russian</CUSTOM1>
          <CUSTOM5>17/07/2006</CUSTOM5>
          <ACCESSION_NUMBER>290 (01/03/2004)</ACCESSION_NUMBER>
-         <CALL_NUMBER>spa-tex-per-0185</CALL_NUMBER>
          <NOTES>Contains item(s) regarding the Prokofiev 2003 celebrations</NOTES>
+         <CALL_NUMBER>spa-tex-per-0185</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>2611</REFNUM>
          <AUTHORS>
-            <AUTHOR>Beyne, Bernadette</AUTHOR>
+            <EDITOR>Beyne, Bernadette</EDITOR>
          </AUTHORS>
          <YEAR>2002-03</YEAR>
-         <TITLE>Crescendo</TITLE>
+         <PERIODICAL_TITLE>Crescendo</PERIODICAL_TITLE>
          <NUMBER>62</NUMBER>
          <DATE>2002-12 - 2003-01</DATE>
          <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
          <CUSTOM1>French</CUSTOM1>
          <CUSTOM5>17/07/2006</CUSTOM5>
-         <CALL_NUMBER>spa-tex-per-0186</CALL_NUMBER>
          <NOTES>Contains item(s) regarding the Prokofiev 2003 celebrations</NOTES>
+         <CALL_NUMBER>spa-tex-per-0186</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>2617</REFNUM>
          <AUTHORS>
-            <AUTHOR>Piel, Jean-Marie</AUTHOR>
+            <EDITOR>Piel, Jean-Marie</EDITOR>
          </AUTHORS>
          <YEAR>2003</YEAR>
-         <TITLE>Diapason</TITLE>
+         <PERIODICAL_TITLE>Diapason</PERIODICAL_TITLE>
          <NUMBER>500</NUMBER>
          <DATE>2003-02</DATE>
          <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
          <CUSTOM1>French</CUSTOM1>
          <CUSTOM5>17/07/2006</CUSTOM5>
-         <CALL_NUMBER>spa-tex-per-0187</CALL_NUMBER>
          <NOTES>Contains item(s) regarding the Prokofiev 2003 celebrations</NOTES>
+         <CALL_NUMBER>spa-tex-per-0187</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>2619</REFNUM>
          <AUTHORS>
-            <AUTHOR>Kettner, Markus</AUTHOR>
+            <EDITOR>Kettner, Markus</EDITOR>
          </AUTHORS>
          <YEAR>2003</YEAR>
-         <TITLE>Rondo</TITLE>
+         <PERIODICAL_TITLE>Rondo</PERIODICAL_TITLE>
          <PLACE_PUBLISHED>München</PLACE_PUBLISHED>
          <PUBLISHER>Inmedia</PUBLISHER>
          <NUMBER>2</NUMBER>
@@ -3252,99 +3258,99 @@
          <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
          <CUSTOM1>German</CUSTOM1>
          <CUSTOM5>17/07/2006</CUSTOM5>
-         <CALL_NUMBER>spa-tex-per-0188</CALL_NUMBER>
          <NOTES>Contains item(s) regarding the Prokofiev 2003 celebrations</NOTES>
+         <CALL_NUMBER>spa-tex-per-0188</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>2621</REFNUM>
          <AUTHORS>
-            <AUTHOR>Worth, Erica</AUTHOR>
+            <EDITOR>Worth, Erica</EDITOR>
          </AUTHORS>
          <YEAR>2003</YEAR>
-         <TITLE>Pianist</TITLE>
+         <PERIODICAL_TITLE>Pianist</PERIODICAL_TITLE>
          <NUMBER>10</NUMBER>
          <DATE>2003-02/03</DATE>
          <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
          <ISBN>1475-1348</ISBN>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>17/07/2006</CUSTOM5>
-         <CALL_NUMBER>spa-tex-per-0189</CALL_NUMBER>
          <NOTES>Contains item(s) regarding the Prokofiev 2003 celebrations</NOTES>
+         <CALL_NUMBER>spa-tex-per-0189</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>2623</REFNUM>
          <AUTHORS>
-            <AUTHOR>Beyne, Bernadette</AUTHOR>
+            <EDITOR>Beyne, Bernadette</EDITOR>
          </AUTHORS>
          <YEAR>2003</YEAR>
-         <TITLE>Crescendo</TITLE>
+         <PERIODICAL_TITLE>Crescendo</PERIODICAL_TITLE>
          <NUMBER>63</NUMBER>
          <DATE>2003-02/03</DATE>
          <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
          <CUSTOM1>French</CUSTOM1>
          <CUSTOM5>18/07/2006</CUSTOM5>
-         <CALL_NUMBER>spa-tex-per-0190</CALL_NUMBER>
          <NOTES>Contains item(s) regarding the Prokofiev 2003 celebrations</NOTES>
+         <CALL_NUMBER>spa-tex-per-0190</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>2629</REFNUM>
          <AUTHORS>
-            <AUTHOR>Krafft, Nathalie</AUTHOR>
+            <EDITOR>Krafft, Nathalie</EDITOR>
          </AUTHORS>
          <YEAR>2003</YEAR>
-         <TITLE>Le Monde de la Musique</TITLE>
+         <PERIODICAL_TITLE>Le Monde de la Musique</PERIODICAL_TITLE>
          <NUMBER>274</NUMBER>
          <DATE>2003-03</DATE>
          <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
          <CUSTOM1>French</CUSTOM1>
          <CUSTOM5>18/07/2006</CUSTOM5>
-         <CALL_NUMBER>spa-tex-per-0191</CALL_NUMBER>
          <NOTES>Contains item(s) regarding the Prokofiev 2003 celebrations</NOTES>
+         <CALL_NUMBER>spa-tex-per-0191</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>2634</REFNUM>
          <AUTHORS>
-            <AUTHOR>[Anon.]</AUTHOR>
+            <EDITOR>[Anon.]</EDITOR>
          </AUTHORS>
          <YEAR>2003</YEAR>
-         <TITLE>Classica</TITLE>
+         <PERIODICAL_TITLE>Classica</PERIODICAL_TITLE>
          <NUMBER>50</NUMBER>
          <DATE>2003-03</DATE>
          <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
          <CUSTOM1>French</CUSTOM1>
          <CUSTOM5>18/07/2006</CUSTOM5>
-         <CALL_NUMBER>spa-tex-per-0192</CALL_NUMBER>
          <NOTES>Contains item(s) regarding the Prokofiev 2003 celebrations</NOTES>
+         <CALL_NUMBER>spa-tex-per-0192</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>2640</REFNUM>
          <AUTHORS>
-            <AUTHOR>Meillat, Bernard</AUTHOR>
+            <EDITOR>Meillat, Bernard</EDITOR>
          </AUTHORS>
          <YEAR>2003</YEAR>
-         <TITLE>Le Monde de la Musique: Radio classique</TITLE>
+         <PERIODICAL_TITLE>Le Monde de la Musique: Radio classique</PERIODICAL_TITLE>
          <NUMBER>274 - cahier no. 2</NUMBER>
          <DATE>2003-03</DATE>
          <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
          <CUSTOM1>French</CUSTOM1>
          <CUSTOM5>18/07/2006</CUSTOM5>
-         <CALL_NUMBER>spa-tex-per-0193</CALL_NUMBER>
          <NOTES>Full radio playlist for March 2003. Contains item(s) regarding the Prokofiev 2003
             celebrations</NOTES>
+         <CALL_NUMBER>spa-tex-per-0193</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>3116</REFNUM>
          <AUTHORS>
-            <AUTHOR>Oliver Condy</AUTHOR>
+            <EDITOR>Oliver Condy</EDITOR>
          </AUTHORS>
          <YEAR>2006</YEAR>
-         <TITLE>BBC Music Magazine</TITLE>
+         <PERIODICAL_TITLE>BBC Music Magazine</PERIODICAL_TITLE>
          <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>BBC</PUBLISHER>
          <VOLUME>15</VOLUME>
@@ -3354,21 +3360,18 @@
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>17/11/2006</CUSTOM5>
          <ACCESSION_NUMBER>371</ACCESSION_NUMBER>
-         <CALL_NUMBER>spa-tex-per-0194</CALL_NUMBER>
-         <NOTES>
-         <styles>
-            <style face="2" start="52"/>
-         </styles>Contains article by Daniel Jaffé
+         <NOTES>Contains article by Daniel Jaffé
             with extracts from Sergey Prokofiev Diaries 1907-1914: Prodigious Youth</NOTES>
+         <CALL_NUMBER>spa-tex-per-0194</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>3117</REFNUM>
          <AUTHORS>
-            <AUTHOR>Steve Graham</AUTHOR>
+            <EDITOR>Steve Graham</EDITOR>
          </AUTHORS>
          <YEAR>2006</YEAR>
-         <TITLE>Christian Science Sentinel</TITLE>
+         <PERIODICAL_TITLE>Christian Science Sentinel</PERIODICAL_TITLE>
          <PLACE_PUBLISHED>Boston</PLACE_PUBLISHED>
          <PUBLISHER>The Christian Science Publishing Society</PUBLISHER>
          <VOLUME>108</VOLUME>
@@ -3377,17 +3380,17 @@
          <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
          <CUSTOM5>17/11/2006</CUSTOM5>
          <ACCESSION_NUMBER>372</ACCESSION_NUMBER>
-         <CALL_NUMBER>spa-tex-per-0195</CALL_NUMBER>
          <NOTES>Contains article on Prokofiev by Peter Hodgson</NOTES>
+         <CALL_NUMBER>spa-tex-per-0195</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>3140</REFNUM>
          <AUTHORS>
-            <AUTHOR>Speranskii, Sergei L.</AUTHOR>
+            <EDITOR>Speranskii, Sergei L.</EDITOR>
          </AUTHORS>
          <YEAR>2005</YEAR>
-         <TITLE>Akkord - zhurnal muzykal'noi kultury</TITLE>
+         <PERIODICAL_TITLE>Akkord - zhurnal muzykal'noi kultury</PERIODICAL_TITLE>
          <PLACE_PUBLISHED>Moscow</PLACE_PUBLISHED>
          <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
          <CUSTOM1>Russian</CUSTOM1>
@@ -3397,8 +3400,11 @@
    <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>3165</REFNUM>
+         <AUTHORS>
+            <EDITOR></EDITOR>
+         </AUTHORS>
          <YEAR>1960</YEAR>
-         <TITLE>Bulletin d'information</TITLE>
+         <PERIODICAL_TITLE>Bulletin d'information</PERIODICAL_TITLE>
          <PLACE_PUBLISHED>Paris</PLACE_PUBLISHED>
          <PUBLISHER>Boosey &amp; Hawkes, Société des grandes éditions
             musicales</PUBLISHER>
@@ -3408,14 +3414,16 @@
          <CUSTOM1>French</CUSTOM1>
          <CUSTOM5>30/11/2006</CUSTOM5>
          <ACCESSION_NUMBER>19</ACCESSION_NUMBER>
-         <CALL_NUMBER>spa-tex-per-0197</CALL_NUMBER>
          <NOTES>Prokofieff Issue</NOTES>
+         <CALL_NUMBER>spa-tex-per-0197</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>3171</REFNUM>
-         <YEAR>2005</YEAR>
-         <TITLE>Il Saggiatore Musicale</TITLE>
+         <AUTHORS>
+            <EDITOR></EDITOR>
+         </AUTHORS><YEAR>2005</YEAR>
+         <PERIODICAL_TITLE>Il Saggiatore Musicale</PERIODICAL_TITLE>
          <PLACE_PUBLISHED>Florence</PLACE_PUBLISHED>
          <PUBLISHER>Leo S. Olschki</PUBLISHER>
          <VOLUME>XII</VOLUME>
@@ -3426,18 +3434,18 @@
          <CUSTOM1>Italian</CUSTOM1>
          <CUSTOM5>08/12/2006</CUSTOM5>
          <ACCESSION_NUMBER>377</ACCESSION_NUMBER>
-         <CALL_NUMBER>spa-tex-per-0198</CALL_NUMBER>
          <NOTES>Contains article:&#xD;Bianchi, Carlo, 'Alcuni criteri di organizzazione in una
             scrittura neotonale. Sergej Prokof'jew prima del periodo sovietico'</NOTES>
+         <CALL_NUMBER>spa-tex-per-0198</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>3195</REFNUM>
          <AUTHORS>
-            <AUTHOR>Paul Janssen</AUTHOR>
+            <EDITOR>Paul Janssen</EDITOR>
          </AUTHORS>
          <YEAR>2006</YEAR>
-         <TITLE>Mens en melodie</TITLE>
+         <PERIODICAL_TITLE>Mens en melodie</PERIODICAL_TITLE>
          <PLACE_PUBLISHED>Beek-Ubbergen</PLACE_PUBLISHED>
          <PUBLISHER>Tandem Felix</PUBLISHER>
          <VOLUME>6</VOLUME>
@@ -3448,31 +3456,34 @@
          <CUSTOM1>Dutch</CUSTOM1>
          <CUSTOM5>02/02/2007</CUSTOM5>
          <ACCESSION_NUMBER>384</ACCESSION_NUMBER>
-         <CALL_NUMBER>spa-tex-per-0199</CALL_NUMBER>
          <NOTES>Includes review of Three Oranges by Els van Swol (p34)</NOTES>
+         <CALL_NUMBER>spa-tex-per-0199</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>3326</REFNUM>
+         <AUTHORS>
+            <EDITOR>Paul Janssen</EDITOR>
+         </AUTHORS>
          <YEAR>2003</YEAR>
-         <TITLE>The Pianola Journal</TITLE>
+         <PERIODICAL_TITLE>The Pianola Journal</PERIODICAL_TITLE>
          <PUBLISHER>The Pianola Institute</PUBLISHER>
          <NUMBER>15</NUMBER>
          <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>30/05/2008</CUSTOM5>
          <ACCESSION_NUMBER>419</ACCESSION_NUMBER>
-         <CALL_NUMBER>spa-tex-per-0200</CALL_NUMBER>
          <NOTES>Includes Rex Lawson: 'Prokofiev and the Player Piano'</NOTES>
+         <CALL_NUMBER>spa-tex-per-0200</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>3410</REFNUM>
          <AUTHORS>
-            <AUTHOR>Oliver Condy</AUTHOR>
+            <EDITOR>Oliver Condy</EDITOR>
          </AUTHORS>
          <YEAR>2009</YEAR>
-         <TITLE>BBC Music Magazine</TITLE>
+         <PERIODICAL_TITLE>BBC Music Magazine</PERIODICAL_TITLE>
          <PLACE_PUBLISHED>Bristol</PLACE_PUBLISHED>
          <PUBLISHER>BBC</PUBLISHER>
          <VOLUME>18</VOLUME>
@@ -3482,56 +3493,56 @@
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>11/11/2009</CUSTOM5>
          <ACCESSION_NUMBER>435</ACCESSION_NUMBER>
-         <CALL_NUMBER>spa-tex-per-0201</CALL_NUMBER>
          <NOTES>Contains article by Daniel Jaffé "Inspiring friendships" on
             collaborators including Piatigorsky, Rostropovich, Oistrakh, Soëtens.&#xD;Cover CD
             - see CD 374</NOTES>
+         <CALL_NUMBER>spa-tex-per-0201</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>3492</REFNUM>
          <AUTHORS>
-            <AUTHOR>Jade, Ely</AUTHOR>
+            <EDITOR>Jade, Ely</EDITOR>
          </AUTHORS>
          <YEAR>1925</YEAR>
-         <TITLE>Pro-Musica Quarterly</TITLE>
+         <PERIODICAL_TITLE>Pro-Musica Quarterly</PERIODICAL_TITLE>
          <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
          <DATE>October 1925</DATE>
          <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>22/09/2010</CUSTOM5>
          <ACCESSION_NUMBER>(342a)</ACCESSION_NUMBER>
-         <CALL_NUMBER>spa-tex-per-0202</CALL_NUMBER>
          <NOTES>Fragile.&#xD;Contains updates on "Activities of some of the members of the
             Honorary Board", including Prokofiev.</NOTES>
+         <CALL_NUMBER>spa-tex-per-0202</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>3493</REFNUM>
          <AUTHORS>
-            <AUTHOR>Jade, Ely</AUTHOR>
+            <EDITOR>Jade, Ely</EDITOR>
          </AUTHORS>
          <YEAR>1925</YEAR>
-         <TITLE>Pro-Musica Quarterly</TITLE>
+         <PERIODICAL_TITLE>Pro-Musica Quarterly</PERIODICAL_TITLE>
          <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
          <DATE>December 1925</DATE>
          <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>22/09/2010</CUSTOM5>
          <ACCESSION_NUMBER>(342a)</ACCESSION_NUMBER>
-         <CALL_NUMBER>spa-tex-per-0203</CALL_NUMBER>
          <NOTES>Kept in FRAGILE PUBLICATIONS box 3.&#xD;Extremely fragile - outer cover brittle and
             badly damaged. &#xD;Includes article "Sergei Prokofieff: a biographical
             sketch"</NOTES>
+         <CALL_NUMBER>spa-tex-per-0203</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>3534</REFNUM>
          <AUTHORS>
-            <AUTHOR>Moron, Nicolas</AUTHOR>
+            <EDITOR>Moron, Nicolas</EDITOR>
          </AUTHORS>
          <YEAR>2010</YEAR>
-         <TITLE>Musicorum</TITLE>
+         <PERIODICAL_TITLE>Musicorum</PERIODICAL_TITLE>
          <PLACE_PUBLISHED>Tours</PLACE_PUBLISHED>
          <PUBLISHER>Université François Rabelais</PUBLISHER>
          <DATE>2010</DATE>
@@ -3540,12 +3551,12 @@
          <CUSTOM1>French, English</CUSTOM1>
          <CUSTOM5>18/04/2011</CUSTOM5>
          <ACCESSION_NUMBER>492</ACCESSION_NUMBER>
-         <CALL_NUMBER>spa-tex-per-0204</CALL_NUMBER>
          <KEYWORDS>
             <KEYWORD>Seven, then are Seven (Op. 30)</KEYWORD>
             <KEYWORD>The Gambler (Op. 24)</KEYWORD>
          </KEYWORDS>
          <NOTES>Edition title: À la recherche d'un texte: Prokofiev et la
             littérature</NOTES>
+         <CALL_NUMBER>spa-tex-per-0204</CALL_NUMBER>
       </RECORD>
 </outputxml>
