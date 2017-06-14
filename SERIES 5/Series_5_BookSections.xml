@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<outputxml>
 <RECORD>
          <REFERENCE_TYPE>9</REFERENCE_TYPE>
          <REFNUM>3170</REFNUM>
@@ -313,4 +314,5 @@
          <CUSTOM5>?</CUSTOM5>
          <NOTES>Catalogue of the Centenary celebrations at the Kultur- und Stadthistorisches Museum
             Duisburg</NOTES>
-      </RECORD>
+      </RECORD> 
+</outputxml>
