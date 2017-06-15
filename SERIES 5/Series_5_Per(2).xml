@@ -2800,7 +2800,9 @@
          <CALL_NUMBER>spa-tex-per-0161</CALL_NUMBER>
          <NOTES>Contributors: Julian Dyer; Denis Hall; Rex Lawson; Nigel Simone</NOTES>
       </RECORD>
-   <RECORD>
+
+ <!-- 6/15/17 As per RL, spa-tex-per-0162-0178 cannot be located at CU (NE) -->
+<RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>2107</REFNUM>
          <AUTHORS>
@@ -3105,6 +3107,8 @@
          <CUSTOM5>21/08/2006</CUSTOM5>
          <CALL_NUMBER>spa-tex-per-0178</CALL_NUMBER>
       </RECORD>
+<!-- 6/15/17 As per RL, spa-tex-per-0162-0178 cannot be located at CU (NE) -->
+
    <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>2503</REFNUM>
@@ -3504,7 +3508,9 @@
             - see CD 374</NOTES>
          <CALL_NUMBER>spa-tex-per-0201</CALL_NUMBER>
       </RECORD>
-   <RECORD>
+
+<!-- 6/15/17 As per RL, spa-tex-per-0202-0203 cannot be located at CU (NE) -->
+<RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>3492</REFNUM>
          <AUTHORS>
@@ -3541,7 +3547,9 @@
             sketch"</NOTES>
          <CALL_NUMBER>spa-tex-per-0203</CALL_NUMBER>
       </RECORD>
-   <RECORD>
+<!-- 6/15/17 As per RL, spa-tex-per-0202-0203 cannot be located at CU (NE) -->
+   
+<RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>3534</REFNUM>
          <AUTHORS>
