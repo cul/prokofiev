@@ -1,318 +1,220 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <outputxml>
 <RECORD>
-         <REFERENCE_TYPE>9</REFERENCE_TYPE>
-         <REFNUM>3170</REFNUM>
-         <TITLE>[Reproductions of newspaper reviews of Prokofiev performances 1912-1918]</TITLE>
-         <SECONDARY_TITLE>[unknown publication]</SECONDARY_TITLE>
-         <PAGES>194-205</PAGES>
-         <TYPE_OF_WORK>Reviews</TYPE_OF_WORK>
-         <CUSTOM1>Russian</CUSTOM1>
-         <CUSTOM5>04/12/2006</CUSTOM5>
-         <CUSTOM6>Photocopy</CUSTOM6>
-         <CALL_NUMBER>spa-tex-bsn-0012</CALL_NUMBER>
-         <NOTES>From a compilation of concert reviews (other composers include Rakhmaninov, Reger).
-            &#xD;Extracts from Rech&apos; and Nash Vek. &#xD;No bibliographic information indicated
-            on photocopy.</NOTES>
-      </RECORD>
-      <RECORD>
-         <REFERENCE_TYPE>9</REFERENCE_TYPE>
-         <REFNUM>3167</REFNUM>
-         <YEAR>1957</YEAR>
-         <TITLE>Repertuar Teatra 1917 - 1957</TITLE>
-         <SECONDARY_TITLE>Gosudarstvennyi ordena Lenina akademicheskii teatr opery i baleta imeni S.
-            M. Kirova [Kirov state order of Lenin Academic Opera and Ballet
-            Theatre]</SECONDARY_TITLE>
-         <PLACE_PUBLISHED>Leningrad</PLACE_PUBLISHED>
-         <PAGES>143-175</PAGES>
-         <TYPE_OF_WORK>List of repertoire</TYPE_OF_WORK>
-         <CUSTOM1>Russian</CUSTOM1>
-         <CUSTOM5>01/12/2006</CUSTOM5>
-         <CUSTOM6>Photocopy</CUSTOM6>
-         <CALL_NUMBER>spa-tex-bsn-0009</CALL_NUMBER>
-      </RECORD>
-      <RECORD>
-         <REFERENCE_TYPE>9</REFERENCE_TYPE>
-         <REFNUM>1924</REFNUM>
-         <AUTHORS>
-            <AUTHOR>Asafiev, Boris Vladimirovich</AUTHOR>
-         </AUTHORS>
-         <YEAR>1947</YEAR>
-         <TITLE>The Symphony [Simfoniia] (UNPUBLISHED TRANSLATION)</TITLE>
-         <SECONDARY_TITLE>Ocherki sovetskogo muzykal&apos;nogo tvorchestva [Essays on Soviet Musical
-            Art]</SECONDARY_TITLE>
-         <PLACE_PUBLISHED>Moscow-Leningrad</PLACE_PUBLISHED>
-         <PAGES>?</PAGES>
-         <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
-         <SUBSIDIARY_AUTHORS>
-            <SUBSIDIARY_AUTHOR>Jane Angelini</SUBSIDIARY_AUTHOR>
-         </SUBSIDIARY_AUTHORS>
-         <ISBN>UNPUBLISHED</ISBN>
-         <CUSTOM1>English translation</CUSTOM1>
-         <CUSTOM2>Articles for Students</CUSTOM2>
-         <CUSTOM5>26/11/2004 [revised 04/12/2006]</CUSTOM5>
-         <CUSTOM6>Typescript</CUSTOM6>
-         <CALL_NUMBER>spa-tex-bsn-0011</CALL_NUMBER>
-         <NOTES>This is an unpublished translation from the Russian.</NOTES>
-      </RECORD>
-      <RECORD>
-         <REFERENCE_TYPE>9</REFERENCE_TYPE>
-         <REFNUM>3162</REFNUM>
-         <AUTHORS>
-            <AUTHOR>Brown, Malcolm Hamrick</AUTHOR>
-         </AUTHORS>
-         <YEAR>1981</YEAR>
-         <TITLE>Skriabin and Young Prokofiev, 1905-15: Promethean vis-&#xE0;-vis Pragmatist</TITLE>
-         <SECONDARY_AUTHORS>
-            <SECONDARY_AUTHOR>Thomas Noblitt</SECONDARY_AUTHOR>
-         </SECONDARY_AUTHORS>
-         <SECONDARY_TITLE>Music East and West: essays in honor of Walter Kaufmann</SECONDARY_TITLE>
-         <PLACE_PUBLISHED>Bloomington</PLACE_PUBLISHED>
-         <PUBLISHER>Indiana University Press</PUBLISHER>
-         <PAGES>371-80</PAGES>
-         <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
-         <CUSTOM1>English</CUSTOM1>
-         <CUSTOM5>28/11/2006</CUSTOM5>
-         <CUSTOM6>Off-print</CUSTOM6>
-         <CALL_NUMBER>spa-tex-bsn-0004</CALL_NUMBER>
-      </RECORD>
-      <RECORD>
-         <REFERENCE_TYPE>9</REFERENCE_TYPE>
-         <REFNUM>3160</REFNUM>
-         <AUTHORS>
-            <AUTHOR>Bruyr, Jos&#xE9;</AUTHOR>
-         </AUTHORS>
-         <YEAR>1933</YEAR>
-         <TITLE>Serge Prokofieff</TITLE>
-         <SECONDARY_TITLE>L&apos;Ecran des Musiciens (seconde s&#xE9;rie)</SECONDARY_TITLE>
-         <PLACE_PUBLISHED>Paris</PLACE_PUBLISHED>
-         <PUBLISHER>Jos&#xE9; Corti</PUBLISHER>
-         <PAGES>11-31</PAGES>
-         <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
-         <CUSTOM1>French</CUSTOM1>
-         <CUSTOM5>28/11/2006</CUSTOM5>
-         <CUSTOM6>Photocopy</CUSTOM6>
-         <CALL_NUMBER>spa-tex-bsn-0002</CALL_NUMBER>
-      </RECORD>
-      <RECORD>
-         <REFERENCE_TYPE>9</REFERENCE_TYPE>
-         <REFNUM>3332</REFNUM>
-         <AUTHORS>
-            <AUTHOR>Kahan, Sylvia</AUTHOR>
-         </AUTHORS>
-         <YEAR>2003</YEAR>
-         <TITLE>Music&apos;s Modern Muse: a life of Winnaretta Singer Princesse de Polignac</TITLE>
-         <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
-         <PUBLISHER>University of Rochester Press</PUBLISHER>
-         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <ISBN>1-58046-133-6</ISBN>
-         <CUSTOM1>English</CUSTOM1>
-         <CUSTOM5>02/09/2008</CUSTOM5>
-         <ACCESSION_NUMBER>(401e)</ACCESSION_NUMBER>
-         <CALL_NUMBER>BIOG-Poli (2)</CALL_NUMBER>
-      </RECORD>
-      <RECORD>
-         <REFERENCE_TYPE>9</REFERENCE_TYPE>
-         <REFNUM>3168</REFNUM>
-         <AUTHORS>
-            <AUTHOR>Khentova, Sof&apos;ia</AUTHOR>
-         </AUTHORS>
-         <YEAR>1993</YEAR>
-         <TITLE>U Prokof&apos;eva</TITLE>
-         <SECONDARY_TITLE>Rostropovich</SECONDARY_TITLE>
-         <PLACE_PUBLISHED>St Petersburg</PLACE_PUBLISHED>
-         <PUBLISHER>Kul&apos;t-inform-press</PUBLISHER>
-         <PAGES>53-79</PAGES>
-         <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
-         <ISBN>5839200689</ISBN>
-         <CUSTOM1>Russian</CUSTOM1>
-         <CUSTOM5>01/12/2006</CUSTOM5>
-         <CUSTOM6>Photocopy</CUSTOM6>
-         <CALL_NUMBER>spa-tex-bsn-0010</CALL_NUMBER>
-      </RECORD>
-      <RECORD>
-         <REFERENCE_TYPE>9</REFERENCE_TYPE>
-         <REFNUM>450</REFNUM>
-         <AUTHORS>
-            <AUTHOR>Levidova, I M</AUTHOR>
-         </AUTHORS>
-         <YEAR>1978</YEAR>
-         <TITLE>Excerpts from &quot;Uil&apos;iam Shekspir: Bibliograficheskii ukazatel&apos;
-            russkikh perevodov i kriticheskoi literatury na russkom iazyke 1963-1975&quot;</TITLE>
-         <SECONDARY_TITLE>Uil&apos;iam Shekspir: Bibliograficheskii ukazatel&apos; russkikh
-            perevodov i kriticheskoi literatury na russkom iazyke 1963-1975</SECONDARY_TITLE>
-         <PLACE_PUBLISHED>Moscow</PLACE_PUBLISHED>
-         <PUBLISHER>Kniga</PUBLISHER>
-         <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
-         <CUSTOM1>Russian</CUSTOM1>
-         <CUSTOM5>03/07/2001 [revised 28/11/2006]</CUSTOM5>
-         <CUSTOM6>Photocopy</CUSTOM6>
-         <CALL_NUMBER>spa-tex-bsn-0008</CALL_NUMBER>
-         <NOTES>Extracts from this book according to the index entries for Prokofiev</NOTES>
-      </RECORD>
-      <RECORD>
-         <REFERENCE_TYPE>9</REFERENCE_TYPE>
-         <REFNUM>3163</REFNUM>
-         <AUTHORS>
-            <AUTHOR>Richter, Sviatoslav</AUTHOR>
-         </AUTHORS>
-         <YEAR>1988</YEAR>
-         <TITLE>O Prokof&apos;eve</TITLE>
-         <SECONDARY_AUTHORS>
-            <SECONDARY_AUTHOR>Sokolov, M.</SECONDARY_AUTHOR>
-         </SECONDARY_AUTHORS>
-         <SECONDARY_TITLE>Pianisty rasskazyvaiut: sbornik statei</SECONDARY_TITLE>
-         <PLACE_PUBLISHED>Moscow</PLACE_PUBLISHED>
-         <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
-         <VOLUME>3</VOLUME>
-         <PAGES>132-146</PAGES>
-         <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
-         <CUSTOM1>Russian</CUSTOM1>
-         <CUSTOM5>28/11/2006</CUSTOM5>
-         <CUSTOM6>Photocopy</CUSTOM6>
-         <CALL_NUMBER>spa-tex-bsn-0005</CALL_NUMBER>
-      </RECORD>
-      <RECORD>
-         <REFERENCE_TYPE>9</REFERENCE_TYPE>
-         <REFNUM>173</REFNUM>
-         <AUTHORS>
-            <AUTHOR>Robinson, Harlow</AUTHOR>
-         </AUTHORS>
-         <YEAR>1990</YEAR>
-         <TITLE>Love for Three Oranges: the collaboration of Vsevolod Meyerhold and Sergei
-            Prokofiev</TITLE>
-         <SECONDARY_AUTHORS>
-            <SECONDARY_AUTHOR>Detlef Gojowy</SECONDARY_AUTHOR>
-         </SECONDARY_AUTHORS>
-         <SECONDARY_TITLE>Studies on 20th Century Music in East and Eastern Middle
-            Europe</SECONDARY_TITLE>
-         <PLACE_PUBLISHED>Berlin</PLACE_PUBLISHED>
-         <PUBLISHER>Arno Spitz</PUBLISHER>
-         <PAGES>79-102</PAGES>
-         <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
-         <ISBN>3870613521</ISBN>
-         <CUSTOM1>English</CUSTOM1>
-         <CUSTOM5>22/11/2000 [revised 28/11/2006]</CUSTOM5>
-         <CUSTOM6>Photocopy</CUSTOM6>
-         <CALL_NUMBER>spa-tex-bsn-0001</CALL_NUMBER>
-      </RECORD>
-      <RECORD>
-         <REFERENCE_TYPE>9</REFERENCE_TYPE>
-         <REFNUM>451</REFNUM>
-         <AUTHORS>
-            <AUTHOR>Samosud, S. A.</AUTHOR>
-         </AUTHORS>
-         <YEAR>1984</YEAR>
-         <TITLE>Excerpts from S. A. Samosud: stat&apos;i vospominaniia pis&apos;ma</TITLE>
-         <SECONDARY_AUTHORS>
-            <SECONDARY_AUTHOR>Dansker, O. L.</SECONDARY_AUTHOR>
-         </SECONDARY_AUTHORS>
-         <SECONDARY_TITLE>S. A. Samosud: stat&apos;i vospominaniia pis&apos;ma</SECONDARY_TITLE>
-         <PLACE_PUBLISHED>Moscow</PLACE_PUBLISHED>
-         <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
-         <TYPE_OF_WORK>Excerpts</TYPE_OF_WORK>
-         <CUSTOM1>Russian</CUSTOM1>
-         <CUSTOM5>03/07/2001 [revised 28/11/2006]</CUSTOM5>
-         <CUSTOM6>Photocopy</CUSTOM6>
-         <CALL_NUMBER>spa-tex-bsn-0007</CALL_NUMBER>
-         <NOTES>Extracts from this book according to the index entries for Prokofiev</NOTES>
-      </RECORD>
-      <RECORD>
-         <REFERENCE_TYPE>9</REFERENCE_TYPE>
-         <REFNUM>3161</REFNUM>
-         <AUTHORS>
-            <AUTHOR>Tairov, A. Ia.</AUTHOR>
-         </AUTHORS>
-         <YEAR>1970</YEAR>
-         <TITLE>Egipetskie Nochi</TITLE>
-         <SECONDARY_TITLE>Zapiski rezhissera: stati, besedy, rechi, pis&apos;ma</SECONDARY_TITLE>
-         <PLACE_PUBLISHED>Moscow</PLACE_PUBLISHED>
-         <PUBLISHER>Vserossiiskoe teatral&apos;noe obshchestvo</PUBLISHER>
-         <PAGES>361-375 + notes 554-8</PAGES>
-         <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
-         <CUSTOM1>Russian</CUSTOM1>
-         <CUSTOM5>28/11/2006</CUSTOM5>
-         <CUSTOM6>Photocopy</CUSTOM6>
-         <CALL_NUMBER>spa-tex-bsn-0003</CALL_NUMBER>
-         <KEYWORDS>
-            <KEYWORD>Egyptian Nights</KEYWORD>
-         </KEYWORDS>
-      </RECORD>
-      <RECORD>
-         <REFERENCE_TYPE>9</REFERENCE_TYPE>
-         <REFNUM>1925</REFNUM>
-         <AUTHORS>
-            <AUTHOR>Vanni, Jacques di</AUTHOR>
-         </AUTHORS>
-         <YEAR>1987</YEAR>
-         <TITLE>Chs 1 (Quelques remarques prealables), 2 (Au lendemain de la mort de Staline et de
-            Prokofiev), 3 (Premices d&apos;un renouveau: un genevois, un canadien plus un siberien),
-            4 (Nouveautes a l&apos;interieur d&apos;une tradition: a Moscou, Leningrad et ailleurs),
-            5 (Vent d&apos;ouest, vent d&apos;est), 6 (Chemins ouverts...), and
-            &apos;Intermezzo&apos;</TITLE>
-         <SECONDARY_TITLE>Trente ans de musique sovietique: 1953-1983</SECONDARY_TITLE>
-         <PLACE_PUBLISHED>Paris</PLACE_PUBLISHED>
-         <PUBLISHER>Actes Sud</PUBLISHER>
-         <PAGES>11-19, 20-26, 27-31, 32-39, 40-48, 49-58, 61-75</PAGES>
-         <TYPE_OF_WORK>Excerpts</TYPE_OF_WORK>
-         <ISBN>2-86869-157-9</ISBN>
-         <CUSTOM1>French</CUSTOM1>
-         <CUSTOM2>Articles for Students</CUSTOM2>
-         <CUSTOM5>26/11/2004</CUSTOM5>
-         <CUSTOM6>Photocopy</CUSTOM6>
-         <ACCESSION_NUMBER>?</ACCESSION_NUMBER>
-         <CALL_NUMBER>(See Articles for Students)</CALL_NUMBER>
-      </RECORD>
-      <RECORD>
-         <REFERENCE_TYPE>9</REFERENCE_TYPE>
-         <REFNUM>3164</REFNUM>
-         <AUTHORS>
-            <AUTHOR>Vul&apos;f, Vitalii</AUTHOR>
-         </AUTHORS>
-         <YEAR>1998</YEAR>
-         <TITLE>Posle &quot;Romeo i Dzhul&apos;etty&quot;</TITLE>
-         <SECONDARY_TITLE>Teatral&apos;nyi dozhd&apos;</SECONDARY_TITLE>
-         <PLACE_PUBLISHED>Moscow</PLACE_PUBLISHED>
-         <PUBLISHER>Izdatel&apos;stvo &quot;Znanie&quot;</PUBLISHER>
-         <PAGES>34-41</PAGES>
-         <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
-         <CUSTOM1>Russian</CUSTOM1>
-         <CUSTOM5>28/11/2006</CUSTOM5>
-         <CUSTOM6>Photocopy</CUSTOM6>
-         <CALL_NUMBER>spa-tex-bsn-0006</CALL_NUMBER>
-         <KEYWORDS>
-            <KEYWORD>Romeo and Juliet (Op. 64)</KEYWORD>
-         </KEYWORDS>
-      </RECORD>
-      <RECORD>
-         <REFERENCE_TYPE>9</REFERENCE_TYPE>
-         <REFNUM>3156</REFNUM>
-         <AUTHORS>
-            <AUTHOR>Woodley, Ronald</AUTHOR>
-         </AUTHORS>
-         <YEAR>1995</YEAR>
-         <TITLE>Strategies of irony in Prokofiev&apos;s Violin Sonata in F minor Op. 80</TITLE>
-         <SECONDARY_AUTHORS>
-            <SECONDARY_AUTHOR>Rink, John</SECONDARY_AUTHOR>
-         </SECONDARY_AUTHORS>
-         <SECONDARY_TITLE>The Practice of Performance</SECONDARY_TITLE>
-         <PLACE_PUBLISHED>Cambridge</PLACE_PUBLISHED>
-         <PUBLISHER>Cambridge University Press</PUBLISHER>
-         <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
-         <ISBN>0521453747</ISBN>
-         <CUSTOM1>English</CUSTOM1>
-         <CUSTOM3>SP analytical literature</CUSTOM3>
-         <CUSTOM5>28/11/2006</CUSTOM5>
-         <CUSTOM6>Photocopy</CUSTOM6>
-      </RECORD>
-      <RECORD>
-         <REFERENCE_TYPE>8</REFERENCE_TYPE>
-         <REFNUM>507</REFNUM>
-         <YEAR>1991</YEAR>
-         <TITLE>Sergei Prokofjew: Mensch und Werk</TITLE>
-         <DATE>16 February - 1 April 1991</DATE>
-         <CUSTOM5>?</CUSTOM5>
-         <NOTES>Catalogue of the Centenary celebrations at the Kultur- und Stadthistorisches Museum
-            Duisburg</NOTES>
-      </RECORD> 
+      <REFERENCE_TYPE>9</REFERENCE_TYPE>
+      <REFNUM>173</REFNUM>
+      <AUTHOR>Robinson, Harlow</AUTHOR>
+      <YEAR>1990</YEAR>
+      <ARTICLE_TITLE>Love for Three Oranges: the collaboration of Vsevolod Meyerhold and Sergei
+         Prokofiev</ARTICLE_TITLE>
+      <BOOK_TITLE>Studies on 20th Century Music in East and Eastern Middle
+         Europe</BOOK_TITLE>
+      <EDITOR>Detlef Gojowy</EDITOR>
+      <PLACE_PUBLISHED>Berlin</PLACE_PUBLISHED>
+      <PUBLISHER>Arno Spitz</PUBLISHER>
+      <PAGES>79-102</PAGES>
+      <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+      <ISBN>3870613521</ISBN>
+      <CUSTOM1>English</CUSTOM1>
+      <CUSTOM5>22/11/2000 [revised 28/11/2006]</CUSTOM5>
+      <CUSTOM6>Photocopy</CUSTOM6>
+      <LOCATION>Article is shelved in "Cataloged Articles" Box</LOCATION>
+      <CALL_NUMBER>spa-tex-bsn-0001</CALL_NUMBER>
+   </RECORD>
+<RECORD>
+      <REFERENCE_TYPE>9</REFERENCE_TYPE>
+      <REFNUM>3160</REFNUM>
+      <AUTHORS>
+         <AUTHOR>Bruyr, Jos&#xE9;</AUTHOR>
+      </AUTHORS>
+      <YEAR>1933</YEAR>
+      <ARTICLE_TITLE>Serge Prokofieff</ARTICLE_TITLE>
+      <BOOK_TITLE>L&apos;Ecran des Musiciens (seconde s&#xE9;rie)</BOOK_TITLE>
+      <PLACE_PUBLISHED>Paris</PLACE_PUBLISHED>
+      <PUBLISHER>Corti</PUBLISHER>
+      <PAGES>11-31</PAGES>
+      <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+      <CUSTOM1>French</CUSTOM1>
+      <CUSTOM5>28/11/2006</CUSTOM5>
+      <CUSTOM6>Photocopy</CUSTOM6>
+      <LOCATION>Article is shelved in "Cataloged Articles" Box</LOCATION>
+      <CALL_NUMBER>spa-tex-bsn-0002</CALL_NUMBER>
+   </RECORD>
+<RECORD>
+      <REFERENCE_TYPE>9</REFERENCE_TYPE>
+      <REFNUM>3161</REFNUM>
+      <AUTHORS>
+         <AUTHOR>Tairov, A. Ia.</AUTHOR>
+      </AUTHORS>
+      <YEAR>1970</YEAR>
+      <ARTICLE_TITLE>Egipetskie Nochi</ARTICLE_TITLE>
+      <BOOK_TITLE>Zapiski rezhissera: Stati, besedy, rechi, pis&apos;ma</BOOK_TITLE>
+      <PLACE_PUBLISHED>Moscow</PLACE_PUBLISHED>
+      <PUBLISHER>Vserossiiskoe teatral&apos;noe obshchestvo</PUBLISHER>
+      <PAGES>361-375 + notes 554-8</PAGES>
+      <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+      <CUSTOM1>Russian</CUSTOM1>
+      <CUSTOM5>28/11/2006</CUSTOM5>
+      <CUSTOM6>Photocopy</CUSTOM6>
+      <LOCATION>Article is shelved in "Cataloged Articles" Box</LOCATION>
+      <CALL_NUMBER>spa-tex-bsn-0003</CALL_NUMBER>
+   </RECORD>
+<RECORD>
+      <REFERENCE_TYPE>9</REFERENCE_TYPE>
+      <REFNUM>3163</REFNUM>
+      <AUTHORS>
+         <AUTHOR>Richter, Sviatoslav</AUTHOR>
+      </AUTHORS>
+      <YEAR>1988</YEAR>
+      <ARTICLE_TITLE>O Prokof&apos;eve</ARTICLE_TITLE>
+      <EDITOR>Sokolov, M.</EDITOR>
+      <BOOK_TITLE>Pianisty rasskazyvaiut: Sbornik statei</BOOK_TITLE>
+      <PLACE_PUBLISHED>Moscow</PLACE_PUBLISHED>
+      <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
+      <VOLUME>3</VOLUME>
+      <PAGES>132-146</PAGES>
+      <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+      <CUSTOM1>Russian</CUSTOM1>
+      <CUSTOM5>28/11/2006</CUSTOM5>
+      <CUSTOM6>Photocopy</CUSTOM6>
+      <LOCATION>Article is shelved in "Cataloged Articles" Box</LOCATION>
+      <CALL_NUMBER>spa-tex-bsn-0005</CALL_NUMBER>
+   </RECORD>
+<RECORD>
+      <REFERENCE_TYPE>9</REFERENCE_TYPE>
+      <REFNUM>3164</REFNUM>
+      <AUTHORS>
+         <AUTHOR>Vul&apos;f, Vitalii</AUTHOR>
+      </AUTHORS>
+      <YEAR>1998</YEAR>
+      <ARTICLE_TITLE>Posle &quot;Romeo i Dzhul&apos;etty&quot;</ARTICLE_TITLE>
+      <BOOK_TITLE>Teatral&apos;nyi dozhd&apos;: Zametki i esse</BOOK_TITLE>
+      <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+      <PUBLISHER>Izdatel&apos;stvo &quot;Znanie&quot;</PUBLISHER>
+      <PAGES>34-41</PAGES>
+      <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+      <CUSTOM1>Russian</CUSTOM1>
+      <CUSTOM5>28/11/2006</CUSTOM5>
+      <CUSTOM6>Photocopy</CUSTOM6>
+      <LOCATION>Article is shelved in "Cataloged Articles" Box</LOCATION>
+      <CALL_NUMBER>spa-tex-bsn-0006</CALL_NUMBER>
+   </RECORD>
+<RECORD>
+      <REFERENCE_TYPE>9</REFERENCE_TYPE>
+      <REFNUM>451</REFNUM>
+      <AUTHORS>
+         <AUTHOR>Samosud, S. A.</AUTHOR>
+      </AUTHORS>
+      <YEAR>1984</YEAR>
+      <ARTICLE_TITLE>S. A. Samosud</ARTICLE_TITLE>
+      <EDITOR>Dansker, O. L.</EDITOR>
+      <BOOK_TITLE>S. A. Samosud: Stat&apos;i, vospominaniia, pis&apos;ma</BOOK_TITLE>
+      <PLACE_PUBLISHED>Mosckva</PLACE_PUBLISHED>
+      <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
+      <TYPE_OF_WORK>Excerpts</TYPE_OF_WORK>
+      <CUSTOM1>Russian</CUSTOM1>
+      <CUSTOM5>03/07/2001 [revised 28/11/2006]</CUSTOM5>
+      <CUSTOM6>Photocopy</CUSTOM6>
+      <NOTES>Excerpt from this book according to the index entries for Prokofiev</NOTES>
+      <LOCATION>Article is shelved in "Cataloged Articles" Box</LOCATION>
+      <CALL_NUMBER>spa-tex-bsn-0007</CALL_NUMBER>
+   </RECORD>
+<RECORD>
+      <REFERENCE_TYPE>9</REFERENCE_TYPE>
+      <REFNUM>450</REFNUM>
+      <AUTHORS>
+         <AUTHOR>Levidova, I M</AUTHOR>
+      </AUTHORS>
+      <YEAR>1978</YEAR>
+      <ARTICLE_TITLE>Bibliograficheskii</ARTICLE_TITLE>
+      <BOOK_TITLE>Uil&apos;iam Shekspir: Bibliograficheskii ukazatel&apos; russkikh
+         perevodov i kriticheskoi literatury na russkom iazyke 1963-1975</BOOK_TITLE>
+      <PLACE_PUBLISHED>Mosckva</PLACE_PUBLISHED>
+      <PUBLISHER>Kniga</PUBLISHER>
+      <TYPE_OF_WORK>Excerpt</TYPE_OF_WORK>
+      <CUSTOM1>Russian</CUSTOM1>
+      <CUSTOM5>03/07/2001 [revised 28/11/2006]</CUSTOM5>
+      <CUSTOM6>Photocopy</CUSTOM6>
+      <NOTES>Excerpts from this book according to the index entries for Prokofiev</NOTES>
+      <LOCATION>Article is shelved in "Cataloged Articles" Box</LOCATION>
+      <CALL_NUMBER>spa-tex-bsn-0008</CALL_NUMBER>
+   </RECORD>
+<RECORD>
+      <REFERENCE_TYPE>9</REFERENCE_TYPE>
+      <REFNUM>3167</REFNUM>
+      <YEAR>1957</YEAR>
+      <ARTICLE_TITLE>Repertuar Teatra 1917 - 1957</ARTICLE_TITLE>
+      <SECONDARY_TITLE>Gosudarstvennyi ordena Lenina akademicheskii teatr opery i baleta imeni S.
+         M. Kirova [Kirov state order of Lenin Academic Opera and Ballet
+         Theatre]</SECONDARY_TITLE>
+      <PLACE_PUBLISHED>Leningrad</PLACE_PUBLISHED>
+      <PAGES>143-175</PAGES>
+      <TYPE_OF_WORK>List of repertoire</TYPE_OF_WORK>
+      <CUSTOM1>Russian</CUSTOM1>
+      <CUSTOM5>01/12/2006</CUSTOM5>
+      <CUSTOM6>Photocopy</CUSTOM6>
+      <LOCATION>Article is shelved in "Cataloged Articles" Box</LOCATION>
+      <CALL_NUMBER>spa-tex-bsn-0009</CALL_NUMBER>
+   </RECORD>
+<RECORD>
+      <REFERENCE_TYPE>9</REFERENCE_TYPE>
+      <REFNUM>3168</REFNUM>
+      <AUTHORS>
+         <AUTHOR>Khentova, Sof&apos;ia</AUTHOR>
+      </AUTHORS>
+      <YEAR>1993</YEAR>
+      <ARTICLE_TITLES>
+         <ARTICLE_TITLE>Ob avtora</ARTICLE_TITLE>
+         <ARTICLE_TITLE>U Prokof&apos;eva</ARTICLE_TITLE>
+      </ARTICLE_TITLES>
+      <BOOK_TITLE>Rostropovich</BOOK_TITLE>
+      <PLACE_PUBLISHED>Sankt-Peterburg</PLACE_PUBLISHED>
+      <PUBLISHER>Kul&apos;t-Inform-Press</PUBLISHER>
+      <PAGES>53-79</PAGES>
+      <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+      <ISBN>5839200689</ISBN>
+      <CUSTOM1>Russian</CUSTOM1>
+      <CUSTOM5>01/12/2006</CUSTOM5>
+      <CUSTOM6>Photocopy</CUSTOM6>
+      <Notes>Two excerpts from the book</Notes>
+      <LOCATION>Article is shelved in "Cataloged Articles" Box</LOCATION>
+      <CALL_NUMBER>spa-tex-bsn-0010</CALL_NUMBER>
+   </RECORD>
+<RECORD>
+      <REFERENCE_TYPE>9</REFERENCE_TYPE>
+      <REFNUM>1924</REFNUM>
+      <AUTHORS>
+         <AUTHOR>Asafiev, Boris Vladimirovich</AUTHOR>
+      </AUTHORS>
+      <YEAR>1947</YEAR>
+      <ARTICLE_TITLE>The Symphony</ARTICLE_TITLE>
+      <BOOK_TITLE>Ocherki sovetskogo muzykal&apos;nogo tvorchestva</BOOK_TITLE>
+      <PLACE_PUBLISHED>Moscow-Leningrad</PLACE_PUBLISHED>
+      <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+      <SUBSIDIARY_AUTHORS>
+         <SUBSIDIARY_AUTHOR>Angelini, Jane (trans.)</SUBSIDIARY_AUTHOR>
+      </SUBSIDIARY_AUTHORS>
+      <ISBN>UNPUBLISHED</ISBN>
+      <CUSTOM1>English</CUSTOM1>
+      <CUSTOM2>Articles for Students</CUSTOM2>
+      <CUSTOM5>26/11/2004 [revised 04/12/2006]</CUSTOM5>
+      <CUSTOM6>Typescript</CUSTOM6>
+      <LOCATION>Article is shelved in "Cataloged Articles" Box</LOCATION>
+      <NOTES>This is an unpublished translation from the Russian.</NOTES>
+      <CALL_NUMBER>spa-tex-bsn-0011</CALL_NUMBER>
+   </RECORD>
+<RECORD>
+      <REFERENCE_TYPE>9</REFERENCE_TYPE>
+      <REFNUM>3170</REFNUM>
+      <ARTICLE_TITLE>Prokof'ev</ARTICLE_TITLE>
+      <BOOK_TITLE>Unknown</BOOK_TITLE>
+      <PAGES>194-205</PAGES>
+      <TYPE_OF_WORK>Reviews</TYPE_OF_WORK>
+      <CUSTOM1>Russian</CUSTOM1>
+      <CUSTOM5>04/12/2006</CUSTOM5>
+      <CUSTOM6>Photocopy</CUSTOM6>
+      <NOTES>From a compilation of concert reviews (other composers include Rakhmaninov, Reger).
+         &#xD;Extracts from Rech&apos; and Nash Vek. &#xD;No bibliographic information indicated
+         on photocopy.</NOTES>
+      <CALL_NUMBER>spa-tex-bsn-0012</CALL_NUMBER>
+   </RECORD>
 </outputxml>
