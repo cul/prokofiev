@@ -1,27 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <outputxml>
 <RECORD>
-        <REFERENCE_TYPE>9</REFERENCE_TYPE>
-        <REFNUM>3162</REFNUM>
-        <AUTHORS>
-            <AUTHOR>Brown, Malcolm Hamrick</AUTHOR>
-        </AUTHORS>
-        <YEAR>1981</YEAR>
-        <TITLE>Skriabin and Young Prokofiev, 1905-15: Promethean vis-&#xE0;-vis Pragmatist</TITLE>
-        <SECONDARY_AUTHORS>
-            <SECONDARY_AUTHOR>Thomas Noblitt</SECONDARY_AUTHOR>
-        </SECONDARY_AUTHORS>
-        <SECONDARY_TITLE>Music East and West: essays in honor of Walter Kaufmann</SECONDARY_TITLE>
-        <PLACE_PUBLISHED>Bloomington</PLACE_PUBLISHED>
-        <PUBLISHER>Indiana University Press</PUBLISHER>
-        <PAGES>371-80</PAGES>
-        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
-        <CUSTOM1>English</CUSTOM1>
-        <CUSTOM5>28/11/2006</CUSTOM5>
-        <CUSTOM6>Off-print</CUSTOM6>
-        <CALL_NUMBER>spa-tex-bsn-0004</CALL_NUMBER>
-    </RECORD>
-<RECORD>
         <REFERENCE_TYPE>1</REFERENCE_TYPE>
         <REFNUM>3179</REFNUM>
         <AUTHOR>Bogdanov-Berezovsky, Valerian Mikhailovich</AUTHOR>
@@ -91,6 +70,40 @@
         <CUSTOM6>Photocopy</CUSTOM6>
         <NOTES>MISSING</NOTES>
     </RECORD>
+    
+<RECORD>
+        <REFERENCE_TYPE>8</REFERENCE_TYPE>
+        <REFNUM>507</REFNUM>
+        <YEAR>1991</YEAR>
+        <TITLE>Sergei Prokofjew: Mensch und Werk</TITLE>
+        <DATE>16 February - 1 April 1991</DATE>
+        <CUSTOM5>?</CUSTOM5>
+        <NOTES>Catalogue of the Centenary celebrations at the Kultur- und Stadthistorisches Museum
+            Duisburg</NOTES>
+    </RECORD> 
+
+<RECORD>
+        <REFERENCE_TYPE>9</REFERENCE_TYPE>
+        <REFNUM>3162</REFNUM>
+        <AUTHORS>
+            <AUTHOR>Brown, Malcolm Hamrick</AUTHOR>
+        </AUTHORS>
+        <YEAR>1981</YEAR>
+        <TITLE>Skriabin and Young Prokofiev, 1905-15: Promethean vis-&#xE0;-vis Pragmatist</TITLE>
+        <SECONDARY_AUTHORS>
+            <SECONDARY_AUTHOR>Thomas Noblitt</SECONDARY_AUTHOR>
+        </SECONDARY_AUTHORS>
+        <SECONDARY_TITLE>Music East and West: essays in honor of Walter Kaufmann</SECONDARY_TITLE>
+        <PLACE_PUBLISHED>Bloomington</PLACE_PUBLISHED>
+        <PUBLISHER>Indiana University Press</PUBLISHER>
+        <PAGES>371-80</PAGES>
+        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>28/11/2006</CUSTOM5>
+        <CUSTOM6>Off-print</CUSTOM6>
+        <CALL_NUMBER>spa-tex-bsn-0004</CALL_NUMBER>
+    </RECORD>
+
 <RECORD>
         <REFERENCE_TYPE>9</REFERENCE_TYPE>
         <REFNUM>1925</REFNUM>
@@ -137,14 +150,4 @@
         <CUSTOM5>28/11/2006</CUSTOM5>
         <CUSTOM6>Photocopy</CUSTOM6>
     </RECORD>
-<RECORD>
-        <REFERENCE_TYPE>8</REFERENCE_TYPE>
-        <REFNUM>507</REFNUM>
-        <YEAR>1991</YEAR>
-        <TITLE>Sergei Prokofjew: Mensch und Werk</TITLE>
-        <DATE>16 February - 1 April 1991</DATE>
-        <CUSTOM5>?</CUSTOM5>
-        <NOTES>Catalogue of the Centenary celebrations at the Kultur- und Stadthistorisches Museum
-            Duisburg</NOTES>
-    </RECORD> 
 </outputxml>
