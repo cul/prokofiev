@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <outputxml>
+   
+   <!-- 6/15/17 As per RL, spa-tex-per-0001-0109 cannot be located at CU (NE) -->
 <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>1993</REFNUM>
@@ -1883,6 +1885,8 @@
          <CALL_NUMBER>spa-tex-per-0109</CALL_NUMBER>
          <NOTES>per-109 and per-110 are 2 volumes of the same issue</NOTES>
       </RECORD>
+   
+   <!-- 6/15/17 As per RL, spa-tex-per-0001-0109 cannot be located at CU (NE) -->
    <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>2046</REFNUM>
@@ -1900,6 +1904,8 @@
          <CALL_NUMBER>spa-tex-per-0110</CALL_NUMBER>
          <NOTES>per-109 and per-110 are 2 volumes of the same issue</NOTES>
       </RECORD>
+   
+ 
    <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>2047</REFNUM>
