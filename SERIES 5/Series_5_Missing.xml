@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <outputxml>
 <RECORD>
+        <REFERENCE_TYPE>9</REFERENCE_TYPE>
+        <REFNUM>3162</REFNUM>
+        <AUTHORS>
+            <AUTHOR>Brown, Malcolm Hamrick</AUTHOR>
+        </AUTHORS>
+        <YEAR>1981</YEAR>
+        <TITLE>Skriabin and Young Prokofiev, 1905-15: Promethean vis-&#xE0;-vis Pragmatist</TITLE>
+        <SECONDARY_AUTHORS>
+            <SECONDARY_AUTHOR>Thomas Noblitt</SECONDARY_AUTHOR>
+        </SECONDARY_AUTHORS>
+        <SECONDARY_TITLE>Music East and West: essays in honor of Walter Kaufmann</SECONDARY_TITLE>
+        <PLACE_PUBLISHED>Bloomington</PLACE_PUBLISHED>
+        <PUBLISHER>Indiana University Press</PUBLISHER>
+        <PAGES>371-80</PAGES>
+        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>28/11/2006</CUSTOM5>
+        <CUSTOM6>Off-print</CUSTOM6>
+        <CALL_NUMBER>spa-tex-bsn-0004</CALL_NUMBER>
+    </RECORD>
+<RECORD>
         <REFERENCE_TYPE>1</REFERENCE_TYPE>
         <REFNUM>3179</REFNUM>
         <AUTHOR>Bogdanov-Berezovsky, Valerian Mikhailovich</AUTHOR>
@@ -70,4 +91,60 @@
         <CUSTOM6>Photocopy</CUSTOM6>
         <NOTES>MISSING</NOTES>
     </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>9</REFERENCE_TYPE>
+        <REFNUM>1925</REFNUM>
+        <AUTHORS>
+            <AUTHOR>Vanni, Jacques di</AUTHOR>
+        </AUTHORS>
+        <YEAR>1987</YEAR>
+        <TITLE>Chs 1 (Quelques remarques prealables), 2 (Au lendemain de la mort de Staline et de
+            Prokofiev), 3 (Premices d&apos;un renouveau: un genevois, un canadien plus un siberien),
+            4 (Nouveautes a l&apos;interieur d&apos;une tradition: a Moscou, Leningrad et ailleurs),
+            5 (Vent d&apos;ouest, vent d&apos;est), 6 (Chemins ouverts...), and
+            &apos;Intermezzo&apos;</TITLE>
+        <SECONDARY_TITLE>Trente ans de musique sovietique: 1953-1983</SECONDARY_TITLE>
+        <PLACE_PUBLISHED>Paris</PLACE_PUBLISHED>
+        <PUBLISHER>Actes Sud</PUBLISHER>
+        <PAGES>11-19, 20-26, 27-31, 32-39, 40-48, 49-58, 61-75</PAGES>
+        <TYPE_OF_WORK>Excerpts</TYPE_OF_WORK>
+        <ISBN>2-86869-157-9</ISBN>
+        <CUSTOM1>French</CUSTOM1>
+        <CUSTOM2>Articles for Students</CUSTOM2>
+        <CUSTOM5>26/11/2004</CUSTOM5>
+        <CUSTOM6>Photocopy</CUSTOM6>
+        <ACCESSION_NUMBER>?</ACCESSION_NUMBER>
+        <CALL_NUMBER>(See Articles for Students)</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>9</REFERENCE_TYPE>
+        <REFNUM>3156</REFNUM>
+        <AUTHORS>
+            <AUTHOR>Woodley, Ronald</AUTHOR>
+        </AUTHORS>
+        <YEAR>1995</YEAR>
+        <TITLE>Strategies of irony in Prokofiev&apos;s Violin Sonata in F minor Op. 80</TITLE>
+        <SECONDARY_AUTHORS>
+            <SECONDARY_AUTHOR>Rink, John</SECONDARY_AUTHOR>
+        </SECONDARY_AUTHORS>
+        <SECONDARY_TITLE>The Practice of Performance</SECONDARY_TITLE>
+        <PLACE_PUBLISHED>Cambridge</PLACE_PUBLISHED>
+        <PUBLISHER>Cambridge University Press</PUBLISHER>
+        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <ISBN>0521453747</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM3>SP analytical literature</CUSTOM3>
+        <CUSTOM5>28/11/2006</CUSTOM5>
+        <CUSTOM6>Photocopy</CUSTOM6>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>8</REFERENCE_TYPE>
+        <REFNUM>507</REFNUM>
+        <YEAR>1991</YEAR>
+        <TITLE>Sergei Prokofjew: Mensch und Werk</TITLE>
+        <DATE>16 February - 1 April 1991</DATE>
+        <CUSTOM5>?</CUSTOM5>
+        <NOTES>Catalogue of the Centenary celebrations at the Kultur- und Stadthistorisches Museum
+            Duisburg</NOTES>
+    </RECORD> 
 </outputxml>
