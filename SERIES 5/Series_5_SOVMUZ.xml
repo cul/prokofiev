@@ -138,7 +138,7 @@
          <NOTES>Dedicated Prokofiev Issue</NOTES>
          <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
       </RECORD>
-   <RECORD>
+<RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>2287</REFNUM>
          <AUTHORS>
@@ -160,7 +160,7 @@
          <NOTES>Dedicated Prokofiev Issue</NOTES>
          <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
       </RECORD>
-   <RECORD>
+<RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>2291</REFNUM>
          <AUTHORS>
@@ -181,7 +181,7 @@
          <NOTES>Dedicated Prokofiev Issue</NOTES>
          <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
       </RECORD>
-   <RECORD>
+<RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>2265</REFNUM>
          <AUTHORS>
@@ -202,7 +202,7 @@
          <CUSTOM6>Original</CUSTOM6>
          <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
       </RECORD>
-   <RECORD>
+<RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>2266</REFNUM>
          <AUTHORS>
@@ -290,15 +290,16 @@
          <NOTES>Dedicated Prokofiev Issue</NOTES>
          <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
       </RECORD>
-   <RECORD>
+<RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>2298</REFNUM>
          <AUTHORS>
             <AUTHOR>Ekimovskii, Viktor</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Dvoe ikh [Chto vy dumaete o solntse?]</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>Dvoe ikh</EDITION_TITLE>
+         <SECONDARY_EDITION_TITLE>Chto vy dumaete o solntse?</SECONDARY_EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>52-53</PAGES>
          <DATE>1991-04</DATE>
@@ -308,18 +309,18 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>13/12/2005</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
-         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
          <NOTES>Dedicated Prokofiev Issue</NOTES>
+         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
       </RECORD>
-   <RECORD>
+<RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>2277</REFNUM>
          <AUTHORS>
             <AUTHOR>Gabrichevskii, A.</AUTHOR>
          </AUTHORS>
          <YEAR>1989</YEAR>
-         <TITLE>Frederik Chopin. Sergei Prokof'ev. Dmitrii Shostakovich</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>Frederik Chopin, Sergei Prokof'ev, Dmitrii Shostakovich</EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>6</NUMBER>
          <PAGES>84-92</PAGES>
          <DATE>1989-06</DATE>
@@ -329,8 +330,8 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>13/12/2005</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
-         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
          <NOTES>Section on Prokofiev pp. 86-89</NOTES>
+         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -339,8 +340,9 @@
             <AUTHOR>Gakkel', Leonid</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>On sam ditia [Chto vy dumaete o solntse?]</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>On sam ditia</EDITION_TITLE>
+         <SECONDARY_EDITION_TITLE>Chto vy dumaete o solntse?</SECONDARY_EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>4-5</PAGES>
          <DATE>1991-04</DATE>
@@ -350,8 +352,8 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>13/12/2005</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
-         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
          <NOTES>Dedicated Prokofiev Issue</NOTES>
+         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -360,8 +362,9 @@
             <AUTHOR>Gergiev, Valerii</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>V preddverii festivalia [Chto vy dumaete o Sontse?]</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>V preddverii festivalia</EDITION_TITLE>
+         <SECONDARY_EDITION_TITLE>Chto vy dumaete o Sontse?</SECONDARY_EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>89-91</PAGES>
          <DATE>1991-04</DATE>
@@ -371,8 +374,8 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/12/2005</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
-         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
          <NOTES>Dedicated Prokofiev Issue</NOTES>
+         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -381,8 +384,9 @@
             <AUTHOR>Iakubov, Manashir</AUTHOR>
          </AUTHORS>
          <YEAR>1988</YEAR>
-         <TITLE>Sekventsii Prokof'eva [K izucheniiu naslediia S. S. Prokof'eva]</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>Sekventsii Prokof'eva</EDITION_TITLE>
+         <SECONDARY_EDITION_TITLE>K izucheniiu naslediia S. S. Prokof'eva</SECONDARY_EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>5</NUMBER>
          <PAGES>81-93</PAGES>
          <DATE>1988-05</DATE>
@@ -401,8 +405,8 @@
             <AUTHOR>Iasulovich, Natal'ia</AUTHOR>
          </AUTHORS>
          <YEAR>1990</YEAR>
-         <TITLE>S. Prokof'ev i V. Levental'</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>S. Prokof'ev i V. Levental'</EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>65-67 + illustrations between 64 &amp; 65</PAGES>
          <DATE>1990-04</DATE>
@@ -421,9 +425,9 @@
             <AUTHOR>Iuzefovich, Viktor</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>"Spasibo maestro: ne posramil zemli skifskoi!" [Dokumenty,
-            dokumenty...]</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>"Spasibo maestro: ne posramil zemli skifskoi!"</EDITION_TITLE>
+         <SECONDARY_EDITION_TITLE>Dokumenty, dokumenty...</SECONDARY_EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>55-61</PAGES>
          <DATE>1991-04</DATE>
@@ -433,8 +437,8 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>13/12/2005</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
-         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
          <NOTES>Dedicated Prokofiev Issue</NOTES>
+         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -443,9 +447,9 @@
             <AUTHOR>Iuzefovich, V. A.</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Sergei Prokof'ev: "Spasibo maestre: ne posramil zemli skifskoi!" [God
-            Prokof'eva prodolzhaetsia]</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>Sergei Prokof'ev: "Spasibo maestre: ne posramil zemli skifskoi!"</EDITION_TITLE>
+         <SECONDARY_EDITION_TITLE>God Prokof'eva prodolzhaetsia</SECONDARY_EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>6</NUMBER>
          <PAGES>87-89</PAGES>
          <DATE>1991-06</DATE>
@@ -464,8 +468,9 @@
             <AUTHOR>Iuzefovich, V. A.</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Postskriptum publikatora [God Prokof'eva prodolzhaetsia]</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>Postskriptum publikatora</EDITION_TITLE>
+         <SECONDARY_EDITION_TITLE>God Prokof'eva prodolzhaetsia</SECONDARY_EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>6</NUMBER>
          <PAGES>90-95</PAGES>
          <DATE>1991-06</DATE>
@@ -484,9 +489,9 @@
             <AUTHOR>Keldysh, Iurii Vsevolodovich</AUTHOR>
          </AUTHORS>
          <YEAR>1985</YEAR>
-         <TITLE>Osvoenie opernogo Prokof'eva slishkom zatianulos'. (Issledovat' i
-            propagandirovat' nasledie S. S. Prokof'eva)</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>Osvoenie opernogo Prokof'eva slishkom zatianulos'</EDITION_TITLE>
+         <SECONDARY_EDITION_TITLE>Issledovat' i propagandirovat' nasledie S. S. Prokof'eva</SECONDARY_EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>72-73</PAGES>
          <DATE>1985-04</DATE>
@@ -505,9 +510,9 @@
             <AUTHOR>Khabarov, I.</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Kn. Sergei Volkonskii: Balet u Diagileva. "Na Borisfene" [Dokumenty,
-            dokumenty...]</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>Kn. Sergei Volkonskii: Balet u Diagileva. "Na Borisfene"</EDITION_TITLE>
+         <SECONDARY_EDITION_TITLE>Dokumenty, dokumenty...</SECONDARY_EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>71-73</PAGES>
          <DATE>1991-04</DATE>
@@ -517,8 +522,8 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/12/2005</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
-         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
          <NOTES>Dedicated Prokofiev Issue</NOTES>
+         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -527,9 +532,9 @@
             <AUTHOR>Kiselev, V.</AUTHOR>
          </AUTHORS>
          <YEAR>1988</YEAR>
-         <TITLE>Neosushchestvlennyi zamysel. Publikatsiia i kommentarii V. Kiseleva [K izucheniiu
-            naslediia S. S. Prokof'eva]</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>Neosushchestvlennyi zamysel: Publikatsiia i kommentarii V. Kiseleva</EDITION_TITLE>
+         <SECONDARY_EDITION_TITLE>K izucheniiu naslediia S. S. Prokof'eva</SECONDARY_EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>5</NUMBER>
          <PAGES>93-94</PAGES>
          <DATE>1988-05</DATE>
@@ -548,8 +553,9 @@
             <AUTHOR>Kiselev, V.</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Russkie korni "Bludnogo syna" [Prokof'ev teatral'nyi...]</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <TITLE>Russkie korni "Bludnogo syna"</TITLE>
+         <SECONDARY_EDITION_TITLE>Prokof'ev teatral'nyi...</SECONDARY_EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>87-88</PAGES>
          <DATE>1991-04</DATE>
@@ -559,8 +565,8 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/12/2005</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
-         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
          <NOTES>Dedicated Prokofiev Issue</NOTES>
+         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -569,7 +575,8 @@
             <AUTHOR>Kisin, Evgenii</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Ogromnoe zhelanie zhit' [Chto vy dumaete o Sontse?]</TITLE>
+         <EDITION_TITLE>Ogromnoe zhelanie zhit'</EDITION_TITLE>
+         <SECONDARY_EDITION_TITLE>Chto vy dumaete o Sontse?</SECONDARY_EDITION_TITLE>
          <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>94-95</PAGES>
@@ -580,8 +587,8 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/12/2005</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
-         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
          <NOTES>Dedicated Prokofiev Issue</NOTES>
+         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -590,9 +597,9 @@
             <AUTHOR>Klimovtskii, A.</AUTHOR>
          </AUTHORS>
          <YEAR>1985</YEAR>
-         <TITLE>Dopustimy li kupiury pri postanovke Prokof'eva? (Issledovat' i
-            propagandirovat' nasledie S. S. Prokof'eva)</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>Dopustimy li kupiury pri postanovke Prokof'eva?</EDITION_TITLE>
+         <SECONDARY_EDITION_TITLE>Issledovat' i propagandirovat' nasledie S. S. Prokof'eva</SECONDARY_EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>70</PAGES>
          <DATE>1985-04</DATE>
@@ -611,8 +618,9 @@
             <AUTHOR>Kopytova, Galina</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>"Shliu Vam staro-druzheskii privet" [Dokumenty, dokumenty...]</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>"Shliu Vam staro-druzheskii privet"</EDITION_TITLE>
+         <SECONDARY_EDITION_TITLE>Dokumenty, dokumenty...</SECONDARY_EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>96-100</PAGES>
          <DATE>1991-04</DATE>
@@ -622,8 +630,8 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/12/2005</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
-         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
          <NOTES>Dedicated Prokofiev Issue</NOTES>
+         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -632,8 +640,9 @@
             <AUTHOR>Kozlovoi, Meral'dy</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>"Dorogaia mamochka, pishu tebe iz..." [Dokumenty, dokumenty...]</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>"Dorogaia mamochka, pishu tebe iz..."</EDITION_TITLE>
+         <SECONDARY_EDITION_TITLE>Dokumenty, dokumenty...</SECONDARY_EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>42-46</PAGES>
          <DATE>1991-04</DATE>
@@ -643,8 +652,8 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>13/12/2005</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
-         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
          <NOTES>Dedicated Prokofiev Issue</NOTES>
+         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -653,8 +662,9 @@
             <AUTHOR>Ledenev, Roman</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Ego muzyka zhivet [Chto vy dumaete o solntse?]</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>Ego muzyka zhivet</EDITION_TITLE>
+         <SECONDARY_EDITION_TITLE>Chto vy dumaete o solntse?</SECONDARY_EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>2-3</PAGES>
          <DATE>1991-04</DATE>
@@ -664,8 +674,8 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>13/12/2005</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
-         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
          <NOTES>Dedicated Prokofiev Issue</NOTES>
+         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -674,9 +684,9 @@
             <AUTHOR>Miller, G.</AUTHOR>
          </AUTHORS>
          <YEAR>1985</YEAR>
-         <TITLE>Glavnaia problema - ovladenie osoboi, prokof'evskoi, intonatsiei.
-            (Issledovat' i propagandirovat' nasledie S. S. Prokof'eva)</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>Glavnaia problema - ovladenie osoboi, prokof'evskoi, intonatsiei</EDITION_TITLE>
+         <SECONDARY_EDITION_TITLE>Issledovat' i propagandirovat' nasledie S. S. Prokof'eva</SECONDARY_EDITION_TITLE>
+         <EDITION_TITLE>Sovetskaia muzyka</EDITION_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>63-64</PAGES>
          <DATE>1985-04</DATE>
@@ -695,9 +705,9 @@
             <AUTHOR>Nestiev, Izrail Vladimirovich</AUTHOR>
          </AUTHORS>
          <YEAR>1985</YEAR>
-         <TITLE>Ia by nazval festival' permskim chudom. (Issledovat' i
-            propagandirovat' nasledie S. S. Prokof'eva)</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>Ia by nazval festival' permskim chudom</EDITION_TITLE>
+         <SECONDARY_EDITION_TITLE>Issledovat' i propagandirovat' nasledie S. S. Prokof'eva</SECONDARY_EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>64-66</PAGES>
          <DATE>1985-04</DATE>
@@ -716,8 +726,8 @@
             <AUTHOR>Nestiev, Izrail Vladimirovich</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Iz bloknota issledovatelia</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>Iz bloknota issledovatelia</EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>106-110</PAGES>
          <DATE>1991-04</DATE>
@@ -727,8 +737,8 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/12/2005</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
-         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
          <NOTES>Dedicated Prokofiev Issue</NOTES>
+         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -737,9 +747,10 @@
             <AUTHOR>Nestieva, Marina</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>On vsegda nemnozhechko vperedi naroda: "Kruglyi stol" istpolnitelei i
-            kritikov [Prokof'ev teatral'nyi...]</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>On vsegda nemnozhechko vperedi naroda: "Kruglyi stol" istpolnitelei i
+            kritikov</EDITION_TITLE>
+         <SECONDARY_EDITION_TITLE>Prokof'ev teatral'nyi...</SECONDARY_EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>74-81</PAGES>
          <DATE>1991-04</DATE>
@@ -749,8 +760,8 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/12/2005</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
-         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
          <NOTES>Dedicated Prokofiev Issue</NOTES>
+         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -759,8 +770,9 @@
             <AUTHOR>Obraztsova, E.</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Iz dnevnika Frosi Kotko [Prokof'ev teatral'nyi...]</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>Iz dnevnika Frosi Kotko</EDITION_TITLE>
+         <SECONDARY_EDITION_TITLE>Prokof'ev teatral'nyi...</SECONDARY_EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>88</PAGES>
          <DATE>1991-04</DATE>
@@ -770,8 +782,8 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/12/2005</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
-         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
          <NOTES>Dedicated Prokofiev Issue</NOTES>
+         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -780,8 +792,9 @@
             <AUTHOR>Oistrakh, Igor'</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Prokof'eva khochetsia igrat' vsegda [Chto vy dumaete o Sontse?]</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>Prokof'eva khochetsia igrat' vsegda</EDITION_TITLE>
+         <SECONDARY_EDITION_TITLE>Chto vy dumaete o Sontse?</SECONDARY_EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>91-92</PAGES>
          <DATE>1991-04</DATE>
@@ -791,8 +804,8 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/12/2005</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
-         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
          <NOTES>Dedicated Prokofiev Issue</NOTES>
+         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -801,9 +814,9 @@
             <AUTHOR>Pantielev, Grigorii</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Prokof'ev: razmyshleniia, svetel'stva, spory. Beseda s Gennadiem
-            Rozhdestvenskim</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>Prokof'ev: razmyshleniia, svetel'stva, spory</EDITION_TITLE>
+         <SECONDARY_EDITION_TITLE>Beseda s Gennadiem Rozhdestvenskim</SECONDARY_EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>8-24</PAGES>
          <DATE>1991-04</DATE>
@@ -813,8 +826,8 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>13/12/2005</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
-         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
          <NOTES>Dedicated Prokofiev Issue</NOTES>
+         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -823,9 +836,9 @@
             <AUTHOR>Pasynkov, E.</AUTHOR>
          </AUTHORS>
          <YEAR>1985</YEAR>
-         <TITLE>V Permi iskliuchitel'no blagodarnaia publika. (Issledovat' i
-            propagandirovat' nasledie S. S. Prokof'eva)</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>V Permi iskliuchitel'no blagodarnaia publika</EDITION_TITLE>
+         <SECONDARY_EDITION_TITLE>Issledovat' i propagandirovat' nasledie S. S. Prokof'eva</SECONDARY_EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>70-72</PAGES>
          <DATE>1985-04</DATE>
@@ -844,8 +857,9 @@
             <AUTHOR>Pavlinova, V.</AUTHOR>
          </AUTHORS>
          <YEAR>1986</YEAR>
-         <TITLE>Smolodu - na svoem iazyke [K izucheniiu naslediia S. S. Prokof'eva]</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>Smolodu - na svoem iazyke</EDITION_TITLE>
+         <SECONDARY_EDITION_TITLE>K izucheniiu naslediia S. S. Prokof'eva</SECONDARY_EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>84-87</PAGES>
          <DATE>1986-04</DATE>
@@ -864,8 +878,9 @@
             <AUTHOR>Petrov, Andrei</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Na vsiu zhizn' [Chto vy dumaete o solntse?]</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>Na vsiu zhizn'</EDITION_TITLE>
+         <SECONDARY_EDITION_TITLE>Chto vy dumaete o solntse?</SECONDARY_EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>4</PAGES>
          <DATE>1991-04</DATE>
@@ -875,8 +890,8 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>13/12/2005</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
-         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
          <NOTES>Dedicated Prokofiev Issue</NOTES>
+         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -885,8 +900,9 @@
             <AUTHOR>Petrov, Nikolai</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Tablichka na uglu allei [Chto vy dumaete o Sontse?]</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>Tablichka na uglu allei</EDITION_TITLE>
+         <SECONDARY_EDITION_TITLE>Chto vy dumaete o Sontse?</SECONDARY_EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>93-94</PAGES>
          <DATE>1991-04</DATE>
@@ -896,8 +912,8 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/12/2005</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
-         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
          <NOTES>Dedicated Prokofiev Issue</NOTES>
+         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -906,9 +922,9 @@
             <AUTHOR>Rakhmanova, Marina</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>"Sochiniat' - znachit slagat', vydumyvat'!" [Dokumenty,
-            dokumenty...]</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>"Sochiniat' - znachit slagat', vydumyvat'!"</EDITION_TITLE>
+         <SECONDARY_EDITION_TITLE>Dokumenty, dokumenty...</SECONDARY_EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>100-105</PAGES>
          <DATE>1991-04</DATE>
@@ -918,8 +934,8 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/12/2005</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
-         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
          <NOTES>Dedicated Prokofiev Issue</NOTES>
+         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -928,8 +944,9 @@
             <AUTHOR>Raskatov, Aleksandr</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Ee chas - vperedi [Chto vy dumaete o solntse?]</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>Ee chas - vperedi</EDITION_TITLE>
+         <SECONDARY_EDITION_TITLE>Chto vy dumaete o solntse?</SECONDARY_EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>51-52</PAGES>
          <DATE>1991-04</DATE>
@@ -939,8 +956,8 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>13/12/2005</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
-         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
          <NOTES>Dedicated Prokofiev Issue</NOTES>
+         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -949,9 +966,10 @@
             <AUTHOR>Sabinina, Marina Dmitrievna</AUTHOR>
          </AUTHORS>
          <YEAR>1985</YEAR>
-         <TITLE>Chest' i slava pioneram! (Issledovat' i propagandirovat' nasledie S.
-            S. Prokof'eva)</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>Chest' i slava pioneram!</EDITION_TITLE>
+         <SECONDARY_EDITION_TITLE>Issledovat' i propagandirovat' nasledie S.
+         S. Prokof'eva</SECONDARY_EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>59-63</PAGES>
          <DATE>1985-04</DATE>
@@ -970,8 +988,8 @@
             <AUTHOR>Sabinina, Marina Dmitrievna</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Musorgskii i Prokof'ev</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>Musorgskii i Prokof'ev</EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>25-28</PAGES>
          <DATE>1991-04</DATE>
@@ -981,8 +999,8 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>13/12/2005</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
-         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
          <NOTES>Dedicated Prokofiev Issue</NOTES>
+         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -991,8 +1009,8 @@
             <AUTHOR>Schnittke, Alfred</AUTHOR>
          </AUTHORS>
          <YEAR>1990</YEAR>
-         <TITLE>Slovo o Prokof'eve</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>Slovo o Prokof'eve</EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>11</NUMBER>
          <PAGES>1-3</PAGES>
          <DATE>1990-11</DATE>
@@ -1011,8 +1029,9 @@
             <AUTHOR>Shakhidi, Tolib</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Estestvennaia i neobkhodimaia [Chto vy dumaete o solntse?]</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>Estestvennaia i neobkhodimaia</EDITION_TITLE>
+         <SECONDARY_EDITION_TITLE>Chto vy dumaete o solntse?</SECONDARY_EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>7</PAGES>
          <DATE>1991-04</DATE>
@@ -1022,8 +1041,8 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>13/12/2005</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
-         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
          <NOTES>Dedicated Prokofiev Issue</NOTES>
+         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -1032,8 +1051,8 @@
             <AUTHOR>Shcherbakova, T.</AUTHOR>
          </AUTHORS>
          <YEAR>1986</YEAR>
-         <TITLE>Na prokof'evskikh vysotakh</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>Na prokof'evskikh vysotakh</EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>2</NUMBER>
          <PAGES>77-80</PAGES>
          <DATE>1986-02</DATE>
@@ -1052,8 +1071,9 @@
             <AUTHOR>Sokolov, Ivan</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Prelest' tainy [Chto vy dumaete o solntse?]</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>Prelest' tainy</EDITION_TITLE>
+         <SECONDARY_EDITION_TITLE>Chto vy dumaete o solntse?</SECONDARY_EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>50</PAGES>
          <DATE>1991-04</DATE>
@@ -1063,8 +1083,8 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>13/12/2005</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
-         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
          <NOTES>Dedicated Prokofiev Issue</NOTES>
+         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -1073,8 +1093,9 @@
             <AUTHOR>Stankovich, Evgenii</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Unikal'nyi zvukovoi mir [Chto vy dumaete o solntse?]</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>Unikal'nyi zvukovoi mir</EDITION_TITLE>
+         <SECONDARY_EDITION_TITLE>Chto vy dumaete o solntse?</SECONDARY_EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>52</PAGES>
          <DATE>1991-04</DATE>
@@ -1084,8 +1105,8 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>13/12/2005</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
-         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
          <NOTES>Dedicated Prokofiev Issue</NOTES>
+         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -1094,8 +1115,9 @@
             <AUTHOR>Terterian, Avet</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Genii est' genii! [Chto vy dumaete o solntse?]</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>Genii est' genii!</EDITION_TITLE>
+         <SECONDARY_EDITION_TITLE>Chto vy dumaete o solntse?</SECONDARY_EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>53-54</PAGES>
          <DATE>1991-04</DATE>
@@ -1105,8 +1127,8 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>13/12/2005</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
-         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
          <NOTES>Dedicated Prokofiev Issue</NOTES>
+         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -1115,8 +1137,8 @@
             <AUTHOR>Tompakova, O.</AUTHOR>
          </AUTHORS>
          <YEAR>1986</YEAR>
-         <TITLE>"Muzyka i molodost' v rastsvete..."</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>"Muzyka i molodost' v rastsvete..."</EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>92-94</PAGES>
          <DATE>1986-04</DATE>
@@ -1135,8 +1157,9 @@
             <AUTHOR>Varunts, Viktor P</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Stranitsy biografii [Dokumenty, dokumenty...]</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>Stranitsy biografiI</EDITION_TITLE>
+         <SECONDARY_EDITION_TITLE>Dokumenty, dokumenty...</SECONDARY_EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>65-70</PAGES>
          <DATE>1991-04</DATE>
@@ -1146,8 +1169,8 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/12/2005</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
-         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
          <NOTES>Dedicated Prokofiev Issue</NOTES>
+         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -1156,8 +1179,9 @@
             <AUTHOR>Vlasov, Alexander</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Pechal'naia istoriia vedeloi opery [Prokof'ev teatral'nyi...]</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>Pechal'naia istoriia vedeloi opery</EDITION_TITLE>
+         <SECONDARY_EDITION_TITLE>Prokof'ev teatral'nyi...</SECONDARY_EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>81-84</PAGES>
          <DATE>1991-04</DATE>
@@ -1167,8 +1191,8 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>14/12/2005</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
-         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
          <NOTES>Dedicated Prokofiev Issue</NOTES>
+         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -1177,8 +1201,8 @@
             <AUTHOR>Volkov, Anatolii Isaakovich</AUTHOR>
          </AUTHORS>
          <YEAR>1986</YEAR>
-         <TITLE>Prokof'ev "prokof'eviziruet"</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>Prokof'ev "prokof'eviziruet"</EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>87-92</PAGES>
          <DATE>1986-04</DATE>
@@ -1197,8 +1221,8 @@
             <AUTHOR>Zeifas, Natal'ia</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Simfoniia "Ognennogo angela"</TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <EDITION_TITLE>Simfoniia "Ognennogo angela"</EDITION_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>35-41</PAGES>
          <DATE>1991-04</DATE>
@@ -1208,8 +1232,7 @@
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>13/12/2005</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
-         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
          <NOTES>Dedicated Prokofiev Issue</NOTES>
+         <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
       </RECORD>  
-    
 </outputxml>
