@@ -22,10 +22,11 @@
         <REFNUM>2243</REFNUM>
         <AUTHORS>
             <AUTHOR>Ordzhonikidze, Givi</AUTHOR>
+            <EDITOR></EDITOR>
         </AUTHORS>
         <YEAR>1974</YEAR>
-        <EDITION_TITLE>Prokof'ev v GABTe</EDITION_TITLE>
-        <SECONDARY_EDITION_TITLE>O postanovke opera "Igrok"</SECONDARY_EDITION_TITLE>
+        <ARTICLE_TITLE>Prokof'ev v GABTe</ARTICLE_TITLE>
+        <SECONDARY_ARTICLE_TITLE>O postanovke opera "Igrok"</SECONDARY_ARTICLE_TITLE>
         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
         <NUMBER>10</NUMBER>
         <PAGES>27-36</PAGES>
@@ -41,11 +42,12 @@
         <REFERENCE_TYPE>1</REFERENCE_TYPE>
         <REFNUM>2217</REFNUM>
         <AUTHORS>
-            <EDITOR?>Poliakova, Liudmilla Viktorovna</EDITOR>
+            <AUTHOR>Poliakova, Liudmilla Viktorovna</AUTHOR>
+            <EDITOR></EDITOR>
         </AUTHORS>
         <YEAR>1960</YEAR>
-        <EDITION_TITLE>"Voina i mir"</EDITION_TITLE>
-        <SECONDARY_EDITION_TITLE>Post. opery S. S. Prokof'eva v GABT SSSR</SECONDARY_EDITION_TITLE>
+        <ARTICLE_TITLE>"Voina i mir"</ARTICLE_TITLE>
+        <SECONDARY_ARTICLE_TITLE>Post. opery S. S. Prokof'eva v GABT SSSR</SECONDARY_ARTICLE_TITLE>
         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
         <NUMBER>2</NUMBER>
         <PAGES>101-109</PAGES>
@@ -64,7 +66,7 @@
             <AUTHOR>Sabinina, Marina Dmitrievna</AUTHOR>
         </AUTHORS>
         <YEAR>1974</YEAR>
-        <EDITION_TITLE>"Voina i mir" v Komische oper</EDITION_TITLE>
+        <ARTICLE_TITLE>"Voina i mir" v Komische oper</ARTICLE_TITLE>
         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
         <NUMBER>10</NUMBER>
         <PAGES>119-122</PAGES>
@@ -80,8 +82,8 @@
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>2307</REFNUM>
          <YEAR>1991</YEAR>
-         <EDITION_TITLE>Dva Alekseia: ob "Igroke," ego avtorakh i interpretatorakh</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>[Prokof'ev teatral'nyi...</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>Dva Alekseia: ob "Igroke," ego avtorakh i interpretatorakh</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>[Prokof'ev teatral'nyi...</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>85-86</PAGES>
@@ -102,8 +104,8 @@
             <AUTHOR>?</AUTHOR>
          </AUTHORS>
          <YEAR>1985</YEAR>
-         <EDITION_TITLE>Prokof'ev postavil pered pevtsami iskliuchitel'nye zadachi</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Issledovat' i propagandirovat' nasledie S. S. Prokof'eva</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>Prokof'ev postavil pered pevtsami iskliuchitel'nye zadachi</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Issledovat' i propagandirovat' nasledie S. S. Prokof'eva</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>73-77</PAGES>
@@ -123,8 +125,8 @@
             <AUTHOR>Alekseev, Dmitrii</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <EDITION_TITLE>Oshchushchenie radosti bytiia</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Chto vy dumaete o Sontse?</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>Oshchushchenie radosti bytiia</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Chto vy dumaete o Sontse?</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>93</PAGES>
@@ -145,8 +147,8 @@
             <AUTHOR>Ali-zade, Frangiz</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <EDITION_TITLE>Neskol'ko variatsii na dve temy</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Chto vy dumaete o solntse?</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>Neskol'ko variatsii na dve temy</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Chto vy dumaete o solntse?</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>6-7</PAGES>
@@ -167,7 +169,7 @@
             <AUTHOR>Andreev, A.</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <EDITION_TITLE>Obrazy opery "Voina i mir"</EDITION_TITLE>
+         <ARTICLE_TITLE>Obrazy opery "Voina i mir"</ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>29-35</PAGES>
@@ -188,8 +190,8 @@
             <AUTHOR>Cherkashina, M.</AUTHOR>
          </AUTHORS>
          <YEAR>1985</YEAR>
-         <EDITION_TITLE>Isvestno, skol' velika vystpoennost' formy u Prokof'eva</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Issledovat' i propagandirovat' nasledie S. S. Prokof'eva</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>Isvestno, skol' velika vystpoennost' formy u Prokof'eva</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Issledovat' i propagandirovat' nasledie S. S. Prokof'eva</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>66-68</PAGES>
@@ -209,8 +211,8 @@
             <AUTHOR>Chernova, N.</AUTHOR>
          </AUTHORS>
          <YEAR>1985</YEAR>
-         <EDITION_TITLE>Spektakl' zhiv ne bukvoi, a dukhom proizvedeniia</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Issledovat' i propagandirovat' nasledie S. S. Prokof'eva</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>Spektakl' zhiv ne bukvoi, a dukhom proizvedeniia</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Issledovat' i propagandirovat' nasledie S. S. Prokof'eva</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>68-70</PAGES>
@@ -231,8 +233,8 @@
             <AUTHOR>Nestiev, Izrail Vladimirovich</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <EDITION_TITLE>"Gnevno zhmu Vashu ruku..."</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Dokumenty, dokumenty...</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>"Gnevno zhmu Vashu ruku..."</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Dokumenty, dokumenty...</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>61-64</PAGES>
@@ -253,8 +255,8 @@
             <AUTHOR>Deklerk, Iuliia</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <EDITION_TITLE>"Ia gotov vystupit'..."</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Dokumenty, dokumenty...</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>"Ia gotov vystupit'..."</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Dokumenty, dokumenty...</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>47-49</PAGES>
@@ -275,8 +277,8 @@
             <AUTHOR>Dolukhanova, Zara</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <EDITION_TITLE>Preodolevaia glukhotu i konservatizm</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Chto vy dumaete o Sontse?</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>Preodolevaia glukhotu i konservatizm</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Chto vy dumaete o Sontse?</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>92-93</PAGES>
@@ -297,8 +299,8 @@
             <AUTHOR>Ekimovskii, Viktor</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <EDITION_TITLE>Dvoe ikh</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Chto vy dumaete o solntse?</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>Dvoe ikh</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Chto vy dumaete o solntse?</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>52-53</PAGES>
@@ -319,7 +321,7 @@
             <AUTHOR>Gabrichevskii, A.</AUTHOR>
          </AUTHORS>
          <YEAR>1989</YEAR>
-         <EDITION_TITLE>Frederik Chopin, Sergei Prokof'ev, Dmitrii Shostakovich</EDITION_TITLE>
+         <ARTICLE_TITLE>Frederik Chopin, Sergei Prokof'ev, Dmitrii Shostakovich</ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>6</NUMBER>
          <PAGES>84-92</PAGES>
@@ -340,8 +342,8 @@
             <AUTHOR>Gakkel', Leonid</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <EDITION_TITLE>On sam ditia</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Chto vy dumaete o solntse?</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>On sam ditia</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Chto vy dumaete o solntse?</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>4-5</PAGES>
@@ -362,8 +364,8 @@
             <AUTHOR>Gergiev, Valerii</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <EDITION_TITLE>V preddverii festivalia</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Chto vy dumaete o Sontse?</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>V preddverii festivalia</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Chto vy dumaete o Sontse?</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>89-91</PAGES>
@@ -384,8 +386,8 @@
             <AUTHOR>Iakubov, Manashir</AUTHOR>
          </AUTHORS>
          <YEAR>1988</YEAR>
-         <EDITION_TITLE>Sekventsii Prokof'eva</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>K izucheniiu naslediia S. S. Prokof'eva</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>Sekventsii Prokof'eva</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>K izucheniiu naslediia S. S. Prokof'eva</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>5</NUMBER>
          <PAGES>81-93</PAGES>
@@ -405,7 +407,7 @@
             <AUTHOR>Iasulovich, Natal'ia</AUTHOR>
          </AUTHORS>
          <YEAR>1990</YEAR>
-         <EDITION_TITLE>S. Prokof'ev i V. Levental'</EDITION_TITLE>
+         <ARTICLE_TITLE>S. Prokof'ev i V. Levental'</ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>65-67 + illustrations between 64 &amp; 65</PAGES>
@@ -425,8 +427,8 @@
             <AUTHOR>Iuzefovich, Viktor</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <EDITION_TITLE>"Spasibo maestro: ne posramil zemli skifskoi!"</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Dokumenty, dokumenty...</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>"Spasibo maestro: ne posramil zemli skifskoi!"</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Dokumenty, dokumenty...</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>55-61</PAGES>
@@ -447,8 +449,8 @@
             <AUTHOR>Iuzefovich, V. A.</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <EDITION_TITLE>Sergei Prokof'ev: "Spasibo maestre: ne posramil zemli skifskoi!"</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>God Prokof'eva prodolzhaetsia</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>Sergei Prokof'ev: "Spasibo maestre: ne posramil zemli skifskoi!"</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>God Prokof'eva prodolzhaetsia</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>6</NUMBER>
          <PAGES>87-89</PAGES>
@@ -468,8 +470,8 @@
             <AUTHOR>Iuzefovich, V. A.</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <EDITION_TITLE>Postskriptum publikatora</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>God Prokof'eva prodolzhaetsia</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>Postskriptum publikatora</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>God Prokof'eva prodolzhaetsia</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>6</NUMBER>
          <PAGES>90-95</PAGES>
@@ -489,8 +491,8 @@
             <AUTHOR>Keldysh, Iurii Vsevolodovich</AUTHOR>
          </AUTHORS>
          <YEAR>1985</YEAR>
-         <EDITION_TITLE>Osvoenie opernogo Prokof'eva slishkom zatianulos'</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Issledovat' i propagandirovat' nasledie S. S. Prokof'eva</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>Osvoenie opernogo Prokof'eva slishkom zatianulos'</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Issledovat' i propagandirovat' nasledie S. S. Prokof'eva</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>72-73</PAGES>
@@ -510,8 +512,8 @@
             <AUTHOR>Khabarov, I.</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <EDITION_TITLE>Kn. Sergei Volkonskii: Balet u Diagileva. "Na Borisfene"</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Dokumenty, dokumenty...</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>Kn. Sergei Volkonskii: Balet u Diagileva. "Na Borisfene"</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Dokumenty, dokumenty...</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>71-73</PAGES>
@@ -532,8 +534,8 @@
             <AUTHOR>Kiselev, V.</AUTHOR>
          </AUTHORS>
          <YEAR>1988</YEAR>
-         <EDITION_TITLE>Neosushchestvlennyi zamysel: Publikatsiia i kommentarii V. Kiseleva</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>K izucheniiu naslediia S. S. Prokof'eva</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>Neosushchestvlennyi zamysel: Publikatsiia i kommentarii V. Kiseleva</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>K izucheniiu naslediia S. S. Prokof'eva</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>5</NUMBER>
          <PAGES>93-94</PAGES>
@@ -553,8 +555,8 @@
             <AUTHOR>Kiselev, V.</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <TITLE>Russkie korni "Bludnogo syna"</TITLE>
-         <SECONDARY_EDITION_TITLE>Prokof'ev teatral'nyi...</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>Russkie korni "Bludnogo syna"</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Prokof'ev teatral'nyi...</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>87-88</PAGES>
@@ -575,8 +577,8 @@
             <AUTHOR>Kisin, Evgenii</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <EDITION_TITLE>Ogromnoe zhelanie zhit'</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Chto vy dumaete o Sontse?</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>Ogromnoe zhelanie zhit'</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Chto vy dumaete o Sontse?</SECONDARY_ARTICLE_TITLE>
          <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>94-95</PAGES>
@@ -597,8 +599,8 @@
             <AUTHOR>Klimovtskii, A.</AUTHOR>
          </AUTHORS>
          <YEAR>1985</YEAR>
-         <EDITION_TITLE>Dopustimy li kupiury pri postanovke Prokof'eva?</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Issledovat' i propagandirovat' nasledie S. S. Prokof'eva</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>Dopustimy li kupiury pri postanovke Prokof'eva?</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Issledovat' i propagandirovat' nasledie S. S. Prokof'eva</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>70</PAGES>
@@ -618,8 +620,8 @@
             <AUTHOR>Kopytova, Galina</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <EDITION_TITLE>"Shliu Vam staro-druzheskii privet"</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Dokumenty, dokumenty...</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>"Shliu Vam staro-druzheskii privet"</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Dokumenty, dokumenty...</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>96-100</PAGES>
@@ -640,8 +642,8 @@
             <AUTHOR>Kozlovoi, Meral'dy</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <EDITION_TITLE>"Dorogaia mamochka, pishu tebe iz..."</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Dokumenty, dokumenty...</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>"Dorogaia mamochka, pishu tebe iz..."</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Dokumenty, dokumenty...</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>42-46</PAGES>
@@ -662,8 +664,8 @@
             <AUTHOR>Ledenev, Roman</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <EDITION_TITLE>Ego muzyka zhivet</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Chto vy dumaete o solntse?</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>Ego muzyka zhivet</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Chto vy dumaete o solntse?</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>2-3</PAGES>
@@ -684,8 +686,8 @@
             <AUTHOR>Miller, G.</AUTHOR>
          </AUTHORS>
          <YEAR>1985</YEAR>
-         <EDITION_TITLE>Glavnaia problema - ovladenie osoboi, prokof'evskoi, intonatsiei</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Issledovat' i propagandirovat' nasledie S. S. Prokof'eva</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>Glavnaia problema - ovladenie osoboi, prokof'evskoi, intonatsiei</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Issledovat' i propagandirovat' nasledie S. S. Prokof'eva</SECONDARY_ARTICLE_TITLE>
          <EDITION_TITLE>Sovetskaia muzyka</EDITION_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>63-64</PAGES>
@@ -705,8 +707,8 @@
             <AUTHOR>Nestiev, Izrail Vladimirovich</AUTHOR>
          </AUTHORS>
          <YEAR>1985</YEAR>
-         <EDITION_TITLE>Ia by nazval festival' permskim chudom</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Issledovat' i propagandirovat' nasledie S. S. Prokof'eva</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>Ia by nazval festival' permskim chudom</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Issledovat' i propagandirovat' nasledie S. S. Prokof'eva</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>64-66</PAGES>
@@ -726,7 +728,7 @@
             <AUTHOR>Nestiev, Izrail Vladimirovich</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <EDITION_TITLE>Iz bloknota issledovatelia</EDITION_TITLE>
+         <ARTICLE_TITLE>Iz bloknota issledovatelia</ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>106-110</PAGES>
@@ -747,9 +749,9 @@
             <AUTHOR>Nestieva, Marina</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <EDITION_TITLE>On vsegda nemnozhechko vperedi naroda: "Kruglyi stol" istpolnitelei i
-            kritikov</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Prokof'ev teatral'nyi...</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>On vsegda nemnozhechko vperedi naroda: "Kruglyi stol" istpolnitelei i
+            kritikov</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Prokof'ev teatral'nyi...</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>74-81</PAGES>
@@ -770,8 +772,8 @@
             <AUTHOR>Obraztsova, E.</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <EDITION_TITLE>Iz dnevnika Frosi Kotko</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Prokof'ev teatral'nyi...</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>Iz dnevnika Frosi Kotko</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Prokof'ev teatral'nyi...</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>88</PAGES>
@@ -792,8 +794,8 @@
             <AUTHOR>Oistrakh, Igor'</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <EDITION_TITLE>Prokof'eva khochetsia igrat' vsegda</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Chto vy dumaete o Sontse?</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>Prokof'eva khochetsia igrat' vsegda</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Chto vy dumaete o Sontse?</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>91-92</PAGES>
@@ -814,8 +816,8 @@
             <AUTHOR>Pantielev, Grigorii</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <EDITION_TITLE>Prokof'ev: razmyshleniia, svetel'stva, spory</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Beseda s Gennadiem Rozhdestvenskim</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>Prokof'ev: razmyshleniia, svetel'stva, spory</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Beseda s Gennadiem Rozhdestvenskim</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>8-24</PAGES>
@@ -836,8 +838,8 @@
             <AUTHOR>Pasynkov, E.</AUTHOR>
          </AUTHORS>
          <YEAR>1985</YEAR>
-         <EDITION_TITLE>V Permi iskliuchitel'no blagodarnaia publika</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Issledovat' i propagandirovat' nasledie S. S. Prokof'eva</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>V Permi iskliuchitel'no blagodarnaia publika</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Issledovat' i propagandirovat' nasledie S. S. Prokof'eva</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>70-72</PAGES>
@@ -857,8 +859,8 @@
             <AUTHOR>Pavlinova, V.</AUTHOR>
          </AUTHORS>
          <YEAR>1986</YEAR>
-         <EDITION_TITLE>Smolodu - na svoem iazyke</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>K izucheniiu naslediia S. S. Prokof'eva</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>Smolodu - na svoem iazyke</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>K izucheniiu naslediia S. S. Prokof'eva</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>84-87</PAGES>
@@ -878,8 +880,8 @@
             <AUTHOR>Petrov, Andrei</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <EDITION_TITLE>Na vsiu zhizn'</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Chto vy dumaete o solntse?</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>Na vsiu zhizn'</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Chto vy dumaete o solntse?</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>4</PAGES>
@@ -900,8 +902,8 @@
             <AUTHOR>Petrov, Nikolai</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <EDITION_TITLE>Tablichka na uglu allei</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Chto vy dumaete o Sontse?</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>Tablichka na uglu allei</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Chto vy dumaete o Sontse?</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>93-94</PAGES>
@@ -922,8 +924,8 @@
             <AUTHOR>Rakhmanova, Marina</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <EDITION_TITLE>"Sochiniat' - znachit slagat', vydumyvat'!"</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Dokumenty, dokumenty...</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>"Sochiniat' - znachit slagat', vydumyvat'!"</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Dokumenty, dokumenty...</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>100-105</PAGES>
@@ -944,8 +946,8 @@
             <AUTHOR>Raskatov, Aleksandr</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <EDITION_TITLE>Ee chas - vperedi</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Chto vy dumaete o solntse?</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>Ee chas - vperedi</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Chto vy dumaete o solntse?</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>51-52</PAGES>
@@ -966,9 +968,9 @@
             <AUTHOR>Sabinina, Marina Dmitrievna</AUTHOR>
          </AUTHORS>
          <YEAR>1985</YEAR>
-         <EDITION_TITLE>Chest' i slava pioneram!</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Issledovat' i propagandirovat' nasledie S.
-         S. Prokof'eva</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>Chest' i slava pioneram!</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Issledovat' i propagandirovat' nasledie S.
+         S. Prokof'eva</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>59-63</PAGES>
@@ -988,7 +990,7 @@
             <AUTHOR>Sabinina, Marina Dmitrievna</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <EDITION_TITLE>Musorgskii i Prokof'ev</EDITION_TITLE>
+         <ARTICLE_TITLE>Musorgskii i Prokof'ev</ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>25-28</PAGES>
@@ -1009,7 +1011,7 @@
             <AUTHOR>Schnittke, Alfred</AUTHOR>
          </AUTHORS>
          <YEAR>1990</YEAR>
-         <EDITION_TITLE>Slovo o Prokof'eve</EDITION_TITLE>
+         <ARTICLE_TITLE>Slovo o Prokof'eve</ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>11</NUMBER>
          <PAGES>1-3</PAGES>
@@ -1029,8 +1031,8 @@
             <AUTHOR>Shakhidi, Tolib</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <EDITION_TITLE>Estestvennaia i neobkhodimaia</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Chto vy dumaete o solntse?</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>Estestvennaia i neobkhodimaia</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Chto vy dumaete o solntse?</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>7</PAGES>
@@ -1051,7 +1053,7 @@
             <AUTHOR>Shcherbakova, T.</AUTHOR>
          </AUTHORS>
          <YEAR>1986</YEAR>
-         <EDITION_TITLE>Na prokof'evskikh vysotakh</EDITION_TITLE>
+         <ARTICLE_TITLE>Na prokof'evskikh vysotakh</ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>2</NUMBER>
          <PAGES>77-80</PAGES>
@@ -1071,8 +1073,8 @@
             <AUTHOR>Sokolov, Ivan</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <EDITION_TITLE>Prelest' tainy</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Chto vy dumaete o solntse?</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>Prelest' tainy</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Chto vy dumaete o solntse?</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>50</PAGES>
@@ -1093,8 +1095,8 @@
             <AUTHOR>Stankovich, Evgenii</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <EDITION_TITLE>Unikal'nyi zvukovoi mir</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Chto vy dumaete o solntse?</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>Unikal'nyi zvukovoi mir</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Chto vy dumaete o solntse?</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>52</PAGES>
@@ -1115,8 +1117,8 @@
             <AUTHOR>Terterian, Avet</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <EDITION_TITLE>Genii est' genii!</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Chto vy dumaete o solntse?</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>Genii est' genii!</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Chto vy dumaete o solntse?</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>53-54</PAGES>
@@ -1137,7 +1139,7 @@
             <AUTHOR>Tompakova, O.</AUTHOR>
          </AUTHORS>
          <YEAR>1986</YEAR>
-         <EDITION_TITLE>"Muzyka i molodost' v rastsvete..."</EDITION_TITLE>
+         <ARTICLE_TITLE>"Muzyka i molodost' v rastsvete..."</ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>92-94</PAGES>
@@ -1157,8 +1159,8 @@
             <AUTHOR>Varunts, Viktor P</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <EDITION_TITLE>Stranitsy biografiI</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Dokumenty, dokumenty...</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>Stranitsy biografiI</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Dokumenty, dokumenty...</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>65-70</PAGES>
@@ -1179,8 +1181,8 @@
             <AUTHOR>Vlasov, Alexander</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <EDITION_TITLE>Pechal'naia istoriia vedeloi opery</EDITION_TITLE>
-         <SECONDARY_EDITION_TITLE>Prokof'ev teatral'nyi...</SECONDARY_EDITION_TITLE>
+         <ARTICLE_TITLE>Pechal'naia istoriia vedeloi opery</ARTICLE_TITLE>
+         <SECONDARY_ARTICLE_TITLE>Prokof'ev teatral'nyi...</SECONDARY_ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>81-84</PAGES>
@@ -1201,7 +1203,7 @@
             <AUTHOR>Volkov, Anatolii Isaakovich</AUTHOR>
          </AUTHORS>
          <YEAR>1986</YEAR>
-         <EDITION_TITLE>Prokof'ev "prokof'eviziruet"</EDITION_TITLE>
+         <ARTICLE_TITLE>Prokof'ev "prokof'eviziruet"</ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>87-92</PAGES>
@@ -1221,7 +1223,7 @@
             <AUTHOR>Zeifas, Natal'ia</AUTHOR>
          </AUTHORS>
          <YEAR>1991</YEAR>
-         <EDITION_TITLE>Simfoniia "Ognennogo angela"</EDITION_TITLE>
+         <ARTICLE_TITLE>Simfoniia "Ognennogo angela"</ARTICLE_TITLE>
          <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>35-41</PAGES>
