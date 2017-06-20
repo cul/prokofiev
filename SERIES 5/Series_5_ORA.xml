@@ -345,15 +345,15 @@
          <CUSTOM6>Original</CUSTOM6>
          <CALL_NUMBER>[spa-tex-per-ORA002]</CALL_NUMBER>
       </RECORD>
-   <!RECORD>
+   <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>2433</REFNUM>
          <AUTHORS>
             <AUTHOR>Prokofiev Jr., Serge</AUTHOR>
          </AUTHORS>
          <YEAR>2001-11</YEAR>
-         <TITLE>The Game</TITLE>
-         <SECONDARY_TITLE>Three Oranges</SECONDARY_TITLE>
+         <ARTICLE_TITLE>The Game</ARTICLE_TITLE>
+         <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
          <NUMBER>2</NUMBER>
          <PAGES>8-10</PAGES>
          <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
@@ -371,8 +371,8 @@
             <AUTHOR>Arnest, Mark</AUTHOR>
          </AUTHORS>
          <YEAR>2002-05</YEAR>
-         <TITLE>Serge Prokofiev: The Composer as Interpreter</TITLE>
-         <SECONDARY_TITLE>Three Oranges</SECONDARY_TITLE>
+         <ARTICLE_TITLE>Serge Prokofiev: The Composer as Interpreter</ARTICLE_TITLE>
+         <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
          <NUMBER>3</NUMBER>
          <PAGES>22-25</PAGES>
          <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
@@ -390,8 +390,8 @@
             <AUTHOR>Isserlis, Steven</AUTHOR>
          </AUTHORS>
          <YEAR>2002-05</YEAR>
-         <TITLE>Prokofiev's Unfinished Concertino: a Twisted Tale</TITLE>
-         <SECONDARY_TITLE>Three Oranges</SECONDARY_TITLE>
+         <ARTICLE_TITLE>Prokofiev's Unfinished Concertino: a Twisted Tale</ARTICLE_TITLE>
+         <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
          <NUMBER>3</NUMBER>
          <PAGES>32-33</PAGES>
          <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
@@ -409,8 +409,8 @@
             <AUTHOR>Morrison, Simon</AUTHOR>
          </AUTHORS>
          <YEAR>2002-05</YEAR>
-         <TITLE>Prokofiev and Briusov</TITLE>
-         <SECONDARY_TITLE>Three Oranges</SECONDARY_TITLE>
+         <ARTICLE_TITLE>Prokofiev and Briusov</ARTICLE_TITLE>
+         <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
          <NUMBER>3</NUMBER>
          <PAGES>13-15</PAGES>
          <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
@@ -428,9 +428,9 @@
             <AUTHOR>Nice, David</AUTHOR>
          </AUTHORS>
          <YEAR>2002-05</YEAR>
-         <TITLE>Anglo-American Attitudes: Prokofiev's First Critics in London and New York,
-            1916-1922</TITLE>
-         <SECONDARY_TITLE>Three Oranges</SECONDARY_TITLE>
+         <ARTICLE_TITLE>Anglo-American Attitudes: Prokofiev's First Critics in London and New York,
+            1916-1922</ARTICLE_TITLE>
+         <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
          <NUMBER>3</NUMBER>
          <PAGES>19-21</PAGES>
          <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
@@ -448,8 +448,8 @@
             <AUTHOR>Poldiaeva, Elena</AUTHOR>
          </AUTHORS>
          <YEAR>2002-05</YEAR>
-         <TITLE>Story of a Disagreement between Prokofiev and Souvchinsky</TITLE>
-         <SECONDARY_TITLE>Three Oranges</SECONDARY_TITLE>
+         <ARTICLE_TITLE>Story of a Disagreement between Prokofiev and Souvchinsky</ARTICLE_TITLE>
+         <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
          <NUMBER>3</NUMBER>
          <PAGES>26-29</PAGES>
          <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
@@ -467,8 +467,8 @@
             <AUTHOR>Prokofiev, Sviatoslav</AUTHOR>
          </AUTHORS>
          <YEAR>2002-05</YEAR>
-         <TITLE>Ettal 1922-23</TITLE>
-         <SECONDARY_TITLE>Three Oranges</SECONDARY_TITLE>
+         <ARTICLE_TITLE>Ettal 1922-23</ARTICLE_TITLE>
+         <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
          <NUMBER>3</NUMBER>
          <PAGES>2-5</PAGES>
          <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
@@ -486,8 +486,8 @@
             <AUTHOR>Prokofiev, Serge</AUTHOR>
          </AUTHORS>
          <YEAR>2002-05</YEAR>
-         <TITLE>A Bad Dog</TITLE>
-         <SECONDARY_TITLE>Three Oranges</SECONDARY_TITLE>
+         <ARTICLE_TITLE>A Bad Dog</ARTICLE_TITLE>
+         <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
          <NUMBER>3</NUMBER>
          <PAGES>6-9</PAGES>
          <TYPE_OF_WORK>Transcript</TYPE_OF_WORK>
@@ -508,8 +508,8 @@
             <AUTHOR>Chernysheva, Ekaterina</AUTHOR>
          </AUTHORS>
          <YEAR>2002-11</YEAR>
-         <TITLE>Sergei Prokofiev - "Soviet" Composer</TITLE>
-         <SECONDARY_TITLE>Three Oranges</SECONDARY_TITLE>
+         <ARTICLE_TITLE>Sergei Prokofiev - "Soviet" Composer</ARTICLE_TITLE>
+         <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>10-15</PAGES>
          <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
@@ -527,8 +527,8 @@
             <AUTHOR>Mann, Noëlle</AUTHOR>
          </AUTHORS>
          <YEAR>2002-11</YEAR>
-         <TITLE>Trapèze: a Forgotten Ballet by Serge Prokofiev and Boris Romanov</TITLE>
-         <SECONDARY_TITLE>Three Oranges</SECONDARY_TITLE>
+         <ARTICLE_TITLE>Trapèze: a Forgotten Ballet by Serge Prokofiev and Boris Romanov</ARTICLE_TITLE>
+         <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>4-9</PAGES>
          <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
@@ -546,8 +546,8 @@
             <AUTHOR>Nissman, Barbara</AUTHOR>
          </AUTHORS>
          <YEAR>2002-11</YEAR>
-         <TITLE>The Many Faces of Prokofiev</TITLE>
-         <SECONDARY_TITLE>Three Oranges</SECONDARY_TITLE>
+         <ARTICLE_TITLE>The Many Faces of Prokofiev</ARTICLE_TITLE>
+         <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>24-29</PAGES>
          <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
@@ -565,8 +565,8 @@
             <AUTHOR>Sayers, Lesley-Anne</AUTHOR>
          </AUTHORS>
          <YEAR>2002-11</YEAR>
-         <TITLE>The Magnificent George</TITLE>
-         <SECONDARY_TITLE>Three Oranges</SECONDARY_TITLE>
+         <ARTICLE_TITLE>The Magnificent George</ARTICLE_TITLE>
+         <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>16-21</PAGES>
          <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
