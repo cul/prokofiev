@@ -1,6 +1,684 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <outputxml>
 <RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2321</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Mendl-Schrama, Heleen</ARTICLE_AUTHOR>
+            <EDITOR>Goddijn, Hans</EDITOR>
+        </AUTHORS>
+        <YEAR>1992</YEAR>
+        <ARTICLE_TITLE>Sergei Prokofjev 1891-1953</ARTICLE_TITLE>
+        <SECONDARY_ARTICLE_TITLE>Componist, Pianist, Dirigent, Maarschrijver Van
+            Dagboeken En Korte Verhalen</SECONDARY_ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Pianowereld</PERIODICAL_TITLE>
+        <PUBLISHER>Thema Media</PUBLISHER>
+        <VOLUME>8</VOLUME>
+        <NUMBER>3</NUMBER>
+        <PAGES>6-9</PAGES>
+        <DATE>1992-06/07</DATE>
+        <TYPE_OF_WORK>Interview</TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>Dutch</CUSTOM1>
+        <CUSTOM5>20/12/2005</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0001</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>88</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Niels, Elger</ARTICLE_AUTHOR>
+            <EDITOR>Goddijn, Hans</EDITOR>
+        </AUTHORS>
+        <YEAR>2001</YEAR>
+        <ARTICLE_TITLE>Serge Prokofiev Association Opgericht</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Pianowereld</PERIODICAL_TITLE>
+        <PUBLISHER>Thema Media</PUBLISHER>
+        <VOLUME>17</VOLUME>
+        <NUMBER>5</NUMBER>
+        <PAGES>37</PAGES>
+        <DATE>2001-05</DATE>
+        <TYPE_OF_WORK>Review</TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>1381-7183</ISBN>
+        <CUSTOM1>Dutch</CUSTOM1>
+        <CUSTOM5>28/08/2001 (revised 20/12/2005)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0002</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2322</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Mendl-Schrama, Heleen</ARTICLE_AUTHOR>
+            <EDITOR>Goddijn, Hans</EDITOR>
+        </AUTHORS>
+        <YEAR>2001</YEAR>
+        <ARTICLE_TITLE>Serge Prokofiev Association in Londen gelanceerd</ARTICLE_TITLE>
+        <SPERIODICAL_TITLE>Pianowereld</SPERIODICAL_TITLE>
+        <VOLUME>17</VOLUME>
+        <NUMBER>12</NUMBER>
+        <PAGES>10-11</PAGES>
+        <DATE>2001-12</DATE>
+        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>1381-7183</ISBN>
+        <CUSTOM1>Dutch</CUSTOM1>
+        <CUSTOM5>20/12/2005</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0003</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>1994</REFNUM>
+        <AUTHORS>
+            <EDITOR>Vevers, G M</EDITOR>
+        </AUTHORS>
+        <YEAR>1942</YEAR>
+        <PERIODICAL_TITLE>Anglo Soviet Journal</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Society for Cultural Relations</PUBLISHER>
+        <VOLUME>3</VOLUME>
+        <NUMBER>3</NUMBER>
+        <DATE>1942-07/09</DATE>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>06/05/2005</CUSTOM5>
+        <NOTES>No article specific to Prokofiev</NOTES>
+        <CALL_NUMBER>spa-tex-per-0004</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>1995</REFNUM>
+        <AUTHORS>
+            <EDITOR>Maddocks, Fiona</EDITOR>
+        </AUTHORS>
+        <YEAR>1995</YEAR>
+        <PERIODICAL_TITLE>BBC Music Magazine</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>BBC</PUBLISHER>
+        <VOLUME>4</VOLUME>
+        <NUMBER>1</NUMBER>
+        <DATE>1995-09</DATE>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>09667180</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>06/05/2005</CUSTOM5>
+        <NOTES>No article specific to Prokofiev</NOTES>
+        <CALL_NUMBER>spa-tex-per-0005</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2323</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Allison, John</ARTICLE_AUTHOR>
+            <EDITOR>Maddocks, Fiona</EDITOR>
+        </AUTHORS>
+        <YEAR>1996</YEAR>
+        <ARTICLE_TITLE>Rostropovich: The Russian Muse</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>BBC Music Magazine</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>BBC</PUBLISHER>
+        <VOLUME>5</VOLUME>
+        <NUMBER>2</NUMBER>
+        <PAGES>34-36</PAGES>
+        <DATE>1996-10</DATE>
+        <TYPE_OF_WORK>Interview</TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>20/12/2005</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0006</CALL_NUMBER>
+    </RECORD>    
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>61</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Nice, David</ARTICLE_AUTHOR>
+            <EDITOR>Wallace, Helen</EDITOR>
+        </AUTHORS>
+        <YEAR>2001</YEAR>
+        <ARTICLE_TITLE>The Love for Prokofiev</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>BBC Music Magazine</PERIODICAL_TITLE>
+        <PUBLISHER>BBC</PUBLISHER>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <VOLUME>9</VOLUME>
+        <NUMBER>9</NUMBER>
+        <PAGES>13</PAGES>
+        <DATE>2001-05</DATE>
+        <TYPE_OF_WORK>Report</TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>21/05/2001 (revised 20/12/2005)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <NOTES>David Nice reports on the new Serge Prokofiev Association</NOTES>
+        <CALL_NUMBER>spa-tex-per-0007</CALL_NUMBER>
+    </RECORD>    
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>85</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Nice, David</ARTICLE_AUTHOR>
+            <EDITOR>Wallace, Helen</EDITOR>
+        </AUTHORS>
+        <YEAR>2001</YEAR>
+        <ARTICLE_TITLE>Building a Library: Prokofiev's Piano Concerto No. 3</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>BBC Music Magazine</PERIODICAL_TITLE>
+        <PUBLISHER>BBC</PUBLISHER>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <VOLUME>9</VOLUME>
+        <NUMBER>11</NUMBER>
+        <PAGES>65-66</PAGES>
+        <DATE>2001-07</DATE>
+        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>24/07/2001 (revised 20/12/2005)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <NOTES>Photocopy of article in Works filing cabinet</NOTES>
+        <CALL_NUMBER>spa-tex-per-0008</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2324</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Welsh, Moray</ARTICLE_AUTHOR>
+            <EDITOR>Wallace, Helen</EDITOR>
+        </AUTHORS>
+        <YEAR>2002</YEAR>
+        <ARTICLE_TITLE>Rostropovich at 75: An Audience with Slava</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>BBC Music Magazine</PERIODICAL_TITLE>
+        <PUBLISHER>BBC</PUBLISHER>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <VOLUME>10</VOLUME>
+        <NUMBER>8</NUMBER>
+        <PAGES>30-32</PAGES>
+        <DATE>2002-04</DATE>
+        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>20/12/2005</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0009</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>1996</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Freeborn, Richard</ARTICLE_AUTHOR>
+            <EDITOR>Currie, Mary</EDITOR>
+        </AUTHORS>
+        <YEAR>1978</YEAR>
+        <ARTICLE_AUTHOR>L. N. Tolstoy, 1828-1978: A Tribute</ARTICLE_AUTHOR>
+        <PERIODICAL_TITLE>Britain-USSR</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Great Britain-USSR Association</PUBLISHER>
+        <NUMBER>54</NUMBER>
+        <DATE>1978-11</DATE>
+        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Newsletter</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>n/a</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>06/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0010</CALL_NUMBER>
+    </RECORD>    
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>1997</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Watt, Donald Cameron</ARTICLE_AUTHOR>
+            <EDITOR>Currie, Mary</EDITOR>
+        </AUTHORS>
+        <YEAR>1980</YEAR>
+        <ARTICLE_TITLE>Britain and Russia in 1939</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Britain-USSR</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Great Britain-USSR Association</PUBLISHER>
+        <NUMBER>57</NUMBER>
+        <DATE>Spring 1980</DATE>
+        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Newsletter</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>n/a</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>06/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0011</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>896</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Rozhdestvensky, Gennady</ARTICLE_AUTHOR>
+            <EDITOR>Learner, Gwyneth</EDITOR>
+        </AUTHORS>
+        <YEAR>1991</YEAR>
+        <ARTICLE_TITLE>"The Rich Man of the Sun": Sergei Prokofiev 1891 - 1953</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Britain-USSR</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Great Britain-USSR Association</PUBLISHER>
+        <NUMBER>88</NUMBER>
+        <DATE>1991-04</DATE>
+        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Newsletter</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>n/a</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>28/11/2000</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0012</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>1998</REFNUM>
+        <AUTHORS>
+            <EDITOR>DeWitt, John</EDITOR>
+        </AUTHORS>
+        <YEAR>1983</YEAR>
+        <PERIODICAL_TITLE>Christian Science Journal</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Boston</PLACE_PUBLISHED>
+        <PUBLISHER>Christian Science Publishing Society</PUBLISHER>
+        <VOLUME>101</VOLUME>
+        <NUMBER>4</NUMBER>
+        <DATE>1983-04</DATE>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>00095613</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>06/05/2005</CUSTOM5>
+        <NOTES>No article specific to Prokofiev</NOTES>
+        <CALL_NUMBER>spa-tex-per-0013</CALL_NUMBER>
+    </RECORD>    
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>1999</REFNUM>
+        <YEAR>1984</YEAR>
+        <AUTHORS>
+            <EDITOR>Anon.</EDITOR>
+        </AUTHORS>
+        <PERIODICAL_TITLE>Christian Science Quarterly</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Boston, Massachusetts</PLACE_PUBLISHED>
+        <PUBLISHER>Christian Science Publishing Society</PUBLISHER>
+        <DATE>1984-10/12</DATE>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>01457365</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>06/05/2005</CUSTOM5>
+        <NOTES>No article specific to Prokofiev</NOTES>
+        <CALL_NUMBER>spa-tex-per-0014</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2000</REFNUM>
+        <YEAR>1985</YEAR>
+        <AUTHORS>
+            <EDITOR>Anon.</EDITOR>
+        </AUTHORS>
+        <PERIODICAL_TITLE>Christian Science Quarterly</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Boston, Massachusetts</PLACE_PUBLISHED>
+        <PUBLISHER>Christian Science Publishing Society</PUBLISHER>
+        <DATE>1985-01/03</DATE>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>01457365</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>06/05/2005</CUSTOM5>
+        <NOTES>No article specific to Prokofiev</NOTES>
+        <CALL_NUMBER>spa-tex-per-0015</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2001</REFNUM>
+        <AUTHORS>
+            <EDITOR>DeWitt, John</EDITOR>
+        </AUTHORS>
+        <YEAR>1982</YEAR>
+        <PERIODICAL_TITLE>Christian Science Sentinel</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Boston, Massachusetts</PLACE_PUBLISHED>
+        <PUBLISHER>Christian Science Publishing Society</PUBLISHER>
+        <VOLUME>84</VOLUME>
+        <NUMBER>14</NUMBER>
+        <DATE>1982-04-05</DATE>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>0009563X</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>06/05/2005</CUSTOM5>
+        <NOTES>No article specific to Prokofiev</NOTES>
+        <CALL_NUMBER>spa-tex-per-0016</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2002</REFNUM>
+        <AUTHORS>
+            <EDITOR>DeWitt, John</EDITOR>
+        </AUTHORS>
+        <YEAR>1983</YEAR>
+        <PERIODICAL_TITLE>Christian Science Sentinel</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Boston, Massachusetts</PLACE_PUBLISHED>
+        <PUBLISHER>Christian Science Publishing Society</PUBLISHER>
+        <VOLUME>85</VOLUME>
+        <NUMBER>48</NUMBER>
+        <DATE>1983-11-28</DATE>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>0009563X</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>06/05/2005</CUSTOM5>
+        <NOTES>No article specific to Prokofiev</NOTES>
+        <CALL_NUMBER>spa-tex-per-0017</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Jaffé, Daniel</ARTICLE_AUTHOR>
+            <EDITOR>Evans, Neil</EDITOR>
+        </AUTHORS>
+        <YEAR>1998</YEAR>
+        <ARTICLE_TITLE>Sergei Prokofiev: 1891-1953</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Classic CD</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Bath</PLACE_PUBLISHED>
+        <PUBLISHER>Future Publishing</PUBLISHER>
+        <NUMBER>98</NUMBER>
+        <PAGES>38-39</PAGES>
+        <DATE>1998-05</DATE>
+        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ESSAY>1</ESSAY>
+        <OUT_OF_ESSAYS>5</OUT_OF_ESSAYS>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>29/11/2000 (revised 21/12/2005)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <NOTES>Part of 'Prokofiev Special'</NOTES>
+        <CALL_NUMBER>spa-tex-per-0018</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Jaffé, Daniel</ARTICLE_AUTHOR>
+            <EDITOR>Evans, Neil</EDITOR>
+        </AUTHORS>
+        <YEAR>1998</YEAR>
+        <ARTICLE_TITLE>Gergiev's greatest love affair</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Classic CD</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Bath</PLACE_PUBLISHED>
+        <PUBLISHER>Future Publishing</PUBLISHER>
+        <NUMBER>98</NUMBER>
+        <PAGES>40-43</PAGES>
+        <DATE>1998-05</DATE>
+        <TYPE_OF_WORK>Interview</TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ESSAY>2</ESSAY>
+        <OUT_OF_ESSAYS>5</OUT_OF_ESSAYS>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>29/11/2000 (revised 21/12/2005)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <NOTES>Part of 'Prokofiev Special'</NOTES>
+        <CALL_NUMBER>spa-tex-per-0018</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Jaffé, Daniel</ARTICLE_AUTHOR>
+            <EDITOR>Evans, Neil</EDITOR>
+        </AUTHORS>
+        <YEAR>1998</YEAR>
+        <ARTICLE_TITLE>Back to the USSR</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Classic CD</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Bath</PLACE_PUBLISHED>
+        <PUBLISHER>Future Publishing</PUBLISHER>
+        <NUMBER>98</NUMBER>
+        <PAGES>44-48</PAGES>
+        <DATE>1998-05</DATE>
+        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ESSAY>3</ESSAY>
+        <OUT_OF_ESSAYS>5</OUT_OF_ESSAYS>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>29/11/2000 (revised 21/12/2005)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <NOTES>Part of 'Prokofiev Special'</NOTES>
+        <CALL_NUMBER>spa-tex-per-0018</CALL_NUMBER>
+    </RECORD>    
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Jaffé, Daniel</ARTICLE_AUTHOR>
+            <EDITOR>Evans, Neil</EDITOR>
+        </AUTHORS>
+        <YEAR>1998</YEAR>
+        <ARTICLE_TITLE>Peter and the Wolf!</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Classic CD</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Bath</PLACE_PUBLISHED>
+        <PUBLISHER>Future Publishing</PUBLISHER>
+        <NUMBER>98</NUMBER>
+        <PAGES>50-55</PAGES>
+        <DATE>1998-05</DATE>
+        <TYPE_OF_WORK>Interview</TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ESSAY>4</ESSAY>
+        <OUT_OF_ESSAYS>5</OUT_OF_ESSAYS>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>29/11/2000 (revised 21/12/2005)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <NOTES>Part of 'Prokofiev Special'</NOTES>
+        <CALL_NUMBER>spa-tex-per-0018</CALL_NUMBER>
+    </RECORD>  
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Jaffé, Daniel</ARTICLE_AUTHOR>
+            <EDITOR>Evans, Neil</EDITOR>
+        </AUTHORS>
+        <YEAR>1998</YEAR>
+        <ARTICLE_TITLE>Prokofiev Piano Sonatas 6, 7 &amp; 8</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Classic CD</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Bath</PLACE_PUBLISHED>
+        <PUBLISHER>Future Publishing</PUBLISHER>
+        <NUMBER>98</NUMBER>
+        <PAGES>56-59</PAGES>
+        <DATE>1998-05</DATE>
+        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ESSAY>5</ESSAY>
+        <OUT_OF_ESSAYS>5</OUT_OF_ESSAYS>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>29/11/2000 (revised 21/12/2005)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <NOTES>Part of 'Prokofiev Special'</NOTES>
+        <CALL_NUMBER>spa-tex-per-0018</CALL_NUMBER>
+    </RECORD> 
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>4</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Stewart, Andrew</ARTICLE_AUTHOR>
+            <EDITOR>Clarke, Keith</EDITOR>
+        </AUTHORS>
+        <YEAR>1991</YEAR>
+        <ARTICLE_TITLE>Rostropovich and Prokofiev: With a Little Help From My Friends</ARTICLE_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PERIODICAL_TITLE>Classical Music</PERIODICAL_TITLE>
+        <PUBLISHER>Rhinegold Publishing</PUBLISHER>
+        <NUMBER>439</NUMBER>
+        <PAGES>20-21</PAGES>
+        <DATE>1991-10-19</DATE>
+        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>0961-2696</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>28/11/2000 (revised 21/12/2005)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0019</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>7</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Fawkes, Richard</ARTICLE_AUTHOR>
+            <EDITOR>Clarke, Keith</EDITOR>
+        </AUTHORS>
+        <YEAR>1991</YEAR>
+        <ARTICLE_TITLE>Prokofiev Eclipsed</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Classical Music</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Kent</PLACE_PUBLISHED>
+        <PUBLISHER>Rhinegold Publishing</PUBLISHER>
+        <NUMBER>442</NUMBER>
+        <PAGES>32</PAGES>
+        <DATE>1991-11-30</DATE>
+        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>28/11/2000 (revised 21/12/2005)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0020</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2329</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Shostakovich, Dmitri Dmitrievich</ARTICLE_AUTHOR>
+        </AUTHORS>
+        <YEAR>1951</YEAR>
+        <ARTICLE_TITLE>Culture in the Fight for Peace</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Communist Review</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Communist Party</PUBLISHER>
+        <NUMBER>1</NUMBER>
+        <PAGES>7-11</PAGES>
+        <DATE>1951-01</DATE>
+        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>21/12/2005</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0021</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2330</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Eisenstein, Sergei</ARTICLE_AUTHOR>
+            <ARTICLE_AUTHOR>Cherkasov, Nikolai</ARTICLE_AUTHOR>
+            <EDITOR>Lasky, Melvin</EDITOR>
+            <EDITOR>Mayne, Richard</EDITOR>
+            <EDITOR>Hartley, Anthony</EDITOR>
+        </AUTHORS>
+        <YEAR>1989</YEAR>
+        <ARTICLE_TITLE>A Conversation in the Kremlin</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Encounter</PERIODICAL_TITLE>
+        <PUBLISHER>Encounter Ltd</PUBLISHER>
+        <VOLUME>LXXII</VOLUME>
+        <NUMBER>2</NUMBER>
+        <PAGES>3-6</PAGES>
+        <DATE>1989-02</DATE>
+        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>0013-7073</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>21/12/2005</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0022</CALL_NUMBER>
+    </RECORD>   
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>1948</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Takis, John</ARTICLE_AUTHOR>
+            <EDITOR>Bond, Jeff</EDITOR>
+        </AUTHORS>
+        <YEAR>2001</YEAR>
+        <ARTICLE_TITLE>Sergei Prokofiev: The Man, the Music, the Legacy</ARTICLE_TITLE>
+        <SECONDARY_ARTICLE_TITLE>A Special Film Score Tribute</SECONDARY_ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Film Score Monthly</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Culver City</PLACE_PUBLISHED>
+        <PUBLISHER>Vineyard Haven</PUBLISHER>
+        <VOLUME>6</VOLUME>
+        <NUMBER>5</NUMBER>
+        <PAGES>26-33</PAGES>
+        <DATE>2001-06</DATE>
+        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>1077-4289</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>02/12/2004 (revised 21/12/2005)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0023</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2004</REFNUM>
+        <AUTHORS>
+            <EDITOR>Heayes, Neil</EDITOR>
+        </AUTHORS>
+        <YEAR>1990</YEAR>
+        <PERIODICAL_TITLE>FRMS Bulletin</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Macclesfield</PLACE_PUBLISHED>
+        <PUBLISHER>Federation of Recorded Music Societies</PUBLISHER>
+        <NUMBER>113</NUMBER>
+        <DATE>1990-09</DATE>
+        <PERIODICAL_TYPE_OF_WORK>Newsletter</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>06/05/2005</CUSTOM5>
+        <NOTES>No article specific to Prokofiev</NOTES>
+        <CALL_NUMBER>spa-tex-per-0024</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2331</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Gurewitsch, Matthew</ARTICLE_AUTHOR>
+            <EDITOR>Jolly, James</EDITOR>
+        </AUTHORS>
+        <YEAR>1998</YEAR>
+        <ARTICLE_TITLE>Valery Gergiev: a Maestro in demand</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Gramophone</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Teddington</PLACE_PUBLISHED>
+        <PUBLISHER>Gramophone</PUBLISHER>
+        <VOLUME>76</VOLUME>
+        <NUMBER>906</NUMBER>
+        <PAGES>10-12</PAGES>
+        <DATE>1998-10</DATE>
+        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>0017-310X</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>21/12/2005</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0025</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>43</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Fanning, David</ARTICLE_AUTHOR>
+            <EDITOR>Jolly, James</EDITOR>
+        </AUTHORS>
+        <YEAR>2000</YEAR>
+        <ARTICLE_TITLE>Sviatoslav Richter: Aiming at Higher Truths</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Gramophone</PERIODICAL_TITLE>
+        <PUBLISHER>Haymarket Magazines Ltd</PUBLISHER>
+        <VOLUME>78</VOLUME>
+        <NUMBER>934</NUMBER>
+        <PAGES>58-59</PAGES>
+        <DATE>2000</DATE>
+        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>0017-310X</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>29/11/2000 (revised 21/12/2005)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <NOTES>Awards Issue</NOTES>
+        <CALL_NUMBER>spa-tex-per-0026</CALL_NUMBER>
+    </RECORD>
+<!-- 
+    
+    
+    
+    -->    
+    
+    
+    
+    
+<RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2046</REFNUM>
         <AUTHORS>
