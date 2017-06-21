@@ -17,7 +17,7 @@
         <NUMBER>3</NUMBER>
         <PAGES>6-9</PAGES>
         <DATE>1992-06/07</DATE>
-        <TYPE_OF_WORK>Interview</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Interview</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
         <CUSTOM1>Dutch</CUSTOM1>
         <CUSTOM5>20/12/2005</CUSTOM5>
@@ -39,7 +39,7 @@
         <NUMBER>5</NUMBER>
         <PAGES>37</PAGES>
         <DATE>2001-05</DATE>
-        <TYPE_OF_WORK>Review</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Review</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
         <ISBN>1381-7183</ISBN>
         <CUSTOM1>Dutch</CUSTOM1>
@@ -61,7 +61,7 @@
         <NUMBER>12</NUMBER>
         <PAGES>10-11</PAGES>
         <DATE>2001-12</DATE>
-        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
         <ISBN>1381-7183</ISBN>
         <CUSTOM1>Dutch</CUSTOM1>
@@ -124,7 +124,7 @@
         <NUMBER>2</NUMBER>
         <PAGES>34-36</PAGES>
         <DATE>1996-10</DATE>
-        <TYPE_OF_WORK>Interview</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Interview</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>20/12/2005</CUSTOM5>
@@ -147,7 +147,7 @@
         <NUMBER>9</NUMBER>
         <PAGES>13</PAGES>
         <DATE>2001-05</DATE>
-        <TYPE_OF_WORK>Report</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Report</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>21/05/2001 (revised 20/12/2005)</CUSTOM5>
@@ -171,7 +171,7 @@
         <NUMBER>11</NUMBER>
         <PAGES>65-66</PAGES>
         <DATE>2001-07</DATE>
-        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>24/07/2001 (revised 20/12/2005)</CUSTOM5>
@@ -195,7 +195,7 @@
         <NUMBER>8</NUMBER>
         <PAGES>30-32</PAGES>
         <DATE>2002-04</DATE>
-        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>20/12/2005</CUSTOM5>
@@ -216,7 +216,7 @@
         <PUBLISHER>Great Britain-USSR Association</PUBLISHER>
         <NUMBER>54</NUMBER>
         <DATE>1978-11</DATE>
-        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Newsletter</PERIODICAL_TYPE_OF_WORK>
         <ISBN>n/a</ISBN>
         <CUSTOM1>English</CUSTOM1>
@@ -237,7 +237,7 @@
         <PUBLISHER>Great Britain-USSR Association</PUBLISHER>
         <NUMBER>57</NUMBER>
         <DATE>Spring 1980</DATE>
-        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Newsletter</PERIODICAL_TYPE_OF_WORK>
         <ISBN>n/a</ISBN>
         <CUSTOM1>English</CUSTOM1>
@@ -258,7 +258,7 @@
         <PUBLISHER>Great Britain-USSR Association</PUBLISHER>
         <NUMBER>88</NUMBER>
         <DATE>1991-04</DATE>
-        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Newsletter</PERIODICAL_TYPE_OF_WORK>
         <ISBN>n/a</ISBN>
         <CUSTOM1>English</CUSTOM1>
@@ -376,7 +376,7 @@
         <NUMBER>98</NUMBER>
         <PAGES>38-39</PAGES>
         <DATE>1998-05</DATE>
-        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
         <ESSAY>1</ESSAY>
         <OUT_OF_ESSAYS>5</OUT_OF_ESSAYS>
@@ -401,7 +401,7 @@
         <NUMBER>98</NUMBER>
         <PAGES>40-43</PAGES>
         <DATE>1998-05</DATE>
-        <TYPE_OF_WORK>Interview</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Interview</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
         <ESSAY>2</ESSAY>
         <OUT_OF_ESSAYS>5</OUT_OF_ESSAYS>
@@ -426,7 +426,7 @@
         <NUMBER>98</NUMBER>
         <PAGES>44-48</PAGES>
         <DATE>1998-05</DATE>
-        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
         <ESSAY>3</ESSAY>
         <OUT_OF_ESSAYS>5</OUT_OF_ESSAYS>
@@ -451,7 +451,7 @@
         <NUMBER>98</NUMBER>
         <PAGES>50-55</PAGES>
         <DATE>1998-05</DATE>
-        <TYPE_OF_WORK>Interview</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Interview</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
         <ESSAY>4</ESSAY>
         <OUT_OF_ESSAYS>5</OUT_OF_ESSAYS>
@@ -476,7 +476,7 @@
         <NUMBER>98</NUMBER>
         <PAGES>56-59</PAGES>
         <DATE>1998-05</DATE>
-        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
         <ESSAY>5</ESSAY>
         <OUT_OF_ESSAYS>5</OUT_OF_ESSAYS>
@@ -501,7 +501,7 @@
         <NUMBER>439</NUMBER>
         <PAGES>20-21</PAGES>
         <DATE>1991-10-19</DATE>
-        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
         <ISBN>0961-2696</ISBN>
         <CUSTOM1>English</CUSTOM1>
@@ -524,7 +524,7 @@
         <NUMBER>442</NUMBER>
         <PAGES>32</PAGES>
         <DATE>1991-11-30</DATE>
-        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>28/11/2000 (revised 21/12/2005)</CUSTOM5>
@@ -545,7 +545,7 @@
         <NUMBER>1</NUMBER>
         <PAGES>7-11</PAGES>
         <DATE>1951-01</DATE>
-        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>21/12/2005</CUSTOM5>
@@ -570,7 +570,7 @@
         <NUMBER>2</NUMBER>
         <PAGES>3-6</PAGES>
         <DATE>1989-02</DATE>
-        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
         <ISBN>0013-7073</ISBN>
         <CUSTOM1>English</CUSTOM1>
@@ -595,7 +595,7 @@
         <NUMBER>5</NUMBER>
         <PAGES>26-33</PAGES>
         <DATE>2001-06</DATE>
-        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
         <ISBN>1077-4289</ISBN>
         <CUSTOM1>English</CUSTOM1>
@@ -637,7 +637,7 @@
         <NUMBER>906</NUMBER>
         <PAGES>10-12</PAGES>
         <DATE>1998-10</DATE>
-        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
         <ISBN>0017-310X</ISBN>
         <CUSTOM1>English</CUSTOM1>
@@ -660,7 +660,7 @@
         <NUMBER>934</NUMBER>
         <PAGES>58-59</PAGES>
         <DATE>2000</DATE>
-        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
         <ISBN>0017-310X</ISBN>
         <CUSTOM1>English</CUSTOM1>
@@ -669,11 +669,1318 @@
         <NOTES>Awards Issue</NOTES>
         <CALL_NUMBER>spa-tex-per-0026</CALL_NUMBER>
     </RECORD>
-<!-- 
-    
-    
-    
-    -->    
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>42</REFNUM>
+        <AUTHORS>
+           <ARTICLE_AUTHOR>Gutman, David</ARTICLE_AUTHOR>
+           <EDITOR>Jolly, James</EDITOR>
+        </AUTHORS>
+        <YEAR>2000</YEAR>
+        <ARTICLE_TITLE>Pure Love Rising From the Cinders: Prokofiev's Cinderella</ARTICLE_TITLE>
+        <PERIODICLE_TITLE>Gramophone</PERIODICLE_TITLE>
+        <PUBLISHER>Haymarket Magazines Ltd</PUBLISHER>
+        <VOLUME>78</VOLUME>
+        <NUMBER>935</NUMBER>
+        <PAGES>36-40</PAGES>
+        <DATE>2000-12</DATE>
+        <ARTICLE_TYPE_OF_WORK>Review</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>0017-310X</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>29/11/2000 (revised 21/12/2005)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0027</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>1952</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Jaffé, Daniel</ARTICLE_AUTHOR>
+            <EDITOR>Jolly, James</EDITOR>
+        </AUTHORS>
+        <YEAR>2002</YEAR>
+        <ARTICLE_TITLE>From Where I Sit: Noëlle Mann on Prokofiev</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Gramophone</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Teddington</PLACE_PUBLISHED>
+        <PUBLISHER>Gramophone</PUBLISHER>
+        <VOLUME>80</VOLUME>
+        <NUMBER>956</NUMBER>
+        <PAGES>21</PAGES>
+        <DATE>2002-08</DATE>
+        <ARTICLE_TYPE_OF_WORK>Interview</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>0017-310X</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>02/12/2004 (revised 21/12/2005)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <NOTES>Noëlle Mann interviewed by Daniel Jaffé</NOTES>
+        <CALL_NUMBER>spa-tex-per-0028</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2332</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <EDITOR>Anon.</EDITOR>
+        </AUTHORS>
+        <YEAR>1986</YEAR>
+        <ARTICLE_TITLE>HAI Celebrates "Peter and the Wolf"</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>HAI News</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
+        <PUBLISHER>Hospital Audiences Inc.</PUBLISHER>
+        <PAGES>3</PAGES>
+        <DATE>1986-04</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Newsletter</PERIODICAL_TYPE_OF_WORK>
+        <ESSAY>1</ESSAY>
+        <NUMBER_OF_ENTRIES>2</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>22/12/2005</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0029</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2333</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <EDITOR>Anon.</EDITOR>
+        </AUTHORS>
+        <YEAR>1986</YEAR>
+        <ARTICLE_TITLE>Reflections from the Prokofievs</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>HAI News</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
+        <PUBLISHER>Hospital Audiences Inc.</PUBLISHER>
+        <PAGES>4-6</PAGES>
+        <DATE>1986-04</DATE>
+        <ARTICLE_TYPE_OF_WORK>Interview</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Newsletter</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>2</ENTRY>
+        <NUMBER_OF_ENTRIES>2</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>22/12/2005</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0029</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2334</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Bowlt, John E.</ARTICLE_AUTHOR>
+            <EDITOR>Johnson, Pamela</EDITOR>
+        </AUTHORS>
+        <YEAR>1987</YEAR>
+        <ARTICLE_TITLE>Stage Design and the Ballets Russes</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Journal of Decorative and Propaganda Arts</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Miami</PLACE_PUBLISHED>
+        <PUBLISHER>Wolfson Foundation of Decorative and Propaganda Arts</PUBLISHER>
+        <NUMBER>5</NUMBER>
+        <PAGES>28-45</PAGES>
+        <DATE>1987-06</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>0888-7314</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>22/12/2005</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <NOTES>Contains many colour illustrations</NOTES>
+        <CALL_NUMBER>spa-tex-per-0030</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>1021</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Prokofiev, Serge</ARTICLE_AUTHOR>
+            <EDITOR>Isacoff, Stuart</EDITOR>
+        </AUTHORS>
+        <YEAR>1986</YEAR>
+        <ARTICLE_TITLE>Vision Fugitive No. 12 - Sergei Prokofiev</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Keyboard Classics</PERIODICAL_TITLE>
+        <VOLUME>6</VOLUME>
+        <NUMBER>1</NUMBER>
+        <PAGES>33</PAGES>
+        <DATE>1986-01/02</DATE>
+        <ARTICLE_TYPE_OF_WORK>Score</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>0744-3218</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>15/11/2000 (revised 22/12/2005)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0031</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>56</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Nissman, Barbara</ARTICLE_AUTHOR>
+            <EDITOR>Isacoff, Stuart</EDITOR>
+        </AUTHORS>
+        <YEAR>1988</YEAR>
+        <ARTICLE_TITLE>Discovering Prokofiev</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Keyboard Classics</PERIODICAL_TITLE>
+        <PUBLISHER>Keyboard Classics Inc</PUBLISHER>
+        <VOLUME>8</VOLUME>
+        <NUMBER>5</NUMBER>
+        <PAGES>10-13</PAGES>
+        <DATE>1988-09/10</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>0744-3218</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>06/03/2001 (revised 22/12/2005)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0032</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>55</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <EDITOR>Isacoff, Stuart</EDITOR>
+        </AUTHORS>
+        <YEAR>1989</YEAR>
+        <ARTICLE_TITLE>New Discovery: a Prokofiev fragment</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Keyboard Classics</PERIODICAL_TITLE>
+        <PUBLISHER>Keyboard Classics Inc</PUBLISHER>
+        <VOLUME>9</VOLUME>
+        <NUMBER>2</NUMBER>
+        <PAGES>34-35</PAGES>
+        <DATE>1989-03/04</DATE>
+        <ARTICLE_TYPE_OF_WORK>Score</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>0744-3218</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>06/03/2001 (revised 22/12/2005)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <NOTES>This is a publication of the score of the Tenth Sonata</NOTES>
+        <CALL_NUMBER>spa-tex-per-0033</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2335</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Sadykh-zadeh, Giuliara</ARTICLE_AUTHOR>
+            <EDITOR>Pamfilov, Yuri</EDITOR>
+            <EDITOR>Lockhart, Koraljka</EDITOR>
+            <EDITOR>Smith, Caroline</EDITOR>
+        </AUTHORS>
+        <YEAR>1997</YEAR>
+        <ARTICLE_TITLE>Valery Gergiev: "I am a happy man"</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Mariinsky Theatre: 214th Season</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>St. Petersburg</PLACE_PUBLISHED>
+        <PUBLISHER>Mariinsky Theatre</PUBLISHER>
+        <NUMBER>1</NUMBER>
+        <PAGES>5-7</PAGES>
+        <DATE>1997</DATE>
+        <ARTICLE_TYPE_OF_WORK>Interview</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>22/12/2005</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0034</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2336</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Montagu-Nathan, M</ARTICLE_AUTHOR>
+            <EDITOR>Blom, Eric</EDITOR>
+        </AUTHORS>
+        <YEAR>1957</YEAR>
+        <ARTICLE_TITLE>The Strange Case of Professor Asafiev</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Music &amp; Letters</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Oxford</PLACE_PUBLISHED>
+        <PUBLISHER>Oxford University Press</PUBLISHER>
+        <VOLUME>38</VOLUME>
+        <NUMBER>4</NUMBER>
+        <PAGES>335-340</PAGES>
+        <DATE>1957-10</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>22/12/2005</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0035</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>3</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Palmer, Christopher</ARTICLE_AUTHOR>
+            <EDITOR>Ramsey, Basil</EDITOR>
+        </AUTHORS>
+        <YEAR>1989</YEAR>
+        <ARTICLE_TITLE>Prokofiev and Eisenstein</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Music &amp; Musicians International</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Oxford</PLACE_PUBLISHED>
+        <PUBLISHER>Oxford University Press</PUBLISHER>
+        <VOLUME>38</VOLUME>
+        <NUMBER>3</NUMBER>
+        <PAGES>6-10</PAGES>
+        <DATE>1989-11</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>0952-2697</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>28/11/2000 (revised 22/12/2005)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0036</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>1</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Nissman, Barbara</ARTICLE_AUTHOR>
+            <EDITOR>Richards, Denby</EDITOR>
+        </AUTHORS>
+        <YEAR>1989</YEAR>
+        <ARTICLE_TITLE>Discovering Prokofiev's Sonatas</ARTICLE_TITLE>
+        <SPERIODICAL_TITLE>Musical Opinion</SPERIODICAL_TITLE>
+        <PUBLISHER>T. G. Scott &amp; Son Ltd</PUBLISHER>
+        <VOLUME>112</VOLUME>
+        <NUMBER>1334</NUMBER>
+        <PAGES>41-42</PAGES>
+        <DATE>1989-02</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>1</ENTRY>
+        <NUMBER_OF_ENTRIES>2</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>28/11/2000 (revised 22/12/2005)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0037</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>35</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Nissman, Barbara</ARTICLE_AUTHOR>
+            <EDITOR>Richards, Denby</EDITOR>
+        </AUTHORS>
+        <YEAR>1989</YEAR>
+        <ARTICLE_TITLE>Barbara Nissman Brings Prokofiev to the Wigmore Hall</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Musical Opinion</PERIODICAL_TITLE>
+        <PUBLISHER>T. G. Scott &amp; Son Ltd</PUBLISHER>
+        <VOLUME>112</VOLUME>
+        <NUMBER>1334</NUMBER>
+        <PAGES>47-49</PAGES>
+        <DATE>1989-02</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>2</ENTRY>
+        <NUMBER_OF_ENTRIES>2</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>28/11/2000 (revised 22/12/2005)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0037</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2337</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Allenby, David</ARTICLE_AUTHOR>
+            <EDITOR>Richards, Denby</EDITOR>
+        </AUTHORS>
+        <YEAR>1989</YEAR>
+        <ARTICLE_TITLE>Prokofiev and Alexander Nevsky</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Musical Opinion</PERIODICAL_TITLE>
+        <PUBLISHER>T. G. Scott &amp; Son Ltd</PUBLISHER>
+        <VOLUME>112</VOLUME>
+        <NUMBER>1339</NUMBER>
+        <PAGES>226-227</PAGES>
+        <DATE>1989-07</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>22/12/2005</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0038</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+    <REFERENCE_TYPE>1</REFERENCE_TYPE>
+    <REFNUM>13</REFNUM>
+    <AUTHORS>
+        <ARTICLE_AUTHOR>Brown, Malcolm Hamrick</ARTICLE_AUTHOR>
+        <EDITOR>Hatch, Christopher</EDITOR>
+    </AUTHORS>
+    <YEAR>1974</YEAR>
+    <ARTICLE_TITLE>The Soviet Russian concepts of "Intonazia" and "Musical
+        Imagery"</ARTICLE_TITLE>
+    <PERIODICAL_TITLE>Musical Quarterly</PERIODICAL_TITLE>
+    <PLACE_PUBLISHED>New York and London</PLACE_PUBLISHED>
+    <PUBLISHER>Schirmer</PUBLISHER>
+    <VOLUME>LX</VOLUME>
+    <NUMBER>4</NUMBER>
+    <PAGES>557-567</PAGES>
+    <DATE>1974-10</DATE>
+    <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+    <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+    <CUSTOM1>English</CUSTOM1>
+    <CUSTOM5>28/11/2000 (revised 22/12/2005)</CUSTOM5>
+    <CUSTOM6>Original</CUSTOM6>
+    <CALL_NUMBER>spa-tex-per-0039</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>14</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Brown, Malcolm Hamrick</ARTICLE_AUTHOR>
+            <EDITOR>Peyser, Joan</EDITOR>
+        </AUTHORS>
+        <YEAR>1977</YEAR>
+        <ARTICLE_TITLE>Prokofiev's War and Peace: a chronicle</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Musical Quarterly</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>New York and London</PLACE_PUBLISHED>
+        <PUBLISHER>Schirmer</PUBLISHER>
+        <VOLUME>LXIII</VOLUME>
+        <NUMBER>3</NUMBER>
+        <PAGES>297-326</PAGES>
+        <DATE>1977-07</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>28/11/2000 (revised 22/12/2005)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0040</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2338</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Jacobs, Arthur</ARTICLE_AUTHOR>
+            <EDITOR>Anon.</EDITOR>
+        </AUTHORS>
+        <YEAR>1960</YEAR>
+        <TITLE>Moscow Notebook</TITLE>
+        <SECONDARY_TITLE>Musical Times</SECONDARY_TITLE>
+        <PLACE_PUBLISHED>Soho</PLACE_PUBLISHED>
+        <PUBLISHER>Novello and Company Ltd</PUBLISHER>
+        <VOLUME>101</VOLUME>
+        <NUMBER>1409</NUMBER>
+        <PAGES>422-424</PAGES>
+        <DATE>1960-07</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>22/12/2005</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0041</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>10</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Porter, Andrew</ARTICLE_AUTHOR>
+        </AUTHORS>
+        <YEAR>1967</YEAR>
+        <ARTICLE_TITLE>Prokofiev's Late Operas</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Musical Times</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Soho</PLACE_PUBLISHED>
+        <PUBLISHER>Novello and Company Ltd</PUBLISHER>
+        <VOLUME>108</VOLUME>
+        <NUMBER>1490</NUMBER>
+        <PAGES>312-314</PAGES>
+        <DATE>1967-04</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>28/11/2000 (revised 22/12/2005)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0042</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>1940</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>McAllister, Rita</ARTICLE_AUTHOR>
+            <EDITOR>Sadie, Stanley</EDITOR>
+            <EDITOR>Anderson, Robert</EDITOR>
+            <EDITOR>Ramsey, Basil</EDITOR>
+        </AUTHORS>
+        <YEAR>1970</YEAR>
+        <ARTICLE_TITLE>Natural and supernatural in 'The Fiery Angel'</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>The Musical Times</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Novello and Company Ltd</PUBLISHER>
+        <VOLUME>111</VOLUME>
+        <NUMBER>1530</NUMBER>
+        <PAGES>785-789</PAGES>
+        <DATE>1970-08</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>01/12/2004 (revised 22/12/2005)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0043</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>12</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Nissman, Barbara</ARTICLE_AUTHOR>
+            <EDITOR>Wen, Eric</EDITOR>
+        </AUTHORS>
+        <YEAR>1989</YEAR>
+        <ARTICLE_TITLE>Prokofiev's Two Versions of His Fifth Piano Sonata: Facsimile and
+            Commentary</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>The Musical Times</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Orpheus Publications</PUBLISHER>
+        <VOLUME>cxxx</VOLUME>
+        <NUMBER>1760</NUMBER>
+        <PAGES>596-599</PAGES>
+        <DATE>1989-10</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>0027-4666</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>28/11/2000 (revised 22/12/2005)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0044</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>11</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Palmer, Christopher</ARTICLE_AUTHOR>
+            <EDITOR>Ramsey, Basil</EDITOR>
+        </AUTHORS>
+        <YEAR>1991</YEAR>
+        <ARTICLE_TITLE>Prokofiev, Eisenstein and Ivan</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>The Musical Times</PERIODICAL_TITLE>
+        <VOLUME>cxxxii</VOLUME>
+        <NUMBER>1778</NUMBER>
+        <PAGES>179-181</PAGES>
+        <DATE>1991-04</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>0027-4666</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>28/11/2000 (revised 22/12/2005)</CUSTOM5>
+        <CUSTOM6>Original and typescript</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0045</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2009</REFNUM>
+        <YEAR>1982</YEAR>
+        <EDITOR>Anon.</EDITOR>
+        <PERIODICAL_TITLE>Music in the USSR</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moscow</PLACE_PUBLISHED>
+        <PUBLISHER>VAAP</PUBLISHER>
+        <DATE>1982</DATE>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>09/05/2005</CUSTOM5>
+        <NOTES>No article specific to Prokofiev</NOTES>
+        <CALL_NUMBER>spa-tex-per-0046</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2010</REFNUM>
+        <YEAR>1983</YEAR>
+        <EDITOR>Anon.</EDITOR>
+        <PERIODICAL_TITLE>Music in the USSR</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moscow</PLACE_PUBLISHED>
+        <PUBLISHER>VAAP</PUBLISHER>
+        <VOLUME>1</VOLUME>
+        <DATE>1983</DATE>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>09/05/2005</CUSTOM5>
+        <NOTES>No article specific to Prokofiev</NOTES>
+        <CALL_NUMBER>spa-tex-per-0047</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2011</REFNUM>
+        <YEAR>1983</YEAR>
+        <EDITOR>Anon.</EDITOR>
+        <PERIODICAL_TITLE>Music in the USSR</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moscow</PLACE_PUBLISHED>
+        <PUBLISHER>VAAP</PUBLISHER>
+        <VOLUME>2</VOLUME>
+        <DATE>1983</DATE>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>09/05/2005</CUSTOM5>
+        <NOTES>No article specific to Prokofiev</NOTES>
+        <CALL_NUMBER>spa-tex-per-0048</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2012</REFNUM>
+        <YEAR>1984</YEAR>
+        <EDITOR>Anon.</EDITOR>
+        <PERIODICAL_TITLE>Music in the USSR</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moscow</PLACE_PUBLISHED>
+        <PUBLISHER>VAAP</PUBLISHER>
+        <NUMBER>1</NUMBER>
+        <DATE>1984</DATE>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>09/05/2005</CUSTOM5>
+        <NOTES>No article specific to Prokofiev</NOTES>
+        <CALL_NUMBER>spa-tex-per-0049</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2013</REFNUM>
+        <YEAR>1984</YEAR>
+        <EDITOR>Anon.</EDITOR>
+        <PERIODICAL_TITLE>Music in the USSR</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moscow</PLACE_PUBLISHED>
+        <PUBLISHER>VAAP</PUBLISHER>
+        <NUMBER>2</NUMBER>
+        <DATE>1984</DATE>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>09/05/2005</CUSTOM5>
+        <NOTES>No article specific to Prokofiev</NOTES>
+        <CALL_NUMBER>spa-tex-per-0050</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2339</REFNUM>
+        <AUTHORS>
+            <AUTHOR>Anon.</AUTHOR>
+            <EDITOR>Anon.</EDITOR>
+        </AUTHORS>
+        <YEAR>1985</YEAR>
+        <ARTICLE_TITLE>The Talk of the Town</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>The New Yorker</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
+        <PUBLISHER>New Yorker Magazine Inc</PUBLISHER>
+        <PAGES>39-40</PAGES>
+        <DATE>1985-12-02</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>0028792X</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>22/12/2005</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <NOTES>Description of a visit to New York by Lina and Oleg Prokofiev</NOTES>
+        <CALL_NUMBER>spa-tex-per-0051</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>930</REFNUM>
+        <AUTHORS>
+            <EDITOR>Rosenthal, Harold</EDITOR>
+        </AUTHORS>
+        <YEAR>1961</YEAR>
+        <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Rolls House Publishing Company Ltd.</PUBLISHER>
+        <VOLUME>12</VOLUME>
+        <NUMBER>3</NUMBER>
+        <PAGES>152-216</PAGES>
+        <DATE>1961-03</DATE>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>28/11/2000</CUSTOM5>
+        <NOTES>DUPLICATE. See OPERA collection. No article specific to Prokofiev</NOTES>
+        <CALL_NUMBER>spa-tex-per-0052</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>931</REFNUM>
+        <AUTHORS>
+            <EDITOR>Rosenthal, Harold</EDITOR>
+        </AUTHORS>
+        <YEAR>1961</YEAR>
+        <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Rolls House Publishing Company Ltd.</PUBLISHER>
+        <VOLUME>12</VOLUME>
+        <NUMBER>4</NUMBER>
+        <PAGES>224-282</PAGES>
+        <DATE>1961-04</DATE>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>28/11/2000</CUSTOM5>
+        <NOTES>DUPLICATE. See OPERA collection. No article specific to Prokofiev</NOTES>
+        <CALL_NUMBER>spa-tex-per-0053</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>928</REFNUM>
+        <AUTHORS>
+            <EDITOR>Rosenthal, Harold</EDITOR>
+        </AUTHORS>
+        <YEAR>1965</YEAR>
+        <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Rolls House Publishing Company Ltd.</PUBLISHER>
+        <VOLUME>16</VOLUME>
+        <NUMBER>9</NUMBER>
+        <PAGES>622-688</PAGES>
+        <DATE>1965-09</DATE>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>28/11/2000</CUSTOM5>
+        <NOTES>DUPLICATE. See OPERA collection. No article specific to Prokofiev.</NOTES>
+        <CALL_NUMBER>spa-tex-per-0054</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>929</REFNUM>
+        <AUTHORS>
+            <EDITOR>Rosenthal, Harold</EDITOR>
+        </AUTHORS>
+        <YEAR>1965</YEAR>
+        <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Rolls House Publishing Company Ltd.</PUBLISHER>
+        <VOLUME>16</VOLUME>
+        <NUMBER>11</NUMBER>
+        <PAGES>774-848</PAGES>
+        <DATE>1965-11</DATE>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>28/11/2000</CUSTOM5>
+        <NOTES>DUPLICATE. See OPERA collection. No article specific to Prokofiev.</NOTES>
+        <CALL_NUMBER>spa-tex-per-0055</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>934</REFNUM>
+        <AUTHORS>
+            <EDITOR>Allison, John</EDITOR>
+        </AUTHORS>
+        <YEAR>2000</YEAR>
+        <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Seymour Press Ltd.</PUBLISHER>
+        <VOLUME>51</VOLUME>
+        <NUMBER>5</NUMBER>
+        <PAGES>507-624</PAGES>
+        <DATE>2000-05</DATE>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>00303526</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>28/11/2000</CUSTOM5>
+        <NOTES>DUPLICATE. See OPERA collection. No article specific to Prokofiev.</NOTES>
+        <CALL_NUMBER>spa-tex-per-0056</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>947</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Arblaster, Anthony</ARTICLE_AUTHOR>
+            <EDITOR>Allison, John</EDITOR>
+        </AUTHORS>
+        <YEAR>2001</YEAR>
+        <ARTICLE_TITLE>'War and Peace' in Stalin's Shadow</ARTICLE_TITLE>  
+        <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Seymour Press Ltd.</PUBLISHER>
+        <VOLUME>52</VOLUME>
+        <NUMBER>10</NUMBER>
+        <PAGES>1163-1280</PAGES>
+        <DATE>2001-10</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>00303526</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>01/10/2002</CUSTOM5>
+        <ACCESSION_NUMBER>226</ACCESSION_NUMBER>
+        <CALL_NUMBER>spa-tex-per-0057</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2340</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Lowe, David A.</ARTICLE_AUTHOR>
+            <EDITOR>Sloan, Sherwin</EDITOR>
+            <EDITOR>Sloam, Irene</EDITOR>
+        </AUTHORS>
+        <YEAR>1983</YEAR>
+        <ARTICLE_TITLE>Opera in Pushkin's Life and Works</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>The Opera Quarterly</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Chapel Hill and London</PLACE_PUBLISHED>
+        <PUBLISHER>University of North Carolina Press</PUBLISHER>
+        <VOLUME>1</VOLUME>
+        <NUMBER>4</NUMBER>
+        <PAGES>44-49</PAGES>
+        <DATE>1983 (Winter)</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>0736-0053</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>03/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0058</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>1946</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Markow, Robert</ARTICLE_AUTHOR>
+            <EDITOR>MacMillan, Rick</EDITOR>
+        </AUTHORS>
+        <YEAR>2003</YEAR>
+        <ARTICLE_TITLE>Sergei Prokofiev</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Opus</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Toronto</PLACE_PUBLISHED>
+        <PUBLISHER>Warwick Publishing Group Inc.</PUBLISHER>
+        <VOLUME>26</VOLUME>
+        <NUMBER>2</NUMBER>
+        <PAGES>12-14, 37</PAGES>
+        <DATE>Summer 2003</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>1494-9393</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>02/12/2004 (revised 03/01/2006)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <NOTES>Includes mention of The Serge Prokofiev Association</NOTES>
+        <CALL_NUMBER>spa-tex-per-0059</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2342</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Marshall, Herbert</ARTICLE_AUTHOR>
+            <EDITOR>Sharp, Alfred</EDITOR>
+        </AUTHORS>
+        <YEAR>1942</YEAR>
+        <ARTICLE_TITLE>25 Years of Soviet Cinema</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Our Time</PERIODICAL_TITLE>
+        <PUBLISHER>Sixpence</PUBLISHER>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <VOLUME>2</VOLUME>
+        <NUMBER>7</NUMBER>
+        <PAGES>11-17</PAGES>
+        <DATE>1942-11</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>1</ENTRY>
+        <NUMBER_OF_ENTRIES>2</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>03/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0060</CALL_NUMBER>
+    </RECORD>
+    <RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2341</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Shostakovich, Dmitri Dmitrievich</ARTICLE_AUTHOR>
+            <EDITOR>Sharp, Alfred</EDITOR>
+        </AUTHORS>
+        <YEAR>1942</YEAR>
+        <ARTICLE_TITLE>What I Believe</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Our Time</PERIODICAL_TITLE>
+        <PUBLISHER>Sixpence</PUBLISHER>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <VOLUME>2</VOLUME>
+        <NUMBER>7</NUMBER>
+        <PAGES>4-7</PAGES>
+        <DATE>1942-11</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>2</ENTRY>
+        <NUMBER_OF_ENTRIES>2</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>03/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0060</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>58</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Nissman, Barbara</ARTICLE_AUTHOR>
+            <EDITOR>Isacoff, Stuart</EDITOR>
+        </AUTHORS>
+        <YEAR>1996</YEAR>
+        <ARTICLE_TITLE>A Two-Handed Pianist and a One-Handed Concerto</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Piano Today</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
+        <PUBLISHER>Keyboard Classics Inc</PUBLISHER>
+        <VOLUME>16</VOLUME>
+        <NUMBER>1</NUMBER>
+        <PAGES>52-54</PAGES>
+        <DATE>1996-01/02</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>06/03/2001 (revised 03/01/2006)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0061</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>1975</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Nissman, Barbara</ARTICLE_AUTHOR>
+            <EDITOR>Isacoff, Stuart</EDITOR>
+        </AUTHORS>
+        <YEAR>2005</YEAR>
+        <ARTICLE_TITLE>Gershwin Meets Prokofiev: The Hidden Connections</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Piano Today</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
+        <PUBLISHER>Keyboard Classics Inc</PUBLISHER>
+        <VOLUME>25</VOLUME>
+        <NUMBER>1</NUMBER>
+        <PAGES>4-7, 45, 54-55</PAGES>
+        <DATE>2005-12</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>1044-3266</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>30/03/2005 (revised 10/01/2006)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0062</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2344</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Potter, Tully</ARTICLE_AUTHOR>
+            <EDITOR>Haylock, Julian</EDITOR>
+        </AUTHORS>
+        <YEAR>2001</YEAR>
+        <ARTICLE_TITLE>Emil Gilels</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Piano: International Piano Quarterly</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Middlesex</PLACE_PUBLISHED>
+        <PUBLISHER>Orpheus Publications</PUBLISHER>
+        <VOLUME>5</VOLUME>
+        <NUMBER>14</NUMBER>
+        <PAGES>20-26</PAGES>
+        <DATE>2001 (Winter)</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>1368-9770</ISBN>
+        <ENTRY>1</ENTRY>         
+        <NUMBER_OF_ENTRIES>2</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>10/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0063</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2345</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Powell, Jonathan</ARTICLE_AUTHOR>
+            <EDITOR>Lockhart, Koraljka</EDITOR>
+        </AUTHORS>
+        <YEAR>2001</YEAR>
+        <ARTICLE_TITLE>The End of an Era: the pianist-composers of the Russian Silver Age</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Piano: International Piano Quarterly</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Middlesex</PLACE_PUBLISHED>
+        <PUBLISHER>Orpheus Publications</PUBLISHER>
+        <VOLUME>5</VOLUME>
+        <NUMBER>14</NUMBER>
+        <PAGES>38-42</PAGES>
+        <DATE>2001 (Winter)</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>1368-9770</ISBN>
+        <ENTRY>2</ENTRY>         
+        <NUMBER_OF_ENTRIES>2</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>10/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0063</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2347</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Mosher Jr., Malcolm</ARTICLE_AUTHOR>
+            <EDITOR>Lockhart, Koraljka</EDITOR>
+        </AUTHORS>
+        <YEAR>1991</YEAR>
+        <ARTICLE_TITLE>1812: War Without Peace</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>San Francisco Opera</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>San Francisco</PLACE_PUBLISHED>
+        <PUBLISHER>Theatre Publications Inc</PUBLISHER>
+        <VOLUME>69</VOLUME>
+        <NUMBER>6</NUMBER>
+        <PAGES>29-34</PAGES>
+        <DATE>1991 (Fall season)</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>0892-7189</ISBN>
+        <ENTRY>1</ENTRY>         
+        <NUMBER_OF_ENTRIES>3</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>10/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0064</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2348</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Pfaff, Timothy</ARTICLE_AUTHOR>
+            <EDITOR>Lockhart, Koraljka</EDITOR>
+        </AUTHORS>
+        <YEAR>1991</YEAR>
+        <ARTICLE_TITLE>Making War, Peace</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>San Francisco Opera</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>San Francisco</PLACE_PUBLISHED>
+        <PUBLISHER>Theatre Publications Inc</PUBLISHER>
+        <VOLUME>69</VOLUME>
+        <NUMBER>6</NUMBER>
+        <PAGES>51-54, 60-61</PAGES>
+        <DATE>1991 (Fall season)</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>English</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>0892-7189</ISBN>
+        <ENTRY>2</ENTRY>         
+        <NUMBER_OF_ENTRIES>3</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>10/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0064</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2346</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Taruskin, Richard</ARTICLE_AUTHOR>
+            <EDITOR>Lockhart, Koraljka</EDITOR>
+        </AUTHORS>
+        <YEAR>1991</YEAR>
+        <ARTICLE_TITLE>On War and Peace</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>San Francisco Opera</PERIODICAL_TITLE>
+        <VOLUME>69</VOLUME>
+        <NUMBER>6</NUMBER>
+        <PAGES>16-26</PAGES>
+        <DATE>1991 (Fall season)</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>0892-7189</ISBN>
+        <ENTRY>3</ENTRY>         
+        <NUMBER_OF_ENTRIES>3</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>10/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0064</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2349</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <EDITOR>Anon.</EDITOR>
+        </AUTHORS>
+        <YEAR>1986</YEAR>
+        <ARTICLE_TITLE>Peter and the Wolf with Madame Prokofiev</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>SNO Scene</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Glasgow</PLACE_PUBLISHED>
+        <PUBLISHER>Scottish National Orchestra Society</PUBLISHER>
+        <NUMBER>50</NUMBER>
+        <PAGES>1</PAGES>
+        <DATE>1986-09</DATE>
+        <ARTICLE_TYPE_OF_WORK>News item</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Newsletter</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>0140-937</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>10/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0065</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2018</REFNUM>
+        <AUTHORS>
+            <EDITOR>Jackson, Professor Peter</EDITOR>
+        </AUTHORS>
+        <YEAR>1990</YEAR>
+        <PERIODICAL_TITLE>Social Studies Review</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Oxford</PLACE_PUBLISHED>
+        <PUBLISHER>Philip Allan Publishers</PUBLISHER>
+        <VOLUME>6</VOLUME>
+        <NUMBER>1</NUMBER>
+        <DATE>1990-09</DATE>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>02670712</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>09/05/2005</CUSTOM5>
+        <NOTES>No article specific to Prokofiev</NOTES>
+        <CALL_NUMBER>spa-tex-per-0066</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2350</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Robinson, Harlow</ARTICLE_AUTHOR>
+            <EDITOR>Jacobs, Laura</EDITOR>
+        </AUTHORS>
+        <YEAR>1991</YEAR>
+        <ARTICLE_TITLE>The Poetics of Prokofiev</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Stagebill: Kennedy Center</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Washington</PLACE_PUBLISHED>
+        <PUBLISHER>B&amp;B Enterprises Inc</PUBLISHER>
+        <PAGES>30-34</PAGES>
+        <DATE>1991-04</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>11/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0067</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2020</REFNUM>
+        <AUTHORS>
+            <EDITOR>Laine, Barry</EDITOR>
+        </AUTHORS>
+        <YEAR>1985</YEAR>
+        <PERIODICAL_TITLE>Stagebill: Lincoln Center</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
+        <PUBLISHER>B&amp;B Enterprises Inc</PUBLISHER>
+        <VOLUME>XIII</VOLUME>
+        <NUMBER>3</NUMBER>
+        <DATE>1985-11</DATE>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>09/05/2005</CUSTOM5>
+        <NOTES>No article specific to Prokofiev</NOTES>
+        <CALL_NUMBER>spa-tex-per-0068</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>20</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Ledbetter, Steven</ARTICLE_AUTHOR>
+            <EDITOR>Jacobs, Laura</EDITOR>
+        </AUTHORS>
+        <YEAR>1991</YEAR>
+        <ARTICLE_TITLE>Notes on the program: "Alexander Nevsky" a film with music by Sergei
+            Prokofiev</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Stagebill: Lincoln Center</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
+        <PUBLISHER>B&amp;B Enterprises Inc</PUBLISHER>
+        <PAGES>19-20C</PAGES>
+        <DATE>1991-10</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>28/11/2000 (revised 15/02/2006)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <NOTES>Lincoln Center and Carnegie Hall Stagebill</NOTES>
+        <CALL_NUMBER>spa-tex-per-0069</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2351</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Ellison, Cori</ARTICLE_AUTHOR>
+            <EDITOR>Jacobs, Laura</EDITOR>
+        </AUTHORS>
+        <YEAR>1992</YEAR>
+        <ARTICLE_TITLE>Where Angels Fear to Tread</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Stagebill: Lincoln Center</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
+        <PUBLISHER>B&amp;B Enterprises Inc</PUBLISHER>
+        <PAGES>6-7, 13-15</PAGES>
+        <DATE>1992-07</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>11/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0070</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2352</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Robinson, Harlow</ARTICLE_AUTHOR>
+            <EDITOR>Sandla, Robert</EDITOR>
+        </AUTHORS>
+        <YEAR>1995</YEAR>
+        <ARTICLE_TITLE>Sonic Epic</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Stagebill: Lincoln Center</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
+        <PUBLISHER>Stagebill Inc</PUBLISHER>
+        <PAGES>8-10, 54</PAGES>
+        <DATE>1995-06</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>11/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0071</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2353</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <EDITOR>Anon.</EDITOR>
+        </AUTHORS>
+        <YEAR>1949</YEAR>
+        <ARTICLE_TITLE>Serge Prokofiev</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Tempo</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Boosey &amp; Hawkes</PUBLISHER>
+        <NUMBER>11</NUMBER>
+        <PAGES>4</PAGES>
+        <DATE>1949 (Spring)</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>1</ENTRY>         
+        <NUMBER_OF_ENTRIES>5</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>11/01/2006</CUSTOM5>
+        <CUSTOM6>Original and photocopy</CUSTOM6>
+        <NOTES>Introduction to an issue dedicated to Prokofiev. Also archived in articles as spa-tex-atl-0060</NOTES>
+        <CALL_NUMBER>spa-tex-per-0072</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2353</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Moreux, Serge</ARTICLE_AUTHOR>
+            <EDITOR>Anon.</EDITOR>
+        </AUTHORS>
+        <YEAR>1949</YEAR>
+        <ARTICLE_TITLE>Prokofiev: an intimate portrait</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Tempo</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Boosey &amp; Hawkes</PUBLISHER>
+        <NUMBER>11</NUMBER>
+        <PAGES>5-9</PAGES>
+        <DATE>1949 (Spring)</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>2</ENTRY>         
+        <NUMBER_OF_ENTRIES>5</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>11/01/2006</CUSTOM5>
+        <CUSTOM6>Original and photocopy</CUSTOM6>
+        <NOTES>Introduction to an issue dedicated to Prokofiev. Also archived in articles as spa-tex-atl-0061</NOTES>
+        <CALL_NUMBER>spa-tex-per-0072</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2353</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Swarsenski, Hans</ARTICLE_AUTHOR>
+            <EDITOR>Anon.</EDITOR>
+        </AUTHORS>
+        <YEAR>1949</YEAR>
+        <ARTICLE_TITLE>Prokofiev's Orchestral Music</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Tempo</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Boosey &amp; Hawkes</PUBLISHER>
+        <NUMBER>11</NUMBER>
+        <PAGES>10-25</PAGES>
+        <DATE>1949 (Spring)</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>3</ENTRY>         
+        <NUMBER_OF_ENTRIES>5</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>11/01/2006</CUSTOM5>
+        <CUSTOM6>Original and photocopy</CUSTOM6>
+        <NOTES>Introduction to an issue dedicated to Prokofiev. Also archived in articles as spa-tex-atl-0062</NOTES>
+        <CALL_NUMBER>spa-tex-per-0072</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2353</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Merrick, Frank</ARTICLE_AUTHOR>
+            <EDITOR>Anon.</EDITOR>
+        </AUTHORS>
+        <YEAR>1949</YEAR>
+        <ARTICLE_TITLE>Prokofiev's Works for Solo Piano</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Tempo</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Boosey &amp; Hawkes</PUBLISHER>
+        <NUMBER>11</NUMBER>
+        <PAGES>26-29</PAGES>
+        <DATE>1949 (Spring)</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>4</ENTRY>         
+        <NUMBER_OF_ENTRIES>5</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>11/01/2006</CUSTOM5>
+        <CUSTOM6>Original and photocopy</CUSTOM6>
+        <NOTES>Introduction to an issue dedicated to Prokofiev. Also archived in articles as spa-tex-atl-0063</NOTES>
+        <CALL_NUMBER>spa-tex-per-0072</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2353</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Morley, Iris</ARTICLE_AUTHOR>
+            <EDITOR>Anon.</EDITOR>
+        </AUTHORS>
+        <YEAR>1949</YEAR>
+        <ARTICLE_TITLE>Cinderella and Romeo and Juliet</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Tempo</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Boosey &amp; Hawkes</PUBLISHER>
+        <NUMBER>11</NUMBER>
+        <PAGES>30-34</PAGES>
+        <DATE>1949 (Spring)</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>5</ENTRY>         
+        <NUMBER_OF_ENTRIES>5</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>11/01/2006</CUSTOM5>
+        <CUSTOM6>Original and photocopy</CUSTOM6>
+        <NOTES>Introduction to an issue dedicated to Prokofiev. Also archived in articles as spa-tex-atl-0064</NOTES>
+        <CALL_NUMBER>spa-tex-per-0072</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2358</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Mitchell, Donald</ARTICLE_AUTHOR>
+            <EDITOR>Gishford, Anthony</EDITOR>
+        </AUTHORS>
+        <YEAR>1953</YEAR>
+        <ARTICLE_TITLE>Serge Prokofiev</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Tempo</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Boosey &amp; Hawkes</PUBLISHER>
+        <NUMBER>27</NUMBER>
+        <PAGES>5</PAGES>
+        <DATE>1953 (Spring)</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>11/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0073</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2359</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Mitchell, Donald</ARTICLE_AUTHOR>
+            <EDITOR>Gishford, Anthony</EDITOR>
+        </AUTHORS>
+        <YEAR>1956</YEAR>
+        <ARTICLE_TITLE>Prokofiev's "Three Oranges": A Note on its Musical-Dramatic
+            Organisation</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Tempo</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Boosey &amp; Hawkes</PUBLISHER>
+        <NUMBER>41</NUMBER>
+        <PAGES>20-24</PAGES>
+        <DATE>1956 (Autumn)</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>11/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0074</CALL_NUMBER>
+    </RECORD>
     
     
     
@@ -689,7 +1996,7 @@
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>3-4 (kniga vtoraia)</NUMBER>
         <DATE>1998</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <VOLUME>2</VOLUME>
         <NUMBER_OF_VOLUMES>2</NUMBER_OF_VOLUMES>
         <CUSTOM1>Russian</CUSTOM1>
@@ -709,7 +2016,7 @@
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>1</NUMBER>
         <DATE>1999</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>Print</CUSTOM2>
         <CUSTOM5>10/05/2005</CUSTOM5>
@@ -726,7 +2033,7 @@
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>2</NUMBER>
         <DATE>1999</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>Print</CUSTOM2>
         <CUSTOM5>10/05/2005</CUSTOM5>
@@ -743,7 +2050,7 @@
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>2</NUMBER>
         <DATE>2000</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>Print</CUSTOM2>
         <CUSTOM5>29/11/2000</CUSTOM5>
@@ -763,7 +2070,7 @@
         <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
         <NUMBER>8</NUMBER>
         <DATE>1966-04</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>Print</CUSTOM2>
         <CUSTOM5>11/05/2005</CUSTOM5>
@@ -781,7 +2088,7 @@
         <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
         <NUMBER>6 (368)</NUMBER>
         <DATE>1973-03</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>Print</CUSTOM2>
         <CUSTOM5>11/05/2005</CUSTOM5>
@@ -799,7 +2106,7 @@
         <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
         <NUMBER>24 (674)</NUMBER>
         <DATE>1985-12</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>Print</CUSTOM2>
@@ -818,7 +2125,7 @@
         <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
         <NUMBER>12 (782)</NUMBER>
         <DATE>1990-06</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>Print</CUSTOM2>
@@ -837,7 +2144,7 @@
         <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
         <NUMBER>13 (783)</NUMBER>
         <DATE>1990-07</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>Print</CUSTOM2>
@@ -856,7 +2163,7 @@
         <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
         <NUMBER>2 (796)</NUMBER>
         <DATE>1991-01</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>Print</CUSTOM2>
@@ -875,7 +2182,7 @@
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>1 (914)</NUMBER>
         <DATE>1998-01</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
@@ -894,7 +2201,7 @@
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>2 (915)</NUMBER>
         <DATE>1998-02</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
@@ -913,7 +2220,7 @@
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>3 (916)</NUMBER>
         <DATE>1998-03</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
@@ -932,7 +2239,7 @@
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>4 (917)</NUMBER>
         <DATE>1998-04</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
@@ -951,7 +2258,7 @@
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>5 (918)</NUMBER>
         <DATE>1998-05</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
@@ -970,7 +2277,7 @@
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>5 (919)</NUMBER>
         <DATE>1998-06</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
@@ -989,7 +2296,7 @@
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>7 (920)</NUMBER>
         <DATE>1998-07</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
@@ -1008,7 +2315,7 @@
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>8 (921)</NUMBER>
         <DATE>1998-08</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
@@ -1027,7 +2334,7 @@
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>9 (922)</NUMBER>
         <DATE>1998-09</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
@@ -1046,7 +2353,7 @@
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>10 (923)</NUMBER>
         <DATE>1998-10</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
@@ -1064,7 +2371,7 @@
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>11 (924)</NUMBER>
         <DATE>1998-11</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
@@ -1083,7 +2390,7 @@
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>12 (925)</NUMBER>
         <DATE>1998-12</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
@@ -1102,7 +2409,7 @@
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>1 (926)</NUMBER>
         <DATE>1999-01</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
@@ -1121,7 +2428,7 @@
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>2 (927)</NUMBER>
         <DATE>1999-02</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
@@ -1140,7 +2447,7 @@
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>3 (928)</NUMBER>
         <DATE>1999-03</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
@@ -1159,7 +2466,7 @@
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>4 (929)</NUMBER>
         <DATE>1999-04</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
@@ -1178,7 +2485,7 @@
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>5 (930)</NUMBER>
         <DATE>1999-05</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
@@ -1197,7 +2504,7 @@
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>6 (931)</NUMBER>
         <DATE>1999-06</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
@@ -1216,7 +2523,7 @@
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>7 (932)</NUMBER>
         <DATE>1999-07</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
@@ -1235,7 +2542,7 @@
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>8 (933)</NUMBER>
         <DATE>1999-08</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
@@ -1254,7 +2561,7 @@
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>9 (934)</NUMBER>
         <DATE>1999-09</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM5>11/05/2005</CUSTOM5>
@@ -1272,7 +2579,7 @@
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>3 (940)</NUMBER>
         <DATE>2000-03</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
@@ -1291,7 +2598,7 @@
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>4 (941)</NUMBER>
         <DATE>2000-04</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
@@ -1310,7 +2617,7 @@
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>6 (955)</NUMBER>
         <DATE>2001-06</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
@@ -1329,7 +2636,7 @@
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>8 (957)</NUMBER>
         <DATE>2001-08</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
@@ -1348,7 +2655,7 @@
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>9 (958)</NUMBER>
         <DATE>2001-09</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
@@ -1367,7 +2674,7 @@
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>10 (989)</NUMBER>
         <DATE>2001-10</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
@@ -1386,7 +2693,7 @@
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>11 (990)</NUMBER>
         <DATE>2001-11</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
@@ -1405,7 +2712,7 @@
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>12 (991)</NUMBER>
         <DATE>2001-12</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
@@ -1424,7 +2731,7 @@
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>1 (992)</NUMBER>
         <DATE>2002-01</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
@@ -1443,7 +2750,7 @@
         <PUBLISHER>Iskusstvo</PUBLISHER>
         <NUMBER>2 (20)</NUMBER>
         <DATE>1991</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>02341395</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
@@ -1462,7 +2769,7 @@
         <PUBLISHER>Pravda</PUBLISHER>
         <NUMBER>29 (2402)</NUMBER>
         <DATE>1973-07-14</DATE>
-        <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Magazine</ARTICLE_TYPE_OF_WORK>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
         <CUSTOM5>11/05/2005</CUSTOM5>
@@ -1480,7 +2787,7 @@
         <PUBLISHER>Pravda</PUBLISHER>
         <NUMBER>12 (3322)</NUMBER>
         <DATE>1991-03-16/23</DATE>
-        <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Magazine</ARTICLE_TYPE_OF_WORK>
         <ISBN>01310097</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
@@ -1499,7 +2806,7 @@
         <PUBLISHER>Pravda</PUBLISHER>
         <NUMBER>21 (3331)</NUMBER>
         <DATE>1991-05-18/25</DATE>
-        <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Magazine</ARTICLE_TYPE_OF_WORK>
         <ISBN>01310097</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
@@ -1519,7 +2826,7 @@
         <VOLUME>1990-91</VOLUME>
         <NUMBER>3</NUMBER>
         <DATE>Mars 1991</DATE>
-        <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Magazine</ARTICLE_TYPE_OF_WORK>
         <CUSTOM1>Swedish</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
         <CUSTOM5>05/08/2005</CUSTOM5>
@@ -1538,7 +2845,7 @@
         <PUBLISHER>Bayerische Staatsoper</PUBLISHER>
         <NUMBER>II</NUMBER>
         <DATE>1985-11</DATE>
-        <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Magazine</ARTICLE_TYPE_OF_WORK>
         <CUSTOM1>German</CUSTOM1>
         <CUSTOM5>05/08/2005</CUSTOM5>
         <NOTES>Article on Prokofiev, pp. 21-23</NOTES>
@@ -1557,7 +2864,7 @@
         <PUBLISHER>Bühnen der Stadt Bonn</PUBLISHER>
         <NUMBER>8</NUMBER>
         <DATE>10.04.1984</DATE>
-        <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Magazine</ARTICLE_TYPE_OF_WORK>
         <CUSTOM1>German</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
         <CUSTOM5>05/08/2005</CUSTOM5>
@@ -1573,7 +2880,7 @@
         <PUBLISHER>The Pianola Institute</PUBLISHER>
         <NUMBER>3</NUMBER>
         <DATE>1990</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
         <CUSTOM5>28/10/2002</CUSTOM5>
@@ -1590,7 +2897,7 @@
         <PUBLISHER>The Pianola Institute</PUBLISHER>
         <NUMBER>5</NUMBER>
         <DATE>1993</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
         <CUSTOM5>28/10/2002</CUSTOM5>
@@ -1607,7 +2914,7 @@
         <PUBLISHER>The Pianola Institute</PUBLISHER>
         <NUMBER>10</NUMBER>
         <DATE>1998</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
         <CUSTOM5>28/10/2002</CUSTOM5>
@@ -1623,7 +2930,7 @@
         <PUBLISHER>The Pianola Institute</PUBLISHER>
         <NUMBER>11</NUMBER>
         <DATE>1998</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
         <CUSTOM5>28/10/2002</CUSTOM5>
@@ -1639,7 +2946,7 @@
         <PUBLISHER>The Pianola Institute</PUBLISHER>
         <NUMBER>12</NUMBER>
         <DATE>1999</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
         <CUSTOM5>28/10/2002</CUSTOM5>
@@ -1659,7 +2966,7 @@
         <PUBLISHER>Barenreiter</PUBLISHER>
         <PAGES>26-52</PAGES>
         <DATE>1981</DATE>
-        <TYPE_OF_WORK>Proceedings</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Proceedings</ARTICLE_TYPE_OF_WORK>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>13/02/2006</CUSTOM5>
         <CALL_NUMBER>spa-tex-per-0179</CALL_NUMBER>
@@ -1676,7 +2983,7 @@
         <PUBLISHER>Société de la Revue des Deux Mondes</PUBLISHER>
         <NUMBER>2</NUMBER>
         <DATE>2006-02</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>07509278</ISBN>
         <CUSTOM1>French</CUSTOM1>
         <CUSTOM5>01/03/2006</CUSTOM5>
@@ -1695,7 +3002,7 @@
         <PUBLISHER>General Gramophone Publications</PUBLISHER>
         <VOLUME>68</VOLUME>
         <DATE>1991-01</DATE>
-        <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Magazine</ARTICLE_TYPE_OF_WORK>
         <ISBN>0017310X</ISBN>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>30/06/2006</CUSTOM5>
@@ -1715,7 +3022,7 @@
         <VOLUME>24</VOLUME>
         <NUMBER>2</NUMBER>
         <DATE>Spring 2004</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>1047-0019</ISBN>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>17/07/2006</CUSTOM5>
@@ -1733,7 +3040,7 @@
         <PUBLISHER>Journal of the Great Britain - Russia Society</PUBLISHER>
         <NUMBER>Summer-Autumn Edition</NUMBER>
         <DATE>2003</DATE>
-        <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Magazine</ARTICLE_TYPE_OF_WORK>
         <CUSTOM1>English and Russian</CUSTOM1>
         <CUSTOM5>17/07/2006</CUSTOM5>
         <ACCESSION_NUMBER>290 (01/03/2004)</ACCESSION_NUMBER>
@@ -1751,7 +3058,7 @@
         <PUBLISHER>Journal of the Great Britain - Russia Society</PUBLISHER>
         <NUMBER>Winter Edition</NUMBER>
         <DATE>2003-04</DATE>
-        <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Magazine</ARTICLE_TYPE_OF_WORK>
         <CUSTOM1>English and Russian</CUSTOM1>
         <CUSTOM5>17/07/2006</CUSTOM5>
         <ACCESSION_NUMBER>290 (01/03/2004)</ACCESSION_NUMBER>
@@ -1768,7 +3075,7 @@
         <PERIODICAL_TITLE>Crescendo</PERIODICAL_TITLE>
         <NUMBER>62</NUMBER>
         <DATE>2002-12 - 2003-01</DATE>
-        <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Magazine</ARTICLE_TYPE_OF_WORK>
         <CUSTOM1>French</CUSTOM1>
         <CUSTOM5>17/07/2006</CUSTOM5>
         <NOTES>Contains item(s) regarding the Prokofiev 2003 celebrations</NOTES>
@@ -1784,7 +3091,7 @@
         <PERIODICAL_TITLE>Diapason</PERIODICAL_TITLE>
         <NUMBER>500</NUMBER>
         <DATE>2003-02</DATE>
-        <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Magazine</ARTICLE_TYPE_OF_WORK>
         <CUSTOM1>French</CUSTOM1>
         <CUSTOM5>17/07/2006</CUSTOM5>
         <NOTES>Contains item(s) regarding the Prokofiev 2003 celebrations</NOTES>
@@ -1802,7 +3109,7 @@
         <PUBLISHER>Inmedia</PUBLISHER>
         <NUMBER>2</NUMBER>
         <DATE>2003-01-12</DATE>
-        <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Magazine</ARTICLE_TYPE_OF_WORK>
         <CUSTOM1>German</CUSTOM1>
         <CUSTOM5>17/07/2006</CUSTOM5>
         <NOTES>Contains item(s) regarding the Prokofiev 2003 celebrations</NOTES>
@@ -1818,7 +3125,7 @@
         <PERIODICAL_TITLE>Pianist</PERIODICAL_TITLE>
         <NUMBER>10</NUMBER>
         <DATE>2003-02/03</DATE>
-        <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Magazine</ARTICLE_TYPE_OF_WORK>
         <ISBN>1475-1348</ISBN>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>17/07/2006</CUSTOM5>
@@ -1835,7 +3142,7 @@
         <PERIODICAL_TITLE>Crescendo</PERIODICAL_TITLE>
         <NUMBER>63</NUMBER>
         <DATE>2003-02/03</DATE>
-        <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Magazine</ARTICLE_TYPE_OF_WORK>
         <CUSTOM1>French</CUSTOM1>
         <CUSTOM5>18/07/2006</CUSTOM5>
         <NOTES>Contains item(s) regarding the Prokofiev 2003 celebrations</NOTES>
@@ -1851,7 +3158,7 @@
         <PERIODICAL_TITLE>Le Monde de la Musique: Au coeur de la musique classique</PERIODICAL_TITLE>
         <NUMBER>274</NUMBER>
         <DATE>2003-03</DATE>
-        <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Magazine</ARTICLE_TYPE_OF_WORK>
         <CUSTOM1>French</CUSTOM1>
         <CUSTOM5>18/07/2006</CUSTOM5>
         <NOTES>Contains item(s) regarding the Prokofiev 2003 celebrations</NOTES>
@@ -1868,7 +3175,7 @@
         <SECONDARY_PERIODICAL_TITLE>Un regard neuf sur la classique</SECONDARY_PERIODICAL_TITLE>
         <NUMBER>50</NUMBER>
         <DATE>2003-03</DATE>
-        <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Magazine</ARTICLE_TYPE_OF_WORK>
         <CUSTOM1>French</CUSTOM1>
         <CUSTOM5>18/07/2006</CUSTOM5>
         <NOTES>Contains item(s) regarding the Prokofiev 2003 celebrations</NOTES>
@@ -1884,7 +3191,7 @@
         <PERIODICAL_TITLE>Le Monde de la Musique: Radio Classique</PERIODICAL_TITLE>
         <NUMBER>274 - cahier no. 2</NUMBER>
         <DATE>2003-03</DATE>
-        <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Magazine</ARTICLE_TYPE_OF_WORK>
         <CUSTOM1>French</CUSTOM1>
         <CUSTOM5>18/07/2006</CUSTOM5>
         <NOTES>Full radio playlist for March 2003. Contains item(s) regarding the Prokofiev 2003
@@ -1904,7 +3211,7 @@
         <VOLUME>15</VOLUME>
         <NUMBER>3</NUMBER>
         <DATE>November 2006</DATE>
-        <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Magazine</ARTICLE_TYPE_OF_WORK>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>17/11/2006</CUSTOM5>
         <ACCESSION_NUMBER>371</ACCESSION_NUMBER>
@@ -1925,7 +3232,7 @@
         <VOLUME>108</VOLUME>
         <NUMBER>41</NUMBER>
         <DATE>2006-10-09</DATE>
-        <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Magazine</ARTICLE_TYPE_OF_WORK>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>17/11/2006</CUSTOM5>
         <ACCESSION_NUMBER>372</ACCESSION_NUMBER>
@@ -1941,7 +3248,7 @@
         <YEAR>2005</YEAR>
         <PERIODICAL_TITLE>Akkord: Zhurnal muzykal'noi kultury</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
-        <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Magazine</ARTICLE_TYPE_OF_WORK>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM5>23/11/2006</CUSTOM5>
         <CALL_NUMBER>spa-tex-per-0196</CALL_NUMBER>
@@ -1959,7 +3266,7 @@
             musicales</PUBLISHER>
         <NUMBER>9</NUMBER>
         <DATE>May 1960</DATE>
-        <TYPE_OF_WORK>Bulletin</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Bulletin</ARTICLE_TYPE_OF_WORK>
         <CUSTOM1>French</CUSTOM1>
         <CUSTOM5>30/11/2006</CUSTOM5>
         <ACCESSION_NUMBER>19</ACCESSION_NUMBER>
@@ -1978,7 +3285,7 @@
         <VOLUME>XII</VOLUME>
         <NUMBER>2</NUMBER>
         <DATE>2005</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>11238615</ISBN>
         <CUSTOM1>Italian</CUSTOM1>
         <CUSTOM5>08/12/2006</CUSTOM5>
@@ -2000,7 +3307,7 @@
         <VOLUME>6</VOLUME>
         <NUMBER>6</NUMBER>
         <DATE>June 2006</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>0025-9462</ISBN>
         <CUSTOM1>Dutch</CUSTOM1>
         <CUSTOM5>02/02/2007</CUSTOM5>
@@ -2018,7 +3325,7 @@
         <PERIODICAL_TITLE>The Pianola Journal</PERIODICAL_TITLE>
         <PUBLISHER>The Pianola Institute</PUBLISHER>
         <NUMBER>15</NUMBER>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>30/05/2008</CUSTOM5>
         <ACCESSION_NUMBER>419</ACCESSION_NUMBER>
@@ -2038,7 +3345,7 @@
         <VOLUME>18</VOLUME>
         <NUMBER>3</NUMBER>
         <DATE>December 2009</DATE>
-        <TYPE_OF_WORK>Magazine</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Magazine</ARTICLE_TYPE_OF_WORK>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>11/11/2009</CUSTOM5>
         <ACCESSION_NUMBER>435</ACCESSION_NUMBER>
@@ -2059,7 +3366,7 @@
         <PLACE_PUBLISHED>Tours</PLACE_PUBLISHED>
         <PUBLISHER>Université François Rabelais</PUBLISHER>
         <DATE>2010</DATE>
-        <TYPE_OF_WORK>Journal</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
         <ISBN>1763-508x (ISBN: 9782953182194)</ISBN>
         <CUSTOM1>French, English</CUSTOM1>
         <CUSTOM5>18/04/2011</CUSTOM5>

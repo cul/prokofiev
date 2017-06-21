@@ -801,6 +801,8 @@
          <YEAR>1991</YEAR>
          <TITLE>Musical Times</TITLE>
          <PUBLISHER>Orpheus Publications</PUBLISHER>
+         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+         <PUBLISHER>Orpheus Publications</PUBLISHER>
          <VOLUME>cxxxii</VOLUME>
          <NUMBER>1778</NUMBER>
          <PAGES>170-220</PAGES>
@@ -1055,6 +1057,7 @@
          </AUTHORS>
          <YEAR>1942</YEAR>
          <TITLE>Our Time</TITLE>
+         <PUBLISHER>Sixpence</PUBLISHER>
          <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <VOLUME>2</VOLUME>
          <NUMBER>7</NUMBER>
@@ -1114,6 +1117,7 @@
          </AUTHORS>
          <YEAR>2001</YEAR>
          <TITLE>Piano: International Piano Quarterly</TITLE>
+         <PLACE_PUBLISHED>Middlesex</PLACE_PUBLISHED>
          <PUBLISHER>Orpheus Publications</PUBLISHER>
          <VOLUME>5</VOLUME>
          <NUMBER>14</NUMBER>
