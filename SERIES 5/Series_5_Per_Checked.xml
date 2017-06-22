@@ -5,7 +5,7 @@
         <REFNUM>2321</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Mendl-Schrama, Heleen</ARTICLE_AUTHOR>
-            <EDITOR>Goddijn, Hans</EDITOR>
+            <PERIODICAL_EDITOR>Goddijn, Hans</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1992</YEAR>
         <ARTICLE_TITLE>Sergei Prokofjev 1891-1953</ARTICLE_TITLE>
@@ -29,7 +29,7 @@
         <REFNUM>88</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Niels, Elger</ARTICLE_AUTHOR>
-            <EDITOR>Goddijn, Hans</EDITOR>
+            <PERIODICAL_EDITOR>Goddijn, Hans</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2001</YEAR>
         <ARTICLE_TITLE>Serge Prokofiev Association Opgericht</ARTICLE_TITLE>
@@ -52,7 +52,7 @@
         <REFNUM>2322</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Mendl-Schrama, Heleen</ARTICLE_AUTHOR>
-            <EDITOR>Goddijn, Hans</EDITOR>
+            <PERIODICAL_EDITOR>Goddijn, Hans</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2001</YEAR>
         <ARTICLE_TITLE>Serge Prokofiev Association in Londen gelanceerd</ARTICLE_TITLE>
@@ -73,7 +73,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>1994</REFNUM>
         <AUTHORS>
-            <EDITOR>Vevers, G M</EDITOR>
+            <PERIODICAL_EDITOR>Vevers, G M</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1942</YEAR>
         <PERIODICAL_TITLE>Anglo Soviet Journal</PERIODICAL_TITLE>
@@ -92,7 +92,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>1995</REFNUM>
         <AUTHORS>
-            <EDITOR>Maddocks, Fiona</EDITOR>
+            <PERIODICAL_EDITOR>Maddocks, Fiona</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1995</YEAR>
         <PERIODICAL_TITLE>BBC Music Magazine</PERIODICAL_TITLE>
@@ -113,7 +113,7 @@
         <REFNUM>2323</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Allison, John</ARTICLE_AUTHOR>
-            <EDITOR>Maddocks, Fiona</EDITOR>
+            <PERIODICAL_EDITOR>Maddocks, Fiona</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1996</YEAR>
         <ARTICLE_TITLE>Rostropovich: The Russian Muse</ARTICLE_TITLE>
@@ -136,7 +136,7 @@
         <REFNUM>61</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Nice, David</ARTICLE_AUTHOR>
-            <EDITOR>Wallace, Helen</EDITOR>
+            <PERIODICAL_EDITOR>Wallace, Helen</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2001</YEAR>
         <ARTICLE_TITLE>The Love for Prokofiev</ARTICLE_TITLE>
@@ -160,7 +160,7 @@
         <REFNUM>85</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Nice, David</ARTICLE_AUTHOR>
-            <EDITOR>Wallace, Helen</EDITOR>
+            <PERIODICAL_EDITOR>Wallace, Helen</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2001</YEAR>
         <ARTICLE_TITLE>Building a Library: Prokofiev's Piano Concerto No. 3</ARTICLE_TITLE>
@@ -184,7 +184,7 @@
         <REFNUM>2324</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Welsh, Moray</ARTICLE_AUTHOR>
-            <EDITOR>Wallace, Helen</EDITOR>
+            <PERIODICAL_EDITOR>Wallace, Helen</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2002</YEAR>
         <ARTICLE_TITLE>Rostropovich at 75: An Audience with Slava</ARTICLE_TITLE>
@@ -207,7 +207,7 @@
         <REFNUM>1996</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Freeborn, Richard</ARTICLE_AUTHOR>
-            <EDITOR>Currie, Mary</EDITOR>
+            <PERIODICAL_EDITOR>Currie, Mary</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1978</YEAR>
         <ARTICLE_AUTHOR>L. N. Tolstoy, 1828-1978: A Tribute</ARTICLE_AUTHOR>
@@ -228,7 +228,7 @@
         <REFNUM>1997</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Watt, Donald Cameron</ARTICLE_AUTHOR>
-            <EDITOR>Currie, Mary</EDITOR>
+            <PERIODICAL_EDITOR>Currie, Mary</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1980</YEAR>
         <ARTICLE_TITLE>Britain and Russia in 1939</ARTICLE_TITLE>
@@ -249,7 +249,7 @@
         <REFNUM>896</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Rozhdestvensky, Gennady</ARTICLE_AUTHOR>
-            <EDITOR>Learner, Gwyneth</EDITOR>
+            <PERIODICAL_EDITOR>Learner, Gwyneth</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1991</YEAR>
         <ARTICLE_TITLE>"The Rich Man of the Sun": Sergei Prokofiev 1891 - 1953</ARTICLE_TITLE>
@@ -269,7 +269,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>1998</REFNUM>
         <AUTHORS>
-            <EDITOR>DeWitt, John</EDITOR>
+            <PERIODICAL_EDITOR>DeWitt, John</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1983</YEAR>
         <PERIODICAL_TITLE>Christian Science Journal</PERIODICAL_TITLE>
@@ -290,7 +290,7 @@
         <REFNUM>1999</REFNUM>
         <YEAR>1984</YEAR>
         <AUTHORS>
-            <EDITOR>Anon.</EDITOR>
+            <PERIODICAL_EDITOR>Anon.</PERIODICAL_EDITOR>
         </AUTHORS>
         <PERIODICAL_TITLE>Christian Science Quarterly</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>Boston, Massachusetts</PLACE_PUBLISHED>
@@ -308,7 +308,7 @@
         <REFNUM>2000</REFNUM>
         <YEAR>1985</YEAR>
         <AUTHORS>
-            <EDITOR>Anon.</EDITOR>
+            <PERIODICAL_EDITOR>Anon.</PERIODICAL_EDITOR>
         </AUTHORS>
         <PERIODICAL_TITLE>Christian Science Quarterly</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>Boston, Massachusetts</PLACE_PUBLISHED>
@@ -325,7 +325,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2001</REFNUM>
         <AUTHORS>
-            <EDITOR>DeWitt, John</EDITOR>
+            <PERIODICAL_EDITOR>DeWitt, John</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1982</YEAR>
         <PERIODICAL_TITLE>Christian Science Sentinel</PERIODICAL_TITLE>
@@ -345,7 +345,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2002</REFNUM>
         <AUTHORS>
-            <EDITOR>DeWitt, John</EDITOR>
+            <PERIODICAL_EDITOR>DeWitt, John</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1983</YEAR>
         <PERIODICAL_TITLE>Christian Science Sentinel</PERIODICAL_TITLE>
@@ -366,7 +366,7 @@
         <REFNUM>2</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Jaffé, Daniel</ARTICLE_AUTHOR>
-            <EDITOR>Evans, Neil</EDITOR>
+            <PERIODICAL_EDITOR>Evans, Neil</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1998</YEAR>
         <ARTICLE_TITLE>Sergei Prokofiev: 1891-1953</ARTICLE_TITLE>
@@ -391,7 +391,7 @@
         <REFNUM>2</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Jaffé, Daniel</ARTICLE_AUTHOR>
-            <EDITOR>Evans, Neil</EDITOR>
+            <PERIODICAL_EDITOR>Evans, Neil</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1998</YEAR>
         <ARTICLE_TITLE>Gergiev's greatest love affair</ARTICLE_TITLE>
@@ -416,7 +416,7 @@
         <REFNUM>2</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Jaffé, Daniel</ARTICLE_AUTHOR>
-            <EDITOR>Evans, Neil</EDITOR>
+            <PERIODICAL_EDITOR>Evans, Neil</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1998</YEAR>
         <ARTICLE_TITLE>Back to the USSR</ARTICLE_TITLE>
@@ -441,7 +441,7 @@
         <REFNUM>2</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Jaffé, Daniel</ARTICLE_AUTHOR>
-            <EDITOR>Evans, Neil</EDITOR>
+            <PERIODICAL_EDITOR>Evans, Neil</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1998</YEAR>
         <ARTICLE_TITLE>Peter and the Wolf!</ARTICLE_TITLE>
@@ -466,7 +466,7 @@
         <REFNUM>2</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Jaffé, Daniel</ARTICLE_AUTHOR>
-            <EDITOR>Evans, Neil</EDITOR>
+            <PERIODICAL_EDITOR>Evans, Neil</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1998</YEAR>
         <ARTICLE_TITLE>Prokofiev Piano Sonatas 6, 7 &amp; 8</ARTICLE_TITLE>
@@ -491,7 +491,7 @@
         <REFNUM>4</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Stewart, Andrew</ARTICLE_AUTHOR>
-            <EDITOR>Clarke, Keith</EDITOR>
+            <PERIODICAL_EDITOR>Clarke, Keith</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1991</YEAR>
         <ARTICLE_TITLE>Rostropovich and Prokofiev: With a Little Help From My Friends</ARTICLE_TITLE>
@@ -514,7 +514,7 @@
         <REFNUM>7</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Fawkes, Richard</ARTICLE_AUTHOR>
-            <EDITOR>Clarke, Keith</EDITOR>
+            <PERIODICAL_EDITOR>Clarke, Keith</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1991</YEAR>
         <ARTICLE_TITLE>Prokofiev Eclipsed</ARTICLE_TITLE>
@@ -558,9 +558,9 @@
         <AUTHORS>
             <ARTICLE_AUTHOR>Eisenstein, Sergei</ARTICLE_AUTHOR>
             <ARTICLE_AUTHOR>Cherkasov, Nikolai</ARTICLE_AUTHOR>
-            <EDITOR>Lasky, Melvin</EDITOR>
-            <EDITOR>Mayne, Richard</EDITOR>
-            <EDITOR>Hartley, Anthony</EDITOR>
+            <PERIODICAL_EDITOR>Lasky, Melvin</PERIODICAL_EDITOR>
+            <PERIODICAL_EDITOR>Mayne, Richard</PERIODICAL_EDITOR>
+            <PERIODICAL_EDITOR>Hartley, Anthony</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1989</YEAR>
         <ARTICLE_TITLE>A Conversation in the Kremlin</ARTICLE_TITLE>
@@ -583,7 +583,7 @@
         <REFNUM>1948</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Takis, John</ARTICLE_AUTHOR>
-            <EDITOR>Bond, Jeff</EDITOR>
+            <PERIODICAL_EDITOR>Bond, Jeff</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2001</YEAR>
         <ARTICLE_TITLE>Sergei Prokofiev: The Man, the Music, the Legacy</ARTICLE_TITLE>
@@ -607,7 +607,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2004</REFNUM>
         <AUTHORS>
-            <EDITOR>Heayes, Neil</EDITOR>
+            <PERIODICAL_EDITOR>Heayes, Neil</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1990</YEAR>
         <PERIODICAL_TITLE>FRMS Bulletin</PERIODICAL_TITLE>
@@ -626,7 +626,7 @@
         <REFNUM>2331</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Gurewitsch, Matthew</ARTICLE_AUTHOR>
-            <EDITOR>Jolly, James</EDITOR>
+            <PERIODICAL_EDITOR>Jolly, James</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1998</YEAR>
         <ARTICLE_TITLE>Valery Gergiev: a Maestro in demand</ARTICLE_TITLE>
@@ -650,7 +650,7 @@
         <REFNUM>43</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Fanning, David</ARTICLE_AUTHOR>
-            <EDITOR>Jolly, James</EDITOR>
+            <PERIODICAL_EDITOR>Jolly, James</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2000</YEAR>
         <ARTICLE_TITLE>Sviatoslav Richter: Aiming at Higher Truths</ARTICLE_TITLE>
@@ -674,7 +674,7 @@
         <REFNUM>42</REFNUM>
         <AUTHORS>
            <ARTICLE_AUTHOR>Gutman, David</ARTICLE_AUTHOR>
-           <EDITOR>Jolly, James</EDITOR>
+           <PERIODICAL_EDITOR>Jolly, James</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2000</YEAR>
         <ARTICLE_TITLE>Pure Love Rising From the Cinders: Prokofiev's Cinderella</ARTICLE_TITLE>
@@ -697,7 +697,7 @@
         <REFNUM>1952</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Jaffé, Daniel</ARTICLE_AUTHOR>
-            <EDITOR>Jolly, James</EDITOR>
+            <PERIODICAL_EDITOR>Jolly, James</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2002</YEAR>
         <ARTICLE_TITLE>From Where I Sit: Noëlle Mann on Prokofiev</ARTICLE_TITLE>
@@ -722,7 +722,7 @@
         <REFNUM>2332</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
-            <EDITOR>Anon.</EDITOR>
+            <PERIODICAL_EDITOR>Anon.</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1986</YEAR>
         <ARTICLE_TITLE>HAI Celebrates "Peter and the Wolf"</ARTICLE_TITLE>
@@ -745,7 +745,7 @@
         <REFNUM>2333</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
-            <EDITOR>Anon.</EDITOR>
+            <PERIODICAL_EDITOR>Anon.</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1986</YEAR>
         <ARTICLE_TITLE>Reflections from the Prokofievs</ARTICLE_TITLE>
@@ -768,7 +768,7 @@
         <REFNUM>2334</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Bowlt, John E.</ARTICLE_AUTHOR>
-            <EDITOR>Johnson, Pamela</EDITOR>
+            <PERIODICAL_EDITOR>Johnson, Pamela</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1987</YEAR>
         <ARTICLE_TITLE>Stage Design and the Ballets Russes</ARTICLE_TITLE>
@@ -792,7 +792,7 @@
         <REFNUM>1021</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Prokofiev, Serge</ARTICLE_AUTHOR>
-            <EDITOR>Isacoff, Stuart</EDITOR>
+            <PERIODICAL_EDITOR>Isacoff, Stuart</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1986</YEAR>
         <ARTICLE_TITLE>Vision Fugitive No. 12 - Sergei Prokofiev</ARTICLE_TITLE>
@@ -814,7 +814,7 @@
         <REFNUM>56</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Nissman, Barbara</ARTICLE_AUTHOR>
-            <EDITOR>Isacoff, Stuart</EDITOR>
+            <PERIODICAL_EDITOR>Isacoff, Stuart</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1988</YEAR>
         <ARTICLE_TITLE>Discovering Prokofiev</ARTICLE_TITLE>
@@ -837,7 +837,7 @@
         <REFNUM>55</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
-            <EDITOR>Isacoff, Stuart</EDITOR>
+            <PERIODICAL_EDITOR>Isacoff, Stuart</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1989</YEAR>
         <ARTICLE_TITLE>New Discovery: a Prokofiev fragment</ARTICLE_TITLE>
@@ -861,9 +861,9 @@
         <REFNUM>2335</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Sadykh-zadeh, Giuliara</ARTICLE_AUTHOR>
-            <EDITOR>Pamfilov, Yuri</EDITOR>
-            <EDITOR>Lockhart, Koraljka</EDITOR>
-            <EDITOR>Smith, Caroline</EDITOR>
+            <PERIODICAL_EDITOR>Pamfilov, Yuri</PERIODICAL_EDITOR>
+            <PERIODICAL_EDITOR>Lockhart, Koraljka</PERIODICAL_EDITOR>
+            <PERIODICAL_EDITOR>Smith, Caroline</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1997</YEAR>
         <ARTICLE_TITLE>Valery Gergiev: "I am a happy man"</ARTICLE_TITLE>
@@ -885,7 +885,7 @@
         <REFNUM>2336</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Montagu-Nathan, M</ARTICLE_AUTHOR>
-            <EDITOR>Blom, Eric</EDITOR>
+            <PERIODICAL_EDITOR>Blom, Eric</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1957</YEAR>
         <ARTICLE_TITLE>The Strange Case of Professor Asafiev</ARTICLE_TITLE>
@@ -908,7 +908,7 @@
         <REFNUM>3</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Palmer, Christopher</ARTICLE_AUTHOR>
-            <EDITOR>Ramsey, Basil</EDITOR>
+            <PERIODICAL_EDITOR>Ramsey, Basil</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1989</YEAR>
         <ARTICLE_TITLE>Prokofiev and Eisenstein</ARTICLE_TITLE>
@@ -932,7 +932,7 @@
         <REFNUM>1</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Nissman, Barbara</ARTICLE_AUTHOR>
-            <EDITOR>Richards, Denby</EDITOR>
+            <PERIODICAL_EDITOR>Richards, Denby</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1989</YEAR>
         <ARTICLE_TITLE>Discovering Prokofiev's Sonatas</ARTICLE_TITLE>
@@ -956,7 +956,7 @@
         <REFNUM>35</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Nissman, Barbara</ARTICLE_AUTHOR>
-            <EDITOR>Richards, Denby</EDITOR>
+            <PERIODICAL_EDITOR>Richards, Denby</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1989</YEAR>
         <ARTICLE_TITLE>Barbara Nissman Brings Prokofiev to the Wigmore Hall</ARTICLE_TITLE>
@@ -980,7 +980,7 @@
         <REFNUM>2337</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Allenby, David</ARTICLE_AUTHOR>
-            <EDITOR>Richards, Denby</EDITOR>
+            <PERIODICAL_EDITOR>Richards, Denby</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1989</YEAR>
         <ARTICLE_TITLE>Prokofiev and Alexander Nevsky</ARTICLE_TITLE>
@@ -1002,7 +1002,7 @@
     <REFNUM>13</REFNUM>
     <AUTHORS>
         <ARTICLE_AUTHOR>Brown, Malcolm Hamrick</ARTICLE_AUTHOR>
-        <EDITOR>Hatch, Christopher</EDITOR>
+        <PERIODICAL_EDITOR>Hatch, Christopher</PERIODICAL_EDITOR>
     </AUTHORS>
     <YEAR>1974</YEAR>
     <ARTICLE_TITLE>The Soviet Russian concepts of "Intonazia" and "Musical
@@ -1026,7 +1026,7 @@
         <REFNUM>14</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Brown, Malcolm Hamrick</ARTICLE_AUTHOR>
-            <EDITOR>Peyser, Joan</EDITOR>
+            <PERIODICAL_EDITOR>Peyser, Joan</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1977</YEAR>
         <ARTICLE_TITLE>Prokofiev's War and Peace: a chronicle</ARTICLE_TITLE>
@@ -1049,7 +1049,7 @@
         <REFNUM>2338</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Jacobs, Arthur</ARTICLE_AUTHOR>
-            <EDITOR>Anon.</EDITOR>
+            <PERIODICAL_EDITOR>Anon.</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1960</YEAR>
         <TITLE>Moscow Notebook</TITLE>
@@ -1094,9 +1094,9 @@
         <REFNUM>1940</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>McAllister, Rita</ARTICLE_AUTHOR>
-            <EDITOR>Sadie, Stanley</EDITOR>
-            <EDITOR>Anderson, Robert</EDITOR>
-            <EDITOR>Ramsey, Basil</EDITOR>
+            <PERIODICAL_EDITOR>Sadie, Stanley</PERIODICAL_EDITOR>
+            <PERIODICAL_EDITOR>Anderson, Robert</PERIODICAL_EDITOR>
+            <PERIODICAL_EDITOR>Ramsey, Basil</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1970</YEAR>
         <ARTICLE_TITLE>Natural and supernatural in 'The Fiery Angel'</ARTICLE_TITLE>
@@ -1119,7 +1119,7 @@
         <REFNUM>12</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Nissman, Barbara</ARTICLE_AUTHOR>
-            <EDITOR>Wen, Eric</EDITOR>
+            <PERIODICAL_EDITOR>Wen, Eric</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1989</YEAR>
         <ARTICLE_TITLE>Prokofiev's Two Versions of His Fifth Piano Sonata: Facsimile and
@@ -1144,7 +1144,7 @@
         <REFNUM>11</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Palmer, Christopher</ARTICLE_AUTHOR>
-            <EDITOR>Ramsey, Basil</EDITOR>
+            <PERIODICAL_EDITOR>Ramsey, Basil</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1991</YEAR>
         <ARTICLE_TITLE>Prokofiev, Eisenstein and Ivan</ARTICLE_TITLE>
@@ -1165,7 +1165,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2009</REFNUM>
         <YEAR>1982</YEAR>
-        <EDITOR>Anon.</EDITOR>
+        <PERIODICAL_EDITOR>Anon.</PERIODICAL_EDITOR>
         <PERIODICAL_TITLE>Music in the USSR</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>Moscow</PLACE_PUBLISHED>
         <PUBLISHER>VAAP</PUBLISHER>
@@ -1180,7 +1180,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2010</REFNUM>
         <YEAR>1983</YEAR>
-        <EDITOR>Anon.</EDITOR>
+        <PERIODICAL_EDITOR>Anon.</PERIODICAL_EDITOR>
         <PERIODICAL_TITLE>Music in the USSR</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>Moscow</PLACE_PUBLISHED>
         <PUBLISHER>VAAP</PUBLISHER>
@@ -1196,7 +1196,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2011</REFNUM>
         <YEAR>1983</YEAR>
-        <EDITOR>Anon.</EDITOR>
+        <PERIODICAL_EDITOR>Anon.</PERIODICAL_EDITOR>
         <PERIODICAL_TITLE>Music in the USSR</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>Moscow</PLACE_PUBLISHED>
         <PUBLISHER>VAAP</PUBLISHER>
@@ -1212,7 +1212,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2012</REFNUM>
         <YEAR>1984</YEAR>
-        <EDITOR>Anon.</EDITOR>
+        <PERIODICAL_EDITOR>Anon.</PERIODICAL_EDITOR>
         <PERIODICAL_TITLE>Music in the USSR</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>Moscow</PLACE_PUBLISHED>
         <PUBLISHER>VAAP</PUBLISHER>
@@ -1228,7 +1228,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2013</REFNUM>
         <YEAR>1984</YEAR>
-        <EDITOR>Anon.</EDITOR>
+        <PERIODICAL_EDITOR>Anon.</PERIODICAL_EDITOR>
         <PERIODICAL_TITLE>Music in the USSR</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>Moscow</PLACE_PUBLISHED>
         <PUBLISHER>VAAP</PUBLISHER>
@@ -1245,7 +1245,7 @@
         <REFNUM>2339</REFNUM>
         <AUTHORS>
             <AUTHOR>Anon.</AUTHOR>
-            <EDITOR>Anon.</EDITOR>
+            <PERIODICAL_EDITOR>Anon.</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1985</YEAR>
         <ARTICLE_TITLE>The Talk of the Town</ARTICLE_TITLE>
@@ -1267,7 +1267,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>930</REFNUM>
         <AUTHORS>
-            <EDITOR>Rosenthal, Harold</EDITOR>
+            <PERIODICAL_EDITOR>Rosenthal, Harold</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1961</YEAR>
         <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
@@ -1287,7 +1287,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>931</REFNUM>
         <AUTHORS>
-            <EDITOR>Rosenthal, Harold</EDITOR>
+            <PERIODICAL_EDITOR>Rosenthal, Harold</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1961</YEAR>
         <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
@@ -1307,7 +1307,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>928</REFNUM>
         <AUTHORS>
-            <EDITOR>Rosenthal, Harold</EDITOR>
+            <PERIODICAL_EDITOR>Rosenthal, Harold</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1965</YEAR>
         <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
@@ -1327,7 +1327,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>929</REFNUM>
         <AUTHORS>
-            <EDITOR>Rosenthal, Harold</EDITOR>
+            <PERIODICAL_EDITOR>Rosenthal, Harold</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1965</YEAR>
         <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
@@ -1347,7 +1347,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>934</REFNUM>
         <AUTHORS>
-            <EDITOR>Allison, John</EDITOR>
+            <PERIODICAL_EDITOR>Allison, John</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2000</YEAR>
         <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
@@ -1369,7 +1369,7 @@
         <REFNUM>947</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Arblaster, Anthony</ARTICLE_AUTHOR>
-            <EDITOR>Allison, John</EDITOR>
+            <PERIODICAL_EDITOR>Allison, John</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2001</YEAR>
         <ARTICLE_TITLE>'War and Peace' in Stalin's Shadow</ARTICLE_TITLE>  
@@ -1393,8 +1393,8 @@
         <REFNUM>2340</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Lowe, David A.</ARTICLE_AUTHOR>
-            <EDITOR>Sloan, Sherwin</EDITOR>
-            <EDITOR>Sloam, Irene</EDITOR>
+            <PERIODICAL_EDITOR>Sloan, Sherwin</PERIODICAL_EDITOR>
+            <PERIODICAL_EDITOR>Sloam, Irene</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1983</YEAR>
         <ARTICLE_TITLE>Opera in Pushkin's Life and Works</ARTICLE_TITLE>
@@ -1418,7 +1418,7 @@
         <REFNUM>1946</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Markow, Robert</ARTICLE_AUTHOR>
-            <EDITOR>MacMillan, Rick</EDITOR>
+            <PERIODICAL_EDITOR>MacMillan, Rick</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2003</YEAR>
         <ARTICLE_TITLE>Sergei Prokofiev</ARTICLE_TITLE>
@@ -1443,7 +1443,7 @@
         <REFNUM>2342</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Marshall, Herbert</ARTICLE_AUTHOR>
-            <EDITOR>Sharp, Alfred</EDITOR>
+            <PERIODICAL_EDITOR>Sharp, Alfred</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1942</YEAR>
         <ARTICLE_TITLE>25 Years of Soviet Cinema</ARTICLE_TITLE>
@@ -1468,7 +1468,7 @@
         <REFNUM>2341</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Shostakovich, Dmitri Dmitrievich</ARTICLE_AUTHOR>
-            <EDITOR>Sharp, Alfred</EDITOR>
+            <PERIODICAL_EDITOR>Sharp, Alfred</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1942</YEAR>
         <ARTICLE_TITLE>What I Believe</ARTICLE_TITLE>
@@ -1493,7 +1493,7 @@
         <REFNUM>58</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Nissman, Barbara</ARTICLE_AUTHOR>
-            <EDITOR>Isacoff, Stuart</EDITOR>
+            <PERIODICAL_EDITOR>Isacoff, Stuart</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1996</YEAR>
         <ARTICLE_TITLE>A Two-Handed Pianist and a One-Handed Concerto</ARTICLE_TITLE>
@@ -1516,7 +1516,7 @@
         <REFNUM>1975</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Nissman, Barbara</ARTICLE_AUTHOR>
-            <EDITOR>Isacoff, Stuart</EDITOR>
+            <PERIODICAL_EDITOR>Isacoff, Stuart</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2005</YEAR>
         <ARTICLE_TITLE>Gershwin Meets Prokofiev: The Hidden Connections</ARTICLE_TITLE>
@@ -1540,7 +1540,7 @@
         <REFNUM>2344</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Potter, Tully</ARTICLE_AUTHOR>
-            <EDITOR>Haylock, Julian</EDITOR>
+            <PERIODICAL_EDITOR>Haylock, Julian</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2001</YEAR>
         <ARTICLE_TITLE>Emil Gilels</ARTICLE_TITLE>
@@ -1566,7 +1566,7 @@
         <REFNUM>2345</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Powell, Jonathan</ARTICLE_AUTHOR>
-            <EDITOR>Lockhart, Koraljka</EDITOR>
+            <PERIODICAL_EDITOR>Lockhart, Koraljka</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2001</YEAR>
         <ARTICLE_TITLE>The End of an Era: the pianist-composers of the Russian Silver Age</ARTICLE_TITLE>
@@ -1592,7 +1592,7 @@
         <REFNUM>2347</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Mosher Jr., Malcolm</ARTICLE_AUTHOR>
-            <EDITOR>Lockhart, Koraljka</EDITOR>
+            <PERIODICAL_EDITOR>Lockhart, Koraljka</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1991</YEAR>
         <ARTICLE_TITLE>1812: War Without Peace</ARTICLE_TITLE>
@@ -1618,7 +1618,7 @@
         <REFNUM>2348</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Pfaff, Timothy</ARTICLE_AUTHOR>
-            <EDITOR>Lockhart, Koraljka</EDITOR>
+            <PERIODICAL_EDITOR>Lockhart, Koraljka</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1991</YEAR>
         <ARTICLE_TITLE>Making War, Peace</ARTICLE_TITLE>
@@ -1644,7 +1644,7 @@
         <REFNUM>2346</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Taruskin, Richard</ARTICLE_AUTHOR>
-            <EDITOR>Lockhart, Koraljka</EDITOR>
+            <PERIODICAL_EDITOR>Lockhart, Koraljka</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1991</YEAR>
         <ARTICLE_TITLE>On War and Peace</ARTICLE_TITLE>
@@ -1668,7 +1668,7 @@
         <REFNUM>2349</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
-            <EDITOR>Anon.</EDITOR>
+            <PERIODICAL_EDITOR>Anon.</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1986</YEAR>
         <ARTICLE_TITLE>Peter and the Wolf with Madame Prokofiev</ARTICLE_TITLE>
@@ -1690,7 +1690,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2018</REFNUM>
         <AUTHORS>
-            <EDITOR>Jackson, Professor Peter</EDITOR>
+            <PERIODICAL_EDITOR>Jackson, Professor Peter</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1990</YEAR>
         <PERIODICAL_TITLE>Social Studies Review</PERIODICAL_TITLE>
@@ -1711,7 +1711,7 @@
         <REFNUM>2350</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Robinson, Harlow</ARTICLE_AUTHOR>
-            <EDITOR>Jacobs, Laura</EDITOR>
+            <PERIODICAL_EDITOR>Jacobs, Laura</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1991</YEAR>
         <ARTICLE_TITLE>The Poetics of Prokofiev</ARTICLE_TITLE>
@@ -1731,7 +1731,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2020</REFNUM>
         <AUTHORS>
-            <EDITOR>Laine, Barry</EDITOR>
+            <PERIODICAL_EDITOR>Laine, Barry</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1985</YEAR>
         <PERIODICAL_TITLE>Stagebill: Lincoln Center</PERIODICAL_TITLE>
@@ -1751,7 +1751,7 @@
         <REFNUM>20</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Ledbetter, Steven</ARTICLE_AUTHOR>
-            <EDITOR>Jacobs, Laura</EDITOR>
+            <PERIODICAL_EDITOR>Jacobs, Laura</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1991</YEAR>
         <ARTICLE_TITLE>Notes on the program: "Alexander Nevsky" a film with music by Sergei
@@ -1774,7 +1774,7 @@
         <REFNUM>2351</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Ellison, Cori</ARTICLE_AUTHOR>
-            <EDITOR>Jacobs, Laura</EDITOR>
+            <PERIODICAL_EDITOR>Jacobs, Laura</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1992</YEAR>
         <ARTICLE_TITLE>Where Angels Fear to Tread</ARTICLE_TITLE>
@@ -1795,7 +1795,7 @@
         <REFNUM>2352</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Robinson, Harlow</ARTICLE_AUTHOR>
-            <EDITOR>Sandla, Robert</EDITOR>
+            <PERIODICAL_EDITOR>Sandla, Robert</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1995</YEAR>
         <ARTICLE_TITLE>Sonic Epic</ARTICLE_TITLE>
@@ -1816,7 +1816,7 @@
         <REFNUM>2353</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
-            <EDITOR>Anon.</EDITOR>
+            <PERIODICAL_EDITOR>Anon.</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1949</YEAR>
         <ARTICLE_TITLE>Serge Prokofiev</ARTICLE_TITLE>
@@ -1841,7 +1841,7 @@
         <REFNUM>2353</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Moreux, Serge</ARTICLE_AUTHOR>
-            <EDITOR>Anon.</EDITOR>
+            <PERIODICAL_EDITOR>Anon.</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1949</YEAR>
         <ARTICLE_TITLE>Prokofiev: an intimate portrait</ARTICLE_TITLE>
@@ -1866,7 +1866,7 @@
         <REFNUM>2353</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Swarsenski, Hans</ARTICLE_AUTHOR>
-            <EDITOR>Anon.</EDITOR>
+            <PERIODICAL_EDITOR>Anon.</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1949</YEAR>
         <ARTICLE_TITLE>Prokofiev's Orchestral Music</ARTICLE_TITLE>
@@ -1891,7 +1891,7 @@
         <REFNUM>2353</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Merrick, Frank</ARTICLE_AUTHOR>
-            <EDITOR>Anon.</EDITOR>
+            <PERIODICAL_EDITOR>Anon.</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1949</YEAR>
         <ARTICLE_TITLE>Prokofiev's Works for Solo Piano</ARTICLE_TITLE>
@@ -1916,7 +1916,7 @@
         <REFNUM>2353</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Morley, Iris</ARTICLE_AUTHOR>
-            <EDITOR>Anon.</EDITOR>
+            <PERIODICAL_EDITOR>Anon.</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1949</YEAR>
         <ARTICLE_TITLE>Cinderella and Romeo and Juliet</ARTICLE_TITLE>
@@ -1941,7 +1941,7 @@
         <REFNUM>2358</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Mitchell, Donald</ARTICLE_AUTHOR>
-            <EDITOR>Gishford, Anthony</EDITOR>
+            <PERIODICAL_EDITOR>Gishford, Anthony</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1953</YEAR>
         <ARTICLE_TITLE>Serge Prokofiev</ARTICLE_TITLE>
@@ -1963,7 +1963,7 @@
         <REFNUM>2359</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Mitchell, Donald</ARTICLE_AUTHOR>
-            <EDITOR>Gishford, Anthony</EDITOR>
+            <PERIODICAL_EDITOR>Gishford, Anthony</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1956</YEAR>
         <ARTICLE_TITLE>Prokofiev's "Three Oranges": A Note on its Musical-Dramatic
@@ -1986,7 +1986,7 @@
         <REFNUM>2360</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Brown, Malcolm Hamrick</ARTICLE_AUTHOR>
-            <EDITOR>Mason, Colin</EDITOR>
+            <PERIODICAL_EDITOR>Mason, Colin</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1964</YEAR>
         <ARTICLE_TITLE>Prokofiev's Eighth Piano Sonata</ARTICLE_TITLE>
@@ -2007,7 +2007,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>892</REFNUM>
         <AUTHORS>
-            <EDITOR>MacDonald, Calum</EDITOR>
+            <PERIODICAL_EDITOR>MacDonald, Calum</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1982</YEAR>
         <PERIODICAL_TITLE>Tempo</PERIODICAL_TITLE>
@@ -2027,7 +2027,7 @@
         <REFNUM>2361</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
-            <EDITOR>Luce, Henry R</EDITOR>
+            <PERIODICAL_EDITOR>Luce, Henry R</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1945</YEAR>
         <ARTICLE_TITLE>Composer, Soviet-Style</ARTICLE_TITLE>
@@ -2049,7 +2049,7 @@
         <REFNUM>2362</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Prokofiev, Oleg</ARTICLE_AUTHOR>
-            <EDITOR>Navrozov, Andrei</EDITOR>
+            <PERIODICAL_EDITOR>Navrozov, Andrei</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1979</YEAR>
         <ARTICLE_TITLE>Papers from the Attic: My Father, His Music, and I</ARTICLE_TITLE>
@@ -2072,7 +2072,7 @@
         <REFNUM>1556</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Emerson, Caryl</ARTICLE_AUTHOR>
-            <EDITOR>Orwin, Donna Tussing</EDITOR>
+            <PERIODICAL_EDITOR>Orwin, Donna Tussing</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2002</YEAR>
         <ARTICLE_TITLE>Leo Tolstoy and the Rights of Music under Stalin</ARTICLE_TITLE>
@@ -2095,7 +2095,7 @@
         <REFNUM>2364</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Rabinovich, D</ARTICLE_AUTHOR>
-            <EDITOR>Kemenov, V</EDITOR>
+            <PERIODICAL_EDITOR>Kemenov, V</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1942</YEAR>
         <ARTICLE_TITLE>Symphony of Struggle and Victory</ARTICLE_TITLE>
@@ -2119,7 +2119,7 @@
         <REFNUM>2364</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Shostakovich, Dmitri Dmitrievich</ARTICLE_AUTHOR>
-            <EDITOR>Kemenov, V</EDITOR>
+            <PERIODICAL_EDITOR>Kemenov, V</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1942</YEAR>
         <ARTICLE_TITLE>My Seventh Symphony</ARTICLE_TITLE>
@@ -2143,7 +2143,7 @@
         <REFNUM>2365</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Khachaturian, Aram Ilich</ARTICLE_AUTHOR>
-            <EDITOR>Yakovlev, Vladimir</EDITOR>
+            <PERIODICAL_EDITOR>Yakovlev, Vladimir</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1954</YEAR>
         <ARTICLE_TITLE>Dmitry Shostakovich's Tenth Symphony</ARTICLE_TITLE>
@@ -2166,7 +2166,7 @@
         <REFNUM>2366</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Nestiev, Izrail Vladimirovich</ARTICLE_AUTHOR>
-            <EDITOR>Yakovlev, Vladimir</EDITOR>
+            <PERIODICAL_EDITOR>Yakovlev, Vladimir</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1956</YEAR>
         <ARTICLE_TITLE>Dmitry Shostakovich: On His Fiftieth Birthday</ARTICLE_TITLE>
@@ -2177,43 +2177,1176 @@
         <NUMBER>9</NUMBER>
         <PAGES>17-21</PAGES>
         <DATE>1956-09</DATE>
-        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
-        <ALTERNATE_TITLE>Journal</ALTERNATE_TITLE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>11/01/2006</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
-        <CALL_NUMBER>[spa-tex-per-0082]</CALL_NUMBER>
+        <CALL_NUMBER>spa-tex-per-0082</CALL_NUMBER>
     </RECORD>
-    
-    
-    
-    
-    
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2029</REFNUM>
+        <YEAR>2002</YEAR>
+        <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
+        <PERIODICAL_TITLE>Playbill: San Francisco Symphony</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
+        <PUBLISHER>Playbill Inc</PUBLISHER>
+        <VOLUME>IV</VOLUME>
+        <NUMBER>6</NUMBER>
+        <DATE>2002-02</DATE>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>10/05/2005</CUSTOM5>
+        <ACCESSION_NUMBER>342 (10/05/2005)</ACCESSION_NUMBER>
+        <NOTES>No article specific to Prokofiev</NOTES>
+        <CALL_NUMBER>spa-tex-per-0083</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>912</REFNUM>
+        <AUTHORS>
+            <PERIODICAL_EDITOR>Dermoncourt, Bertrand</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2000</YEAR>
+        <PERIODICAL_TITLE>Classica: Un regard neuf sur le classique</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Paris</PLACE_PUBLISHED>
+        <PUBLISHER>Editions Prélude &amp; Fugue</PUBLISHER>
+        <NUMBER>22</NUMBER>
+        <DATE>2000-05</DATE>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>French</CUSTOM1>
+        <CUSTOM5>28/11/2000</CUSTOM5>
+        <NOTES>No article specific to Prokofiev</NOTES>
+        <CALL_NUMBER>spa-tex-per-0084</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>933</REFNUM>
+        <AUTHORS>
+            <PERIODICAL_EDITOR>Dermoncourt, Bertrand</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2000</YEAR>
+        <PERIODICAL_TITLE>Classica: Un regard neuf sur le classique</PERIODICAL_TITLE>
+        <PUBLISHER>Editions Prélude &amp; Fugue</PUBLISHER>
+        <NUMBER>25</NUMBER>
+        <DATE>2000-09</DATE>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>French</CUSTOM1>
+        <CUSTOM5>28/11/2000</CUSTOM5>
+        <NOTES>No article specific to Prokofiev</NOTES>
+        <CALL_NUMBER>spa-tex-per-0085</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>38</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Barbier, Pierre-E</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Voize, Yves Petit de</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1991</YEAR>
+        <ARTICLE_TITLE>Discographie de l'oeuvre de Prokofiev</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Diapason-Harmonie</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Paris</PLACE_PUBLISHED>
+        <PUBLISHER>Editions Mondiales S. A.</PUBLISHER>
+        <NUMBER>375</NUMBER>
+        <PAGES>60-67</PAGES>
+        <DATE>1991-10</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>1</ENTRY>
+        <NUMBER_OF_ENTRIES>4</NUMBER_OF_ENTRIES>
+        <CUSTOM1>French</CUSTOM1>
+        <CUSTOM5>28/11/2000 (revised 11/01/2006)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0086</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>38</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Duteurtre, Benoit</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Voize, Yves Petit de</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1991</YEAR>
+        <ARTICLE_TITLE>Prokofiev et l'histoire</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Diapason-Harmonie</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Paris</PLACE_PUBLISHED>
+        <PUBLISHER>Editions Mondiales S. A.</PUBLISHER>
+        <NUMBER>375</NUMBER>
+        <PAGES>58</PAGES>
+        <DATE>1991-10</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>2</ENTRY>
+        <NUMBER_OF_ENTRIES>4</NUMBER_OF_ENTRIES>
+        <CUSTOM1>French</CUSTOM1>
+        <CUSTOM5>28/11/2000 (revised 11/01/2006)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0086</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>38</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Martin, Serge</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Voize, Yves Petit de</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1991</YEAR>
+        <ARTICLE_TITLE>Prokofiev: l'incompris du XXe siecle</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Diapason-Harmonie</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Paris</PLACE_PUBLISHED>
+        <PUBLISHER>Editions Mondiales S. A.</PUBLISHER>
+        <NUMBER>375</NUMBER>
+        <PAGES>54-57</PAGES>
+        <DATE>1991-10</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>3</ENTRY>
+        <NUMBER_OF_ENTRIES>4</NUMBER_OF_ENTRIES>
+        <CUSTOM1>French</CUSTOM1>
+        <CUSTOM5>28/11/2000 (revised 11/01/2006)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0086</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>38</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Morand, Simon</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Voize, Yves Petit de</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1991</YEAR>
+        <ARTICLE_TITLE>Nikita Magaloff: Prokofiev a Paris</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Diapason-Harmonie</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Paris</PLACE_PUBLISHED>
+        <PUBLISHER>Editions Mondiales S. A.</PUBLISHER>
+        <NUMBER>375</NUMBER>
+        <PAGES>59</PAGES>
+        <DATE>1991-10</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>4</ENTRY>
+        <NUMBER_OF_ENTRIES>4</NUMBER_OF_ENTRIES>
+        <CUSTOM1>French</CUSTOM1>
+        <CUSTOM5>28/11/2000 (revised 11/01/2006)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0086</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2368</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Lischke, André</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Piel, Jean-Marie</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2001</YEAR>
+        <ARTICLE_TITLE>La musique russe: une musique sous influences</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Diapason</PERIODICAL_TITLE>
+        <NUMBER>477</NUMBER>
+        <PAGES>38-41</PAGES>
+        <DATE>2001-01</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>1</ENTRY>
+        <NUMBER_OF_ENTRIES>3</NUMBER_OF_ENTRIES>
+        <CUSTOM1>French</CUSTOM1>
+        <CUSTOM5>11/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0087</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2368</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Lodéon, Frédéric</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Piel, Jean-Marie</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2001</YEAR>
+        <ARTICLE_TITLE>Mstislav Rostropovich: Le grand témoin</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Diapason</PERIODICAL_TITLE>
+        <NUMBER>477</NUMBER>
+        <PAGES>38-41</PAGES>
+        <DATE>2001-01</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>2</ENTRY>
+        <NUMBER_OF_ENTRIES>3</NUMBER_OF_ENTRIES>
+        <CUSTOM1>French</CUSTOM1>
+        <CUSTOM5>11/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0087</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2368</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Vidal, Pierre</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Piel, Jean-Marie</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2001</YEAR>
+        <ARTICLE_TITLE>La musique russe: Une histoire politique</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Diapason</PERIODICAL_TITLE>
+        <NUMBER>477</NUMBER>
+        <PAGES>38-41</PAGES>
+        <DATE>2001-01</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>3</ENTRY>
+        <NUMBER_OF_ENTRIES>3</NUMBER_OF_ENTRIES>
+        <CUSTOM1>French</CUSTOM1>
+        <CUSTOM5>11/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0087</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2030</REFNUM>
+        <AUTHORS>
+            <PERIODICAL_EDITOR>Cuau, Yves</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1982</YEAR>
+        <PERIODICAL_TITLE>L'express</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED></PLACE_PUBLISHED>
+        <PUBLISHER></PUBLISHER>
+        <NUMBER>1625</NUMBER>
+        <DATE>1982-08-27 - 1982-09-02</DATE>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>French</CUSTOM1>
+        <CUSTOM5>10/05/2005</CUSTOM5>
+        <NOTES>No article specific to Prokofiev</NOTES>
+        <CALL_NUMBER>spa-tex-per-0088</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2370</REFNUM>
+        <AUTHORS>
+            <AUTHOR>Anon.</AUTHOR>
+            <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1993</YEAR>
+        <ARTICLE_TITLE>Les journées Prokofiev</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>L'insolent</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED></PLACE_PUBLISHED>
+        <PUBLISHER></PUBLISHER>
+        <PAGES>15</PAGES>
+        <DATE>1993</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>French</CUSTOM1>
+        <CUSTOM5>11/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0089</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>89</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Rooke, Elsa</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2001</YEAR>
+        <ARTICLE_TITLE>'L'histoire' and 'Les Fiançailles au couvent ou le sens de
+            la joie'</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Le Journal de l'opéra</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Lyon</PLACE_PUBLISHED>
+        <PUBLISHER>Opéra National de Lyon</PUBLISHER>
+        <NUMBER>7</NUMBER>
+        <PAGES>6-9</PAGES>
+        <DATE>2001-01/02/03</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>French</CUSTOM1>
+        <CUSTOM5>28/08/2001 (revised 11/01/2006)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <NOTES>In box 10</NOTES>
+        <CALL_NUMBER>spa-tex-per-0090</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2371</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mayor, Francis</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1980</YEAR>
+        <ARTICLE_TITLE>Chostakovich a menti! Nous écrit Mme Lina Prokofiev</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Le monde de la musique</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED></PLACE_PUBLISHED>
+        <PUBLISHER></PUBLISHER>
+        <NUMBER>26</NUMBER>
+        <PAGES>7-8</PAGES>
+        <DATE>1980-09</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>French</CUSTOM1>
+        <CUSTOM5>11/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0091</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>39</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Prokofiev, Serge</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Beauvert, Thierry</PERIODICAL_EDITOR>
+            <TRANSLATOR></TRANSLATOR>
+        </AUTHORS>
+        <YEAR>1991</YEAR>
+        <ARTICLE_TITLE>Journal de l'année 1927</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Le monde de la Musique</PERIODICAL_TITLE>
+        <NUMBER>143</NUMBER>
+        <PAGES>89-90</PAGES>
+        <DATE>1991-04</DATE>
+        <ARTICLE_TYPE_OF_WORK>Transcript</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>1</ENTRY>
+        <NUMBER_OF_ENTRIES>3</NUMBER_OF_ENTRIES>
+        <CUSTOM1>French</CUSTOM1>
+        <CUSTOM5>28/11/2000 (revised 11/01/2006)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0092</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>39</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Prokofiev, Oleg</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Beauvert, Thierry</PERIODICAL_EDITOR>
+            <TRANSLATOR></TRANSLATOR>
+        </AUTHORS>
+        <YEAR>1991</YEAR>
+        <ARTICLE_TITLE>L'amère Russie</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Le monde de la Musique</PERIODICAL_TITLE>
+        <NUMBER>143</NUMBER>
+        <PAGES>91</PAGES>
+        <DATE>1991-04</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>2</ENTRY>
+        <NUMBER_OF_ENTRIES>3</NUMBER_OF_ENTRIES>
+        <CUSTOM1>French</CUSTOM1>
+        <CUSTOM5>28/11/2000 (revised 11/01/2006)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0092</CALL_NUMBER>
+    </RECORD>
+ <RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>39</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Szersnovicz, Patrick</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Beauvert, Thierry</PERIODICAL_EDITOR>
+            <TRANSLATOR></TRANSLATOR>
+        </AUTHORS>
+        <YEAR>1991</YEAR>
+        <ARTICLE_TITLE>Serge Prokofiev: L'exil et le retour</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Le monde de la Musique</PERIODICAL_TITLE>
+        <NUMBER>143</NUMBER>
+        <PAGES>86-89</PAGES>
+        <DATE>1991-04</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>3</ENTRY>
+        <NUMBER_OF_ENTRIES>3</NUMBER_OF_ENTRIES>
+        <CUSTOM1>French</CUSTOM1>
+        <CUSTOM5>28/11/2000 (revised 11/01/2006)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0092</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>911</REFNUM>
+        <AUTHORS>
+            <PERIODICAL_EDITOR>Krafft, Nathalie</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2000</YEAR>
+        <PERIODICAL_TITLE>Le monde de la Musique</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED></PLACE_PUBLISHED>
+        <PUBLISHER></PUBLISHER>
+        <NUMBER>244</NUMBER>
+        <DATE>2000-06</DATE>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>01817949</ISBN>
+        <CUSTOM1>French</CUSTOM1>
+        <CUSTOM5>28/11/2000</CUSTOM5>
+        <NOTES>No article specific to Prokofiev</NOTES>
+        <CALL_NUMBER>spa-tex-per-0093</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>937</REFNUM>
+        <AUTHORS>
+            <PERIODICAL_EDITOR>Krafft, Nathalie</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2001</YEAR>
+        <PERIODICAL_TITLE>Le monde de la Musique</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED></PLACE_PUBLISHED>
+        <PUBLISHER></PUBLISHER>
+        <NUMBER>250</NUMBER>
+        <DATE>2001-01</DATE>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>01817949</ISBN>
+        <CUSTOM1>French</CUSTOM1>
+        <CUSTOM5>30/01/2001</CUSTOM5>
+        <NOTES>'La passion russe' - special. No article specific to Prokofiev.</NOTES>
+        <CALL_NUMBER>spa-tex-per-0094</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2373</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Lischke, A</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Duault, Alain</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1983</YEAR>
+        <ARTICLE_TITLE>Prokofiev: Une vie en trois époques</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Opera de Paris</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Paris</PLACE_PUBLISHED>
+        <PUBLISHER>Opera de Paris</PUBLISHER>
+        <NUMBER>5</NUMBER>
+        <PAGES>5-8</PAGES>
+        <DATE>1983-01</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>1</ENTRY>
+        <NUMBER_OF_ENTRIES>3</NUMBER_OF_ENTRIES>
+        <CUSTOM1>French</CUSTOM1>
+        <CUSTOM5>11/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0095</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2373</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Mesguich, Daniel</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Duault, Alain</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1983</YEAR>
+        <ARTICLE_TITLE>De miroirs en miroirs à travers les Trois oranges</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Opera de Paris</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Paris</PLACE_PUBLISHED>
+        <PUBLISHER>Opera de Paris</PUBLISHER>
+        <NUMBER>5</NUMBER>
+        <PAGES>2-4</PAGES>
+        <DATE>1983-01</DATE>
+        <ARTICLE_TYPE_OF_WORK>Interview</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>2</ENTRY>
+        <NUMBER_OF_ENTRIES>3</NUMBER_OF_ENTRIES>
+        <CUSTOM1>French</CUSTOM1>
+        <CUSTOM5>11/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0095</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2373</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Samuel, Claude</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Duault, Alain</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1983</YEAR>
+        <ARTICLE_TITLE>L'Amour des trois oranges, ou le plasir de l'opéra</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Opera de Paris</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Paris</PLACE_PUBLISHED>
+        <PUBLISHER>Opera de Paris</PUBLISHER>
+        <NUMBER>5</NUMBER>
+        <PAGES>9-12</PAGES>
+        <DATE>1983-01</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>3</ENTRY>
+        <NUMBER_OF_ENTRIES>3</NUMBER_OF_ENTRIES>
+        <CUSTOM1>French</CUSTOM1>
+        <CUSTOM5>11/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0095</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2375</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Armengaud, Jean-Pierre</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Castellan, Pierre</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1973</YEAR>
+        <ARTICLE_TITLE>Serge Prokofiev ou la musique savante peut-elle devenir populaire?</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Scherzo</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED></PLACE_PUBLISHED>
+        <PUBLISHER></PUBLISHER>
+        <NUMBER>22</NUMBER>
+        <PAGES>5-8</PAGES>
+        <DATE>1973-04</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>French</CUSTOM1>
+        <CUSTOM5>11/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0096</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2376</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Dusella, Dr Reinhold</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1990</YEAR>
+        <ARTICLE_TITLE>1991: Prokofiev-Jahr</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Notabene</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Bonn</PLACE_PUBLISHED>
+        <PUBLISHER>Boosey &amp; Hawkes</PUBLISHER>
+        <NUMBER>19</NUMBER>
+        <PAGES>2</PAGES>
+        <DATE>1990-09</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>1</ENTRY>
+        <NUMBER_OF_ENTRIES>6</NUMBER_OF_ENTRIES>
+        <CUSTOM1>German</CUSTOM1>
+        <CUSTOM5>12/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0097</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2376</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Dusella, Dr Reinhold</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1990</YEAR>
+        <ARTICLE_TITLE>Sergej Prokofiev und die zeitgenössische Musik aus der Sowjetunion</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Notabene</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Bonn</PLACE_PUBLISHED>
+        <PUBLISHER>Boosey &amp; Hawkes</PUBLISHER>
+        <NUMBER>19</NUMBER>
+        <PAGES>3-4</PAGES>
+        <DATE>1990-09</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>2</ENTRY>
+        <NUMBER_OF_ENTRIES>6</NUMBER_OF_ENTRIES>
+        <CUSTOM1>German</CUSTOM1>
+        <CUSTOM5>12/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0097</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2376</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Dusella, Dr Reinhold</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1990</YEAR>
+        <ARTICLE_TITLE>Eine Sinfonie des 'Feurigen Engels'? Prokofievs Sinfonie Nr. 3</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Notabene</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Bonn</PLACE_PUBLISHED>
+        <PUBLISHER>Boosey &amp; Hawkes</PUBLISHER>
+        <NUMBER>19</NUMBER>
+        <PAGES>4-5</PAGES>
+        <DATE>1990-09</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>3</ENTRY>
+        <NUMBER_OF_ENTRIES>6</NUMBER_OF_ENTRIES>
+        <CUSTOM1>German</CUSTOM1>
+        <CUSTOM5>12/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0097</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2376</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Dusella, Dr Reinhold</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1990</YEAR>
+        <ARTICLE_TITLE>Mehr als eine historische Chance: Prokofievs 1. Cellokonzert</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Notabene</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Bonn</PLACE_PUBLISHED>
+        <PUBLISHER>Boosey &amp; Hawkes</PUBLISHER>
+        <NUMBER>19</NUMBER>
+        <PAGES>5-6</PAGES>
+        <DATE>1990-09</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>4</ENTRY>
+        <NUMBER_OF_ENTRIES>6</NUMBER_OF_ENTRIES>
+        <CUSTOM1>German</CUSTOM1>
+        <CUSTOM5>12/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0097</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2376</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Dusella, Dr Reinhold</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1990</YEAR>
+        <ARTICLE_TITLE>"Die Liebe zu den drei Orangen" und "Der feurige Engel": Zwei
+            Opern auf dem Sprung ins Repertoire</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Notabene</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Bonn</PLACE_PUBLISHED>
+        <PUBLISHER>Boosey &amp; Hawkes</PUBLISHER>
+        <NUMBER>19</NUMBER>
+        <PAGES>6-7</PAGES>
+        <DATE>1990-09</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>5</ENTRY>
+        <NUMBER_OF_ENTRIES>6</NUMBER_OF_ENTRIES>
+        <CUSTOM1>German</CUSTOM1>
+        <CUSTOM5>12/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0097</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2376</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Lindlar, Heinrich</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Dusella, Dr Reinhold</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1990</YEAR>
+        <ARTICLE_TITLE>Apropos Prokofiev</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Notabene</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Bonn</PLACE_PUBLISHED>
+        <PUBLISHER>Boosey &amp; Hawkes</PUBLISHER>
+        <NUMBER>19</NUMBER>
+        <PAGES>2-3</PAGES>
+        <DATE>1990-09</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>6</ENTRY>
+        <NUMBER_OF_ENTRIES>6</NUMBER_OF_ENTRIES>
+        <CUSTOM1>German</CUSTOM1>
+        <CUSTOM5>12/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0097</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2382</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Maschke, Heiner</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1990</YEAR>
+        <ARTICLE_TITLE>Prokofiev neu entdecken...</ARTICLE_TITLE>
+        <SECONDARY_ARTICLE_TITLE>Interview with Dr. Konrad Schilling</SECONDARY_ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Duisburger Journal</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Duisburg</PLACE_PUBLISHED>
+        <PUBLISHER>Stadt Duisburg</PUBLISHER>
+        <VOLUME>14</VOLUME>
+        <NUMBER>10</NUMBER>
+        <PAGES>8-9</PAGES>
+        <DATE>1990-10</DATE>
+        <ARTICLE_TYPE_OF_WORK>Interview</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>03433277</ISBN>
+        <ENTRY>1</ENTRY>
+        <NUMBER_OF_ENTRIES>3</NUMBER_OF_ENTRIES>
+        <CUSTOM1>German</CUSTOM1>
+        <CUSTOM5>12/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0098</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2382</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Danuser, Hermann</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Maschke, Heiner</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1990</YEAR>
+        <ARTICLE_TITLE>Vorwort zum Festival-Begleitbuch "Sergej Prokofiev - 11. April 1891-5.
+            März 1953"</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Duisburger Journal</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Duisburg</PLACE_PUBLISHED>
+        <PUBLISHER>Stadt Duisburg</PUBLISHER>
+        <VOLUME>14</VOLUME>
+        <NUMBER>10</NUMBER>
+        <PAGES>10-12</PAGES>
+        <DATE>1990-10</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>03433277</ISBN>
+        <ENTRY>2</ENTRY>
+        <NUMBER_OF_ENTRIES>3</NUMBER_OF_ENTRIES>
+        <CUSTOM1>German</CUSTOM1>
+        <CUSTOM5>12/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0098</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2382</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Sommer, Erich Franz</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Maschke, Heiner</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1990</YEAR>
+        <ARTICLE_TITLE>Sergej Prokofiev in Bayern</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Duisburger Journal</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Duisburg</PLACE_PUBLISHED>
+        <PUBLISHER>Stadt Duisburg</PUBLISHER>
+        <VOLUME>14</VOLUME>
+        <NUMBER>10</NUMBER>
+        <PAGES>13-16</PAGES>
+        <DATE>1990-10</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>03433277</ISBN>
+        <ENTRY>3</ENTRY>
+        <NUMBER_OF_ENTRIES>3</NUMBER_OF_ENTRIES>
+        <CUSTOM1>German</CUSTOM1>
+        <CUSTOM5>12/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0098</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2386</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Maschke, Heiner</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1990</YEAR>
+        <ARTICLE_TITLE>Erinnerungsabend "Hommage à Prokofiev"; Grußwort von Frau Nina
+            Dorliak, Moskau: vorgetragen von Andrej Zolotow</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Duisburger Journal</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Duisburg</PLACE_PUBLISHED>
+        <PUBLISHER>Stadt Duisburg</PUBLISHER>
+        <VOLUME>14</VOLUME>
+        <NUMBER>11</NUMBER>
+        <PAGES>13-14</PAGES>
+        <DATE>1990-11</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>03433277</ISBN>
+        <ENTRY>1</ENTRY>
+        <NUMBER_OF_ENTRIES>4</NUMBER_OF_ENTRIES>
+        <CUSTOM1>German</CUSTOM1>
+        <CUSTOM5>12/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0099</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2386</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Maschke, Heiner</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1990</YEAR>
+        <ARTICLE_TITLE>"Russische Avantegarde 1910-1930" aus sowjetischen und deutschen
+            Sammlungen</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Duisburger Journal</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Duisburg</PLACE_PUBLISHED>
+        <PUBLISHER>Stadt Duisburg</PUBLISHER>
+        <VOLUME>14</VOLUME>
+        <NUMBER>11</NUMBER>
+        <PAGES>16-18</PAGES>
+        <DATE>1990-11</DATE>
+        <ARTICLE_TYPE_OF_WORK>Report</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>03433277</ISBN>
+        <ENTRY>2</ENTRY>
+        <NUMBER_OF_ENTRIES>4</NUMBER_OF_ENTRIES>
+        <CUSTOM1>German</CUSTOM1>
+        <CUSTOM5>12/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0099</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2386</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Reininghaus, Frieder</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Maschke, Heiner</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1990</YEAR>
+        <ARTICLE_TITLE>Eine breite Schneise für Sergej Prokofiev</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Duisburger Journal</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Duisburg</PLACE_PUBLISHED>
+        <PUBLISHER>Stadt Duisburg</PUBLISHER>
+        <VOLUME>14</VOLUME>
+        <NUMBER>11</NUMBER>
+        <PAGES>15</PAGES>
+        <DATE>1990-11</DATE>
+        <ARTICLE_TYPE_OF_WORK>Report</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>03433277</ISBN>
+        <ENTRY>3</ENTRY>
+        <NUMBER_OF_ENTRIES>4</NUMBER_OF_ENTRIES>
+        <CUSTOM1>German</CUSTOM1>
+        <CUSTOM5>12/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0099</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2386</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR></ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Maschke, Heiner</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1990</YEAR>
+        <ARTICLE_TITLE>Festakt zur feierlichen Eröffnung des Internationalen Festivals "Sergej
+            Prokofiev und zeitgenössische Musik aus der Sowjetunion"</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Duisburger Journal</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Duisburg</PLACE_PUBLISHED>
+        <PUBLISHER>Stadt Duisburg</PUBLISHER>
+        <VOLUME>14</VOLUME>
+        <NUMBER>11</NUMBER>
+        <PAGES>4-12</PAGES>
+        <DATE>1990-11</DATE>
+        <ARTICLE_TYPE_OF_WORK>Report</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>03433277</ISBN>
+        <ENTRY>4</ENTRY>
+        <NUMBER_OF_ENTRIES>4</NUMBER_OF_ENTRIES>
+        <CUSTOM1>German</CUSTOM1>
+        <CUSTOM5>12/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <NOTES>Report of conference addresses by Josef Krings, Hans Schwier, Nikolai Gubenko,
+            Alfred Schnittke</NOTES>
+        <CALL_NUMBER>spa-tex-per-0099</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2038</REFNUM>
+        <AUTHORS>
+            <PERIODICAL_EDITOR>Maschke, Heiner</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1990</YEAR>
+        <PERIODICAL_TITLE>Duisburger Journal</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Duisburg</PLACE_PUBLISHED>
+        <PUBLISHER>Stadt Duisburg</PUBLISHER>
+        <DATE>1990-12</DATE>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>03433277</ISBN>
+        <CUSTOM1>German</CUSTOM1>
+        <CUSTOM5>10/05/2005</CUSTOM5>
+        <NOTES>No article specific to Prokofiev</NOTES>
+        <CALL_NUMBER>spa-tex-per-0100</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2389</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Reininghaus, Frieder</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Maschke, Heiner</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1991</YEAR>
+        <ARTICLE_TITLE>Balancen über dem Abgrund: Duisburger Festival für Prokofiev und neue
+            sowjetische Musik</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Duisburger Journal</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Duisburg</PLACE_PUBLISHED>
+        <PUBLISHER>Stadt Duisburg</PUBLISHER>
+        <VOLUME>15</VOLUME>
+        <NUMBER>1</NUMBER>
+        <PAGES>13-14</PAGES>
+        <DATE>1991-01</DATE>
+        <ARTICLE_TYPE_OF_WORK>Report</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>03433277</ISBN>
+        <CUSTOM1>German</CUSTOM1>
+        <CUSTOM5>12/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0101</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2390</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Prox, Lothar</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Maschke, Heiner</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1991</YEAR>
+        <ARTICLE_TITLE>Dokumentation zur Aufführung des gesamten erhaltenen Musikwerkes für den
+            Film</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Duisburger Journal</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Duisburg</PLACE_PUBLISHED>
+        <PUBLISHER>Stadt Duisburg</PUBLISHER>
+        <VOLUME>15</VOLUME>
+        <NUMBER>2</NUMBER>
+        <PAGES>4-12</PAGES>
+        <DATE>1991-02</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>03433277</ISBN>
+        <CUSTOM1>German</CUSTOM1>
+        <CUSTOM5>12/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <NOTES>Sections on Prokofiev's music for film including Lieutenant Kizhe, Alexander
+            Nevsky, Ivan the Terrible</NOTES>
+        <CALL_NUMBER>spa-tex-per-0102</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2391</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Sommer, Susanne</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Maschke, Heiner</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1991</YEAR>
+        <ARTICLE_TITLE>Sergej Prokofiev - Mensch und Werk</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Duisburger Journal</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Duisburg</PLACE_PUBLISHED>
+        <PUBLISHER>Stadt Duisburg</PUBLISHER>
+        <VOLUME>15</VOLUME>
+        <NUMBER>3</NUMBER>
+        <PAGES>4</PAGES>
+        <DATE>1991-03</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>03433277</ISBN>
+        <CUSTOM1>German</CUSTOM1>
+        <CUSTOM5>12/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0103</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2392</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Hufschmidt, Prof. Wolfgang</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Maschke, Heiner</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1991</YEAR>
+        <ARTICLE_TITLE>Begegnung mit Komponisten aus der Sowjetunion</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Duisburger Journal</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Duisburg</PLACE_PUBLISHED>
+        <PUBLISHER>Stadt Duisburg</PUBLISHER>
+        <VOLUME>15</VOLUME>
+        <NUMBER>4</NUMBER>
+        <PAGES>32-33</PAGES>
+        <DATE>1991-04</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>03433277</ISBN>
+        <CUSTOM1>German</CUSTOM1>
+        <CUSTOM5>12/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0104</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2394</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Baekkelund, Martin</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1980</YEAR>
+        <ARTICLE_TITLE>T. N. Khrennikov i Oslo</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Steinblomsten</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Oslo</PLACE_PUBLISHED>
+        <PUBLISHER>Norwegian Prokofiev Society</PUBLISHER>
+        <NUMBER>3</NUMBER>
+        <PAGES>11-13</PAGES>
+        <DATE>1980</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Newsletter</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>1</ENTRY>
+        <NUMBER_OF_ENTRIES>2</NUMBER_OF_ENTRIES>
+        <CUSTOM1>Norwegian</CUSTOM1>
+        <CUSTOM5>12/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0105</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2394</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Gaathaug, Morten</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1980</YEAR>
+        <ARTICLE_TITLE>Tredje klaverkonsert, C-dur op. 26</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Steinblomsten</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Oslo</PLACE_PUBLISHED>
+        <PUBLISHER>Norwegian Prokofiev Society</PUBLISHER>
+        <NUMBER>3</NUMBER>
+        <PAGES>3-8</PAGES>
+        <DATE>1980</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Newsletter</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>2</ENTRY>
+        <NUMBER_OF_ENTRIES>2</NUMBER_OF_ENTRIES>
+        <CUSTOM1>Norwegian</CUSTOM1>
+        <CUSTOM5>12/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0105</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2395</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Gaathaug, Morten</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1981</YEAR>
+        <ARTICLE_TITLE>En vandring gjennom oppslagsverk</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Steinblomsten</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Oslo</PLACE_PUBLISHED>
+        <PUBLISHER>Norwegian Prokofiev Society</PUBLISHER>
+        <NUMBER>1</NUMBER>
+        <PAGES>4-7</PAGES>
+        <DATE>1981</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Newsletter</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>1</ENTRY>
+        <NUMBER_OF_ENTRIES>3</NUMBER_OF_ENTRIES>
+        <CUSTOM1>Norwegian</CUSTOM1>
+        <CUSTOM5>12/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0106</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2395</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Haanshus, Ved Arne</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1981</YEAR>
+        <ARTICLE_TITLE>Violin - konsertene</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Steinblomsten</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Oslo</PLACE_PUBLISHED>
+        <PUBLISHER>Norwegian Prokofiev Society</PUBLISHER>
+        <NUMBER>1</NUMBER>
+        <PAGES>8-13</PAGES>
+        <DATE>1981</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Newsletter</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>2</ENTRY>
+        <NUMBER_OF_ENTRIES>3</NUMBER_OF_ENTRIES>
+        <CUSTOM1>Norwegian</CUSTOM1>
+        <CUSTOM5>12/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0106</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2395</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Plagge, Wolfgang</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1981</YEAR>
+        <ARTICLE_TITLE>Prokofiev / Sjostakovitsj</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Steinblomsten</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Oslo</PLACE_PUBLISHED>
+        <PUBLISHER>Norwegian Prokofiev Society</PUBLISHER>
+        <NUMBER>1</NUMBER>
+        <PAGES>14-16</PAGES>
+        <DATE>1981</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Newsletter</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>3</ENTRY>
+        <NUMBER_OF_ENTRIES>3</NUMBER_OF_ENTRIES>
+        <CUSTOM1>Norwegian</CUSTOM1>
+        <CUSTOM5>12/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0106</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2398</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Correa Do Lago, Manoel</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Neves, José Maria</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1999</YEAR>
+        <ARTICLE_TITLE>A música do século XX no Acervo Janacopoulos / Uni-Rio</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Brasiliana</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED></PLACE_PUBLISHED>
+        <PUBLISHER>Academia Brasileira de Musica</PUBLISHER>
+        <NUMBER>2</NUMBER>
+        <PAGES>2-17</PAGES>
+        <DATE>1999-05</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>1516-2427</ISBN>
+        <CUSTOM1>Portugese</CUSTOM1>
+        <CUSTOM5>12/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-0107</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>1705</REFNUM>
+        <AUTHORS>
+            <PERIODICAL_EDITOR>Cheliapov, N</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1929</YEAR>
+        <PERIODICAL_TITLE>Muzyka i Revoliutsiia</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Gosudarstvennoe Izdatel'stvo Muzykal'nyi Sektor</PUBLISHER>
+        <NUMBER>6</NUMBER>
+        <DATE>1929</DATE>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>"Originals" box in WT 221</CUSTOM2>
+        <CUSTOM5>19/08/2004</CUSTOM5>
+        <NOTES>LOCATION: Publications-fragile: box 1. No article specific to Prokofiev.</NOTES>
+        <CALL_NUMBER>spa-tex-per-0108</CALL_NUMBER>
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2046</REFNUM>
         <AUTHORS>
-            <EDITOR>Korev, Iurii Semenovich</EDITOR>
+            <PERIODICAL_EDITOR>Korev, Iurii Semenovich</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1998</YEAR>
+        <PERIODICAL_TITLE>Muzykal'naia Akademiia</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED></PLACE_PUBLISHED>
+        <PUBLISHER>Kompozitor</PUBLISHER>
+        <NUMBER>3-4 (kniga vtoraia)</NUMBER>
+        <DATE>1998</DATE>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <VOLUME>1</VOLUME>
+        <NUMBER_OF_VOLUMES>2</NUMBER_OF_VOLUMES>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>Print</CUSTOM2>
+        <CUSTOM5>10/05/2005</CUSTOM5>
+        <NOTES>per-109 and per-110 are 2 volumes of the same issue. No article specific to Prokofiev.</NOTES>
+        <CALL_NUMBER>spa-tex-per-0109</CALL_NUMBER>
+    </RECORD>      
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2046</REFNUM>
+        <AUTHORS>
+            <PERIODICAL_EDITOR>Korev, Iurii Semenovich</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1998</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Akademiia</PERIODICAL_TITLE>
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>3-4 (kniga vtoraia)</NUMBER>
         <DATE>1998</DATE>
-        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
         <VOLUME>2</VOLUME>
         <NUMBER_OF_VOLUMES>2</NUMBER_OF_VOLUMES>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>Print</CUSTOM2>
         <CUSTOM5>10/05/2005</CUSTOM5>
+        <NOTES>per-109 and per-110 are 2 volumes of the same issue. No article specific to Prokofiev.</NOTES>
         <CALL_NUMBER>spa-tex-per-0110</CALL_NUMBER>
-        <NOTES>per-109 and per-110 are 2 volumes of the same issue</NOTES>
-    </RECORD>    
+    </RECORD> 
+    
+    
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2047</REFNUM>
         <AUTHORS>
-            <EDITOR>Korev, Iurii Semenovich</EDITOR>
+            <PERIODICAL_EDITOR>Korev, Iurii Semenovich</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1999</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Akademiia</PERIODICAL_TITLE>
@@ -2230,7 +3363,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2048</REFNUM>
         <AUTHORS>
-            <EDITOR>Korev, Iurii Semenovich</EDITOR>
+            <PERIODICAL_EDITOR>Korev, Iurii Semenovich</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1999</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Akademiia</PERIODICAL_TITLE>
@@ -2247,7 +3380,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>897</REFNUM>
         <AUTHORS>
-            <EDITOR>Korev, Iurii Semenovich</EDITOR>
+            <PERIODICAL_EDITOR>Korev, Iurii Semenovich</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2000</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Akademiia</PERIODICAL_TITLE>
@@ -2266,7 +3399,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2049</REFNUM>
         <AUTHORS>
-            <EDITOR>Belyi, Viktor Arkadevich</EDITOR>
+            <PERIODICAL_EDITOR>Belyi, Viktor Arkadevich</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1966</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
@@ -2284,7 +3417,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2050</REFNUM>
         <AUTHORS>
-            <EDITOR>Belyi, Viktor Arkadevich</EDITOR>
+            <PERIODICAL_EDITOR>Belyi, Viktor Arkadevich</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1973</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
@@ -2302,7 +3435,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2051</REFNUM>
         <AUTHORS>
-            <EDITOR>Popov, I. E.</EDITOR>
+            <PERIODICAL_EDITOR>Popov, I. E.</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1985</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
@@ -2321,7 +3454,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2052</REFNUM>
         <AUTHORS>
-            <EDITOR>Popov, I. E.</EDITOR>
+            <PERIODICAL_EDITOR>Popov, I. E.</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1990</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
@@ -2340,7 +3473,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2053</REFNUM>
         <AUTHORS>
-            <EDITOR>Popov, I. E.</EDITOR>
+            <PERIODICAL_EDITOR>Popov, I. E.</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1990</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
@@ -2359,7 +3492,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2054</REFNUM>
         <AUTHORS>
-            <EDITOR>Platek, Ia M</EDITOR>
+            <PERIODICAL_EDITOR>Platek, Ia M</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1991</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
@@ -2378,7 +3511,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2055</REFNUM>
         <AUTHORS>
-            <EDITOR>Platek, Ia M</EDITOR>
+            <PERIODICAL_EDITOR>Platek, Ia M</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1998</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
@@ -2397,7 +3530,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2056</REFNUM>
         <AUTHORS>
-            <EDITOR>Platek, Ia M</EDITOR>
+            <PERIODICAL_EDITOR>Platek, Ia M</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1998</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
@@ -2416,7 +3549,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2057</REFNUM>
         <AUTHORS>
-            <EDITOR>Platek, Ia M</EDITOR>
+            <PERIODICAL_EDITOR>Platek, Ia M</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1998</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
@@ -2435,7 +3568,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2058</REFNUM>
         <AUTHORS>
-            <EDITOR>Platek, Ia M</EDITOR>
+            <PERIODICAL_EDITOR>Platek, Ia M</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1998</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
@@ -2454,7 +3587,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2059</REFNUM>
         <AUTHORS>
-            <EDITOR>Platek, Ia M</EDITOR>
+            <PERIODICAL_EDITOR>Platek, Ia M</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1998</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
@@ -2473,7 +3606,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2060</REFNUM>
         <AUTHORS>
-            <EDITOR>Platek, Ia M</EDITOR>
+            <PERIODICAL_EDITOR>Platek, Ia M</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1998</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
@@ -2492,7 +3625,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2061</REFNUM>
         <AUTHORS>
-            <EDITOR>Platek, Ia M</EDITOR>
+            <PERIODICAL_EDITOR>Platek, Ia M</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1998</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
@@ -2511,7 +3644,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2062</REFNUM>
         <AUTHORS>
-            <EDITOR>Platek, Ia M</EDITOR>
+            <PERIODICAL_EDITOR>Platek, Ia M</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1998</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
@@ -2530,7 +3663,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2063</REFNUM>
         <AUTHORS>
-            <EDITOR>Platek, Ia M</EDITOR>
+            <PERIODICAL_EDITOR>Platek, Ia M</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1998</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
@@ -2549,7 +3682,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2064</REFNUM>
         <AUTHORS>
-            <EDITOR>Platek, Ia M</EDITOR>
+            <PERIODICAL_EDITOR>Platek, Ia M</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1998</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
@@ -2568,7 +3701,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2065</REFNUM>
         <AUTHORS>
-            <EDITOR>Platek, Ia M</EDITOR>
+            <PERIODICAL_EDITOR>Platek, Ia M</PERIODICAL_EDITOR>
         </AUTHORS>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
@@ -2586,7 +3719,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2066</REFNUM>
         <AUTHORS>
-            <EDITOR>Platek, Ia M</EDITOR>
+            <PERIODICAL_EDITOR>Platek, Ia M</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1998</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
@@ -2605,7 +3738,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2067</REFNUM>
         <AUTHORS>
-            <EDITOR>Platek, Ia M</EDITOR>
+            <PERIODICAL_EDITOR>Platek, Ia M</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1999</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
@@ -2624,7 +3757,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2068</REFNUM>
         <AUTHORS>
-            <EDITOR>Platek, Ia M</EDITOR>
+            <PERIODICAL_EDITOR>Platek, Ia M</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1999</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
@@ -2643,7 +3776,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2069</REFNUM>
         <AUTHORS>
-            <EDITOR>Platek, Ia M</EDITOR>
+            <PERIODICAL_EDITOR>Platek, Ia M</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1999</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
@@ -2662,7 +3795,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2070</REFNUM>
         <AUTHORS>
-            <EDITOR>Platek, Ia M</EDITOR>
+            <PERIODICAL_EDITOR>Platek, Ia M</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1999</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
@@ -2681,7 +3814,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2071</REFNUM>
         <AUTHORS>
-            <EDITOR>Platek, Ia M</EDITOR>
+            <PERIODICAL_EDITOR>Platek, Ia M</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1999</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
@@ -2700,7 +3833,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2072</REFNUM>
         <AUTHORS>
-            <EDITOR>Platek, Ia M</EDITOR>
+            <PERIODICAL_EDITOR>Platek, Ia M</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1999</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
@@ -2719,7 +3852,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2073</REFNUM>
         <AUTHORS>
-            <EDITOR>Platek, Ia M</EDITOR>
+            <PERIODICAL_EDITOR>Platek, Ia M</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1999</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
@@ -2738,7 +3871,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2074</REFNUM>
         <AUTHORS>
-            <EDITOR>Platek, Ia M</EDITOR>
+            <PERIODICAL_EDITOR>Platek, Ia M</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1999</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
@@ -2757,7 +3890,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2075</REFNUM>
         <AUTHORS>
-            <EDITOR>Platek, Ia M</EDITOR>
+            <PERIODICAL_EDITOR>Platek, Ia M</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1999</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
@@ -2775,7 +3908,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2076</REFNUM>
         <AUTHORS>
-            <EDITOR>Platek, Ia M</EDITOR>
+            <PERIODICAL_EDITOR>Platek, Ia M</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2000</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
@@ -2794,7 +3927,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2077</REFNUM>
         <AUTHORS>
-            <EDITOR>Platek, Ia M</EDITOR>
+            <PERIODICAL_EDITOR>Platek, Ia M</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2000</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
@@ -2813,7 +3946,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2078</REFNUM>
         <AUTHORS>
-            <EDITOR>Platek, Ia M</EDITOR>
+            <PERIODICAL_EDITOR>Platek, Ia M</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2001</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
@@ -2832,7 +3965,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2079</REFNUM>
         <AUTHORS>
-            <EDITOR>Platek, Ia M</EDITOR>
+            <PERIODICAL_EDITOR>Platek, Ia M</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2001</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
@@ -2851,7 +3984,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2080</REFNUM>
         <AUTHORS>
-            <EDITOR>Platek, Ia M</EDITOR>
+            <PERIODICAL_EDITOR>Platek, Ia M</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2001</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
@@ -2870,7 +4003,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2081</REFNUM>
         <AUTHORS>
-            <EDITOR>Platek, Ia M</EDITOR>
+            <PERIODICAL_EDITOR>Platek, Ia M</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2001</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
@@ -2889,7 +4022,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2082</REFNUM>
         <AUTHORS>
-            <EDITOR>Platek, Ia M</EDITOR>
+            <PERIODICAL_EDITOR>Platek, Ia M</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2001</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
@@ -2908,7 +4041,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2083</REFNUM>
         <AUTHORS>
-            <EDITOR>Platek, Ia M</EDITOR>
+            <PERIODICAL_EDITOR>Platek, Ia M</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2001</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
@@ -2927,7 +4060,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2084</REFNUM>
         <AUTHORS>
-            <EDITOR>Platek, Ia M</EDITOR>
+            <PERIODICAL_EDITOR>Platek, Ia M</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2002</YEAR>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
@@ -2946,7 +4079,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2085</REFNUM>
         <AUTHORS>
-            <EDITOR>Enisherlov, V. P.</EDITOR>
+            <PERIODICAL_EDITOR>Enisherlov, V. P.</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1991</YEAR>
         <PERIODICAL_TITLE>Nashe Nasledie</PERIODICAL_TITLE>
@@ -2965,7 +4098,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2086</REFNUM>
         <AUTHORS>
-            <EDITOR>Sofronov, A. V.</EDITOR>
+            <PERIODICAL_EDITOR>Sofronov, A. V.</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1973</YEAR>
         <PERIODICAL_TITLE>Ogonek</PERIODICAL_TITLE>
@@ -2983,7 +4116,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2087</REFNUM>
         <AUTHORS>
-            <EDITOR>Korotich, V. A.</EDITOR>
+            <PERIODICAL_EDITOR>Korotich, V. A.</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1991</YEAR>
         <PERIODICAL_TITLE>Ogonek</PERIODICAL_TITLE>
@@ -3002,7 +4135,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2088</REFNUM>
         <AUTHORS>
-            <EDITOR>Korotich, V. A.</EDITOR>
+            <PERIODICAL_EDITOR>Korotich, V. A.</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1991</YEAR>
         <PERIODICAL_TITLE>Ogonek</PERIODICAL_TITLE>
@@ -3021,7 +4154,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2101</REFNUM>
         <AUTHORS>
-            <EDITOR>Carlweitz, Staffan</EDITOR>
+            <PERIODICAL_EDITOR>Carlweitz, Staffan</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1991</YEAR>
         <PERIODICAL_TITLE>På Operan</PERIODICAL_TITLE>
@@ -3041,7 +4174,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2102</REFNUM>
         <AUTHORS>
-            <EDITOR>Heldt, Dr Gerhard</EDITOR>
+            <PERIODICAL_EDITOR>Heldt, Dr Gerhard</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1985</YEAR>
         <PERIODICAL_TITLE>Blätter der Bayerischen Staatsoper, Spielzeit 1985-86</PERIODICAL_TITLE>
@@ -3059,8 +4192,8 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2103</REFNUM>
         <AUTHORS>
-            <EDITOR>Gomm, Barbara</EDITOR>
-            <EDITOR>Hartwig, Helmut Andreas</EDITOR>
+            <PERIODICAL_EDITOR>Gomm, Barbara</PERIODICAL_EDITOR>
+            <PERIODICAL_EDITOR>Hartwig, Helmut Andreas</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1984</YEAR>
         <PERIODICAL_TITLE>Theatermagazin der Bundeshauptstadt, Spielzeit 1983-84</PERIODICAL_TITLE>
@@ -3078,7 +4211,7 @@
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>900</REFNUM>
-        <EDITOR></EDITOR>
+        <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
         <YEAR>1990</YEAR>
         <PERIODICAL_TITLE>The Pianola Journal</PERIODICAL_TITLE>
         <PUBLISHER>The Pianola Institute</PUBLISHER>
@@ -3096,7 +4229,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>901</REFNUM>
         <YEAR>1993</YEAR>
-        <EDITOR></EDITOR>
+        <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
         <PERIODICAL_TITLE>The Pianola Journal</PERIODICAL_TITLE>
         <PUBLISHER>The Pianola Institute</PUBLISHER>
         <NUMBER>5</NUMBER>
@@ -3113,7 +4246,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>902</REFNUM>
         <YEAR>1998</YEAR>
-        <EDITOR></EDITOR>
+        <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
         <PERIODICAL_TITLE>The Pianola Journal</PERIODICAL_TITLE>
         <PUBLISHER>The Pianola Institute</PUBLISHER>
         <NUMBER>10</NUMBER>
@@ -3129,7 +4262,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>903</REFNUM>
         <YEAR>1998</YEAR>
-        <EDITOR></EDITOR>
+        <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
         <PERIODICAL_TITLE>The Pianola Journal</PERIODICAL_TITLE>
         <PUBLISHER>The Pianola Institute</PUBLISHER>
         <NUMBER>11</NUMBER>
@@ -3145,7 +4278,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>904</REFNUM>
         <YEAR>1999</YEAR>
-        <EDITOR></EDITOR>
+        <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
         <PERIODICAL_TITLE>The Pianola Journal</PERIODICAL_TITLE>
         <PUBLISHER>The Pianola Institute</PUBLISHER>
         <NUMBER>12</NUMBER>
@@ -3161,7 +4294,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2503</REFNUM>
         <AUTHORS>
-            <EDITOR>Schwarz, Boris</EDITOR>
+            <PERIODICAL_EDITOR>Schwarz, Boris</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1981</YEAR>
         <PERIODICAL_TITLE>Eastern European Folk and Art Music: IMS Report, Berkeley
@@ -3179,7 +4312,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2530</REFNUM>
         <AUTHORS>
-            <EDITOR>Crépu, Michel</EDITOR>
+            <PERIODICAL_EDITOR>Crépu, Michel</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2006</YEAR>
         <PERIODICAL_TITLE>Revue des Deux Mondes</PERIODICAL_TITLE>
@@ -3198,7 +4331,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2593</REFNUM>
         <AUTHORS>
-            <EDITOR>Jolly, James</EDITOR>
+            <PERIODICAL_EDITOR>Jolly, James</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1991</YEAR>
         <PERIODICAL_TITLE>Gramophone</PERIODICAL_TITLE>
@@ -3217,7 +4350,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2604</REFNUM>
         <AUTHORS>
-            <EDITOR>Gerould, Daniel</EDITOR>
+            <PERIODICAL_EDITOR>Gerould, Daniel</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2004</YEAR>
         <PERIODICAL_TITLE>Slavic and East European Performance: Drama, Theatre, Film</PERIODICAL_TITLE>
@@ -3237,7 +4370,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2607</REFNUM>
         <AUTHORS>
-            <EDITOR>Dadswell, Mel</EDITOR>
+            <PERIODICAL_EDITOR>Dadswell, Mel</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2003</YEAR>
         <PERIODICAL_TITLE>East-West Review</PERIODICAL_TITLE>
@@ -3255,7 +4388,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2609</REFNUM>
         <AUTHORS>
-            <EDITOR>Dadswell, Mel</EDITOR>
+            <PERIODICAL_EDITOR>Dadswell, Mel</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2003-04</YEAR>
         <PERIODICAL_TITLE>East-West Review</PERIODICAL_TITLE>
@@ -3273,7 +4406,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2611</REFNUM>
         <AUTHORS>
-            <EDITOR>Beyne, Bernadette</EDITOR>
+            <PERIODICAL_EDITOR>Beyne, Bernadette</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2002-03</YEAR>
         <PERIODICAL_TITLE>Crescendo</PERIODICAL_TITLE>
@@ -3289,7 +4422,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2617</REFNUM>
         <AUTHORS>
-            <EDITOR>Piel, Jean-Marie</EDITOR>
+            <PERIODICAL_EDITOR>Piel, Jean-Marie</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2003</YEAR>
         <PERIODICAL_TITLE>Diapason</PERIODICAL_TITLE>
@@ -3305,7 +4438,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2619</REFNUM>
         <AUTHORS>
-            <EDITOR>Kettner, Markus</EDITOR>
+            <PERIODICAL_EDITOR>Kettner, Markus</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2003</YEAR>
         <PERIODICAL_TITLE>Rondo</PERIODICAL_TITLE>
@@ -3323,7 +4456,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2621</REFNUM>
         <AUTHORS>
-            <EDITOR>Worth, Erica</EDITOR>
+            <PERIODICAL_EDITOR>Worth, Erica</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2003</YEAR>
         <PERIODICAL_TITLE>Pianist</PERIODICAL_TITLE>
@@ -3340,7 +4473,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2623</REFNUM>
         <AUTHORS>
-            <EDITOR>Beyne, Bernadette</EDITOR>
+            <PERIODICAL_EDITOR>Beyne, Bernadette</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2003</YEAR>
         <PERIODICAL_TITLE>Crescendo</PERIODICAL_TITLE>
@@ -3356,7 +4489,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2629</REFNUM>
         <AUTHORS>
-            <EDITOR>Krafft, Nathalie</EDITOR>
+            <PERIODICAL_EDITOR>Krafft, Nathalie</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2003</YEAR>
         <PERIODICAL_TITLE>Le Monde de la Musique: Au coeur de la musique classique</PERIODICAL_TITLE>
@@ -3372,7 +4505,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2634</REFNUM>
         <AUTHORS>
-            <EDITOR>Anon.</EDITOR>
+            <PERIODICAL_EDITOR>Anon.</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2003</YEAR>
         <PERIODICAL_TITLE>Classica</PERIODICAL_TITLE>
@@ -3389,7 +4522,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2640</REFNUM>
         <AUTHORS>
-            <EDITOR>Meillat, Bernard</EDITOR>
+            <PERIODICAL_EDITOR>Meillat, Bernard</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2003</YEAR>
         <PERIODICAL_TITLE>Le Monde de la Musique: Radio Classique</PERIODICAL_TITLE>
@@ -3406,7 +4539,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>3116</REFNUM>
         <AUTHORS>
-            <EDITOR>Condy, Oliver</EDITOR>
+            <PERIODICAL_EDITOR>Condy, Oliver</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2006</YEAR>
         <PERIODICAL_TITLE>BBC Music Magazine</PERIODICAL_TITLE>
@@ -3427,7 +4560,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>3117</REFNUM>
         <AUTHORS>
-            <EDITOR>Graham, Steve</EDITOR>
+            <PERIODICAL_EDITOR>Graham, Steve</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2006</YEAR>
         <PERIODICAL_TITLE>Christian Science Sentinel</PERIODICAL_TITLE>
@@ -3447,7 +4580,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>3140</REFNUM>
         <AUTHORS>
-            <EDITOR>Speranskii, Sergei L.</EDITOR>
+            <PERIODICAL_EDITOR>Speranskii, Sergei L.</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2005</YEAR>
         <PERIODICAL_TITLE>Akkord: Zhurnal muzykal'noi kultury</PERIODICAL_TITLE>
@@ -3461,7 +4594,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>3165</REFNUM>
         <AUTHORS>
-            <EDITOR>Anon.</EDITOR>
+            <PERIODICAL_EDITOR>Anon.</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1960</YEAR>
         <PERIODICAL_TITLE>Bulletin d'information</PERIODICAL_TITLE>
@@ -3481,7 +4614,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>3171</REFNUM>
         <AUTHORS>
-            <EDITOR>Anon.</EDITOR>
+            <PERIODICAL_EDITOR>Anon.</PERIODICAL_EDITOR>
         </AUTHORS><YEAR>2005</YEAR>
         <PERIODICAL_TITLE>Il Saggiatore Musicale</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>Florence</PLACE_PUBLISHED>
@@ -3502,7 +4635,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>3195</REFNUM>
         <AUTHORS>
-            <EDITOR>Janssen, Paul</EDITOR>
+            <PERIODICAL_EDITOR>Janssen, Paul</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2006</YEAR>
         <PERIODICAL_TITLE>Mens en melodie: Tijdschrift voor Muziek</PERIODICAL_TITLE>
@@ -3523,7 +4656,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>3326</REFNUM>
         <AUTHORS>
-            <EDITOR>Janssen, Paul</EDITOR>
+            <PERIODICAL_EDITOR>Janssen, Paul</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2003</YEAR>
         <PERIODICAL_TITLE>The Pianola Journal</PERIODICAL_TITLE>
@@ -3540,7 +4673,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>3410</REFNUM>
         <AUTHORS>
-            <EDITOR>Condy, Oliver</EDITOR>
+            <PERIODICAL_EDITOR>Condy, Oliver</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2009</YEAR>
         <PERIODICAL_TITLE>BBC Music Magazine</PERIODICAL_TITLE>
@@ -3562,7 +4695,7 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>3534</REFNUM>
         <AUTHORS>
-            <EDITOR>Moron, Nicolas</EDITOR>
+            <PERIODICAL_EDITOR>Moron, Nicolas</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2010</YEAR>
         <PERIODICAL_TITLE>Musicorum</PERIODICAL_TITLE>
