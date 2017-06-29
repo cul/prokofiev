@@ -12574,7 +12574,6 @@ Novodevichy Cemetery in Moscow. -->
                </did>
             </c>
          </c>
-
          <c level="series">
             <!-- Series II -->
             <did>
@@ -24013,7 +24012,7 @@ Novodevichy Cemetery in Moscow. -->
       </did>
    </c>
          </c>
-<c level="series">
+         <c level="series">
    <!-- Series IV: Concert Programs -->
    <did>
       <unittitle>Series IV: Concert Programs<unitdate type="inclusive"/>1918-2013</unittitle>
@@ -37544,7 +37543,27 @@ Novodevichy Cemetery in Moscow. -->
 
    
 </c>
-         <c level="series">
+         <!--   <c level="series">
+            Series V: Research Collection 
+         <did>
+            <unittitle>Series IV: Concert Programs<unitdate type="inclusive"/>1918-2013</unittitle>
+         </did>
+         <scopecontent>
+            <p>607 programs for concerts, operas, ballets and other performances where Sergei Prokofiev's music was performed throughout the world</p>
+         </scopecontent>
+         <c level="subseries">
+            <did>
+               <unittitle>Sub-series V.1: Books<unitdate type="inclusive"
+               /></unittitle>
+            </did>
+            <c level="file">
+               <did>
+                  -->
+                  
+                  
+                  
+                  
+            <c level="series">
             <!-- Series X: Other Collections -->
             <did>
                <unittitle>Series X: Other Collections<unitdate type="inclusive"/></unittitle>
