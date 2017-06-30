@@ -8,7 +8,7 @@
             <PERIODICAL_EDITOR>Goddijn, Hans</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1992</YEAR>
-        <ARTICLE_TITLE>Sergei Prokofjev 1891-1953</ARTICLE_TITLE>
+        <ARTICLE_TITLE>Sergei Prokofjew 1891-1953</ARTICLE_TITLE>
         <SUBSIDIARY_ARTICLE_TITLE>Componist, Pianist, Dirigent, Maarschrijver Van
             Dagboeken En Korte Verhalen</SUBSIDIARY_ARTICLE_TITLE>
         <PERIODICAL_TITLE>Pianowereld</PERIODICAL_TITLE>
@@ -378,8 +378,8 @@
         <DATE>1998-05</DATE>
         <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
-        <ESSAY>1</ESSAY>
-        <OUT_OF_ESSAYS>5</OUT_OF_ESSAYS>
+        <ENTRY>1</ENTRY>
+        <OUT_OF_ENTRIES>5</OUT_OF_ENTRIES>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>29/11/2000 (revised 21/12/2005)</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
@@ -403,8 +403,8 @@
         <DATE>1998-05</DATE>
         <ARTICLE_TYPE_OF_WORK>Interview</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
-        <ESSAY>2</ESSAY>
-        <OUT_OF_ESSAYS>5</OUT_OF_ESSAYS>
+        <ENTRY>2</ENTRY>
+        <OUT_OF_ENTRIES>5</OUT_OF_ENTRIES>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>29/11/2000 (revised 21/12/2005)</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
@@ -428,8 +428,8 @@
         <DATE>1998-05</DATE>
         <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
-        <ESSAY>3</ESSAY>
-        <OUT_OF_ESSAYS>5</OUT_OF_ESSAYS>
+        <ENTRY>3</ENTRY>
+        <OUT_OF_ENTRIES>5</OUT_OF_ENTRIES>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>29/11/2000 (revised 21/12/2005)</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
@@ -453,8 +453,8 @@
         <DATE>1998-05</DATE>
         <ARTICLE_TYPE_OF_WORK>Interview</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
-        <ESSAY>4</ESSAY>
-        <OUT_OF_ESSAYS>5</OUT_OF_ESSAYS>
+        <ENTRY>4</ENTRY>
+        <OUT_OF_ENTRIES>5</OUT_OF_ENTRIES>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>29/11/2000 (revised 21/12/2005)</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
@@ -478,8 +478,8 @@
         <DATE>1998-05</DATE>
         <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
-        <ESSAY>5</ESSAY>
-        <OUT_OF_ESSAYS>5</OUT_OF_ESSAYS>
+        <ENTRY>5</ENTRY>
+        <OUT_OF_ENTRIES>5</OUT_OF_ENTRIES>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>29/11/2000 (revised 21/12/2005)</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
@@ -733,7 +733,7 @@
         <DATE>1986-04</DATE>
         <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Newsletter</PERIODICAL_TYPE_OF_WORK>
-        <ESSAY>1</ESSAY>
+        <ENTRY>1</ENTRY>
         <NUMBER_OF_ENTRIES>2</NUMBER_OF_ENTRIES>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>22/12/2005</CUSTOM5>
