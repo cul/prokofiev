@@ -191,6 +191,7 @@
          <CUSTOM6>Original</CUSTOM6>
          <CALL_NUMBER>[spa-tex-per-ORA001]</CALL_NUMBER>
       </RECORD>
+   
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>2432</REFNUM>
@@ -364,7 +365,7 @@
          <CUSTOM6>Original</CUSTOM6>
          <CALL_NUMBER>[spa-tex-per-ORA002]</CALL_NUMBER>
       </RECORD>
-   <RECORD>
+<RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>2444</REFNUM>
          <AUTHORS>

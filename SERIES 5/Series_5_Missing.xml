@@ -2,6 +2,47 @@
 <outputxml>
 <RECORD>
         <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2361</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Luce, Henry R</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1945</YEAR>
+        <ARTICLE_TITLE>Composer, Soviet-Style</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Time</PERIODICAL_TITLE>
+        <VOLUME>XLVI</VOLUME>
+        <NUMBER>21</NUMBER>
+        <PAGES>57-62</PAGES>
+        <DATE>1945-11-19</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>11/01/2006</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <NOTES>Issue with portrait of Prokofiev on front cover</NOTES>
+        <CALL_NUMBER>spa-tex-per-0077</CALL_NUMBER>
+    </RECORD> 
+    <RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>3492</REFNUM>
+        <AUTHORS>
+            <PERIODICAL_EDITOR>Jade, Ely</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1925</YEAR>
+        <PERIODICAL_TITLE>Pro-Musica Quarterly</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
+        <PUBLISHER></PUBLISHER>
+        <DATE>October 1925</DATE>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>22/09/2010</CUSTOM5>
+        <ACCESSION_NUMBER>(342a)</ACCESSION_NUMBER>
+        <NOTES>Fragile.&#xD;Contains updates on "Activities of some of the members of the
+            Honorary Board", including Prokofiev.</NOTES>
+        <CALL_NUMBER>spa-tex-per-0202</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
         <REFNUM>3179</REFNUM>
         <AUTHOR>Bogdanov-Berezovsky, Valerian Mikhailovich</AUTHOR>
         <ARTICLE_TITLE>"Voina i mir" Prokof'eva</ARTICLE_TITLE>

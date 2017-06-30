@@ -2145,30 +2145,6 @@
         <NOTES>From the cover: Russia's Sergei Prokofiev: He keeps time with teh Marxian meronome</NOTES>
         <CALL_NUMBER>spa-tex-per-0076</CALL_NUMBER>
     </RECORD>
-
-<!-- <RECORD>
-        <REFERENCE_TYPE>1</REFERENCE_TYPE>
-        <REFNUM>2361</REFNUM>
-        <AUTHORS>
-            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
-            <PERIODICAL_EDITOR>Luce, Henry R</PERIODICAL_EDITOR>
-        </AUTHORS>
-        <YEAR>1945</YEAR>
-        <ARTICLE_TITLE>Composer, Soviet-Style</ARTICLE_TITLE>
-        <PERIODICAL_TITLE>Time</PERIODICAL_TITLE>
-        <VOLUME>XLVI</VOLUME>
-        <NUMBER>21</NUMBER>
-        <PAGES>57-62</PAGES>
-        <DATE>1945-11-19</DATE>
-        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
-        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
-        <CUSTOM1>English</CUSTOM1>
-        <CUSTOM5>11/01/2006</CUSTOM5>
-        <CUSTOM6>Original</CUSTOM6>
-        <NOTES>Issue with portrait of Prokofiev on front cover</NOTES>
-        <CALL_NUMBER>spa-tex-per-0077</CALL_NUMBER>
-    </RECORD>  --> MISSING (RL)
-    
 <RECORD>
         <REFERENCE_TYPE>1</REFERENCE_TYPE>
         <REFNUM>2362</REFNUM>
@@ -3774,7 +3750,7 @@
         <CUSTOM2>Print</CUSTOM2>
         <CUSTOM5>10/05/2005</CUSTOM5>
         <NOTES>per-109 and per-110 are 2 volumes of the same issue. No article specific to Prokofiev.</NOTES>
-        <CALL_NUMBER>spa-tex-per-0110</CALL_NUMBER>
+        <CALL_NUMBER>spa-tex-per-1</CALL_NUMBER>
     </RECORD> 
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
@@ -4224,20 +4200,22 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2051</REFNUM>
         <AUTHORS>
+            <ARTICLE_AUTHOR>Morozov, D</ARTICLE_AUTHOR>
             <PERIODICAL_EDITOR>Popov, I. E.</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1985</YEAR>
+        <ARTICLE_TITLE>Partitura moguchei sily</ARTICLE_TITLE>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
         <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
         <NUMBER>24 (674)</NUMBER>
         <DATE>1985-12</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>Print</CUSTOM2>
         <CUSTOM5>11/05/2005</CUSTOM5>
-        <NOTES>No article specific to Prokofiev</NOTES>
         <CALL_NUMBER>spa-tex-per-0116</CALL_NUMBER>
     </RECORD>
 <RECORD>
@@ -4731,20 +4709,23 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2076</REFNUM>
         <AUTHORS>
+            <ARTICLE_AUTHOR>Prokofiev, Serge</ARTICLE_AUTHOR>
             <PERIODICAL_EDITOR>Platek, Ia M</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2000</YEAR>
+        <ARTICLE_TITLE>Marsh iz opery "Lubov' k trem apel'sinam"</ARTICLE_TITLE>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>3 (940)</NUMBER>
         <DATE>2000-03</DATE>
+        <PAGES>23</PAGES>
+        <ARTICLE_TYPE_OF_WORK>Score</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
         <CUSTOM5>11/05/2005</CUSTOM5>
-        <NOTES>No article specific to Prokofiev</NOTES>
         <CALL_NUMBER>spa-tex-per-0141</CALL_NUMBER>
     </RECORD>
 <RECORD>
@@ -4771,20 +4752,23 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2078</REFNUM>
         <AUTHORS>
+            <ARTICLE_AUTHOR>Prokofiev, Serge</ARTICLE_AUTHOR>
             <PERIODICAL_EDITOR>Platek, Ia M</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2001</YEAR>
+        <ARTICLE_TITLE>Gavot (Iz Klassicheskoi simfonii)</ARTICLE_TITLE>
         <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
         <PUBLISHER>Kompozitor</PUBLISHER>
         <NUMBER>6 (955)</NUMBER>
         <DATE>2001-06</DATE>
+        <PAGES>23-26</PAGES>
+        <ARTICLE_TYPE_OF_WORK>Score</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
         <CUSTOM5>11/05/2005</CUSTOM5>
-        <NOTES>No article specific to Prokofiev</NOTES>
         <CALL_NUMBER>spa-tex-per-0143</CALL_NUMBER>
     </RECORD>
 <RECORD>
@@ -5074,11 +5058,11 @@
         </AUTHORS>
         <YEAR>1990</YEAR>
         <PERIODICAL_TITLE>The Pianola Journal</PERIODICAL_TITLE>
-        <PLACE_PUBLISHED>
+        <PLACE_PUBLISHED></PLACE_PUBLISHED>
         <PUBLISHER>The Pianola Institute</PUBLISHER>
         <NUMBER>3</NUMBER>
         <DATE>1990</DATE>
-        <PERIODICAL_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
         <CUSTOM5>28/10/2002</CUSTOM5>
@@ -5097,7 +5081,7 @@
         <PUBLISHER>The Pianola Institute</PUBLISHER>
         <NUMBER>5</NUMBER>
         <DATE>1993</DATE>
-        <PERIODICAL_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
         <CUSTOM5>28/10/2002</CUSTOM5>
@@ -5116,7 +5100,7 @@
         <PUBLISHER>The Pianola Institute</PUBLISHER>
         <NUMBER>10</NUMBER>
         <DATE>1998</DATE>
-        <PERIODICAL_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
         <CUSTOM5>28/10/2002</CUSTOM5>
@@ -5128,7 +5112,7 @@
         <REFNUM>903</REFNUM>
         <YEAR>1998</YEAR>
         <AUTHORS>
-            <ARTICLE_AUTHOR>Lawson, Rex</<ARTICLE_AUTHOR>
+            <ARTICLE_AUTHOR>Lawson, Rex</ARTICLE_AUTHOR>
             <PERIODICAL_EDITOR>Anon.</PERIODICAL_EDITOR>
         </AUTHORS>
         <ARTICLE_TITLE>Towards a History of the Aeolian Company</ARTICLE_TITLE>
@@ -5139,7 +5123,7 @@
         <DATE>1998</DATE>
         <PAGES>4-72</PAGES>
         <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
-        <PERIODICAL_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
         <CUSTOM5>28/10/2002</CUSTOM5>
@@ -5157,7 +5141,7 @@
         <PUBLISHER>The Pianola Institute</PUBLISHER>
         <NUMBER>12</NUMBER>
         <DATE>1999</DATE>
-        <PERIODICAL_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM2>PRINT</CUSTOM2>
         <CUSTOM5>28/10/2002</CUSTOM5>
@@ -5818,7 +5802,7 @@
         </AUTHORS>
         <YEAR>2006</YEAR>
         <ARTICLE_TITLE>Soviet Champagne</ARTICLE_TITLE>
-        <PERIODICAL_TITLE>Opera</SECONDARY_TITLE>
+        <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
         <PUBLISHER>Opera</PUBLISHER>
         <VOLUME>57</VOLUME>
@@ -5826,7 +5810,7 @@
         <PAGES>772-780</PAGES>
         <DATE>2006-07</DATE>
         <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
-        <PERIODICAL_TYPE_OF_WORK>Journal</ALTERNATE_TITLE>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>20/07/2006</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
@@ -6543,51 +6527,56 @@
             celebrations</NOTES>
         <CALL_NUMBER>spa-tex-per-0193</CALL_NUMBER>
     </RECORD>
-
-<!-- <RECORD>
+<RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>3116</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Jaffe, Daniel</ARTICLE_AUTHOR>
             <PERIODICAL_EDITOR>Condy, Oliver</PERIODICAL_EDITOR>
+            <TRANSLATOR>Phillips, Anthony</TRANSLATOR>
         </AUTHORS>
         <YEAR>2006</YEAR>
-        <ARTICLE_TITLE></ARTICLE_TITLE>
+        <ARTICLE_TITLE>Prokofiev Diaries</ARTICLE_TITLE>
+        <SUBSIDIARY_ARTICLE_TITLE>Diary of a Russian Wunderkind</SUBSIDIARY_ARTICLE_TITLE>
         <PERIODICAL_TITLE>BBC Music Magazine</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
         <PUBLISHER>BBC</PUBLISHER>
         <VOLUME>15</VOLUME>
         <NUMBER>3</NUMBER>
+        <PAGES>44-48</PAGES>
         <DATE>November 2006</DATE>
         <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>17/11/2006</CUSTOM5>
         <ACCESSION_NUMBER>371</ACCESSION_NUMBER>
-        <NOTES>Extracts from Sergey Prokofiev Diaries 1907-1914: Prodigious Youth</NOTES>
+        <NOTES>Extracts from "Prokofiev Diaries Volume 1 (1907-1914)", translated by
+            Anthony Phillips.</NOTES>
         <CALL_NUMBER>spa-tex-per-0194</CALL_NUMBER>
     </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>3117</REFNUM>
         <AUTHORS>
+            <ARTICLE_AUTHOR>Hodgson, Peter</ARTICLE_AUTHOR>
             <PERIODICAL_EDITOR>Graham, Steve</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2006</YEAR>
+        <ARTICLE_TITLE>For the Glory of God</ARTICLE_TITLE>
         <PERIODICAL_TITLE>Christian Science Sentinel</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>Boston</PLACE_PUBLISHED>
         <PUBLISHER>The Christian Science Publishing Society</PUBLISHER>
         <VOLUME>108</VOLUME>
         <NUMBER>41</NUMBER>
+        <PAGES>14-17</PAGES>
         <DATE>2006-10-09</DATE>
-        <PERIODICAL_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>17/11/2006</CUSTOM5>
         <ACCESSION_NUMBER>372</ACCESSION_NUMBER>
-        <NOTES>Contains article on Prokofiev by Peter Hodgson</NOTES>
+        <NOTES>(Abstract)How Christian Science touched the life of Russian composer Serge Prokofiev.</NOTES>
         <CALL_NUMBER>spa-tex-per-0195</CALL_NUMBER>
-    </RECORD>  -->
-    
+    </RECORD>  
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>3140</REFNUM>
@@ -6597,13 +6586,14 @@
         <YEAR>2005</YEAR>
         <PERIODICAL_TITLE>Akkord: Zhurnal muzykal'noi kultury</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
-        <PERIODICAL_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
+        <PUBLISHER>Akkord</PUBLISHER>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM5>23/11/2006</CUSTOM5>
+        <NOTES>No article specific to Prokofiev.</NOTES>
         <CALL_NUMBER>spa-tex-per-0196</CALL_NUMBER>
     </RECORD>
-    
-<!-- <RECORD>
+<!--  <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>3165</REFNUM>
         <AUTHORS>
@@ -6622,7 +6612,7 @@
         <ACCESSION_NUMBER>19</ACCESSION_NUMBER>
         <NOTES>Prokofieff Issue</NOTES>
         <CALL_NUMBER>spa-tex-per-0197</CALL_NUMBER>
-    </RECORD>  
+    </RECORD>  -->
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>3171</REFNUM>
@@ -6637,7 +6627,7 @@
         <PUBLISHER>Leo S. Olschki</PUBLISHER>
         <VOLUME>XII</VOLUME>
         <NUMBER>2</NUMBER>
-        <PAGES></PAGES>
+        <PAGES>389-433</PAGES>
         <DATE>2005</DATE>
         <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
@@ -6656,7 +6646,7 @@
             <PERIODICAL_EDITOR>Janssen, Paul</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2006</YEAR>
-        <ARTICLE_TITLE></ARTICLE_TITLE>
+        <ARTICLE_TITLE>Three oranges journal</ARTICLE_TITLE>
         <PERIODICAL_TITLE>Mens en melodie</PERIODICAL_TITLE>
         <SUBSIDIARY_PERIODICAL_TITLE> Tijdschrift voor Muziek</SUBSIDIARY_PERIODICAL_TITLE>
         <PLACE_PUBLISHED>Beek-Ubbergen</PLACE_PUBLISHED>
@@ -6671,7 +6661,7 @@
         <CUSTOM1>Dutch</CUSTOM1>
         <CUSTOM5>02/02/2007</CUSTOM5>
         <ACCESSION_NUMBER>384</ACCESSION_NUMBER>
-        <NOTES>Includes review of Three Oranges by Els van Swol (p34)</NOTES>
+        <NOTES></NOTES>
         <CALL_NUMBER>spa-tex-per-0199</CALL_NUMBER>
     </RECORD> 
 <RECORD>
@@ -6686,8 +6676,34 @@
         <PERIODICAL_TITLE>The Pianola Journal</PERIODICAL_TITLE>
         <PUBLISHER>The Pianola Institute</PUBLISHER>
         <NUMBER>15</NUMBER>
+        <PAGES>3-16</PAGES>
         <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>1</ENTRY>
+        <NUMBER_OF_ENTRIES>2</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>30/05/2008</CUSTOM5>
+        <ACCESSION_NUMBER>419</ACCESSION_NUMBER>
+        <NOTES></NOTES>
+        <CALL_NUMBER>spa-tex-per-0200</CALL_NUMBER>
+    </RECORD> 
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>3326</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Wolf, Benjamin</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Janssen, Paul</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2003</YEAR>
+        <ARTICLE_TITLE>Prokofiev and Sravinsky at the Purcell Room, 12 March 2003</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>The Pianola Journal</PERIODICAL_TITLE>
+        <PUBLISHER>The Pianola Institute</PUBLISHER>
+        <NUMBER>15</NUMBER>
+        <PAGES>50-51</PAGES>
+        <ARTICLE_TYPE_OF_WORK>Concert Review</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>2</ENTRY>
+        <NUMBER_OF_ENTRIES>2</NUMBER_OF_ENTRIES>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>30/05/2008</CUSTOM5>
         <ACCESSION_NUMBER>419</ACCESSION_NUMBER>
@@ -6698,87 +6714,188 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>3410</REFNUM>
         <AUTHORS>
+             <ARTICLE_AUTHOR>Jaffe, Daniel</ARTICLE_AUTHOR>
             <PERIODICAL_EDITOR>Condy, Oliver</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2009</YEAR>
+        <ARTICLE_TITLE>Inspiring Friendships</ARTICLE_TITLE>
         <PERIODICAL_TITLE>BBC Music Magazine</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>Bristol</PLACE_PUBLISHED>
         <PUBLISHER>BBC</PUBLISHER>
         <VOLUME>18</VOLUME>
         <NUMBER>3</NUMBER>
+        <PAGES>44-46</PAGES>
         <DATE>December 2009</DATE>
-        <ARTICLE_TYPE_OF_WORK>Magazine</ARTICLE_TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <Entry>1</Entry>
+        <Number_Of_Entries>2</Number_Of_Entries>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>11/11/2009</CUSTOM5>
         <ACCESSION_NUMBER>435</ACCESSION_NUMBER>
-        <NOTES>Contains article by Daniel Jaffé "Inspiring friendships" on
-            collaborators including Piatigorsky, Rostropovich, Oistrakh, Soëtens.&#xD;Cover CD
-            - see CD 374</NOTES>
+        <NOTES>For cover CD see CD 374 ; (Blurb) Prokofiev himself was a 
+            talented composer-pianist, yet some of his greatest works were 
+            written for other musicians whose playing he admired.</NOTES>
+        <CALL_NUMBER>spa-tex-per-0201</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>3410</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Condy, Oliver</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2009</YEAR>
+        <ARTICLE_TITLE>This Month's Cover CD</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>BBC Music Magazine</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Bristol</PLACE_PUBLISHED>
+        <PUBLISHER>BBC</PUBLISHER>
+        <VOLUME>18</VOLUME>
+        <NUMBER>3</NUMBER>
+        <PAGES>44</PAGES>
+        <DATE>December 2009</DATE>
+        <ARTICLE_TYPE_OF_WORK>Blurb</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <Entry>2</Entry>
+        <Number_Of_Entries>2</Number_Of_Entries>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>11/11/2009</CUSTOM5>
+        <ACCESSION_NUMBER>435</ACCESSION_NUMBER>
+        <NOTES>For cover CD see CD 374 ; Explanation of cover CD.</NOTES>
         <CALL_NUMBER>spa-tex-per-0201</CALL_NUMBER>
     </RECORD>
 <RECORD>
          <REFERENCE_TYPE>4</REFERENCE_TYPE>
-         <REFNUM>3492</REFNUM>
-         <AUTHORS>
-            <PERIODICAL_EDITOR>Jade, Ely</PERIODICAL_EDITOR>
-         </AUTHORS>
-         <YEAR>1925</YEAR>
-         <PERIODICAL_TITLE>Pro-Musica Quarterly</PERIODICAL_TITLE>
-         <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
-         <PUBLISHER></PUBLISHER>
-         <DATE>October 1925</DATE>
-         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
-         <CUSTOM1>English</CUSTOM1>
-         <CUSTOM5>22/09/2010</CUSTOM5>
-         <ACCESSION_NUMBER>(342a)</ACCESSION_NUMBER>
-         <NOTES>Fragile.&#xD;Contains updates on "Activities of some of the members of the
-            Honorary Board", including Prokofiev.</NOTES>
-         <CALL_NUMBER>spa-tex-per-0202</CALL_NUMBER>
-      </RECORD>
-<RECORD>
-         <REFERENCE_TYPE>4</REFERENCE_TYPE>
          <REFNUM>3493</REFNUM>
          <AUTHORS>
+            <ARTICLE_AUTHOR>Jade, Ely</ARTICLE_AUTHOR>
             <PERIODICAL_EDITOR>Jade, Ely</PERIODICAL_EDITOR>
          </AUTHORS>
          <YEAR>1925</YEAR>
+         <ARTICLE_TITLE>Sergei Prokofieff: A Biographical Sketch</ARTICLE_TITLE>
          <PERIODICAL_TITLE>Pro-Musica Quarterly</PERIODICAL_TITLE>
          <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
-         <PUBLISHER></PUBLISHER>
+        <PUBLISHER>Pro-Musica</PUBLISHER>
          <DATE>December 1925</DATE>
+        <PAGES>14-17</PAGES>
+         <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
          <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>22/09/2010</CUSTOM5>
          <ACCESSION_NUMBER>(342a)</ACCESSION_NUMBER>
          <NOTES>Kept in FRAGILE PUBLICATIONS box 3.&#xD;Extremely fragile - outer cover brittle and
-            badly damaged. &#xD;Includes article "Sergei Prokofieff: a biographical
-            sketch"</NOTES>
+            badly damaged.</NOTES>
          <CALL_NUMBER>spa-tex-per-0203</CALL_NUMBER>
-      </RECORD>
+      </RECORD>   
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>3534</REFNUM>
         <AUTHORS>
+            <ARTICLE_AUTHOR>Bianchi, Carlo</ARTICLE_AUTHOR>
             <PERIODICAL_EDITOR>Moron, Nicolas</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2010</YEAR>
+        <ARTICLE_TITLE>Sizing up Prokofiev's music</ARTICLE_TITLE>
+        <SUBSIDIARY_ARTICLE_TITLE>Some remarks on a neo-tonal language</SUBSIDIARY_ARTICLE_TITLE>
         <PERIODICAL_TITLE>Musicorum</PERIODICAL_TITLE>
-        <SUBSIDIARY_PERIODICAL_TITLE>A la recherche d'un texte: Prokofiev et la litterature</SUBSIDIARY_PERIODICAL_TITLE>
+        <SUBSIDIARY_PERIODICAL_TITLE>Prokofiev et la litterature</SUBSIDIARY_PERIODICAL_TITLE>
         <PLACE_PUBLISHED>Tours</PLACE_PUBLISHED>
         <PUBLISHER>Université François Rabelais</PUBLISHER>
         <DATE>2010</DATE>
+        <PAGES>103-</PAGES>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
+        <ENTRY>1</ENTRY>
+        <NUMBER_OF_ENTRIES>4</NUMBER_OF_ENTRIES>
         <ISBN>1763-508x (ISBN: 9782953182194)</ISBN>
-        <CUSTOM1>French, English</CUSTOM1>
+        <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>18/04/2011</CUSTOM5>
         <ACCESSION_NUMBER>492</ACCESSION_NUMBER>
-        <KEYWORDS>
-            <KEYWORD>Seven, then are Seven (Op. 30)</KEYWORD>
-            <KEYWORD>The Gambler (Op. 24)</KEYWORD>
-        </KEYWORDS>
         <NOTES>Edition title: À la recherche d'un texte: Prokofiev et la
             littérature</NOTES>
         <CALL_NUMBER>spa-tex-per-0204</CALL_NUMBER>
-    </RECORD> -->
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>3534</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Brancovan, Laetitia Le Guay</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Moron, Nicolas</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2010</YEAR>
+        <ARTICLE_TITLE>Le Journal 1907-1933 de Serge Prokofiev, le roman d'une vie musicale</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Musicorum</PERIODICAL_TITLE>
+        <SUBSIDIARY_PERIODICAL_TITLE>Prokofiev et la litterature</SUBSIDIARY_PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Tours</PLACE_PUBLISHED>
+        <PUBLISHER>Université François Rabelais</PUBLISHER>
+        <DATE>2010</DATE>
+        <PAGES>9-38</PAGES>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
+        <ENTRY>2</ENTRY>
+        <NUMBER_OF_ENTRIES>4</NUMBER_OF_ENTRIES>
+        <ISBN>1763-508x (ISBN: 9782953182194)</ISBN>
+        <CUSTOM1>French</CUSTOM1>
+        <CUSTOM5>18/04/2011</CUSTOM5>
+        <ACCESSION_NUMBER>492</ACCESSION_NUMBER>
+        <NOTES>Edition title: À la recherche d'un texte: Prokofiev et la
+            littérature</NOTES>
+        <CALL_NUMBER>spa-tex-per-0204</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>3534</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Guillaumier, Christina K</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Moron, Nicolas</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2010</YEAR>
+        <ARTICLE_TITLE>Prokofiev, opera and theatre: a case study of "The Gambler"</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Musicorum</PERIODICAL_TITLE>
+        <SUBSIDIARY_PERIODICAL_TITLE>Prokofiev et la litterature</SUBSIDIARY_PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Tours</PLACE_PUBLISHED>
+        <PUBLISHER>Université François Rabelais</PUBLISHER>
+        <DATE>2010</DATE>
+        <PAGES>67-102</PAGES>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
+        <ENTRY>3</ENTRY>
+        <NUMBER_OF_ENTRIES>4</NUMBER_OF_ENTRIES>
+        <ISBN>1763-508x (ISBN: 9782953182194)</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>18/04/2011</CUSTOM5>
+        <ACCESSION_NUMBER>492</ACCESSION_NUMBER>
+        <NOTES>Edition title: À la recherche d'un texte: Prokofiev et la
+            littérature</NOTES>
+        <CALL_NUMBER>spa-tex-per-0204</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>3534</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Moron, Nicolas</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Moron, Nicolas</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2010</YEAR>
+        <ARTICLE_TITLE>Genese et publications de l'incantation "Sept, ils son sept" 
+            de Konstantin Balmont</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Musicorum</PERIODICAL_TITLE>
+        <SUBSIDIARY_PERIODICAL_TITLE>Prokofiev et la litterature</SUBSIDIARY_PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Tours</PLACE_PUBLISHED>
+        <PUBLISHER>Université François Rabelais</PUBLISHER>
+        <DATE>2010</DATE>
+        <PAGES>39-66</PAGES>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Journal</ARTICLE_TYPE_OF_WORK>
+        <ENTRY>4</ENTRY>
+        <NUMBER_OF_ENTRIES>4</NUMBER_OF_ENTRIES>
+        <ISBN>1763-508x (ISBN: 9782953182194)</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>18/04/2011</CUSTOM5>
+        <ACCESSION_NUMBER>492</ACCESSION_NUMBER>
+        <NOTES>Edition title: À la recherche d'un texte: Prokofiev et la
+            littérature</NOTES>
+        <CALL_NUMBER>spa-tex-per-0204</CALL_NUMBER>
+    </RECORD>
     
 </outputxml>
