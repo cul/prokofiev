@@ -4210,8 +4210,36 @@
         <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
         <NUMBER>24 (674)</NUMBER>
         <DATE>1985-12</DATE>
+        <PAGES>5-6</PAGES>
         <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>1</ENTRY>
+        <NUMBER_OF_ENTRIES>2</NUMBER_OF_ENTRIES>
+        <ISBN>01312383</ISBN>
+        <CUSTOM1>Russian</CUSTOM1>
+        <CUSTOM2>Print</CUSTOM2>
+        <CUSTOM5>11/05/2005</CUSTOM5>
+        <CALL_NUMBER>spa-tex-per-0116</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>2051</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Popov, In</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Popov, I. E.</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1985</YEAR>
+        <ARTICLE_TITLE>Tvorcheskii podvig</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Muzykal'naia Zhizn'</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
+        <PUBLISHER>Sovetskii Kompozitor</PUBLISHER>
+        <NUMBER>24 (674)</NUMBER>
+        <DATE>1985-12</DATE>
+        <PAGES>7</PAGES>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>2</ENTRY>
+        <NUMBER_OF_ENTRIES>2</NUMBER_OF_ENTRIES>
         <ISBN>01312383</ISBN>
         <CUSTOM1>Russian</CUSTOM1>
         <CUSTOM2>Print</CUSTOM2>
@@ -6593,26 +6621,269 @@
         <NOTES>No article specific to Prokofiev.</NOTES>
         <CALL_NUMBER>spa-tex-per-0196</CALL_NUMBER>
     </RECORD>
-<!--  <RECORD>
+<RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>3165</REFNUM>
         <AUTHORS>
-            <PERIODICAL_EDITOR>Anon.</PERIODICAL_EDITOR>
+            <ARTICLE_AUTHOR>Bois, M</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Bois, M</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1960</YEAR>
+        <ARTICLE_TITLE>Serge Prokofieff</ARTICLE_TITLE>
         <PERIODICAL_TITLE>Bulletin d'information</PERIODICAL_TITLE>
+        <SUBSIDIARY_PERIODICAL_TITLE>Serge Prokofieff</SUBSIDIARY_PERIODICAL_TITLE>
         <PLACE_PUBLISHED>Paris</PLACE_PUBLISHED>
         <PUBLISHER>Boosey &amp; Hawkes: Société des grandes éditions
             musicales</PUBLISHER>
         <NUMBER>9</NUMBER>
         <DATE>May 1960</DATE>
+        <PAGES>2-3</PAGES>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Bulletin</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>1</ENTRY>
+        <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
         <CUSTOM1>French</CUSTOM1>
         <CUSTOM5>30/11/2006</CUSTOM5>
         <ACCESSION_NUMBER>19</ACCESSION_NUMBER>
         <NOTES>Prokofieff Issue</NOTES>
         <CALL_NUMBER>spa-tex-per-0197</CALL_NUMBER>
-    </RECORD>  -->
+    </RECORD> 
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>3165</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Bois, M</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1960</YEAR>
+        <ARTICLE_TITLE>Symfonie</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Bulletin d'information</PERIODICAL_TITLE>
+        <SUBSIDIARY_PERIODICAL_TITLE>Serge Prokofieff</SUBSIDIARY_PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Paris</PLACE_PUBLISHED>
+        <PUBLISHER>Boosey &amp; Hawkes: Société des grandes éditions
+            musicales</PUBLISHER>
+        <NUMBER>9</NUMBER>
+        <DATE>May 1960</DATE>
+        <ARTICLE_TYPE_OF_WORK>List</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Bulletin</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>2</ENTRY>
+        <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
+        <CUSTOM1>French</CUSTOM1>
+        <CUSTOM5>30/11/2006</CUSTOM5>
+        <ACCESSION_NUMBER>19</ACCESSION_NUMBER>
+        <NOTES>List of all symphony works. Prokofieff Issue</NOTES>
+        <CALL_NUMBER>spa-tex-per-0197</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>3165</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Bois, M</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1960</YEAR>
+        <ARTICLE_TITLE>Choeur et Orchestre</ARTICLE_TITLE>
+        <SUBSIDIARY_ARTICLE_TITLE>En location</SUBSIDIARY_ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Bulletin d'information</PERIODICAL_TITLE>
+        <SUBSIDIARY_PERIODICAL_TITLE>Serge Prokofieff</SUBSIDIARY_PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Paris</PLACE_PUBLISHED>
+        <PUBLISHER>Boosey &amp; Hawkes: Société des grandes éditions
+            musicales</PUBLISHER>
+        <NUMBER>9</NUMBER>
+        <DATE>May 1960</DATE>
+        <ARTICLE_TYPE_OF_WORK>List</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Bulletin</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>3</ENTRY>
+        <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
+        <CUSTOM1>French</CUSTOM1>
+        <CUSTOM5>30/11/2006</CUSTOM5>
+        <ACCESSION_NUMBER>19</ACCESSION_NUMBER>
+        <NOTES>List of all orchestral works. Prokofieff Issue</NOTES>
+        <CALL_NUMBER>spa-tex-per-0197</CALL_NUMBER>
+    </RECORD> 
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>3165</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Bois, M</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1960</YEAR>
+        <ARTICLE_TITLE>Operas</ARTICLE_TITLE>
+        <SUBSIDIARY_ARTICLE_TITLE>Materiels en location</SUBSIDIARY_ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Bulletin d'information</PERIODICAL_TITLE>
+        <SUBSIDIARY_PERIODICAL_TITLE>Serge Prokofieff</SUBSIDIARY_PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Paris</PLACE_PUBLISHED>
+        <PUBLISHER>Boosey &amp; Hawkes: Société des grandes éditions
+            musicales</PUBLISHER>
+        <NUMBER>9</NUMBER>
+        <DATE>May 1960</DATE>
+        <ARTICLE_TYPE_OF_WORK>List</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Bulletin</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>4</ENTRY>
+        <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
+        <CUSTOM1>French</CUSTOM1>
+        <CUSTOM5>30/11/2006</CUSTOM5>
+        <ACCESSION_NUMBER>19</ACCESSION_NUMBER>
+        <NOTES>List of all opera works and locations. Prokofieff Issue</NOTES>
+        <CALL_NUMBER>spa-tex-per-0197</CALL_NUMBER>
+    </RECORD> 
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>3165</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Bois, M</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1960</YEAR>
+        <ARTICLE_TITLE>Ballets</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Bulletin d'information</PERIODICAL_TITLE>
+        <SUBSIDIARY_PERIODICAL_TITLE>Serge Prokofieff</SUBSIDIARY_PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Paris</PLACE_PUBLISHED>
+        <PUBLISHER>Boosey &amp; Hawkes: Société des grandes éditions
+            musicales</PUBLISHER>
+        <NUMBER>9</NUMBER>
+        <DATE>May 1960</DATE>
+        <ARTICLE_TYPE_OF_WORK>List</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Bulletin</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>5</ENTRY>
+        <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
+        <CUSTOM1>French</CUSTOM1>
+        <CUSTOM5>30/11/2006</CUSTOM5>
+        <ACCESSION_NUMBER>19</ACCESSION_NUMBER>
+        <NOTES>List of all ballet works. Prokofieff Issue</NOTES>
+        <CALL_NUMBER>spa-tex-per-0197</CALL_NUMBER>
+    </RECORD> 
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>3165</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Bois, M</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1960</YEAR>
+        <ARTICLE_TITLE>Musique en Vente</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Bulletin d'information</PERIODICAL_TITLE>
+        <SUBSIDIARY_PERIODICAL_TITLE>Serge Prokofieff</SUBSIDIARY_PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Paris</PLACE_PUBLISHED>
+        <PUBLISHER>Boosey &amp; Hawkes: Société des grandes éditions
+            musicales</PUBLISHER>
+        <NUMBER>9</NUMBER>
+        <DATE>May 1960</DATE>
+        <ARTICLE_TYPE_OF_WORK>List</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Bulletin</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>5</ENTRY>
+        <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
+        <CUSTOM1>French</CUSTOM1>
+        <CUSTOM5>30/11/2006</CUSTOM5>
+        <ACCESSION_NUMBER>19</ACCESSION_NUMBER>
+        <NOTES>Prokofieff Issue</NOTES>
+        <CALL_NUMBER>spa-tex-per-0197</CALL_NUMBER>
+    </RECORD> 
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>3165</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Bois, M</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1960</YEAR>
+        <ARTICLE_TITLE>Discographie Prokofieff</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Bulletin d'information</PERIODICAL_TITLE>
+        <SUBSIDIARY_PERIODICAL_TITLE>Serge Prokofieff</SUBSIDIARY_PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Paris</PLACE_PUBLISHED>
+        <PUBLISHER>Boosey &amp; Hawkes: Société des grandes éditions
+            musicales</PUBLISHER>
+        <NUMBER>9</NUMBER>
+        <DATE>May 1960</DATE>
+        <ARTICLE_TYPE_OF_WORK>List</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Bulletin</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>6</ENTRY>
+        <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
+        <CUSTOM1>French</CUSTOM1>
+        <CUSTOM5>30/11/2006</CUSTOM5>
+        <ACCESSION_NUMBER>19</ACCESSION_NUMBER>
+        <NOTES>List of all discography by Prokofiev. Prokofieff Issue</NOTES>
+        <CALL_NUMBER>spa-tex-per-0197</CALL_NUMBER>
+    </RECORD> 
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>3165</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Bois, M</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1960</YEAR>
+        <ARTICLE_TITLE>Actualite Musicale</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Bulletin d'information</PERIODICAL_TITLE>
+        <SUBSIDIARY_PERIODICAL_TITLE>Serge Prokofieff</SUBSIDIARY_PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Paris</PLACE_PUBLISHED>
+        <PUBLISHER>Boosey &amp; Hawkes: Société des grandes éditions
+            musicales</PUBLISHER>
+        <NUMBER>9</NUMBER>
+        <DATE>May 1960</DATE>
+        <ARTICLE_TYPE_OF_WORK>List</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Bulletin</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>7</ENTRY>
+        <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
+        <CUSTOM1>French</CUSTOM1>
+        <CUSTOM5>30/11/2006</CUSTOM5>
+        <ACCESSION_NUMBER>19</ACCESSION_NUMBER>
+        <NOTES>Prokofieff Issue</NOTES>
+        <CALL_NUMBER>spa-tex-per-0197</CALL_NUMBER>
+    </RECORD> 
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>3165</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Bois, M</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1960</YEAR>
+        <ARTICLE_TITLE>Le Discotheque de France</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Bulletin d'information</PERIODICAL_TITLE>
+        <SUBSIDIARY_PERIODICAL_TITLE>Serge Prokofieff</SUBSIDIARY_PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Paris</PLACE_PUBLISHED>
+        <PUBLISHER>Boosey &amp; Hawkes: Société des grandes éditions
+            musicales</PUBLISHER>
+        <NUMBER>9</NUMBER>
+        <DATE>May 1960</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Bulletin</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>8</ENTRY>
+        <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
+        <CUSTOM1>French</CUSTOM1>
+        <CUSTOM5>30/11/2006</CUSTOM5>
+        <ACCESSION_NUMBER>19</ACCESSION_NUMBER>
+        <NOTES>Prokofieff Issue</NOTES>
+        <CALL_NUMBER>spa-tex-per-0197</CALL_NUMBER>
+    </RECORD> 
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>3165</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Bois, M</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1960</YEAR>
+        <ARTICLE_TITLE>Concert "Boosey &amp; Hawkes" au Theatre des Champs Elysees</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Bulletin d'information</PERIODICAL_TITLE>
+        <SUBSIDIARY_PERIODICAL_TITLE>Serge Prokofieff</SUBSIDIARY_PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>Paris</PLACE_PUBLISHED>
+        <PUBLISHER>Boosey &amp; Hawkes: Société des grandes éditions
+            musicales</PUBLISHER>
+        <NUMBER>9</NUMBER>
+        <DATE>May 1960</DATE>
+        <ARTICLE_TYPE_OF_WORK>Review</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Bulletin</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>9</ENTRY>
+        <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
+        <CUSTOM1>French</CUSTOM1>
+        <CUSTOM5>30/11/2006</CUSTOM5>
+        <ACCESSION_NUMBER>19</ACCESSION_NUMBER>
+        <NOTES>Prokofieff Issue</NOTES>
+        <CALL_NUMBER>spa-tex-per-0197</CALL_NUMBER>
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>3171</REFNUM>
