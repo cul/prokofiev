@@ -734,6 +734,30 @@
         <REFERENCE_TYPE>1</REFERENCE_TYPE>
         <REFNUM>2448</REFNUM>
         <AUTHORS>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2002-11</YEAR>
+        <ARTICLE_TITLE>A Photo – A Story</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Association</PUBLISHER>
+        <NUMBER>4</NUMBER>
+        <PAGES>22-23</PAGES>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>1</ENTRY>
+        <NUMBER_OF_ENTRIES>7</NUMBER_OF_ENTRIES>
+        <ISBN>1472-9946</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>18/01/2006 (new classification no. 07/11/2006)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA004</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2448</REFNUM>
+        <AUTHORS>
             <ARTICLE_AUTHOR>Chernysheva, Ekaterina</ARTICLE_AUTHOR>
             <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
         </AUTHORS>
@@ -746,14 +770,626 @@
         <PAGES>10-15</PAGES>
         <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
-        <ENTRY>1</ENTRY>
-        <NUMBER_OF_ENTRIES>4</NUMBER_OF_ENTRIES>
+        <ENTRY>2</ENTRY>
+        <NUMBER_OF_ENTRIES>7</NUMBER_OF_ENTRIES>
         <ISBN>1472-9946</ISBN>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>18/01/2006 (new classification no. 07/11/2006)</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <CALL_NUMBER>spa-tex-per-ORA004</CALL_NUMBER>
     </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2448</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Mann, Noëlle</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2002-11</YEAR>
+        <ARTICLE_TITLE>Trapeze: a Forgotten Ballet by Serge Prokofiev and Boris Romanov</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Association</PUBLISHER>
+        <NUMBER>4</NUMBER>
+        <PAGES>4-9</PAGES>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>3</ENTRY>
+        <NUMBER_OF_ENTRIES>7</NUMBER_OF_ENTRIES>
+        <ISBN>1472-9946</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>18/01/2006 (new classification no. 07/11/2006)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA004</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2448</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Nissman, Barbara</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2002-11</YEAR>
+        <ARTICLE_TITLE>The Many Faces of Prokofiev</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Association</PUBLISHER>
+        <NUMBER>4</NUMBER>
+        <PAGES>24-29</PAGES>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>4</ENTRY>
+        <NUMBER_OF_ENTRIES>7</NUMBER_OF_ENTRIES>
+        <ISBN>1472-9946</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>18/01/2006 (new classification no. 07/11/2006)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA004</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2448</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Prokofiev, Serge</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2002-11</YEAR>
+        <ARTICLE_TITLE>Individual Tournament</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Association</PUBLISHER>
+        <NUMBER>4</NUMBER>
+        <PAGES>2-3</PAGES>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>5</ENTRY>
+        <NUMBER_OF_ENTRIES>7</NUMBER_OF_ENTRIES>
+        <ISBN>1472-9946</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>18/01/2006 (new classification no. 07/11/2006)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA004</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2448</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Riley, John</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2002-11</YEAR>
+        <ARTICLE_TITLE>Eisenstein: the Sound Years</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Association</PUBLISHER>
+        <NUMBER>4</NUMBER>
+        <PAGES>30-31</PAGES>
+        <ARTICLE_TYPE_OF_WORK>Review</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>6</ENTRY>
+        <NUMBER_OF_ENTRIES>7</NUMBER_OF_ENTRIES>
+        <ISBN>1472-9946</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>18/01/2006 (new classification no. 07/11/2006)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA004</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2448</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Sayers, Lesley-Anne</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2002-11</YEAR>
+        <ARTICLE_TITLE>The Magnificent George</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Association</PUBLISHER>
+        <NUMBER>4</NUMBER>
+        <PAGES>16-21</PAGES>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>7</ENTRY>
+        <NUMBER_OF_ENTRIES>7</NUMBER_OF_ENTRIES>
+        <ISBN>1472-9946</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>18/01/2006 (new classification no. 07/11/2006)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA004</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2454</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2003-06</YEAR>
+        <ARTICLE_TITLE>Remembering Yuri Nikolaevich Kholopov</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Association</PUBLISHER>
+        <NUMBER>5</NUMBER>
+        <PAGES>13</PAGES>
+        <ARTICLE_TYPE_OF_WORK>Review</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>1472-9946</ISBN>
+        <ENTRY>1</ENTRY>
+       <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>18/01/2006 (new classification no. 07/11/2006)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA005</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2454</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Jaffé, Daniel</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2003-06</YEAR>
+        <ARTICLE_TITLE>Anniversary Gala Concert, 5 March 2003</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Association</PUBLISHER>
+        <NUMBER>5</NUMBER>
+        <PAGES>30-31</PAGES>
+        <ARTICLE_TYPE_OF_WORK>Review</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>1472-9946</ISBN>
+        <ENTRY>2</ENTRY>
+       <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>18/01/2006 (new classification no. 07/11/2006)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA005</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2454</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Hibberd, Kristian</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2003-06</YEAR>
+        <ARTICLE_TITLE>"Prokofiev and 20th-Century Culture": a report</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Association</PUBLISHER>
+        <NUMBER>5</NUMBER>
+        <PAGES>14-19</PAGES>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>1472-9946</ISBN>
+        <ENTRY>3</ENTRY>
+       <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>18/01/2006 (new classification no. 07/11/2006)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA005</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2454</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Mann, Noëlle</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2003-06</YEAR>
+        <ARTICLE_TITLE>Lina Prokofiev in Conversation</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Association</PUBLISHER>
+        <NUMBER>5</NUMBER>
+        <PAGES>2-5</PAGES>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>1472-9946</ISBN>
+        <ENTRY>4</ENTRY>
+       <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>18/01/2006 (new classification no. 07/11/2006)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA005</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2454</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Mann, Noëlle</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2003-06</YEAR>
+        <ARTICLE_TITLE>Prokofiev and the press: a commentary</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Association</PUBLISHER>
+        <NUMBER>5</NUMBER>
+        <PAGES>10-12</PAGES>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>1472-9946</ISBN>
+        <ENTRY>5</ENTRY>
+       <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>18/01/2006 (new classification no. 07/11/2006)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA005</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2454</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Nice, David</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2003-06</YEAR>
+        <ARTICLE_TITLE>Public events report</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Association</PUBLISHER>
+        <NUMBER>5</NUMBER>
+        <PAGES>20-23</PAGES>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>1472-9946</ISBN>
+        <ENTRY>6</ENTRY>
+       <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>18/01/2006 (new classification no. 07/11/2006)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA005</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2454</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Nice, David</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2003-06</YEAR>
+        <ARTICLE_TITLE>UK concerts round-up</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Association</PUBLISHER>
+        <NUMBER>5</NUMBER>
+        <PAGES>28-29</PAGES>
+        <ARTICLE_TYPE_OF_WORK>Review</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>1472-9946</ISBN>
+        <ENTRY>7</ENTRY>
+       <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>18/01/2006 (new classification no. 07/11/2006)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA005</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2454</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Press, Stephen</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2003-06</YEAR>
+        <ARTICLE_TITLE>Trapeze re-interpreted</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Association</PUBLISHER>
+        <NUMBER>5</NUMBER>
+        <PAGES>24-27</PAGES>
+        <ARTICLE_TYPE_OF_WORK>Review</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>1472-9946</ISBN>
+        <ENTRY>8</ENTRY>
+        <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>18/01/2006 (new classification no. 07/11/2006)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA005</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2454</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Prokofiev, Serge</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2003-06</YEAR>
+        <ARTICLE_TITLE>Moments of my life</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Association</PUBLISHER>
+        <NUMBER>5</NUMBER>
+        <PAGES>6-9</PAGES>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>1472-9946</ISBN>
+        <ENTRY>9</ENTRY>
+       <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>18/01/2006 (new classification no. 07/11/2006)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA005</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>1873</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2003</YEAR>
+        <ARTICLE_TITLE>Desert Island Disc</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Association</PUBLISHER>
+        <NUMBER>6</NUMBER>
+        <DATE>November 2003</DATE>
+        <PAGES>28-31</PAGES>
+        <ARTICLE_TYPE_OF_WORK>Review</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>1472-9946</ISBN>
+        <ENTRY>1</ENTRY>
+        <NUMBER_OF_ENTRIES>10</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>27/10/2004 (new classification no. 07/11/2006)</CUSTOM5>
+        <NOTES>2 copies (1 archival/red-dot)</NOTES>
+        <CALL_NUMBER>spa-tex-per-ORA006</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>1873</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2003</YEAR>
+        <ARTICLE_TITLE>Semyon Kotko on the air</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Association</PUBLISHER>
+        <NUMBER>6</NUMBER>
+        <DATE>November 2003</DATE>
+        <PAGES>6</PAGES>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>1472-9946</ISBN>
+        <ENTRY>2</ENTRY>
+        <NUMBER_OF_ENTRIES>10</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>27/10/2004 (new classification no. 07/11/2006)</CUSTOM5>
+        <NOTES>2 copies (1 archival/red-dot)</NOTES>
+        <CALL_NUMBER>spa-tex-per-ORA006</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>1873</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Mann, Noëlle</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2003</YEAR>
+        <ARTICLE_TITLE>Prokofiev's 1935 recordings</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Association</PUBLISHER>
+        <NUMBER>6</NUMBER>
+        <DATE>November 2003</DATE>
+        <PAGES>2-3</PAGES>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>1472-9946</ISBN>
+        <ENTRY>3</ENTRY>
+        <NUMBER_OF_ENTRIES>10</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>27/10/2004 (new classification no. 07/11/2006)</CUSTOM5>
+        <NOTES>2 copies (1 archival/red-dot)</NOTES>
+        <CALL_NUMBER>spa-tex-per-ORA006</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>1873</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Mann, Noëlle</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2003</YEAR>
+        <ARTICLE_TITLE>Semyon Kotko: a dossier</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Association</PUBLISHER>
+        <NUMBER>6</NUMBER>
+        <DATE>November 2003</DATE>
+        <PAGES>4-5</PAGES>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>1472-9946</ISBN>
+        <ENTRY>4</ENTRY>
+        <NUMBER_OF_ENTRIES>10</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>27/10/2004 (new classification no. 07/11/2006)</CUSTOM5>
+        <NOTES>2 copies (1 archival/red-dot)</NOTES>
+        <CALL_NUMBER>spa-tex-per-ORA006</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>1873</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Mann, Noëlle</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2003</YEAR>
+        <ARTICLE_TITLE>The Prokofievs: Three Generations</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Association</PUBLISHER>
+        <NUMBER>6</NUMBER>
+        <DATE>November 2003</DATE>
+        <PAGES>33</PAGES>
+        <ARTICLE_TYPE_OF_WORK>Review</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>1472-9946</ISBN>
+        <ENTRY>5</ENTRY>
+        <NUMBER_OF_ENTRIES>10</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>27/10/2004 (new classification no. 07/11/2006)</CUSTOM5>
+        <NOTES>2 copies (1 archival/red-dot)</NOTES>
+        <CALL_NUMBER>spa-tex-per-ORA006</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>1873</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Morgan, Edward</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2003</YEAR>
+        <ARTICLE_TITLE>A soldier came from the front</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Association</PUBLISHER>
+        <NUMBER>6</NUMBER>
+        <DATE>November 2003</DATE>
+        <PAGES>7-13</PAGES>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>1472-9946</ISBN>
+        <ENTRY>6</ENTRY>
+        <NUMBER_OF_ENTRIES>10</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>27/10/2004 (new classification no. 07/11/2006)</CUSTOM5>
+        <NOTES>2 copies (1 archival/red-dot)</NOTES>
+        <CALL_NUMBER>spa-tex-per-ORA006</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>1873</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Morgan, Edward</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2003</YEAR>
+        <ARTICLE_TITLE>Semyon Kotko: three works</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Association</PUBLISHER>
+        <NUMBER>6</NUMBER>
+        <DATE>November 2003</DATE>
+        <PAGES>14-21</PAGES>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>1472-9946</ISBN>
+        <ENTRY>7</ENTRY>
+        <NUMBER_OF_ENTRIES>10</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>27/10/2004 (new classification no. 07/11/2006)</CUSTOM5>
+        <NOTES>2 copies (1 archival/red-dot)</NOTES>
+        <CALL_NUMBER>spa-tex-per-ORA006</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>1873</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Morrison, Simon</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2003</YEAR>
+        <ARTICLE_TITLE>David Nice, "Prokofiev: From Russia to the West 1891 - 1935"</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Association</PUBLISHER>
+        <NUMBER>6</NUMBER>
+        <DATE>November 2003</DATE>
+        <PAGES>27</PAGES>
+        <ARTICLE_TYPE_OF_WORK>Review</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>1472-9946</ISBN>
+        <ENTRY>8</ENTRY>
+        <NUMBER_OF_ENTRIES>10</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>27/10/2004 (new classification no. 07/11/2006)</CUSTOM5>
+        <NOTES>2 copies (1 archival/red-dot)</NOTES>
+        <CALL_NUMBER>spa-tex-per-ORA006</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>1873</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Nice, David</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2003</YEAR>
+        <ARTICLE_TITLE>London Prokofiev celebrations</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Association</PUBLISHER>
+        <NUMBER>6</NUMBER>
+        <DATE>November 2003</DATE>
+        <PAGES>32</PAGES>
+        <ARTICLE_TYPE_OF_WORK>Review</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>1472-9946</ISBN>
+        <ENTRY>9</ENTRY>
+        <NUMBER_OF_ENTRIES>10</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>27/10/2004 (new classification no. 07/11/2006)</CUSTOM5>
+        <NOTES>2 copies (1 archival/red-dot)</NOTES>
+        <CALL_NUMBER>spa-tex-per-ORA006</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>4</REFERENCE_TYPE>
+        <REFNUM>1873</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Press, Stephen</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2003</YEAR>
+        <ARTICLE_TITLE>Prokofiev's vexing entry into the USA</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Association</PUBLISHER>
+        <NUMBER>6</NUMBER>
+        <DATE>November 2003</DATE>
+        <PAGES>22-26</PAGES>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>1472-9946</ISBN>
+        <ENTRY>10</ENTRY>
+        <NUMBER_OF_ENTRIES>10</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>27/10/2004 (new classification no. 07/11/2006)</CUSTOM5>
+        <NOTES>2 copies (1 archival/red-dot)</NOTES>
+        <CALL_NUMBER>spa-tex-per-ORA006</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2462</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Abensour, Gérard</ARTICLE_AUTHOR>
+            <ARTICLE_AUTHOR>Petchenina, Ludmilla</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2004-05</YEAR>
+        <ARTICLE_TITLE>Egyptian Nights: in search of the "new simplicity"</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Foundation</PUBLISHER>
+        <NUMBER>7</NUMBER>
+        <PAGES>11-15</PAGES>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ISBN>1472-9946</ISBN>
+        <ENTRY>1</ENTRY>
+        <NUMBER_OF_ENTRIES></NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>18/01/2006 (new classification no. 07/11/2006)</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA007</CALL_NUMBER>
+    </RECORD>
+    
     
     
     
