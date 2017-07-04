@@ -1373,6 +1373,7 @@ SOVMUZ and OPERA
          <NOTES>Reviews of performances during Kirov's residency at Covent Garden in 2000.
             Includes Semyon Kotko and War and Peace</NOTES>
       </RECORD>
+<!--  
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>17</REFNUM>
@@ -1472,6 +1473,6 @@ SOVMUZ and OPERA
          <CUSTOM5>05/12/2005</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
          <CALL_NUMBER>[OPERA] / [spa-tex-per-0056]</CALL_NUMBER>
-      </RECORD>
+      </RECORD> -->
  
 </outputxml>

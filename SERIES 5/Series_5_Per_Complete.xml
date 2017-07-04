@@ -1354,28 +1354,29 @@
         <CUSTOM5>28/11/2000</CUSTOM5>
         <NOTES>DUPLICATE. See OPERA collection.</NOTES>
         <CALL_NUMBER>spa-tex-per-0055</CALL_NUMBER>
-    </RECORD>
-
- !   
+    </RECORD> 
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>934</REFNUM>
         <AUTHORS>
+            <ARTICLE_AUTHOR>Allison, John</ARTICLE_AUTHOR>
             <PERIODICAL_EDITOR>Allison, John</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2000</YEAR>
+        <ARTICLE_TITLE>'War and Peace' breaks out: John Allison on Prokofiev in Paris</ARTICLE_TITLE>
         <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
         <PUBLISHER>Seymour Press Ltd.</PUBLISHER>
         <VOLUME>51</VOLUME>
         <NUMBER>5</NUMBER>
-        <PAGES>507-624</PAGES>
+        <PAGES>532-534</PAGES>
         <DATE>2000-05</DATE>
+        <ARTICLE_TYPE_OF_WORK>Review</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
         <ISBN>00303526</ISBN>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>28/11/2000</CUSTOM5>
-        <NOTES>DUPLICATE. See OPERA collection. No article specific to Prokofiev.</NOTES>
+        <NOTES>DUPLICATE. See OPERA collection.</NOTES>
         <CALL_NUMBER>spa-tex-per-0056</CALL_NUMBER>
     </RECORD>
 <RECORD>
