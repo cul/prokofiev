@@ -2243,7 +2243,7 @@
         <ARTICLE_TYPE_OF_WORK>Review</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
         <ENTRY>1</ENTRY>
-        <NUMBER_OF_ENTRIES></NUMBER_OF_ENTRIES>
+        <NUMBER_OF_ENTRIES>10</NUMBER_OF_ENTRIES>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>28/11/2006</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
@@ -2267,7 +2267,7 @@
         <ARTICLE_TYPE_OF_WORK>Review</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
         <ENTRY>2</ENTRY>
-        <NUMBER_OF_ENTRIES></NUMBER_OF_ENTRIES>
+        <NUMBER_OF_ENTRIES>10</NUMBER_OF_ENTRIES>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>28/11/2006</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
@@ -2291,7 +2291,7 @@
         <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
         <ENTRY>3</ENTRY>
-        <NUMBER_OF_ENTRIES></NUMBER_OF_ENTRIES>
+        <NUMBER_OF_ENTRIES>10</NUMBER_OF_ENTRIES>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>28/11/2006</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
@@ -2316,7 +2316,7 @@
         <ARTICLE_TYPE_OF_WORK>Review</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
         <ENTRY>4</ENTRY>
-        <NUMBER_OF_ENTRIES></NUMBER_OF_ENTRIES>
+        <NUMBER_OF_ENTRIES>10</NUMBER_OF_ENTRIES>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>28/11/2006</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
@@ -2340,7 +2340,7 @@
         <ARTICLE_TYPE_OF_WORK>Review</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
         <ENTRY>5</ENTRY>
-        <NUMBER_OF_ENTRIES></NUMBER_OF_ENTRIES>
+        <NUMBER_OF_ENTRIES>10</NUMBER_OF_ENTRIES>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>28/11/2006</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
@@ -2365,7 +2365,7 @@
         <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
         <ENTRY>6</ENTRY>
-        <NUMBER_OF_ENTRIES></NUMBER_OF_ENTRIES>
+        <NUMBER_OF_ENTRIES>10</NUMBER_OF_ENTRIES>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>28/11/2006</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
@@ -2389,7 +2389,7 @@
         <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
         <ENTRY>7</ENTRY>
-        <NUMBER_OF_ENTRIES></NUMBER_OF_ENTRIES>
+        <NUMBER_OF_ENTRIES>10</NUMBER_OF_ENTRIES>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>28/11/2006</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
@@ -2413,7 +2413,7 @@
         <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
         <ENTRY>8</ENTRY>
-        <NUMBER_OF_ENTRIES></NUMBER_OF_ENTRIES>
+        <NUMBER_OF_ENTRIES>10</NUMBER_OF_ENTRIES>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>28/11/2006</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
@@ -2437,7 +2437,7 @@
         <ARTICLE_TYPE_OF_WORK>Review</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
         <ENTRY>9</ENTRY>
-        <NUMBER_OF_ENTRIES></NUMBER_OF_ENTRIES>
+        <NUMBER_OF_ENTRIES>10</NUMBER_OF_ENTRIES>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>28/11/2006</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
@@ -2461,11 +2461,583 @@
         <ARTICLE_TYPE_OF_WORK>Transcript</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
         <ENTRY>10</ENTRY>
-        <NUMBER_OF_ENTRIES></NUMBER_OF_ENTRIES>
+        <NUMBER_OF_ENTRIES>10</NUMBER_OF_ENTRIES>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>28/11/2006</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <CALL_NUMBER>spa-tex-per-ORA012</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>3240</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Bartig, Kevin</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2007</YEAR>
+        <ARTICLE_TITLE>Creating the Lieutenant Kizhe Suite</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Foundation</PUBLISHER>
+        <NUMBER>13</NUMBER>
+        <PAGES>22-26</PAGES>
+        <DATE>2007-05</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>1</ENTRY>
+        <NUMBER_OF_ENTRIES>6</NUMBER_OF_ENTRIES>
+        <ISBN>1472-9946</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>11/06/2007</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA013</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>3240</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Green, Edward</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2007</YEAR>
+        <ARTICLE_TITLE>Prokofiev's Classical Symphony and the question of sincerity in music</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Foundation</PUBLISHER>
+        <NUMBER>13</NUMBER>
+        <PAGES>2-9</PAGES>
+        <DATE>2007-05</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>2</ENTRY>
+        <NUMBER_OF_ENTRIES>6</NUMBER_OF_ENTRIES>
+        <ISBN>1472-9946</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>11/06/2007</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA013</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>3240</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Grossman, Andrew</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2007</YEAR>
+        <ARTICLE_TITLE>The Prodigal Son, The Life and Work of Sergei Prokofiev</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Foundation</PUBLISHER>
+        <NUMBER>13</NUMBER>
+        <PAGES>30-33</PAGES>
+        <DATE>2007-05</DATE>
+        <ARTICLE_TYPE_OF_WORK>Review</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>3</ENTRY>
+        <NUMBER_OF_ENTRIES>6</NUMBER_OF_ENTRIES>
+        <ISBN>1472-9946</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>11/06/2007</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA013</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>3240</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Kholopov, Iurii Nikolaevich</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2007</YEAR>
+        <ARTICLE_TITLE>Why did Prokofiev write the 'Classical Symphony'?</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Foundation</PUBLISHER>
+        <NUMBER>13</NUMBER>
+        <PAGES>10-13</PAGES>
+        <DATE>2007-05</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>4</ENTRY>
+        <NUMBER_OF_ENTRIES>6</NUMBER_OF_ENTRIES>
+        <ISBN>1472-9946</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>11/06/2007</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA013</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>3240</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Mann, Noëlle</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2007</YEAR>
+        <ARTICLE_TITLE>Prokofiev's autobiographical writings</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Foundation</PUBLISHER>
+        <NUMBER>13</NUMBER>
+        <PAGES>27-29</PAGES>
+        <DATE>2007-05</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>5</ENTRY>
+        <NUMBER_OF_ENTRIES>6</NUMBER_OF_ENTRIES>
+        <ISBN>1472-9946</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>11/06/2007</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA013</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>3240</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Orlov, Vladimir</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2007</YEAR>
+        <ARTICLE_TITLE>Prokofiev and the Myth of Revolution: The Cantata for the Twentieth Anniversary of
+            the October Revolution</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Foundation</PUBLISHER>
+        <NUMBER>13</NUMBER>
+        <PAGES>14-21</PAGES>
+        <DATE>2007-05</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>6</ENTRY>
+        <NUMBER_OF_ENTRIES>6</NUMBER_OF_ENTRIES>
+        <ISBN>1472-9946</ISBN>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>11/06/2007</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA013</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>3346</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Emerson, Caryl</ARTICLE_AUTHOR>
+            <ARTICLE_AUTHOR>Morrison, Simon</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2007</YEAR>
+        <ARTICLE_TITLE>Princeton's Boris Godunov, 1936/2007: after seventy years, Prokofiev's music is attached to
+            Meyerhold's vision of Pushkin's play</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Foundation</PUBLISHER>
+        <NUMBER>14</NUMBER>
+        <PAGES>3-10</PAGES>
+        <DATE>2007-11</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>1</ENTRY>
+        <NUMBER_OF_ENTRIES>5</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>27/05/2009</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA014</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>3346</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Fore, Devin</ARTICLE_AUTHOR>
+            <ARTICLE_AUTHOR>Wolfson, Boris</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2007</YEAR>
+        <ARTICLE_TITLE>Devin Fore and Boris Wolfson on Meyerhold, Prokofiev, and the debacles of
+            1936</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Foundation</PUBLISHER>
+        <NUMBER>14</NUMBER>
+        <PAGES>16-21</PAGES>
+        <DATE>2007-11</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>2</ENTRY>
+        <NUMBER_OF_ENTRIES>5</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>27/05/2009</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA014</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>3346</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Grossman,Andrew</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2007</YEAR>
+        <ARTICLE_TITLE>Boris Godunov in America: notes on a Meyerhold production resurrected</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Foundation</PUBLISHER>
+        <NUMBER>14</NUMBER>
+        <PAGES>29-33</PAGES>
+        <DATE>2007-11</DATE>
+        <ARTICLE_TYPE_OF_WORK>Review</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>3</ENTRY>
+        <NUMBER_OF_ENTRIES>5</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>27/05/2009</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA014</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>3346</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Various</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2007</YEAR>
+        <ARTICLE_TITLE>Boris Godunov in Audio-Visual Syncopation: Testimonials</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Foundation</PUBLISHER>
+        <NUMBER>14</NUMBER>
+        <PAGES>11-15</PAGES>
+        <DATE>2007-11</DATE>
+        <ARTICLE_TYPE_OF_WORK>Testimonials</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>4</ENTRY>
+        <NUMBER_OF_ENTRIES>5</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>27/05/2009</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA014</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>3346</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Various</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2007</YEAR>
+        <ARTICLE_TITLE>Cellists pay tribute to Mstislav Rostropovich</ARTICLE_TITLE>
+        <SUBSIDIARY_ARTICLE_TITLE>Karine Georgian, Steven Isserlis, Alexander Ivashkin, Raphael Wallfisch, Jamie Walton</SUBSIDIARY_ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Foundation</PUBLISHER>
+        <NUMBER>14</NUMBER>
+        <PAGES>22-28</PAGES>
+        <DATE>2007-11</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>5</ENTRY>
+        <NUMBER_OF_ENTRIES>5</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>27/05/2009</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA014</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>3355</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Bergman, Elizabeth</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2008</YEAR>
+        <ARTICLE_TITLE>Prokofiev's Last American Tour</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Foundation</PUBLISHER>
+        <NUMBER>15</NUMBER>
+        <PAGES>25-28</PAGES>
+        <DATE>2008-05</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>1</ENTRY>
+        <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>27/05/2009</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA015</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>3355</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Grossman, Andrew</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2008</YEAR>
+        <ARTICLE_TITLE>Vladimir Jurowski Conducts Prokofiev's Fifth Symphony and Ode to the End of the War</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Foundation</PUBLISHER>
+        <NUMBER>15</NUMBER>
+        <PAGES>40-41</PAGES>
+        <DATE>2008-05</DATE>
+        <ARTICLE_TYPE_OF_WORK>Review</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>2</ENTRY>
+        <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>27/05/2009</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA015</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>3355</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Medvedeva, Irina</ARTICLE_AUTHOR>
+            <TRANSLATOR>Emerson, Caryl</TRANSLATOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2008</YEAR>
+        <ARTICLE_TITLE>Elizaveta Dattel in Memoriam</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Foundation</PUBLISHER>
+        <NUMBER>15</NUMBER>
+        <PAGES>29-35</PAGES>
+        <DATE>2008-05</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>3</ENTRY>
+        <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>27/05/2009</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA015</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>3355</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Numabe, Shin-ichi</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2008</YEAR>
+        <ARTICLE_TITLE>Yorisada Tokugawa and the story of an unrealised commission</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Foundation</PUBLISHER>
+        <NUMBER>15</NUMBER>
+        <PAGES>14-17</PAGES>
+        <DATE>2008-05</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>4</ENTRY>
+        <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>27/05/2009</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA015</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>3355</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Numabe, Shin-ichi</ARTICLE_AUTHOR>
+            <ARTICLE_AUTHOR>Nunokawa, Yumiko</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2008</YEAR>
+        <ARTICLE_TITLE>Motoo Ohtaguro and Serge Prokofiev: an unexpected friendship</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Foundation</PUBLISHER>
+        <NUMBER>15</NUMBER>
+        <PAGES>3-8</PAGES>
+        <DATE>2008-05</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>5</ENTRY>
+        <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>27/05/2009</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA015</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>3355</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Ohtaguro, Motoo</ARTICLE_AUTHOR>
+            <ARTICLE_AUTHOR>Prokofiev, Serge</ARTICLE_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Matsumoto, Naomi</SUBSIDIARY_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2008</YEAR>
+        <ARTICLE_TITLE>Motoo Ohtaguro interviews Prokofiev</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Foundation</PUBLISHER>
+        <NUMBER>15</NUMBER>
+        <PAGES>9-13</PAGES>
+        <DATE>2008-05</DATE>
+        <ARTICLE_TYPE_OF_WORK>Interview</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>6</ENTRY>
+        <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>27/05/2009</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA015</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>3355</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Phillips, Anthony</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2008</YEAR>
+        <ARTICLE_TITLE>Prokofiev in Japan: a view from the interior</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Foundation</PUBLISHER>
+        <NUMBER>15</NUMBER>
+        <PAGES>18-24</PAGES>
+        <DATE>2008-05</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>7</ENTRY>
+        <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>27/05/2009</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA015</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>3355</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Prokofiev Jr., Serge</ARTICLE_AUTHOR>
+            <TRANSLATOR>Morgan, Edward</TRANSLATOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2008</YEAR>
+        <ARTICLE_TITLE>Juan Codina - a Singer</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Foundation</PUBLISHER>
+        <NUMBER>15</NUMBER>
+        <PAGES>36-37</PAGES>
+        <DATE>2008-05</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>8</ENTRY>
+        <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>27/05/2009</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA015</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>3355</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Riley, John</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2008</YEAR>
+        <ARTICLE_TITLE>Partisans in the Ukrainian Steppes</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Foundation</PUBLISHER>
+        <NUMBER>15</NUMBER>
+        <PAGES>38-39</PAGES>
+        <DATE>2008-05</DATE>
+        <ARTICLE_TYPE_OF_WORK>Review</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>9</ENTRY>
+        <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>27/05/2009</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA015</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>3363</REFNUM>
+        <YEAR>2008</YEAR>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <TRANSLATOR>Frolova-Walker, Marina</TRANSLATOR>
+            <TRANSLATOR>Walker, Jonathan</TRANSLATOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <ARTICLE_TITLE>Resolution of the Central Committee of the All-Union Communist Party (Bolsheviks) of 10 February 1948 On V. Muradeli's
+            Opera, The Great Friendship</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Foundation</PUBLISHER>
+        <NUMBER>16</NUMBER>
+        <PAGES>10-11</PAGES>
+        <DATE>2008-11</DATE>
+        <ARTICLE_TYPE_OF_WORK>Transcript</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>1</ENTRY>
+        <NUMBER_OF_ENTRIES></NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>28/05/2009</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA016</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>3363</REFNUM>
+        <YEAR>2008</YEAR>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <ARTICLE_TITLE>Excerpts from The Musical Times, 1948</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Foundation</PUBLISHER>
+        <NUMBER>16</NUMBER>
+        <PAGES>21-22</PAGES>
+        <DATE>2008-11</DATE>
+        <ARTICLE_TYPE_OF_WORK>Transcript</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>2</ENTRY>
+        <NUMBER_OF_ENTRIES></NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>28/05/2009</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA016</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>3363</REFNUM>
+        <YEAR>2008</YEAR>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Amico, Ross</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <ARTICLE_TITLE>Bard Music Festival 2008: Prokofiev and His World</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Foundation</PUBLISHER>
+        <NUMBER>16</NUMBER>
+        <PAGES>29-30</PAGES>
+        <DATE>2008-11</DATE>
+        <ARTICLE_TYPE_OF_WORK>Review</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>3</ENTRY>
+        <NUMBER_OF_ENTRIES></NUMBER_OF_ENTRIES>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>28/05/2009</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>spa-tex-per-ORA016</CALL_NUMBER>
     </RECORD>
     
     
