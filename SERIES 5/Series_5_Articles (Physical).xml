@@ -635,7 +635,9 @@
          <PAGES>108-111</PAGES>
          <DATE>1968-04</DATE>
          <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
-         <SUBSIDIARY_AUTHOR>Medvedeva, Irina (trans.)</SUBSIDIARY_AUTHOR>
+         <SUBSIDIARY_AUTHORS>
+           <SUBSIDIARY_AUTHOR>Medvedeva, Irina (trans.)</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <ALTERNATE_TITLE>Journal</ALTERNATE_TITLE>
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>08/12/2005</CUSTOM5>
@@ -1214,14 +1216,16 @@
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>11/01/2006</CUSTOM5>
          <CUSTOM6>Original and photocopy</CUSTOM6>
-         <NOTES>Introduction to an issue dedicated to Prokofiev – 
+         <NOTES>Introduction to an issue dedicated to Prokofiev –
             ALSO spa-tex-per-0072</NOTES>
          <CALL_NUMBER>spa-tex-atl-0060</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>2354</REFNUM>
-         <AUTHOR>Moreux, Serge</AUTHOR>
+         <AUTHORS>
+           <AUTHOR>Moreux, Serge</AUTHOR>
+         </AUTHORS>
          <YEAR>1949</YEAR>
          <ARTICLE_TITLE>Prokofiev: An Intimate Portrait</ARTICLE_TITLE>
          <JOURNAL_TITLE>Tempo</JOURNAL_TITLE>
@@ -1240,7 +1244,9 @@
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>2355</REFNUM>
-         <AUTHOR>Swarsenski, Hans</AUTHOR>
+         <AUTHORS>
+           <AUTHOR>Swarsenski, Hans</AUTHOR>
+         </AUTHORS>
          <YEAR>1949</YEAR>
          <ARTICLE_TITLE>Prokofiev's Orchestral Music</ARTICLE_TITLE>
          <JOURNAL_TITLE>Tempo</JOURNAL_TITLE>
@@ -1259,7 +1265,9 @@
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>2356</REFNUM>
-         <AUTHOR>Merrick, Frank</AUTHOR>
+         <AUTHORS>
+           <AUTHOR>Merrick, Frank</AUTHOR>
+         </AUTHORS>
          <YEAR>1949</YEAR>
          <ARTICLE_TITLE>Prokofiev's Works For Solo Piano</ARTICLE_TITLE>
          <JOURNAL_TITLE>Tempo</JOURNAL_TITLE>
@@ -1278,7 +1286,9 @@
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>2357</REFNUM>
-         <AUTHOR>Morley, Iris</AUTHOR>
+         <AUTHORS>
+           <AUTHOR>Morley, Iris</AUTHOR>
+         </AUTHORS>
          <YEAR>1949</YEAR>
          <ARTICLE_TITLE>Cinderella and Romeo and Juliet</ARTICLE_TITLE>
          <JOURNAL_TITLE>Tempo</JOURNAL_TITLE>
@@ -2121,7 +2131,7 @@
             <AUTHOR>Brown, Malcolm Hamrick</AUTHOR>
          </AUTHORS>
          <YEAR>1981</YEAR>
-         <ARTICLE_TITLE>'Prokofiev by Prokofiev: a composer's memoir', 'Sergei Prokofiev, a Soviet tragedy: 
+         <ARTICLE_TITLE>'Prokofiev by Prokofiev: a composer's memoir', 'Sergei Prokofiev, a Soviet tragedy:
             The Case of Sergei Prokofiev, His Life and Work, His Critics, And His Executioners'</ARTICLE_TITLE>
          <JOURNAL_TITLE>Slavic Review</JOURNAL_TITLE>
          <SECONDARY_AUTHOR>Prokofiev, Lina</SECONDARY_AUTHOR>
@@ -2433,7 +2443,7 @@
             <AUTHOR>Henderson, Lyn</AUTHOR>
          </AUTHORS>
          <YEAR>1993</YEAR>
-         <ARTICLES_TITLE>The Violin Concertos of Prokofiev</ARTICLES_TITLE>
+         <ARTICLE_TITLE>The Violin Concertos of Prokofiev</ARTICLE_TITLE>
          <JOURNAL_TITLE>The Music Review</JOURNAL_TITLE>
          <VOLUME>54</VOLUME>
          <NUMBER>3/4</NUMBER>
@@ -2868,8 +2878,8 @@
          <AUTHOR>Rakhmanova, Marina</AUTHOR>
       </AUTHORS>
       <YEAR>2001</YEAR>
-      <TITLE>Londonskie Apel'siny</TITLE>
-      <SECONDARY_TITLE>Rossiiskaia Muzykal'naia Gazeta</SECONDARY_TITLE>
+      <ARTICLE_TITLE>Londonskie Apel'siny</ARTICLE_TITLE>
+      <JOURNAL_TITLE>Rossiiskaia Muzykal'naia Gazeta</JOURNAL_TITLE>
       <NUMBER>2</NUMBER>
       <PAGES>1, 4-5</PAGES>
       <DATE>2001</DATE>
@@ -2879,9 +2889,7 @@
       <CUSTOM5>28/08/2001 (revised 16/02/2006)</CUSTOM5>
       <CUSTOM6>Photocopy (original in Archive)</CUSTOM6>
       <NOTES>Article about the launch of the Prokofiev Association and 'Three
-         Oranges'</NOTES>
-      <NOTES>Article about the launch of the Prokofiev Association and 'Three
-         Oranges'</NOTES>
+            Oranges'</NOTES>
       <CALL_NUMBER>spa-tex-atl-0143</CALL_NUMBER>
    </RECORD>
 <RECORD>
@@ -3147,7 +3155,7 @@
          <YEAR>1935</YEAR>
          <ARTICLE_TITLE>Children and Music</ARTICLE_TITLE>
          <JOURNAL_TITLE>Sovietland</JOURNAL_TITLE>
-         <SECONDARY_TITLE>Special Edition about Soviet Children</SECONDARY_TITLE>
+         <SECONDARY_JOURNAL_TITLE>Special Edition about Soviet Children</SECONDARY_JOURNAL_TITLE>
          <NUMBER>1</NUMBER>
          <PAGES>26-27, 43</PAGES>
          <DATE>1935</DATE>
@@ -3292,7 +3300,9 @@
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>3147</REFNUM>
-         <AUTHOR>Anon.</AUTHOR>
+         <AUTHORS>
+           <AUTHOR>Anon.</AUTHOR>
+         </AUTHORS>
          <YEAR>1955</YEAR>
          <ARTICLE_TITLE>Yugoslav Ballet - 'Romeo and Juliet'</ARTICLE_TITLE>
          <JOURNAL_TITLE>The Times</JOURNAL_TITLE>
@@ -3312,7 +3322,9 @@
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>3148</REFNUM>
-         <AUTHOR>Anon.</AUTHOR>
+         <AUTHORS>
+           <AUTHOR>Anon.</AUTHOR>
+         </AUTHORS>
          <YEAR>1955</YEAR>
          <ARTICLE_TITLE>"Romeo and Juliet"</ARTICLE_TITLE>
          <JOURNAL_TITLE>The Stage</JOURNAL_TITLE>
@@ -3503,7 +3515,7 @@
          </AUTHORS>
          <YEAR>1971</YEAR>
          <ARTICLE_TITLE>Mysli, rezhdennye prem'eroi</ARTICLE_TITLE>
-         <SJOURNAL_TITLE>Sovetskaia Muzyka</SJOURNAL_TITLE>
+         <JOURNAL_TITLE>Sovetskaia Muzyka</JOURNAL_TITLE>
          <NUMBER>3</NUMBER>
          <PAGES>54-62</PAGES>
          <DATE>1971-03</DATE>
@@ -3541,7 +3553,7 @@
             <AUTHOR>Van Puymbroeck, Stefan</AUTHOR>
          </AUTHORS>
          <YEAR>2008</YEAR>
-         <TITLE>Sergei Prokofiev's Fiery Angel: Formal analysis of the opera</TITLE>
+         <ARTICLE_TITLE>Sergei Prokofiev's Fiery Angel: Formal analysis of the opera</ARTICLE_TITLE>
          <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>2013-05-31</CUSTOM5>
