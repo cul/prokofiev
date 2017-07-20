@@ -37542,8 +37542,9 @@ Novodevichy Cemetery in Moscow. -->
    </c>
 </c>
        <c level="series">
-            <unittitle>Series V: Research Collection<unitdate type="inclusive/">1917-2003</unitdate></unittitle> 
-         <did>
+          <did>
+            <unittitle>Series V: Research Collection<unitdate type="inclusive">1917-2003</unitdate></unittitle> 
+          </did>
          <scopecontent>
             <p>412 books and xx perioicals (journals, articles, reviews, excertps, book sections) related to Prokofiev's work and life</p>
          </scopecontent>
@@ -45015,10 +45016,12 @@ Novodevichy Cemetery in Moscow. -->
                      <unittitle>Biography: "Sergei Prokofiev" by Georgii Nikolaevich
                         Gorchakov</unittitle>
                   </did>
+                 
                </c>
             </c>
-
+            
          </c>
+      </c>
       </dsc>
    </archdesc>
 </ead>
