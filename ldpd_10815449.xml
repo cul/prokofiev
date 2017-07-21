@@ -37542,6 +37542,7 @@ Novodevichy Cemetery in Moscow. -->
    </c>
 </c>
        <c level="series">
+          <!-- Series V: Research Collection -->
           <did>
             <unittitle>Series V: Research Collection<unitdate type="inclusive">1917-2003</unitdate></unittitle> 
           </did>
@@ -44957,18 +44958,17 @@ Novodevichy Cemetery in Moscow. -->
       </note>
    </did>
 </c>
-         </c>
-               
-       </c>
-                  
-                  
-                  
-                  
+</c>
+       </c>               
+                 
             <c level="series">
             <!-- Series X: Other Collections -->
             <did>
                <unittitle>Series X: Other Collections<unitdate type="inclusive"/></unittitle>
             </did>
+               <scopecontent>
+                  <p></p>
+               </scopecontent>
             <c level="subseries">
                <did>
                   <unittitle>Subseries X.1: Georgii Gorchakov Collection<unitdate type="inclusive"
@@ -45020,7 +45020,7 @@ Novodevichy Cemetery in Moscow. -->
                </c>
             </c>
             
-         </c>
+            </c>
    
       </dsc>
    </archdesc>
