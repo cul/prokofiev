@@ -130,7 +130,7 @@
         <CUSTOM5>20/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <CALL_NUMBER>spa-tex-per-0006</CALL_NUMBER>
-    </RECORD>    
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>1</REFERENCE_TYPE>
         <REFNUM>61</REFNUM>
@@ -154,7 +154,7 @@
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>David Nice reports on the new Serge Prokofiev Association</NOTES>
         <CALL_NUMBER>spa-tex-per-0007</CALL_NUMBER>
-    </RECORD>    
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>1</REFERENCE_TYPE>
         <REFNUM>85</REFNUM>
@@ -210,7 +210,7 @@
             <PERIODICAL_EDITOR>Currie, Mary</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1978</YEAR>
-        <ARTICLE_AUTHOR>L. N. Tolstoy, 1828-1978: A Tribute</ARTICLE_AUTHOR>
+        <ARTICLE_TITLE>L. N. Tolstoy, 1828-1978: A Tribute</ARTICLE_TITLE>
         <PERIODICAL_TITLE>Britain-USSR</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
         <PUBLISHER>Great Britain-USSR Association</PUBLISHER>
@@ -222,7 +222,7 @@
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>06/05/2005</CUSTOM5>
         <CALL_NUMBER>spa-tex-per-0010</CALL_NUMBER>
-    </RECORD>    
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>1997</REFNUM>
@@ -284,7 +284,7 @@
         <CUSTOM5>06/05/2005</CUSTOM5>
         <NOTES>No article specific to Prokofiev</NOTES>
         <CALL_NUMBER>spa-tex-per-0013</CALL_NUMBER>
-    </RECORD>    
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>1999</REFNUM>
@@ -435,7 +435,7 @@
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Part of 'Prokofiev Special'</NOTES>
         <CALL_NUMBER>spa-tex-per-0018</CALL_NUMBER>
-    </RECORD>    
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>1</REFERENCE_TYPE>
         <REFNUM>2</REFNUM>
@@ -460,7 +460,7 @@
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Part of 'Prokofiev Special'</NOTES>
         <CALL_NUMBER>spa-tex-per-0018</CALL_NUMBER>
-    </RECORD>  
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>1</REFERENCE_TYPE>
         <REFNUM>2</REFNUM>
@@ -485,7 +485,7 @@
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Part of 'Prokofiev Special'</NOTES>
         <CALL_NUMBER>spa-tex-per-0018</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>1</REFERENCE_TYPE>
         <REFNUM>4</REFNUM>
@@ -577,7 +577,7 @@
         <CUSTOM5>21/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <CALL_NUMBER>spa-tex-per-0022</CALL_NUMBER>
-    </RECORD>   
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>1</REFERENCE_TYPE>
         <REFNUM>1948</REFNUM>
@@ -1052,8 +1052,8 @@
             <PERIODICAL_EDITOR>Anon.</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1960</YEAR>
-        <TITLE>Moscow Notebook</TITLE>
-        <SUBSIDIARY_TITLE>Musical Times</SUBSIDIARY_TITLE>
+        <ARTICLE_TITLE>Moscow Notebook</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Musical Times</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>Soho</PLACE_PUBLISHED>
         <PUBLISHER>Novello and Company Ltd</PUBLISHER>
         <VOLUME>101</VOLUME>
@@ -1165,7 +1165,9 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2009</REFNUM>
         <YEAR>1982</YEAR>
-        <PERIODICAL_EDITOR>Anon.</PERIODICAL_EDITOR>
+        <AUTHORS>
+          <PERIODICAL_EDITOR>Anon.</PERIODICAL_EDITOR>
+        </AUTHORS>
         <PERIODICAL_TITLE>Music in the USSR</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>Moscow</PLACE_PUBLISHED>
         <PUBLISHER>VAAP</PUBLISHER>
@@ -1180,7 +1182,9 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2010</REFNUM>
         <YEAR>1983</YEAR>
-        <PERIODICAL_EDITOR>Anon.</PERIODICAL_EDITOR>
+        <AUTHORS>
+          <PERIODICAL_EDITOR>Anon.</PERIODICAL_EDITOR>
+        </AUTHORS>
         <PERIODICAL_TITLE>Music in the USSR</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>Moscow</PLACE_PUBLISHED>
         <PUBLISHER>VAAP</PUBLISHER>
@@ -1196,7 +1200,9 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2011</REFNUM>
         <YEAR>1983</YEAR>
-        <PERIODICAL_EDITOR>Anon.</PERIODICAL_EDITOR>
+        <AUTHORS>
+          <PERIODICAL_EDITOR>Anon.</PERIODICAL_EDITOR>
+        </AUTHORS>
         <PERIODICAL_TITLE>Music in the USSR</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>Moscow</PLACE_PUBLISHED>
         <PUBLISHER>VAAP</PUBLISHER>
@@ -1212,7 +1218,9 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2012</REFNUM>
         <YEAR>1984</YEAR>
-        <PERIODICAL_EDITOR>Anon.</PERIODICAL_EDITOR>
+        <AUTHORS>
+          <PERIODICAL_EDITOR>Anon.</PERIODICAL_EDITOR>
+        </AUTHORS>
         <PERIODICAL_TITLE>Music in the USSR</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>Moscow</PLACE_PUBLISHED>
         <PUBLISHER>VAAP</PUBLISHER>
@@ -1228,7 +1236,9 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2013</REFNUM>
         <YEAR>1984</YEAR>
-        <PERIODICAL_EDITOR>Anon.</PERIODICAL_EDITOR>
+        <AUTHORS>
+          <PERIODICAL_EDITOR>Anon.</PERIODICAL_EDITOR>
+        </AUTHORS>
         <PERIODICAL_TITLE>Music in the USSR</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>Moscow</PLACE_PUBLISHED>
         <PUBLISHER>VAAP</PUBLISHER>
@@ -1354,7 +1364,7 @@
         <CUSTOM5>28/11/2000</CUSTOM5>
         <NOTES>DUPLICATE. See OPERA collection.</NOTES>
         <CALL_NUMBER>spa-tex-per-0055</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>934</REFNUM>
@@ -1387,7 +1397,7 @@
             <PERIODICAL_EDITOR>Allison, John</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2001</YEAR>
-        <ARTICLE_TITLE>'War and Peace' in Stalin's Shadow</ARTICLE_TITLE>  
+        <ARTICLE_TITLE>'War and Peace' in Stalin's Shadow</ARTICLE_TITLE>
         <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
         <PUBLISHER>Seymour Press Ltd.</PUBLISHER>
@@ -1569,7 +1579,7 @@
         <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
         <ISBN>1368-9770</ISBN>
-        <ENTRY>1</ENTRY>         
+        <ENTRY>1</ENTRY> 
         <NUMBER_OF_ENTRIES>2</NUMBER_OF_ENTRIES>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>10/01/2006</CUSTOM5>
@@ -1595,7 +1605,7 @@
         <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
         <ISBN>1368-9770</ISBN>
-        <ENTRY>2</ENTRY>         
+        <ENTRY>2</ENTRY> 
         <NUMBER_OF_ENTRIES>2</NUMBER_OF_ENTRIES>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>10/01/2006</CUSTOM5>
@@ -1621,7 +1631,7 @@
         <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
         <ISBN>0892-7189</ISBN>
-        <ENTRY>1</ENTRY>         
+        <ENTRY>1</ENTRY> 
         <NUMBER_OF_ENTRIES>3</NUMBER_OF_ENTRIES>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>10/01/2006</CUSTOM5>
@@ -1648,7 +1658,7 @@
         <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>English</PERIODICAL_TYPE_OF_WORK>
         <ISBN>0892-7189</ISBN>
-        <ENTRY>2</ENTRY>         
+        <ENTRY>2</ENTRY> 
         <NUMBER_OF_ENTRIES>3</NUMBER_OF_ENTRIES>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>10/01/2006</CUSTOM5>
@@ -1673,7 +1683,7 @@
         <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
         <ISBN>0892-7189</ISBN>
-        <ENTRY>3</ENTRY>         
+        <ENTRY>3</ENTRY> 
         <NUMBER_OF_ENTRIES>3</NUMBER_OF_ENTRIES>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>10/01/2006</CUSTOM5>
@@ -1703,7 +1713,7 @@
         <CUSTOM5>10/01/2006</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <CALL_NUMBER>spa-tex-per-0065</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2018</REFNUM>
@@ -1940,7 +1950,7 @@
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>11/01/2006</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
-        <NOTES>(Blurb) Michael Steinberg comes to the Philharmonic with an 
+        <NOTES>(Blurb) Michael Steinberg comes to the Philharmonic with an
         impressive array of credentials – not least being his ability to
         write brilliantly and accessibly about music.</NOTES>
         <CALL_NUMBER>spa-tex-per-0071</CALL_NUMBER>
@@ -1962,7 +1972,7 @@
         <DATE>1949 (Spring)</DATE>
         <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
-        <ENTRY>1</ENTRY>         
+        <ENTRY>1</ENTRY> 
         <NUMBER_OF_ENTRIES>5</NUMBER_OF_ENTRIES>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>11/01/2006</CUSTOM5>
@@ -1987,7 +1997,7 @@
         <DATE>1949 (Spring)</DATE>
         <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
-        <ENTRY>2</ENTRY>         
+        <ENTRY>2</ENTRY> 
         <NUMBER_OF_ENTRIES>5</NUMBER_OF_ENTRIES>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>11/01/2006</CUSTOM5>
@@ -2012,7 +2022,7 @@
         <DATE>1949 (Spring)</DATE>
         <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
-        <ENTRY>3</ENTRY>         
+        <ENTRY>3</ENTRY> 
         <NUMBER_OF_ENTRIES>5</NUMBER_OF_ENTRIES>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>11/01/2006</CUSTOM5>
@@ -2037,7 +2047,7 @@
         <DATE>1949 (Spring)</DATE>
         <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
-        <ENTRY>4</ENTRY>         
+        <ENTRY>4</ENTRY> 
         <NUMBER_OF_ENTRIES>5</NUMBER_OF_ENTRIES>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>11/01/2006</CUSTOM5>
@@ -2062,7 +2072,7 @@
         <DATE>1949 (Spring)</DATE>
         <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
-        <ENTRY>5</ENTRY>         
+        <ENTRY>5</ENTRY> 
         <NUMBER_OF_ENTRIES>5</NUMBER_OF_ENTRIES>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>11/01/2006</CUSTOM5>
@@ -2191,7 +2201,7 @@
             <PERIODICAL_EDITOR>Orwin, Donna Tussing</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2002</YEAR>
-    <ARTICLE_TITLE>Leo Tolstoy and the Rights of Music under Stalin 
+    <ARTICLE_TITLE>Leo Tolstoy and the Rights of Music under Stalin
         (Another look at Prokofiev's party-minded masterpiece, War and Peace)</ARTICLE_TITLE>
         <PERIODICAL_TITLE>Tolstoy Studies Journal</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>Toronto</PLACE_PUBLISHED>
@@ -2305,8 +2315,10 @@
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2029</REFNUM>
         <YEAR>2002</YEAR>
-        <ARTICLE_AUTHOR>S., M.</ARTICLE_AUTHOR>
-        <PERIODICAL_EDITOR>Rothe, Larry</PERIODICAL_EDITOR>
+        <AUTHORS>
+          <ARTICLE_AUTHOR>S., M.</ARTICLE_AUTHOR>
+          <PERIODICAL_EDITOR>Rothe, Larry</PERIODICAL_EDITOR>
+        </AUTHORS>
         <ARTICLE_TITLE>Sergei Sergeievich Prokofiev</ARTICLE_TITLE>
         <PERIODICAL_TITLE>Playbill</PERIODICAL_TITLE>
         <SUBSIDIARY_PERIODICAL_TITLE>San Francisco Symphony</SUBSIDIARY_PERIODICAL_TITLE>
@@ -2975,7 +2987,7 @@
         </AUTHORS>
         <YEAR>1990</YEAR>
         <ARTICLE_TITLE>Prokofiev neu entdecken...</ARTICLE_TITLE>
-        <SUBSIDIARY_ARTICLE_TITLE>Internationales Musikfestival "Sergej Prokofjew und 
+        <SUBSIDIARY_ARTICLE_TITLE>Internationales Musikfestival "Sergej Prokofjew und
             zeitgenossische Musik aus de Sowjetunion"</SUBSIDIARY_ARTICLE_TITLE>
         <PERIODICAL_TITLE>Duisburger Journal</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>Duisburg</PLACE_PUBLISHED>
@@ -3004,7 +3016,7 @@
         <YEAR>1990</YEAR>
         <ARTICLE_TITLE>Vorwort zum Festival-Begleitbuch "Sergej Prokofiev - 11. April 1891-5.
             März 1953"</ARTICLE_TITLE>
-        <SUBSIDIARY_ARTICLE_TITLE>Internationales Musikfestival "Sergej Prokofjew und 
+        <SUBSIDIARY_ARTICLE_TITLE>Internationales Musikfestival "Sergej Prokofjew und
             zeitgenossische Musik aus de Sowjetunion"</SUBSIDIARY_ARTICLE_TITLE>
         <PERIODICAL_TITLE>Duisburger Journal</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>Duisburg</PLACE_PUBLISHED>
@@ -3032,7 +3044,7 @@
         </AUTHORS>
         <YEAR>1990</YEAR>
         <ARTICLE_TITLE>Prokofjew und Hayden im Vergleich</ARTICLE_TITLE>
-        <SUBSIDIARY_ARTICLE_TITLE>Internationales Musikfestival "Sergej Prokofjew und 
+        <SUBSIDIARY_ARTICLE_TITLE>Internationales Musikfestival "Sergej Prokofjew und
             zeitgenossische Musik aus de Sowjetunion"</SUBSIDIARY_ARTICLE_TITLE>
         <PERIODICAL_TITLE>Duisburger Journal</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>Duisburg</PLACE_PUBLISHED>
@@ -3060,7 +3072,7 @@
         </AUTHORS>
         <YEAR>1990</YEAR>
         <ARTICLE_TITLE>Sergej Prokofiev in Bayern</ARTICLE_TITLE>
-        <SUBSIDIARY_ARTICLE_TITLE>Internationales Musikfestival "Sergej Prokofjew und 
+        <SUBSIDIARY_ARTICLE_TITLE>Internationales Musikfestival "Sergej Prokofjew und
             zeitgenossische Musik aus de Sowjetunion"</SUBSIDIARY_ARTICLE_TITLE>
         <PERIODICAL_TITLE>Duisburger Journal</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>Duisburg</PLACE_PUBLISHED>
@@ -3089,7 +3101,7 @@
         <YEAR>1990</YEAR>
         <ARTICLE_TITLE>Erinnerungsabend "Hommage à Prokofiev"; Grußwort von Frau Nina
             Dorliak, Moskau: vorgetragen von Andrej Zolotow</ARTICLE_TITLE>
-        <SUBSIDIARY_ARTICLE_TITLE>Internationales Musikfestival "Sergej Prokofjew und 
+        <SUBSIDIARY_ARTICLE_TITLE>Internationales Musikfestival "Sergej Prokofjew und
             zeitgenossische Musik aus de Sowjetunion"</SUBSIDIARY_ARTICLE_TITLE>
         <PERIODICAL_TITLE>Duisburger Journal</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>Duisburg</PLACE_PUBLISHED>
@@ -3118,7 +3130,7 @@
         <YEAR>1990</YEAR>
         <ARTICLE_TITLE>"Russische Avantegarde 1910-1930" aus sowjetischen und deutschen
             Sammlungen</ARTICLE_TITLE>
-        <SUBSIDIARY_ARTICLE_TITLE>Internationales Musikfestival "Sergej Prokofjew und 
+        <SUBSIDIARY_ARTICLE_TITLE>Internationales Musikfestival "Sergej Prokofjew und
             zeitgenossische Musik aus de Sowjetunion"</SUBSIDIARY_ARTICLE_TITLE>
         <PERIODICAL_TITLE>Duisburger Journal</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>Duisburg</PLACE_PUBLISHED>
@@ -3146,7 +3158,7 @@
         </AUTHORS>
         <YEAR>1990</YEAR>
         <ARTICLE_TITLE>Eine breite Schneise für Sergej Prokofiev</ARTICLE_TITLE>
-        <SUBSIDIARY_ARTICLE_TITLE>Internationales Musikfestival "Sergej Prokofjew und 
+        <SUBSIDIARY_ARTICLE_TITLE>Internationales Musikfestival "Sergej Prokofjew und
             zeitgenossische Musik aus de Sowjetunion"</SUBSIDIARY_ARTICLE_TITLE>
         <PERIODICAL_TITLE>Duisburger Journal</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>Duisburg</PLACE_PUBLISHED>
@@ -3175,7 +3187,7 @@
         <YEAR>1990</YEAR>
         <ARTICLE_TITLE>Festakt zur feierlichen Eröffnung des Internationalen Festivals "Sergej
             Prokofiev und zeitgenössische Musik aus der Sowjetunion"</ARTICLE_TITLE>
-        <SUBSIDIARY_ARTICLE_TITLE>Internationales Musikfestival "Sergej Prokofjew und 
+        <SUBSIDIARY_ARTICLE_TITLE>Internationales Musikfestival "Sergej Prokofjew und
             zeitgenossische Musik aus de Sowjetunion"</SUBSIDIARY_ARTICLE_TITLE>
         <PERIODICAL_TITLE>Duisburger Journal</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>Duisburg</PLACE_PUBLISHED>
@@ -3205,7 +3217,7 @@
         </AUTHORS>
         <YEAR>1990</YEAR>
         <ARTICLE_TITLE>Kammermusik von Beethoven, Prokofjew und Mendelssohn</ARTICLE_TITLE>
-        <SUBSIDIARY_ARTICLE_TITLE>Internationales Musikfestival "Sergej Prokofjew und 
+        <SUBSIDIARY_ARTICLE_TITLE>Internationales Musikfestival "Sergej Prokofjew und
             zeitgenossische Musik aus de Sowjetunion"</SUBSIDIARY_ARTICLE_TITLE>
         <PERIODICAL_TITLE>Duisburger Journal</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>Duisburg</PLACE_PUBLISHED>
@@ -3223,7 +3235,7 @@
         <CUSTOM5>12/01/2006</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <CALL_NUMBER>spa-tex-per-0099</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>1</REFERENCE_TYPE>
         <REFNUM>2386</REFNUM>
@@ -3233,7 +3245,7 @@
         </AUTHORS>
         <YEAR>1990</YEAR>
         <ARTICLE_TITLE>Kinder tanzen Prokofjew fur Kinder "Die Konigstochter im der Flammenburg"</ARTICLE_TITLE>
-        <SUBSIDIARY_ARTICLE_TITLE>Internationales Musikfestival "Sergej Prokofjew und 
+        <SUBSIDIARY_ARTICLE_TITLE>Internationales Musikfestival "Sergej Prokofjew und
             zeitgenossische Musik aus de Sowjetunion"</SUBSIDIARY_ARTICLE_TITLE>
         <PERIODICAL_TITLE>Duisburger Journal</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>Duisburg</PLACE_PUBLISHED>
@@ -3251,7 +3263,7 @@
         <CUSTOM5>12/01/2006</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <CALL_NUMBER>spa-tex-per-0099</CALL_NUMBER>
-    </RECORD>        
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2038</REFNUM>
@@ -3725,7 +3737,7 @@
         <CUSTOM5>19/08/2004</CUSTOM5>
         <NOTES>LOCATION: Publications-fragile: box 1. No article specific to Prokofiev.</NOTES>
         <CALL_NUMBER>spa-tex-per-0108</CALL_NUMBER>
-    </RECORD>   
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2046</REFNUM>
@@ -3746,7 +3758,7 @@
         <CUSTOM5>10/05/2005</CUSTOM5>
         <NOTES>per-109 and per-110 are 2 volumes of the same issue. No article specific to Prokofiev.</NOTES>
         <CALL_NUMBER>spa-tex-per-0109</CALL_NUMBER>
-    </RECORD>      
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2046</REFNUM>
@@ -3766,7 +3778,7 @@
         <CUSTOM5>10/05/2005</CUSTOM5>
         <NOTES>per-109 and per-110 are 2 volumes of the same issue. No article specific to Prokofiev.</NOTES>
         <CALL_NUMBER>spa-tex-per-1</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>2047</REFNUM>
@@ -5092,7 +5104,7 @@
         <CUSTOM5>05/08/2005</CUSTOM5>
         <NOTES></NOTES>
         <CALL_NUMBER>spa-tex-per-0156</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>900</REFNUM>
@@ -5112,7 +5124,7 @@
         <NOTES>No article specific to Prokofiev. Contributors: Edwin Evans; Denis Hall; Rex Lawson; Michael Magnus Osborn; Gerald
             Stonehill</NOTES>
         <CALL_NUMBER>spa-tex-per-0157</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>901</REFNUM>
@@ -5131,7 +5143,7 @@
         <NOTES>No article specific to Prokofiev. Contributors: Drui Fergison; Denis Hall; Rex Lawson; Colin Osman; David Smith; Guy
             Montrose Whipple</NOTES>
         <CALL_NUMBER>spa-tex-per-0158</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>902</REFNUM>
@@ -5149,7 +5161,7 @@
         <CUSTOM5>28/10/2002</CUSTOM5>
         <NOTES>No article specific to Prokofiev. Contributors: Charles Amirkhanian; Denis Hall; Wendy Hiscocks; Lionel Salter</NOTES>
         <CALL_NUMBER>spa-tex-per-0159</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>903</REFNUM>
@@ -5809,7 +5821,7 @@
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Relating to the Prokofiev 2003 celebrations</NOTES>
         <CALL_NUMBER>spa-tex-per-0176</CALL_NUMBER>
-    </RECORD>    
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>1</REFERENCE_TYPE>
         <REFNUM>2661</REFNUM>
@@ -5835,7 +5847,7 @@
         <NOTES>Review of Harlow Robinson's biography and the Diaries.&#xD;Relating to the
             Prokofiev 2003 celebrations</NOTES>
         <CALL_NUMBER>spa-tex-per-0176</CALL_NUMBER>
-    </RECORD>    
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>1</REFERENCE_TYPE>
         <REFNUM>2663</REFNUM>
@@ -6619,7 +6631,7 @@
         <ACCESSION_NUMBER>372</ACCESSION_NUMBER>
         <NOTES>(Abstract)How Christian Science touched the life of Russian composer Serge Prokofiev.</NOTES>
         <CALL_NUMBER>spa-tex-per-0195</CALL_NUMBER>
-    </RECORD>  
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>3140</REFNUM>
@@ -6662,7 +6674,7 @@
         <ACCESSION_NUMBER>19</ACCESSION_NUMBER>
         <NOTES>Prokofieff Issue</NOTES>
         <CALL_NUMBER>spa-tex-per-0197</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>3165</REFNUM>
@@ -6715,7 +6727,7 @@
         <ACCESSION_NUMBER>19</ACCESSION_NUMBER>
         <NOTES>List of all orchestral works. Prokofieff Issue</NOTES>
         <CALL_NUMBER>spa-tex-per-0197</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>3165</REFNUM>
@@ -6742,7 +6754,7 @@
         <ACCESSION_NUMBER>19</ACCESSION_NUMBER>
         <NOTES>List of all opera works and locations. Prokofieff Issue</NOTES>
         <CALL_NUMBER>spa-tex-per-0197</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>3165</REFNUM>
@@ -6768,7 +6780,7 @@
         <ACCESSION_NUMBER>19</ACCESSION_NUMBER>
         <NOTES>List of all ballet works. Prokofieff Issue</NOTES>
         <CALL_NUMBER>spa-tex-per-0197</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>3165</REFNUM>
@@ -6794,7 +6806,7 @@
         <ACCESSION_NUMBER>19</ACCESSION_NUMBER>
         <NOTES>Prokofieff Issue</NOTES>
         <CALL_NUMBER>spa-tex-per-0197</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>3165</REFNUM>
@@ -6820,7 +6832,7 @@
         <ACCESSION_NUMBER>19</ACCESSION_NUMBER>
         <NOTES>List of all discography by Prokofiev. Prokofieff Issue</NOTES>
         <CALL_NUMBER>spa-tex-per-0197</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>3165</REFNUM>
@@ -6846,7 +6858,7 @@
         <ACCESSION_NUMBER>19</ACCESSION_NUMBER>
         <NOTES>Prokofieff Issue</NOTES>
         <CALL_NUMBER>spa-tex-per-0197</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>3165</REFNUM>
@@ -6872,7 +6884,7 @@
         <ACCESSION_NUMBER>19</ACCESSION_NUMBER>
         <NOTES>Prokofieff Issue</NOTES>
         <CALL_NUMBER>spa-tex-per-0197</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>3165</REFNUM>
@@ -6923,7 +6935,7 @@
         <ACCESSION_NUMBER>377</ACCESSION_NUMBER>
         <NOTES></NOTES>
         <CALL_NUMBER>spa-tex-per-0198</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>3195</REFNUM>
@@ -6949,7 +6961,7 @@
         <ACCESSION_NUMBER>384</ACCESSION_NUMBER>
         <NOTES></NOTES>
         <CALL_NUMBER>spa-tex-per-0199</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>3326</REFNUM>
@@ -6972,7 +6984,7 @@
         <ACCESSION_NUMBER>419</ACCESSION_NUMBER>
         <NOTES></NOTES>
         <CALL_NUMBER>spa-tex-per-0200</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>3326</REFNUM>
@@ -6995,7 +7007,7 @@
         <ACCESSION_NUMBER>419</ACCESSION_NUMBER>
         <NOTES></NOTES>
         <CALL_NUMBER>spa-tex-per-0200</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>3410</REFNUM>
@@ -7019,8 +7031,8 @@
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>11/11/2009</CUSTOM5>
         <ACCESSION_NUMBER>435</ACCESSION_NUMBER>
-        <NOTES>For cover CD see CD 374 ; (Blurb) Prokofiev himself was a 
-            talented composer-pianist, yet some of his greatest works were 
+        <NOTES>For cover CD see CD 374 ; (Blurb) Prokofiev himself was a
+            talented composer-pianist, yet some of his greatest works were
             written for other musicians whose playing he admired.</NOTES>
         <CALL_NUMBER>spa-tex-per-0201</CALL_NUMBER>
     </RECORD>
@@ -7072,7 +7084,7 @@
          <NOTES>Kept in FRAGILE PUBLICATIONS box 3.&#xD;Extremely fragile - outer cover brittle and
             badly damaged.</NOTES>
          <CALL_NUMBER>spa-tex-per-0203</CALL_NUMBER>
-      </RECORD>   
+      </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <REFNUM>3534</REFNUM>
@@ -7163,7 +7175,7 @@
             <PERIODICAL_EDITOR>Moron, Nicolas</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2010</YEAR>
-        <ARTICLE_TITLE>Genese et publications de l'incantation "Sept, ils son sept" 
+        <ARTICLE_TITLE>Genese et publications de l'incantation "Sept, ils son sept"
             de Konstantin Balmont</ARTICLE_TITLE>
         <PERIODICAL_TITLE>Musicorum</PERIODICAL_TITLE>
         <SUBSIDIARY_PERIODICAL_TITLE>Prokofiev et la litterature</SUBSIDIARY_PERIODICAL_TITLE>
@@ -7183,5 +7195,5 @@
             littérature</NOTES>
         <CALL_NUMBER>spa-tex-per-0204</CALL_NUMBER>
     </RECORD>
-    
+
 </outputxml>
