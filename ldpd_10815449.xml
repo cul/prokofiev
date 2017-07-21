@@ -183,7 +183,7 @@ Novodevichy Cemetery in Moscow. -->
       </scopecontent>
       <arrangement encodinganalog="351">
          <head>Arrangement</head>
-         <p>Material is arranged in ten series with several sub-series. <list type="marked">
+         <p>Material is arranged in ten series with several subseries. <list type="marked">
                <item>Series I: Music Manuscripts <list type="marked">
                      <!-- 373 items -->
                      <item>Subseries I.1: Original manuscripts</item>
@@ -349,7 +349,7 @@ Novodevichy Cemetery in Moscow. -->
 
             <c level="subseries">
                <did>
-                  <unittitle>Sub-series I.1: Original Manuscripts <unitdate type="inclusive"
+                  <unittitle>Subseries I.1: Original Manuscripts <unitdate type="inclusive"
                         >1910-1934</unitdate></unittitle>
                </did>
                <scopecontent>
@@ -7479,7 +7479,7 @@ Novodevichy Cemetery in Moscow. -->
 
             <c level="subseries">
                <did>
-                  <unittitle>Sub-series I.3: Microfilm copies <unitdate type="inclusive">c.
+                  <unittitle>Subseries I.3: Microfilm copies <unitdate type="inclusive">c.
                         1900-1948</unitdate></unittitle>
                </did>
                <scopecontent>
@@ -10841,7 +10841,7 @@ Novodevichy Cemetery in Moscow. -->
 
             <c level="subseries">
                <did>
-                  <unittitle>Sub-series I.4: Digital copies <unitdate type="inclusive">1899-1952;
+                  <unittitle>Subseries I.4: Digital copies <unitdate type="inclusive">1899-1952;
                         1970s</unitdate></unittitle>
                </did>
                <scopecontent>
@@ -12611,7 +12611,7 @@ Novodevichy Cemetery in Moscow. -->
 
             <c level="subseries">
                <did>
-                  <unittitle>Sub-series II.1: Personal and Professional Correspondence <unitdate
+                  <unittitle>Subseries II.1: Personal and Professional Correspondence <unitdate
                         type="inclusive">1915-1935</unitdate></unittitle>
                </did>
                <scopecontent>
@@ -12663,7 +12663,7 @@ Novodevichy Cemetery in Moscow. -->
             </c>
             <c level="subseries">
                <did>
-                  <unittitle>Sub-series II.2: Financial Records<unitdate type="inclusive"
+                  <unittitle>Subseries II.2: Financial Records<unitdate type="inclusive"
                         >1917-1935</unitdate></unittitle>
                </did>
                <scopecontent>
@@ -12689,7 +12689,7 @@ Novodevichy Cemetery in Moscow. -->
             </c>
             <c level="subseries">
                <did>
-                  <unittitle>Sub-series II.3: Miscellaneous<unitdate type="inclusive"
+                  <unittitle>Subseries II.3: Miscellaneous<unitdate type="inclusive"
                         >1917-1935</unitdate></unittitle>
                </did>
                <c level="file">
@@ -37550,7 +37550,7 @@ Novodevichy Cemetery in Moscow. -->
          </scopecontent>
          <c level="subseries">
             <did>
-               <unittitle>Sub-series V.1: Books<unitdate type="inclusive"
+               <unittitle>Subseries V.1: Books<unitdate type="inclusive"
                /></unittitle>
             </did>
             
@@ -44959,7 +44959,7 @@ Novodevichy Cemetery in Moscow. -->
 </c>
          </c>
                
-               
+       </c>
                   
                   
                   
@@ -44971,7 +44971,7 @@ Novodevichy Cemetery in Moscow. -->
             </did>
             <c level="subseries">
                <did>
-                  <unittitle>Sub-series X.1: Georgii Gorchakov Collection<unitdate type="inclusive"
+                  <unittitle>Subseries X.1: Georgii Gorchakov Collection<unitdate type="inclusive"
                      /></unittitle>
                </did>
                <c level="file">
