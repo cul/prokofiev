@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+
   TITLE: Sergei Prokofjew 1891-1953. Componist, Pianist, Dirigent, Maarschrijver Van
             Dagboeken En Korte Verhalen
 
@@ -33,7 +34,7 @@
 
          Creator: Mendl-Schrama, Heleen
          ID: SPA_2091
-         Periodical: , Volume 17, Number 12, Page(s) 10-11
+         Periodical: Pianowereld, Volume 17, Number 12, Page(s) 10-11
          Publication date: 2001-12
          Language: Dutch
          Call Number: spa-tex-per-0003
@@ -583,7 +584,7 @@
 
          Creator: Nissman, Barbara
          ID: SPA_2130
-         Periodical: , Volume 112, Number 1334, Page(s) 41-42
+         Periodical: Musical Opinion, Volume 112, Number 1334, Page(s) 41-42
          Publication date: 1989-02
          Language: English
          Call Number: spa-tex-per-0037
