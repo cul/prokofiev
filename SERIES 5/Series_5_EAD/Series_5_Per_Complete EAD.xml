@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <outputxml>
-
 <!--EAD SPA_2089-->
 <c level="file">
    <did>
@@ -45,7 +44,7 @@
       <note>
          <p>Creator: Mendl-Schrama, Heleen</p>
          <p>ID: SPA_2091</p>
-         <p>Periodical: Pianowereld, Volume 17, Number 12, Page(s) 10-11</p>
+         <p>Periodical: , Volume 17, Number 12, Page(s) 10-11</p>
          <p>Publication date: 2001-12</p>
          <p>Language: Dutch</p>
          <p>Call Number: spa-tex-per-0003</p>
@@ -751,7 +750,7 @@
       <note>
          <p>Creator: Nissman, Barbara</p>
          <p>ID: SPA_2130</p>
-         <p>Periodical: Musical Opinion, Volume 112, Number 1334, Page(s) 41-42</p>
+         <p>Periodical: , Volume 112, Number 1334, Page(s) 41-42</p>
          <p>Publication date: 1989-02</p>
          <p>Language: English</p>
          <p>Call Number: spa-tex-per-0037</p>
@@ -842,7 +841,7 @@
       <note>
          <p>Creator: Jacobs, Arthur</p>
          <p>ID: SPA_2135</p>
-         <p>Periodical: , Volume 101, Number 1409, Page(s) 422-424</p>
+         <p>Periodical: Musical Times, Volume 101, Number 1409, Page(s) 422-424</p>
          <p>Publication date: 1960-07</p>
          <p>Language: English</p>
          <p>Call Number: spa-tex-per-0041</p>
@@ -1032,16 +1031,18 @@
 <!--EAD SPA_2146-->
 <c level="file">
    <did>
-      <unittitle>Opera</unittitle>
+      <unittitle>Germany: a Prokofiev 'Fairyland'</unittitle>
       <note>
-         <p>Creator: Rosenthal, Harold</p>
+         <p>Creator: Greville, Rothon</p>
          <p>ID: SPA_2146</p>
-         <p>Periodical: Opera, Volume 12, Number 3, Page(s) 152-216</p>
+         <p>Periodical: Opera, Volume 12, Number 3, Page(s) 176-178</p>
          <p>Publication date: 1961-03</p>
          <p>Language: English</p>
          <p>Call Number: spa-tex-per-0052</p>
+         <p>Document type: Review</p>
+         <p>Periodical type: Journal</p>
          <p>Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London</p>
-         <p>Notes: DUPLICATE. See OPERA collection. No article specific to Prokofiev</p>
+         <p>Notes: DUPLICATE. See OPERA collection.</p>
       </note>
    </did>
 </c>
@@ -1049,16 +1050,18 @@
 <!--EAD SPA_2147-->
 <c level="file">
    <did>
-      <unittitle>Opera</unittitle>
+      <unittitle>Russia: Prokofiev's last opera</unittitle>
       <note>
-         <p>Creator: Rosenthal, Harold</p>
+         <p>Creator: Polyanovsky, Georgi</p>
          <p>ID: SPA_2147</p>
-         <p>Periodical: Opera, Volume 12, Number 4, Page(s) 224-282</p>
+         <p>Periodical: Opera, Volume 12, Number 4, Page(s) 261-262</p>
          <p>Publication date: 1961-04</p>
          <p>Language: English</p>
          <p>Call Number: spa-tex-per-0053</p>
+         <p>Document type: Review</p>
+         <p>Periodical type: Journal</p>
          <p>Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London</p>
-         <p>Notes: DUPLICATE. See OPERA collection. No article specific to Prokofiev</p>
+         <p>Notes: DUPLICATE. See OPERA collection.</p>
       </note>
    </did>
 </c>
@@ -1066,16 +1069,18 @@
 <!--EAD SPA_2148-->
 <c level="file">
    <did>
-      <unittitle>Opera</unittitle>
+      <unittitle>The Fiery Angel. Sadler's Wells, July 27</unittitle>
       <note>
-         <p>Creator: Rosenthal, Harold</p>
+         <p>Creator: Jacobs, Arthur</p>
          <p>ID: SPA_2148</p>
-         <p>Periodical: Opera, Volume 16, Number 9, Page(s) 622-688</p>
+         <p>Periodical: Opera, Volume 16, Number 9, Page(s) 675-679</p>
          <p>Publication date: 1965-09</p>
          <p>Language: English</p>
          <p>Call Number: spa-tex-per-0054</p>
+         <p>Document type: Review</p>
+         <p>Periodical type: Journal</p>
          <p>Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London</p>
-         <p>Notes: DUPLICATE. See OPERA collection. No article specific to Prokofiev.</p>
+         <p>Notes: DUPLICATE. See OPERA collection.</p>
       </note>
    </did>
 </c>
@@ -1083,16 +1088,18 @@
 <!--EAD SPA_2149-->
 <c level="file">
    <did>
-      <unittitle>Opera</unittitle>
+      <unittitle>City centre's 'Fiery Angel'</unittitle>
       <note>
-         <p>Creator: Rosenthal, Harold</p>
+         <p>Creator: Ardoin, John</p>
          <p>ID: SPA_2149</p>
-         <p>Periodical: Opera, Volume 16, Number 11, Page(s) 774-848</p>
+         <p>Periodical: Opera, Volume 16, Number 11, Page(s) 799-800</p>
          <p>Publication date: 1965-11</p>
          <p>Language: English</p>
          <p>Call Number: spa-tex-per-0055</p>
+         <p>Document type: Review</p>
+         <p>Periodical type: Journal</p>
          <p>Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London</p>
-         <p>Notes: DUPLICATE. See OPERA collection. No article specific to Prokofiev.</p>
+         <p>Notes: DUPLICATE. See OPERA collection.</p>
       </note>
    </did>
 </c>
@@ -1100,16 +1107,18 @@
 <!--EAD SPA_2150-->
 <c level="file">
    <did>
-      <unittitle>Opera</unittitle>
+      <unittitle>'War and Peace' breaks out: John Allison on Prokofiev in Paris</unittitle>
       <note>
          <p>Creator: Allison, John</p>
          <p>ID: SPA_2150</p>
-         <p>Periodical: Opera, Volume 51, Number 5, Page(s) 507-624</p>
+         <p>Periodical: Opera, Volume 51, Number 5, Page(s) 532-534</p>
          <p>Publication date: 2000-05</p>
          <p>Language: English</p>
          <p>Call Number: spa-tex-per-0056</p>
+         <p>Document type: Review</p>
+         <p>Periodical type: Journal</p>
          <p>Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London</p>
-         <p>Notes: DUPLICATE. See OPERA collection. No article specific to Prokofiev.</p>
+         <p>Notes: DUPLICATE. See OPERA collection.</p>
       </note>
    </did>
 </c>
@@ -2277,11 +2286,11 @@
 <!--EAD SPA_2214-->
 <c level="file">
    <did>
-      <unittitle>Eine Sinfonie des 'Feurigen Engels'?. Prokofievs Sinfonie Nr. 3</unittitle>
+      <unittitle>Eine Sinfonie des 'Feurigen Engels'?</unittitle>
       <note>
          <p>Creator: Anon.</p>
          <p>ID: SPA_2214</p>
-         <p>Periodical: Notabene, Number 19, Page(s) 4-5</p>
+         <p>Periodical: Notabene, Prokofievs Sinfonie Nr. 3, Number 19, Page(s) 4-5</p>
          <p>Publication date: 1990-09</p>
          <p>Language: German</p>
          <p>Call Number: spa-tex-per-0097</p>
@@ -3066,7 +3075,6 @@
       <unittitle>"Ognennyi angel": tret'ia versiia</unittitle>
       <note>
          <p>Creator: Morrison, Simon</p>
-         <p>Secondary creator: Emel'ianov, A (trans.)</p>
          <p>ID: SPA_2256</p>
          <p>Periodical: Muzykal'naia Akademiia, Number 2, Page(s) 221-228</p>
          <p>Publication date: 2000</p>

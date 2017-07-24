@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-
   TITLE: Sergei Prokofjew 1891-1953. Componist, Pianist, Dirigent, Maarschrijver Van
             Dagboeken En Korte Verhalen
 
@@ -34,7 +33,7 @@
 
          Creator: Mendl-Schrama, Heleen
          ID: SPA_2091
-         Periodical: Pianowereld, Volume 17, Number 12, Page(s) 10-11
+         Periodical: , Volume 17, Number 12, Page(s) 10-11
          Publication date: 2001-12
          Language: Dutch
          Call Number: spa-tex-per-0003
@@ -584,7 +583,7 @@
 
          Creator: Nissman, Barbara
          ID: SPA_2130
-         Periodical: Musical Opinion, Volume 112, Number 1334, Page(s) 41-42
+         Periodical: , Volume 112, Number 1334, Page(s) 41-42
          Publication date: 1989-02
          Language: English
          Call Number: spa-tex-per-0037
@@ -655,7 +654,7 @@
 
          Creator: Jacobs, Arthur
          ID: SPA_2135
-         Periodical: , Volume 101, Number 1409, Page(s) 422-424
+         Periodical: Musical Times, Volume 101, Number 1409, Page(s) 422-424
          Publication date: 1960-07
          Language: English
          Call Number: spa-tex-per-0041
@@ -801,68 +800,78 @@
 
 
 
-  TITLE: Opera
+  TITLE: Germany: a Prokofiev 'Fairyland'
 
-         Creator: Rosenthal, Harold
+         Creator: Greville, Rothon
          ID: SPA_2146
-         Periodical: Opera, Volume 12, Number 3, Page(s) 152-216
+         Periodical: Opera, Volume 12, Number 3, Page(s) 176-178
          Publication date: 1961-03
          Language: English
          Call Number: spa-tex-per-0052
+         Document type: Review
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-         Notes: DUPLICATE. See OPERA collection. No article specific to Prokofiev
+         Notes: DUPLICATE. See OPERA collection.
 
 
 
-  TITLE: Opera
+  TITLE: Russia: Prokofiev's last opera
 
-         Creator: Rosenthal, Harold
+         Creator: Polyanovsky, Georgi
          ID: SPA_2147
-         Periodical: Opera, Volume 12, Number 4, Page(s) 224-282
+         Periodical: Opera, Volume 12, Number 4, Page(s) 261-262
          Publication date: 1961-04
          Language: English
          Call Number: spa-tex-per-0053
+         Document type: Review
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-         Notes: DUPLICATE. See OPERA collection. No article specific to Prokofiev
+         Notes: DUPLICATE. See OPERA collection.
 
 
 
-  TITLE: Opera
+  TITLE: The Fiery Angel. Sadler's Wells, July 27
 
-         Creator: Rosenthal, Harold
+         Creator: Jacobs, Arthur
          ID: SPA_2148
-         Periodical: Opera, Volume 16, Number 9, Page(s) 622-688
+         Periodical: Opera, Volume 16, Number 9, Page(s) 675-679
          Publication date: 1965-09
          Language: English
          Call Number: spa-tex-per-0054
+         Document type: Review
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-         Notes: DUPLICATE. See OPERA collection. No article specific to Prokofiev.
+         Notes: DUPLICATE. See OPERA collection.
 
 
 
-  TITLE: Opera
+  TITLE: City centre's 'Fiery Angel'
 
-         Creator: Rosenthal, Harold
+         Creator: Ardoin, John
          ID: SPA_2149
-         Periodical: Opera, Volume 16, Number 11, Page(s) 774-848
+         Periodical: Opera, Volume 16, Number 11, Page(s) 799-800
          Publication date: 1965-11
          Language: English
          Call Number: spa-tex-per-0055
+         Document type: Review
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-         Notes: DUPLICATE. See OPERA collection. No article specific to Prokofiev.
+         Notes: DUPLICATE. See OPERA collection.
 
 
 
-  TITLE: Opera
+  TITLE: 'War and Peace' breaks out: John Allison on Prokofiev in Paris
 
          Creator: Allison, John
          ID: SPA_2150
-         Periodical: Opera, Volume 51, Number 5, Page(s) 507-624
+         Periodical: Opera, Volume 51, Number 5, Page(s) 532-534
          Publication date: 2000-05
          Language: English
          Call Number: spa-tex-per-0056
+         Document type: Review
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-         Notes: DUPLICATE. See OPERA collection. No article specific to Prokofiev.
+         Notes: DUPLICATE. See OPERA collection.
 
 
 
@@ -1774,11 +1783,11 @@
 
 
 
-  TITLE: Eine Sinfonie des 'Feurigen Engels'?. Prokofievs Sinfonie Nr. 3
+  TITLE: Eine Sinfonie des 'Feurigen Engels'?
 
          Creator: Anon.
          ID: SPA_2214
-         Periodical: Notabene, Number 19, Page(s) 4-5
+         Periodical: Notabene, Prokofievs Sinfonie Nr. 3, Number 19, Page(s) 4-5
          Publication date: 1990-09
          Language: German
          Call Number: spa-tex-per-0097
@@ -2395,7 +2404,6 @@
   TITLE: "Ognennyi angel": tret'ia versiia
 
          Creator: Morrison, Simon
-         Secondary creator: Emel'ianov, A (trans.)
          ID: SPA_2256
          Periodical: Muzykal'naia Akademiia, Number 2, Page(s) 221-228
          Publication date: 2000
