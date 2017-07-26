@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <outputxml>
-
 <!--EAD SPA_1502-->
 <c level="file">
    <did>
@@ -3884,6 +3883,7 @@
    <did>
       <unittitle>The Duenna</unittitle>
       <note>
+         <p>Creator: Prokofieff, Sergei</p>
          <p>Secondary creator: Karsavina, Jean (trans.)</p>
          <p>ID: SPA_1728</p>
          <p>Publisher: AM - RUS Music Agency, Inc., New York</p>
@@ -3900,6 +3900,7 @@
    <did>
       <unittitle>The Gambler (Le Joueur): Opera in Four Acts and Six Scenes</unittitle>
       <note>
+         <p>Creator: Prokofieff, Serge</p>
          <p>Secondary creator: Palmer, Irving (trans.)</p>
          <p>Secondary creator: Palmer, Georgette (trans.)</p>
          <p>ID: SPA_1729</p>
@@ -4013,6 +4014,7 @@
    <did>
       <unittitle>Maddalena: An Opera in One Act by Sergei Prokofiev</unittitle>
       <note>
+         <p>Creator: Liven, Baron</p>
          <p>Secondary creator: Makaroff, Dmitri (trans.)</p>
          <p>Secondary creator: Downes, Edward (trans.)</p>
          <p>ID: SPA_1736</p>
@@ -4030,6 +4032,7 @@
    <did>
       <unittitle>Le Joueur: Comédie lyrique en 4 actes et 6 tableaux d'apres Dostoievski</unittitle>
       <note>
+         <p>Creator: Prokofieff, Serge</p>
          <p>Secondary creator: Spaak, Paul (trans.)</p>
          <p>ID: SPA_1737</p>
          <p>Publisher: Edition Russe de Musique, Bruxelles</p>
@@ -7002,5 +7005,5 @@
       </note>
    </did>
 </c>
-
+   
 </outputxml>
