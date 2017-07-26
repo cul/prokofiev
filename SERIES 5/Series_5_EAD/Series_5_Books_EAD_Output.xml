@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xmloutput>
+<outputxml>
+
 <!--EAD SPA_1502-->
 <c level="file">
    <did>
       <unittitle>Russian Art from Neoclassicism to the Avant-Garde</unittitle>
       <note>
          <p>Creator: Sarabianov, D V</p>
-         <p>Publication date: 1990</p>
          <p>ID: SPA_1502</p>
          <p>Publisher: Thames &amp; Hudson, London</p>
          <p>Publication date: 1990</p>
@@ -23,7 +23,6 @@
       <unittitle>Alexandr Vesnin and Russian Constructivism</unittitle>
       <note>
          <p>Creator: Khan-Magomedov, Selim Omarovich</p>
-         <p>Publication date: 1986</p>
          <p>ID: SPA_1503</p>
          <p>Publisher: Rizzoli, New York</p>
          <p>Publication date: 1986</p>
@@ -41,7 +40,6 @@
       <unittitle>Goncharova: Stage Designs and Paintings</unittitle>
       <note>
          <p>Creator: Chamot, Mary</p>
-         <p>Publication date: 1979</p>
          <p>ID: SPA_1504</p>
          <p>Publisher: Oresko Books Ltd, LONDON</p>
          <p>Publication date: 1979</p>
@@ -58,7 +56,6 @@
       <unittitle>Tradition and Revolution in Russian Art</unittitle>
       <note>
          <p>Creator: Causey, Susan (ed.)</p>
-         <p>Publication date: 1990</p>
          <p>ID: SPA_1505</p>
          <p>Publisher: Leningrad in Manchester, Wilson, Leeds</p>
          <p>Publication date: 1990</p>
@@ -77,7 +74,6 @@
       <note>
          <p>Creator: Elliott, D</p>
          <p>Secondary creator: Dudakov, E (ed.)</p>
-         <p>Publication date: 1989</p>
          <p>ID: SPA_1506</p>
          <p>Publisher: Lund Humphries Publishers, London</p>
          <p>Publication date: 1989</p>
@@ -96,7 +92,6 @@
       <note>
          <p>Creator: Rozhnova, Olga</p>
          <p>Secondary creator: Medvedeva, Irina</p>
-         <p>Publication date: 1995</p>
          <p>ID: SPA_1507</p>
          <p>Publisher: Glinka Museum, Moskva</p>
          <p>Publication date: 1995</p>
@@ -114,7 +109,6 @@
       <note>
          <p>Creator: Gray, Camila</p>
          <p>Secondary creator: Burleigh-Motley, Marian</p>
-         <p>Publication date: 1990</p>
          <p>ID: SPA_1508</p>
          <p>Publication date: 1990</p>
          <p>Language: English</p>
@@ -130,7 +124,6 @@
       <unittitle>Theatre in Revolution: Russian Avant-Garde Design, 1913-1935</unittitle>
       <note>
          <p>Creator: Van, Norman Baer N</p>
-         <p>Publication date: 1991</p>
          <p>ID: SPA_1509</p>
          <p>Publisher: Thames &amp; Hudson, London</p>
          <p>Publication date: 1991</p>
@@ -148,7 +141,6 @@
       <unittitle>Handbook of Russian Literature</unittitle>
       <note>
          <p>Creator: Terras, V (ed.)</p>
-         <p>Publication date: 1985</p>
          <p>ID: SPA_1510</p>
          <p>Publisher: Yale University Press, New Haven</p>
          <p>Publication date: 1985</p>
@@ -165,7 +157,6 @@
       <unittitle>Russian Futurism Through Its Manifestoes: 1912-1928</unittitle>
       <note>
          <p>Creator: Lawton, Anna (ed.)</p>
-         <p>Publication date: 1988</p>
          <p>ID: SPA_1511</p>
          <p>Publisher: Cornell University Press, New York</p>
          <p>Publication date: 1988</p>
@@ -183,7 +174,6 @@
       <unittitle>Iconography of Power: Soviet Political Posters Under Lenin and Stalin</unittitle>
       <note>
          <p>Creator: Bonnell, Victoria E</p>
-         <p>Publication date: 1997</p>
          <p>ID: SPA_1512</p>
          <p>Publisher: University of California Press, Berkeley</p>
          <p>Publication date: 1997</p>
@@ -206,7 +196,6 @@
          <p>Secondary creator: Simsolo, Noël</p>
          <p>Secondary creator: Turowski, Andrzej</p>
          <p>Secondary creator: Zadora, Stanislas</p>
-         <p>Publication date: 1988</p>
          <p>ID: SPA_1513</p>
          <p>Publisher: Rizzoli, New York</p>
          <p>Publication date: 1988</p>
@@ -224,7 +213,6 @@
       <note>
          <p>Creator: Ovsianikov, Yuri</p>
          <p>Secondary creator: Bouchet, Guy</p>
-         <p>Publication date: 1989</p>
          <p>ID: SPA_1514</p>
          <p>Publisher: Conran Octapus, London</p>
          <p>Publication date: 1989</p>
@@ -241,7 +229,6 @@
       <unittitle>My Russia</unittitle>
       <note>
          <p>Creator: Ustinov, Peter</p>
-         <p>Publication date: 1983</p>
          <p>ID: SPA_1515</p>
          <p>Publisher: Macmillan, London</p>
          <p>Publication date: 1983</p>
@@ -258,7 +245,6 @@
       <unittitle>M. Larionov N. Goncharova: Parizhskoe nasledie v Tret'iakovskoi galeree</unittitle>
       <note>
          <p>Creator: Gutt, Ia. A (ed.)</p>
-         <p>Publication date: 1999</p>
          <p>ID: SPA_1516</p>
          <p>Publisher: Gosudarstvennaia Tret'iakovskaia galereia, Moskva</p>
          <p>Publication date: 1999</p>
@@ -276,7 +262,6 @@
       <unittitle>Natalia Gontcharova Exhibition</unittitle>
       <note>
          <p>Creator: Parton, Anthony</p>
-         <p>Publication date: 1997</p>
          <p>ID: SPA_1517</p>
          <p>Publisher: Julian Barran Ltd., London</p>
          <p>Publication date: 1997</p>
@@ -294,7 +279,6 @@
       <note>
          <p>Creator: Kats, B</p>
          <p>Creator: Timenchik, R</p>
-         <p>Publication date: 1989</p>
          <p>ID: SPA_1518</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1989</p>
@@ -313,7 +297,6 @@
             rozhdeniia kompozitora</unittitle>
       <note>
          <p>Creator: Balasanian, S</p>
-         <p>Publication date: 2003</p>
          <p>ID: SPA_1519</p>
          <p>Publisher: Kompozitor, Moskva</p>
          <p>Publication date: 2003</p>
@@ -333,7 +316,6 @@
       <note>
          <p>Creator: Barjansky, Catherine</p>
          <p>Secondary creator: Denniston, Elinore</p>
-         <p>Publication date: 1947</p>
          <p>ID: SPA_1520</p>
          <p>Publisher: The Macmillan Company, New York</p>
          <p>Publication date: 1947</p>
@@ -350,7 +332,6 @@
       <unittitle>Valery Briusov</unittitle>
       <note>
          <p>Creator: Mochul'sky, K</p>
-         <p>Publication date: 1962</p>
          <p>ID: SPA_1521</p>
          <p>Publisher: YMCA-Press, Paris</p>
          <p>Publication date: 1962</p>
@@ -368,7 +349,6 @@
       <note>
          <p>Creator: Zilbershtein, I C</p>
          <p>Creator: Samkov, V A</p>
-         <p>Publication date: 1982</p>
          <p>ID: SPA_1522</p>
          <p>Publisher: Izobrazitel'noe Iskusstvo, Moskva</p>
          <p>Publication date: 1982</p>
@@ -387,7 +367,6 @@
       <note>
          <p>Creator: Zilbershtein, I C</p>
          <p>Creator: Samkov, V A</p>
-         <p>Publication date: 1982</p>
          <p>ID: SPA_1523</p>
          <p>Publisher: Izobrazitel'noe Iskusstvo, Moskva</p>
          <p>Publication date: 1982</p>
@@ -405,7 +384,6 @@
       <unittitle>Stormy Applause: Making Music in a Workers State</unittitle>
       <note>
          <p>Creator: Dubinsky, Rostislav</p>
-         <p>Publication date: 1989</p>
          <p>ID: SPA_1524</p>
          <p>Publisher: Hutchinson, Great Britain</p>
          <p>Publication date: 1989</p>
@@ -423,7 +401,6 @@
       <unittitle>Passport to Paris</unittitle>
       <note>
          <p>Creator: Duke, Vernon</p>
-         <p>Publication date: 1955</p>
          <p>ID: SPA_1525</p>
          <p>Publisher: Little, Brown &amp; Co, Boston and Toronto</p>
          <p>Publication date: 1955</p>
@@ -440,7 +417,6 @@
       <unittitle>Sergei Esenin i muzyka</unittitle>
       <note>
          <p>Creator: Rozenfeld, B</p>
-         <p>Publication date: 1988</p>
          <p>ID: SPA_1526</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1988</p>
@@ -457,7 +433,6 @@
       <unittitle>A Voice in Time: The Gramophone of Fred Gaisberg 1873-1951</unittitle>
       <note>
          <p>Creator: Moore, Jerrold Northrop</p>
-         <p>Publication date: 1976</p>
          <p>ID: SPA_1527</p>
          <p>Publisher: Hamish Hamilton, London</p>
          <p>Publication date: 1976</p>
@@ -477,7 +452,6 @@
       <note>
          <p>Creator: Garden, Mary</p>
          <p>Creator: Biancolli, Louis</p>
-         <p>Publication date: 1951</p>
          <p>ID: SPA_1528</p>
          <p>Publisher: Simon &amp; Schuster, New York</p>
          <p>Publication date: 1951</p>
@@ -494,7 +468,6 @@
       <unittitle>Mary Garden</unittitle>
       <note>
          <p>Creator: Turnbull, Michael T R B</p>
-         <p>Publication date: 1997</p>
          <p>ID: SPA_1529</p>
          <p>Publisher: Scolar Press, Aldershot</p>
          <p>Publication date: 1997</p>
@@ -511,7 +484,6 @@
       <unittitle>"Mednyi Vsadnik" R. Gliera</unittitle>
       <note>
          <p>Creator: Korev, Iurii Semenovich</p>
-         <p>Publication date: 1951</p>
          <p>ID: SPA_1530</p>
          <p>Publisher: Muzgiz, Moskva</p>
          <p>Publication date: 1951</p>
@@ -530,7 +502,6 @@
          <p>Creator: Grigoriev, L</p>
          <p>Creator: Platek, Ia</p>
          <p>Secondary creator: Yuri Sviridov (trans.)</p>
-         <p>Publication date: 1983</p>
          <p>ID: SPA_1531</p>
          <p>Publisher: Paganiniana Publications, Inc., Neptune City, NJ</p>
          <p>Publication date: 1983</p>
@@ -547,7 +518,6 @@
       <unittitle>Chetyre treti nashei zhizni</unittitle>
       <note>
          <p>Creator: Krivosheina, N A</p>
-         <p>Publication date: 1984</p>
          <p>ID: SPA_1532</p>
          <p>Publisher: YMCA-Press, </p>
          <p>Publication date: 1984</p>
@@ -564,7 +534,6 @@
       <unittitle>Emil' Kuper: stat'i vospominaniai materialy</unittitle>
       <note>
          <p>Creator: Iudina, G Ia</p>
-         <p>Publication date: 1988</p>
          <p>ID: SPA_1533</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1988</p>
@@ -581,7 +550,6 @@
       <unittitle>Sergei Kusevitskii: Tom pervyi: Russkie gody</unittitle>
       <note>
          <p>Creator: Iuzefovich, V A</p>
-         <p>Publication date: 2004</p>
          <p>ID: SPA_1534</p>
          <p>Publisher: Iazyki Slavianskoi Kul'tury, Moskva</p>
          <p>Publication date: 2004</p>
@@ -601,7 +569,6 @@
       <note>
          <p>Creator: Rudakova, E</p>
          <p>Creator: Fishman, Natan Lvovich</p>
-         <p>Publication date: 1970</p>
          <p>ID: SPA_1535</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1970</p>
@@ -618,7 +585,6 @@
       <unittitle>The Levik Memoirs: An Opera Singer's Notes</unittitle>
       <note>
          <p>Creator: Morgan, Edward (trans.)</p>
-         <p>Publication date: 1995</p>
          <p>ID: SPA_1536</p>
          <p>Publisher: Symposium Records, London</p>
          <p>Publication date: 1995</p>
@@ -636,7 +602,6 @@
       <unittitle>Lina and Serge: The Love and Wars of Lina Prokofiev</unittitle>
       <note>
          <p>Creator: Morrison, Simon</p>
-         <p>Publication date: 2013</p>
          <p>ID: SPA_1537</p>
          <p>Publisher: Houghton Mifflin Harcout, Boston, New York</p>
          <p>Publication date: 2013</p>
@@ -653,7 +618,6 @@
       <unittitle>Nicolas Medtner: His Life and Music</unittitle>
       <note>
          <p>Creator: Martyn, Barrie</p>
-         <p>Publication date: 1995</p>
          <p>ID: SPA_1538</p>
          <p>Publisher: Scolar Press, Aldershot</p>
          <p>Publication date: 1995</p>
@@ -670,7 +634,6 @@
       <unittitle>V. E. Meyerhold: Pikovaia Dama</unittitle>
       <note>
          <p>Creator: Kopytovoi, G V</p>
-         <p>Publication date: 1994</p>
          <p>ID: SPA_1539</p>
          <p>Publisher: Kompozitor, Moskva</p>
          <p>Publication date: 1994</p>
@@ -688,7 +651,6 @@
       <note>
          <p>Creator: Feldman, O M</p>
          <p>Secondary creator: Zingerman, B I</p>
-         <p>Publication date: 1998</p>
          <p>ID: SPA_1540</p>
          <p>Publisher: O. G. I., Moskva</p>
          <p>Publication date: 1998</p>
@@ -705,7 +667,6 @@
       <unittitle>Stranitsy Tvorcheskoi Biografii Miaskovskogo</unittitle>
       <note>
          <p>Creator: Lamm, Olga Pavlovna</p>
-         <p>Publication date: 1989</p>
          <p>ID: SPA_1541</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1989</p>
@@ -724,7 +685,6 @@
       <unittitle>Myaskovsky: His Life and Work</unittitle>
       <note>
          <p>Creator: Ikonnikov, Alexei A</p>
-         <p>Publication date: 1946</p>
          <p>ID: SPA_1542</p>
          <p>Publisher: Philosophical Library, New York</p>
          <p>Publication date: 1946</p>
@@ -742,7 +702,6 @@
       <unittitle>N. Ia. Miaskovsky: Khudozhnik nashikh dnei</unittitle>
       <note>
          <p>Creator: Ikonnikov, Alexei A</p>
-         <p>Publication date: 1966</p>
          <p>ID: SPA_1543</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1966</p>
@@ -761,7 +720,6 @@
       <note>
          <p>Creator: Milstein, Nathan</p>
          <p>Creator: Volkov, Solomon</p>
-         <p>Publication date: 1990</p>
          <p>ID: SPA_1544</p>
          <p>Publisher: Barrie &amp; Jenkins, London</p>
          <p>Publication date: 1990</p>
@@ -778,7 +736,6 @@
       <unittitle>It's All in the Music: The Life and Works of Pierre Monteux</unittitle>
       <note>
          <p>Creator: Monteux, Doris</p>
-         <p>Publication date: 1965</p>
          <p>ID: SPA_1545</p>
          <p>Publisher: William Kimber and Co. Ltd, London</p>
          <p>Publication date: 1965</p>
@@ -796,7 +753,6 @@
       <note>
          <p>Creator: Riesemann, Oskar von</p>
          <p>Secondary creator: Paul England (trans.)</p>
-         <p>Publication date: 1935</p>
          <p>ID: SPA_1546</p>
          <p>Publisher: Tudor, New York</p>
          <p>Publication date: 1935</p>
@@ -813,7 +769,6 @@
       <unittitle>Musorgsky: Eight Essays and an Epilogue</unittitle>
       <note>
          <p>Creator: Taruskin, Richard</p>
-         <p>Publication date: 1993</p>
          <p>ID: SPA_1547</p>
          <p>Publisher: Princeton University Press, Princeton, NJ</p>
          <p>Publication date: 1993</p>
@@ -830,7 +785,6 @@
       <unittitle>Bagazh: Memories of a Russian Cosmopolitan</unittitle>
       <note>
          <p>Creator: Nabokov, Nicolas</p>
-         <p>Publication date: 1975</p>
          <p>ID: SPA_1548</p>
          <p>Publisher: Kingsport Press, Inc., Kingsport, TN</p>
          <p>Publication date: 1975</p>
@@ -847,7 +801,6 @@
       <unittitle>Old Friends and New Music</unittitle>
       <note>
          <p>Creator: Nabokov, Nicolas</p>
-         <p>Publication date: 1951</p>
          <p>ID: SPA_1549</p>
          <p>Publisher: Hamish Hamilton, London</p>
          <p>Publication date: 1951</p>
@@ -864,7 +817,6 @@
       <unittitle>Razmyshleniia ob opere</unittitle>
       <note>
          <p>Creator: Pokrovskii, Boris Alexandrovich</p>
-         <p>Publication date: 1979</p>
          <p>ID: SPA_1550</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1979</p>
@@ -881,7 +833,6 @@
       <unittitle>70 Let v mire muzyki</unittitle>
       <note>
          <p>Creator: Polianovskii, Georgii Alexandrovich</p>
-         <p>Publication date: 1977</p>
          <p>ID: SPA_1551</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1977</p>
@@ -899,7 +850,6 @@
             1915-1963</unittitle>
       <note>
          <p>Creator: Buckland, Sidney (ed.) (trans.)</p>
-         <p>Publication date: 1991</p>
          <p>ID: SPA_1552</p>
          <p>Publisher: Victor Gollancz Ltd., London</p>
          <p>Publication date: 1991</p>
@@ -915,7 +865,6 @@
       <unittitle>S. S. Prokof'ev</unittitle>
       <note>
          <p>Creator: Nestieva, Marina</p>
-         <p>Publication date: 1981</p>
          <p>ID: SPA_1553</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1981</p>
@@ -933,7 +882,6 @@
       <note>
          <p>Creator: Savkina, Natalia Pavlovna</p>
          <p>Secondary creator: Young, Catherine (trans.)</p>
-         <p>Publication date: 1984</p>
          <p>ID: SPA_1554</p>
          <p>Publisher: Paganiniana Publications, Inc., Neptune City, NJ</p>
          <p>Publication date: 1984</p>
@@ -951,7 +899,6 @@
       <unittitle>Sergei Prokof'ev – Sergei Prokofiev</unittitle>
       <note>
          <p>Creator: Shlifstein, S</p>
-         <p>Publication date: 1965</p>
          <p>ID: SPA_1555</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1965</p>
@@ -968,7 +915,6 @@
    <did>
       <unittitle>Musik der Zeit: Serge Prokofieff</unittitle>
       <note>
-         <p>Publication date: 1953</p>
          <p>ID: SPA_1556</p>
          <p>Publisher: Verlag Boosey &amp; Hawkes GMBH Bonn, New York</p>
          <p>Publication date: 1953</p>
@@ -985,7 +931,6 @@
    <did>
       <unittitle>Musik der Zeit: Serge Prokofieff</unittitle>
       <note>
-         <p>Publication date: 1953</p>
          <p>ID: SPA_1557</p>
          <p>Publisher: Verlag Boosey &amp; Hawkes GMBH Bonn, New York</p>
          <p>Publication date: 1953</p>
@@ -1003,7 +948,6 @@
       <unittitle>Sergei Prokofiev: A Biography</unittitle>
       <note>
          <p>Creator: Robinson, Harlow</p>
-         <p>Publication date: 1987</p>
          <p>ID: SPA_1558</p>
          <p>Publisher: Viking Press, New York</p>
          <p>Publication date: 1987</p>
@@ -1022,7 +966,6 @@
          <p>Creator: Nestiev, Izrail Vladimirovich</p>
          <p>Secondary creator: Jonas, Florence (trans.)</p>
          <p>Secondary creator: Slonimsky, Nikolas</p>
-         <p>Publication date: 1960</p>
          <p>ID: SPA_1559</p>
          <p>Publisher: Stanford University Press, Stanford, CA</p>
          <p>Publication date: 1960</p>
@@ -1058,7 +1001,6 @@
       <unittitle>Sergey Prokofiev</unittitle>
       <note>
          <p>Creator: Jaffé, Daniel</p>
-         <p>Publication date: 1998</p>
          <p>ID: SPA_1561</p>
          <p>Publisher: Phaidon Press Ltd., London</p>
          <p>Publication date: 1998</p>
@@ -1076,7 +1018,6 @@
       <unittitle>Sergei Prokofiev: Materials, Articles, Interviews</unittitle>
       <note>
          <p>Creator: Blok, Vladimir (ed.)</p>
-         <p>Publication date: 1978</p>
          <p>ID: SPA_1562</p>
          <p>Publisher: Progress Publishers, </p>
          <p>Publication date: 1978</p>
@@ -1095,7 +1036,6 @@
          <p>Creator: Prokofiev, Sergei</p>
          <p>Secondary creator: Prokofiev, Oleg (ed.) (trans.)</p>
          <p>Secondary creator: Palmer, Christopher (ed.)</p>
-         <p>Publication date: 1991</p>
          <p>ID: SPA_1563</p>
          <p>Publisher: Faber &amp; Faber, London</p>
          <p>Publication date: 1991</p>
@@ -1113,7 +1053,6 @@
       <unittitle>Sergei Prokofiev: A Soviet Tragedy</unittitle>
       <note>
          <p>Creator: Seroff, Victor</p>
-         <p>Publication date: 1969</p>
          <p>ID: SPA_1564</p>
          <p>Publisher: Leslie Frewin, London</p>
          <p>Publication date: 1969</p>
@@ -1132,7 +1071,6 @@
          <p>Creator: Prokofiev, Sergei</p>
          <p>Secondary creator: Appel, David H (ed.)</p>
          <p>Secondary creator: Daniels, Guy (trans.)</p>
-         <p>Publication date: 1979</p>
          <p>ID: SPA_1565</p>
          <p>Publisher: Doubleday and Company INC, Garden City, NY</p>
          <p>Publication date: 1979</p>
@@ -1149,7 +1087,6 @@
       <unittitle>Prokofiev</unittitle>
       <note>
          <p>Creator: Gutman, David</p>
-         <p>Publication date: 1988</p>
          <p>ID: SPA_1566</p>
          <p>Publisher: Alderman Press, London</p>
          <p>Publication date: 1988</p>
@@ -1167,7 +1104,6 @@
       <note>
          <p>Creator: Hanson, Lawrence</p>
          <p>Creator: Hanson, Elisabeth</p>
-         <p>Publication date: 1964</p>
          <p>ID: SPA_1567</p>
          <p>Publisher: Cassell &amp; Company LTD, London</p>
          <p>Publication date: 1964</p>
@@ -1184,7 +1120,6 @@
       <unittitle>Serge Prokofiev</unittitle>
       <note>
          <p>Creator: Dorigné, Michel</p>
-         <p>Publication date: 1994</p>
          <p>ID: SPA_1568</p>
          <p>Publisher: Fayard, Mesnil-sur-l'Estrée</p>
          <p>Publication date: 1994</p>
@@ -1201,7 +1136,6 @@
       <unittitle>S S Prokof'ev: Stat'i i issledovaniia</unittitle>
       <note>
          <p>Creator: Blok, Vladimir (ed.)</p>
-         <p>Publication date: 1972</p>
          <p>ID: SPA_1569</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1972</p>
@@ -1218,7 +1152,6 @@
       <unittitle>Sergej Prokofjew: Komponist im Schatten Stalins (Eine Biographie)</unittitle>
       <note>
          <p>Creator: Biesold, Maria</p>
-         <p>Publication date: 1996</p>
          <p>ID: SPA_1570</p>
          <p>Publisher: Beltz Quadriga, Berlin</p>
          <p>Publication date: 1996</p>
@@ -1235,7 +1168,6 @@
       <unittitle>Prokof'ev</unittitle>
       <note>
          <p>Creator: Morozov, Sergei</p>
-         <p>Publication date: 1967</p>
          <p>ID: SPA_1571</p>
          <p>Publisher: Molodaia Gvardiia, Moskva</p>
          <p>Publication date: 1967</p>
@@ -1252,7 +1184,6 @@
       <unittitle>Sergei Sergeevich Prokof'ev</unittitle>
       <note>
          <p>Creator: Savkina, Natalia Pavlovna</p>
-         <p>Publication date: 1981</p>
          <p>ID: SPA_1572</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1981</p>
@@ -1269,7 +1200,6 @@
       <unittitle>S. Prokof'ev: Tokkata zhizni</unittitle>
       <note>
          <p>Creator: Roziner, Feliks</p>
-         <p>Publication date: 1978</p>
          <p>ID: SPA_1573</p>
          <p>Publisher: Molodaia Gvardiia, Moskva</p>
          <p>Publication date: 1978</p>
@@ -1286,7 +1216,6 @@
       <unittitle>Sergej Prokofjew: Mit einer Auswahl von Aufsätzen des Komponisten</unittitle>
       <note>
          <p>Creator: Brockhaus, Heinz Alfred</p>
-         <p>Publication date: 1964</p>
          <p>ID: SPA_1574</p>
          <p>Publisher: Verlag Philipp Reclam jun., Leipzig</p>
          <p>Publication date: 1964</p>
@@ -1304,7 +1233,6 @@
       <unittitle>Sergej Prokofjew</unittitle>
       <note>
          <p>Creator: Schipperges, Thomas</p>
-         <p>Publication date: 1995</p>
          <p>ID: SPA_1575</p>
          <p>Publisher: Rowohlt, Hamburg</p>
          <p>Publication date: 1995</p>
@@ -1321,7 +1249,6 @@
       <unittitle>Sergei Prokof'ev</unittitle>
       <note>
          <p>Creator: Sabinina, Marina Dmitrievna</p>
-         <p>Publication date: 1957</p>
          <p>ID: SPA_1576</p>
          <p>Publication date: 1957</p>
          <p>Language: Russian</p>
@@ -1337,7 +1264,6 @@
       <unittitle>Dnevnik - 27</unittitle>
       <note>
          <p>Creator: Prokofiev, Sergei</p>
-         <p>Publication date: 1990</p>
          <p>ID: SPA_1577</p>
          <p>Publisher: Sintaksis, Parizh</p>
          <p>Publication date: 1990</p>
@@ -1356,7 +1282,6 @@
       <note>
          <p>Creator: Prokofiev, Oleg (ed.)</p>
          <p>Secondary creator: Mougeot, Philippe (trans.)</p>
-         <p>Publication date: 1991</p>
          <p>ID: SPA_1578</p>
          <p>Publisher: Actes Sud, Arles</p>
          <p>Publication date: 1991</p>
@@ -1373,7 +1298,6 @@
       <unittitle>Sergei Prokof'ev 1891-1991</unittitle>
       <note>
          <p>Creator: Tarakanov, Mikhail Evgenevich</p>
-         <p>Publication date: 1991</p>
          <p>ID: SPA_1579</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1991</p>
@@ -1390,7 +1314,6 @@
       <unittitle>Sergei Sergeevich Prokof'ev 1891 - 1953: Kratkii ocherk zhizni i tvorchestva</unittitle>
       <note>
          <p>Creator: Danko, Larissa</p>
-         <p>Publication date: 1966</p>
          <p>ID: SPA_1580</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1966</p>
@@ -1409,7 +1332,6 @@
       <note>
          <p>Creator: Nestiev, Izrail Vladimirovich</p>
          <p>Secondary creator: Hofmann, Rostislav (trans.)</p>
-         <p>Publication date: 1946</p>
          <p>ID: SPA_1581</p>
          <p>Publisher: Chêne, Paris</p>
          <p>Publication date: 1946</p>
@@ -1426,7 +1348,6 @@
       <unittitle>Zhizn Sergeia Prokof'eva</unittitle>
       <note>
          <p>Creator: Nestiev, Izrail Vladimirovich</p>
-         <p>Publication date: 1973</p>
          <p>ID: SPA_1582</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1973</p>
@@ -1446,7 +1367,6 @@
          <p>Creator: Nestiev, Izrail Vladimirovich</p>
          <p>Secondary creator: Prokofieva, Rose (trans.)</p>
          <p>Secondary creator: Eisenstein, S</p>
-         <p>Publication date: 1946</p>
          <p>ID: SPA_1583</p>
          <p>Publisher: Alfred A Knopf, New York</p>
          <p>Publication date: 1946</p>
@@ -1465,7 +1385,6 @@
       <unittitle>S. S. Prokof'ev: Avtobiografiia</unittitle>
       <note>
          <p>Creator: Kozlova, Miral'da Georgievna (ed.)</p>
-         <p>Publication date: 1982</p>
          <p>ID: SPA_1584</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1982</p>
@@ -1482,7 +1401,6 @@
       <unittitle>Sergei Prokof'ev: Avtobiografiia</unittitle>
       <note>
          <p>Creator: Kozlova, Miral'da Georgievna (ed.)</p>
-         <p>Publication date: 1973</p>
          <p>ID: SPA_1585</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1973</p>
@@ -1499,7 +1417,6 @@
       <unittitle>S. S. Prokof'ev: Materialy, Dokumenty, Vospominaniia</unittitle>
       <note>
          <p>Creator: Shlifstein, S</p>
-         <p>Publication date: 1961</p>
          <p>ID: SPA_1586</p>
          <p>Publisher: Gosudarstvennoe Muzykal'noe Izdatel'stvo, Moskva</p>
          <p>Publication date: 1961</p>
@@ -1519,7 +1436,6 @@
             Reminiscences, Articles]</unittitle>
       <note>
          <p>Creator: Rakhmanova, Marina (ed.)</p>
-         <p>Publication date: 2001</p>
          <p>ID: SPA_1587</p>
          <p>Publisher: Gosudarstvennyi Tsentral'nyi Muzei Muzykal'noi Kul'tury imeni M.
             I. Glinki, Moskva</p>
@@ -1536,7 +1452,6 @@
       <unittitle>Sergei Prokof'ev 1891-1991; Dnevnik Pis'ma Besedy Vospominaniia</unittitle>
       <note>
          <p>Creator: Tarakanov, Mikhail Evgenevich (ed.)</p>
-         <p>Publication date: 1991</p>
          <p>ID: SPA_1588</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1991</p>
@@ -1553,7 +1468,6 @@
       <unittitle>Prokof'ev o Prokof'eve: Stat'i i interv'iu</unittitle>
       <note>
          <p>Creator: Varunts, Viktor P</p>
-         <p>Publication date: 1991</p>
          <p>ID: SPA_1589</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1991</p>
@@ -1573,7 +1487,6 @@
          <p>Creator: Danuser, H</p>
          <p>Creator: Kholopov, Iurii Nikolaevich</p>
          <p>Creator: Tarakanov, Mikhail Evgenevich</p>
-         <p>Publication date: 1990</p>
          <p>ID: SPA_1590</p>
          <p>Publisher: Gustav Bosse Verlag, Regensburg</p>
          <p>Publication date: 1990</p>
@@ -1593,7 +1506,6 @@
             seines Werkes und der Biographie"</unittitle>
       <note>
          <p>Creator: Niemöller, Klaus Wolfgang</p>
-         <p>Publication date: 1992</p>
          <p>ID: SPA_1591</p>
          <p>Publisher: Gustav Bosse Verlag, Regensburg</p>
          <p>Publication date: 1992</p>
@@ -1610,7 +1522,6 @@
       <unittitle>S.S. Prokof'ev: Sbornik Statei</unittitle>
       <note>
          <p>Creator: Rogalev, I (ed.)</p>
-         <p>Publication date: 1995</p>
          <p>ID: SPA_1592</p>
          <p>Publisher: Sankt-Peterburgskaia Gosudarstvennaia Konservatoriia, Leningrad</p>
          <p>Publication date: 1995</p>
@@ -1629,7 +1540,6 @@
       <note>
          <p>Creator: Nest'ev, Izrail Vladimirovich (ed.)</p>
          <p>Creator: Edel'man, G Ia (ed.)</p>
-         <p>Publication date: 1962</p>
          <p>ID: SPA_1593</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1962</p>
@@ -1648,7 +1558,6 @@
       <note>
          <p>Creator: Nestiev, Izrail Vladimirovich (ed.)</p>
          <p>Creator: Edelman, G (ed.)</p>
-         <p>Publication date: 1965</p>
          <p>ID: SPA_1594</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1965</p>
@@ -1666,7 +1575,6 @@
       <unittitle>Prokofiev</unittitle>
       <note>
          <p>Creator: Samuel, Claude</p>
-         <p>Publication date: 1995</p>
          <p>ID: SPA_1595</p>
          <p>Publisher: Seuil, </p>
          <p>Publication date: 1995</p>
@@ -1683,7 +1591,6 @@
       <unittitle>Prokofiev</unittitle>
       <note>
          <p>Creator: Samuel, Claude</p>
-         <p>Publication date: 1960</p>
          <p>ID: SPA_1596</p>
          <p>Publisher: Editions du Seuil, </p>
          <p>Publication date: 1960</p>
@@ -1702,7 +1609,6 @@
       <note>
          <p>Creator: Samuel, Claude</p>
          <p>Secondary creator: John, Miriam (trans.)</p>
-         <p>Publication date: 1971</p>
          <p>ID: SPA_1597</p>
          <p>Publisher: Calder &amp; Boyars, New York</p>
          <p>Publication date: 1971</p>
@@ -1736,7 +1642,6 @@
       <unittitle>Esteticheskie Vzgliady S.S. Prokof'eva</unittitle>
       <note>
          <p>Creator: Kremlev, Iurii Anatolevich</p>
-         <p>Publication date: 1966</p>
          <p>ID: SPA_1599</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1966</p>
@@ -1754,7 +1659,6 @@
       <unittitle>Serge Prokofiev et les courants esthétiques de son temps (1891-1953)</unittitle>
       <note>
          <p>Creator: Moisson-Franckhauser, Suzanne</p>
-         <p>Publication date: 1974</p>
          <p>ID: SPA_1600</p>
          <p>Publisher: Publications Orientalistes de France, Paris</p>
          <p>Publication date: 1974</p>
@@ -1772,7 +1676,6 @@
       <unittitle>Cherty Stilia S. Prokof'eva: Sbornik teoricheskikh statei</unittitle>
       <note>
          <p>Creator: Berger, L (ed.)</p>
-         <p>Publication date: 1962</p>
          <p>ID: SPA_1601</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1962</p>
@@ -1801,7 +1704,6 @@
       <unittitle>Prokofiev: From Russia to the West 1891-1935</unittitle>
       <note>
          <p>Creator: Nice, David</p>
-         <p>Publication date: 2003</p>
          <p>ID: SPA_1602</p>
          <p>Publisher: Yale University Press, New Haven, London</p>
          <p>Publication date: 2003</p>
@@ -1820,7 +1722,6 @@
       <unittitle>Rasskazy</unittitle>
       <note>
          <p>Creator: Prokofiev, Serge</p>
-         <p>Publication date: 2003</p>
          <p>ID: SPA_1603</p>
          <p>Publisher: Kompozitor, Moskva</p>
          <p>Publication date: 2003</p>
@@ -1838,7 +1739,6 @@
       <unittitle>Sergei Prokof'ev</unittitle>
       <note>
          <p>Creator: Nest'eva, Marina</p>
-         <p>Publication date: 2003</p>
          <p>ID: SPA_1604</p>
          <p>Publisher: Arkaim, Moskva</p>
          <p>Publication date: 2003</p>
@@ -1856,7 +1756,6 @@
       <unittitle>Dnevnik: 1907 - 1918: Chast' pervaia</unittitle>
       <note>
          <p>Creator: Prokofiev, Serge</p>
-         <p>Publication date: 2002</p>
          <p>ID: SPA_1605</p>
          <p>Publisher: sprkfv, Paris</p>
          <p>Publication date: 2002</p>
@@ -1873,7 +1772,6 @@
       <unittitle>Dnevnik: 1919 - 1933: Chast' vtoraia</unittitle>
       <note>
          <p>Creator: Prokofiev, Serge</p>
-         <p>Publication date: 2002</p>
          <p>ID: SPA_1606</p>
          <p>Publisher: sprkfv, Paris</p>
          <p>Publication date: 2002</p>
@@ -1890,7 +1788,6 @@
       <unittitle>Dnevnik: Litsa</unittitle>
       <note>
          <p>Creator: Prokofiev, Serge</p>
-         <p>Publication date: 2002</p>
          <p>ID: SPA_1607</p>
          <p>Publisher: sprkfv, Paris</p>
          <p>Publication date: 2002</p>
@@ -1907,7 +1804,6 @@
       <unittitle>Sergej Sergeevic Prokof'ev. Autori &amp; Interpreti 1850-1950</unittitle>
       <note>
          <p>Creator: Boccuni, Maria Rosaria</p>
-         <p>Publication date: 2003</p>
          <p>ID: SPA_1608</p>
          <p>Publisher: L'Epos, Palermo</p>
          <p>Publication date: 2003</p>
@@ -1927,7 +1823,6 @@
          <p>Secondary creator: Davies, J. M. Q.</p>
          <p>Secondary creator: Kenyon, Nicholas</p>
          <p>Secondary creator: Skaerved, Peter Sheppard</p>
-         <p>Publication date: 2003</p>
          <p>ID: SPA_1609</p>
          <p>Publisher: Haus Publishing, London</p>
          <p>Publication date: 2003</p>
@@ -1947,7 +1842,6 @@
          Involvements - Misunderstandings - Disasters. An International Symposium]. Studia Slavica Musicologica: Prokofjew-Studien, Bd. 1</unittitle>
       <note>
          <p>Creator: Kuhn, Ernst (ed.)</p>
-         <p>Publication date: 2004</p>
          <p>ID: SPA_1610</p>
          <p>Publisher: Verlag Ernst Kuhn, Berlin</p>
          <p>Publication date: 2004</p>
@@ -1967,7 +1861,6 @@
       <unittitle>Peter &amp; the Wolf</unittitle>
       <note>
          <p>Creator: Prokofiev, Serge</p>
-         <p>Publication date: 2003</p>
          <p>ID: SPA_1611</p>
          <p>Publisher: Bloomsbury, London</p>
          <p>Publication date: 2003</p>
@@ -1988,7 +1881,6 @@
          <p>Creator: Santangelo, Gaetano</p>
          <p>Secondary creator: Fo, Dario</p>
          <p>Secondary creator: Luzzati, Emanuele</p>
-         <p>Publication date: 1996</p>
          <p>ID: SPA_1612</p>
          <p>Publisher: Amadeus, Milano</p>
          <p>Publication date: 1996</p>
@@ -2006,7 +1898,6 @@
       <unittitle>S. S. Prokof'ev i Shakhmaty: Vstupitel'naia, stat'i i kommentari</unittitle>
       <note>
          <p>Creator: Sviatoslav, Iurii Rodionovich</p>
-         <p>Publication date: 2000</p>
          <p>ID: SPA_1613</p>
          <p>Publisher: Kompozitor, Moskva</p>
          <p>Publication date: 2000</p>
@@ -2024,7 +1915,6 @@
       <unittitle>Sergei Prokof'ev: Vospominaniia, Pis'ma, Stat'i</unittitle>
       <note>
          <p>Creator: Rakhmanova, Marina (ed.)</p>
-         <p>Publication date: 2004</p>
          <p>ID: SPA_1614</p>
          <p>Publisher: Deka-VC, Moskva</p>
          <p>Publication date: 2004</p>
@@ -2043,7 +1933,6 @@
       <note>
          <p>Creator: Prokofiev, Serge</p>
          <p>Secondary creator: Abensour, Gérard (trans.)</p>
-         <p>Publication date: 2005</p>
          <p>ID: SPA_1615</p>
          <p>Publisher: Éditions Alteratives, Paris</p>
          <p>Publication date: 2005</p>
@@ -2060,7 +1949,6 @@
       <unittitle>Detstvo</unittitle>
       <note>
          <p>Creator: Prokofiev, Serge</p>
-         <p>Publication date: 1983</p>
          <p>ID: SPA_1616</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1983</p>
@@ -2078,7 +1966,6 @@
       <note>
          <p>Creator: Prokofiev, Serge</p>
          <p>Secondary creator: Reich, Willi (trans.)</p>
-         <p>Publication date: 1993</p>
          <p>ID: SPA_1617</p>
          <p>Publisher: M &amp; T Verlag, Zürich, St. Gallen</p>
          <p>Publication date: 1993</p>
@@ -2095,7 +1982,6 @@
       <unittitle>Prokofiev's Ballets for Diaghilev</unittitle>
       <note>
          <p>Creator: Press, Stephen D</p>
-         <p>Publication date: 2006</p>
          <p>ID: SPA_1618</p>
          <p>Publisher: Ashgate, Aldershot</p>
          <p>Publication date: 2006</p>
@@ -2113,7 +1999,6 @@
       <note>
          <p>Creator: Prokofiev, Serge</p>
          <p>Secondary creator: Phillips, Anthony (trans.)</p>
-         <p>Publication date: 2006</p>
          <p>ID: SPA_1619</p>
          <p>Publisher: Faber &amp; Faber, London</p>
          <p>Publication date: 2006</p>
@@ -2132,7 +2017,6 @@
       <unittitle>Sergei Prokof'ev: Avtobiografiia</unittitle>
       <note>
          <p>Creator: Prokofiev, Serge</p>
-         <p>Publication date: 2007</p>
          <p>ID: SPA_1620</p>
          <p>Publisher: Klassika-XXI, Moskva</p>
          <p>Publication date: 2007</p>
@@ -2150,7 +2034,6 @@
       <unittitle>Sergei Prokof'ev: Tvorcheskii i zhiznennyi put'</unittitle>
       <note>
          <p>Creator: R. V.</p>
-         <p>Publication date: 1932</p>
          <p>ID: SPA_1621</p>
          <p>Publisher: Gosudarstvennoe Muzykal'noe Izdatel'stvo, Moskva</p>
          <p>Publication date: 1932</p>
@@ -2171,7 +2054,6 @@
       <note>
          <p>Creator: Prokofiev, Serge</p>
          <p>Secondary creator: Phillips, Anthony</p>
-         <p>Publication date: 2008</p>
          <p>ID: SPA_1622</p>
          <p>Publisher: Faber &amp; Faber, London</p>
          <p>Publication date: 2008</p>
@@ -2189,7 +2071,6 @@
       <unittitle>Sergey Prokofiev and His World</unittitle>
       <note>
          <p>Creator: Morrison, Simon (ed.)</p>
-         <p>Publication date: 2008</p>
          <p>ID: SPA_1623</p>
          <p>Publisher: Princeton University Press, Princeton</p>
          <p>Publication date: 2008</p>
@@ -2218,7 +2099,6 @@
       <unittitle>The People's Artist: Prokofiev's Soviet Years</unittitle>
       <note>
          <p>Creator: Morrison, Simon</p>
-         <p>Publication date: 2009</p>
          <p>ID: SPA_1624</p>
          <p>Publisher: Oxford University Press, New York</p>
          <p>Publication date: 2009</p>
@@ -2235,7 +2115,6 @@
       <unittitle>XX vek Liny Prokof'evoi</unittitle>
       <note>
          <p>Creator: Chemberdzhi, Valentina</p>
-         <p>Publication date: 2008</p>
          <p>ID: SPA_1625</p>
          <p>Publisher: Klassika-XXI, Moskva</p>
          <p>Publication date: 2008</p>
@@ -2253,7 +2132,6 @@
       <note>
          <p>Creator: Prokofiev, Serge</p>
          <p>Secondary creator: Toyota, Naoko</p>
-         <p>Publication date: 2009</p>
          <p>ID: SPA_1626</p>
          <p>Publisher: Gunzosha, </p>
          <p>Publication date: 2009</p>
@@ -2272,7 +2150,6 @@
       <unittitle>Prokof'ev</unittitle>
       <note>
          <p>Creator: Kvadrate, V.</p>
-         <p>Publication date: 2008</p>
          <p>ID: SPA_1627</p>
          <p>Publisher: Klassika-XXI, Moskva</p>
          <p>Publication date: 2008</p>
@@ -2292,7 +2169,6 @@
          <p>Creator: Prokof'ev, Sergei</p>
          <p>Secondary creator: Besti, Andrei (illustrator)</p>
          <p>Secondary creator: Dmitrenko, Aleksei (ed.)</p>
-         <p>Publication date: 2009</p>
          <p>ID: SPA_1628</p>
          <p>Publisher: Vita Nova, Sankt-Peterburg</p>
          <p>Publication date: 2009</p>
@@ -2310,7 +2186,6 @@
       <unittitle>Sergei Prokof'ev: Pis'ma, vospominaniia, stat'i</unittitle>
       <note>
          <p>Creator: Rakhmanova, Marina (ed.)</p>
-         <p>Publication date: 2007</p>
          <p>ID: SPA_1629</p>
          <p>Publisher: Gosudarstvennyi Tsentral'nyi Muzei Muzykal'noi Kul'tury imeni M.
             I. Glinki, Moskva</p>
@@ -2328,7 +2203,6 @@
       <unittitle>The Story of Serge Prokofiev</unittitle>
       <note>
          <p>Creator: Kaufmann, Helen</p>
-         <p>Publication date: 1971</p>
          <p>ID: SPA_1630</p>
          <p>Publisher: J.B. Lippincott, Philadelphia</p>
          <p>Publication date: 1971</p>
@@ -2346,7 +2220,6 @@
       <unittitle>A Propo : Sergei Prokof'ev dereviannaia kniga</unittitle>
       <note>
          <p>Creator: Prokofiev, Serge</p>
-         <p>Publication date: 2009</p>
          <p>ID: SPA_1631</p>
          <p>Publisher: Vita Nova, Sankt-Peterburg</p>
          <p>Publication date: 2009</p>
@@ -2364,7 +2237,6 @@
             Prokof'eva. Bibliograf Vypusk 15</unittitle>
       <note>
          <p>Creator: Dediulin, Sergei (ed.)</p>
-         <p>Publication date: 2010</p>
          <p>ID: SPA_1632</p>
          <p>Publisher: Izdanie Assotsiatsii "Russkii Institut v Parizhe", Parizh</p>
          <p>Publication date: 2010</p>
@@ -2382,7 +2254,6 @@
       <note>
          <p>Creator: Prokofiev, Serge</p>
          <p>Secondary creator: Phillips, Anthony (trans.)</p>
-         <p>Publication date: 2012</p>
          <p>ID: SPA_1633</p>
          <p>Publisher: Faber &amp; Faber Ltd., London</p>
          <p>Publication date: 2012</p>
@@ -2400,7 +2271,6 @@
       <unittitle>Sergei Radlov: The Shakespearian Fate of a Soviet Director. Russian Theatre Archive</unittitle>
       <note>
          <p>Creator: Zolotnitsky, David</p>
-         <p>Publication date: 1998</p>
          <p>ID: SPA_1634</p>
          <p>Publisher: Harwood Academic Publishers, Amsterdam</p>
          <p>Publication date: 1998</p>
@@ -2417,7 +2287,6 @@
       <unittitle>Sergej Rachmaninoff 1873-1943: Zwischen Moskau und New York: Eine Künstlerbiographie</unittitle>
       <note>
          <p>Creator: Biesold, Maria</p>
-         <p>Publication date: 1991</p>
          <p>ID: SPA_1635</p>
          <p>Publisher: Beltz Quadriga, Berlin</p>
          <p>Publication date: 1991</p>
@@ -2435,7 +2304,6 @@
       <note>
          <p>Creator: Monsaingeon, Bruno</p>
          <p>Secondary creator: Spencer, Stewart (trans.)</p>
-         <p>Publication date: 2001</p>
          <p>ID: SPA_1636</p>
          <p>Publisher: Faber &amp; Faber, </p>
          <p>Publication date: 2001</p>
@@ -2453,7 +2321,6 @@
       <unittitle>Preambuly</unittitle>
       <note>
          <p>Creator: Rozhdestvensky, Gennadi</p>
-         <p>Publication date: 1989</p>
          <p>ID: SPA_1637</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1989</p>
@@ -2470,7 +2337,6 @@
       <unittitle>N. Sats i ee tvorcheskaia deiatel'nost'</unittitle>
       <note>
          <p>Creator: Viktorov, Viktor</p>
-         <p>Publication date: 1977</p>
          <p>ID: SPA_1638</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1977</p>
@@ -2487,7 +2353,6 @@
       <unittitle>Iu. A. Shaporin</unittitle>
       <note>
          <p>Creator: Vasina-Grossman, Vera Andreevna</p>
-         <p>Publication date: 1946</p>
          <p>ID: SPA_1639</p>
          <p>Publisher: Muzgiz, Moskva</p>
          <p>Publication date: 1946</p>
@@ -2506,7 +2371,6 @@
          <p>Creator: Ho, Allan</p>
          <p>Creator: Feofanov, Dmitri</p>
          <p>Secondary creator: Ashkenazy, Vladimir</p>
-         <p>Publication date: 1998</p>
          <p>ID: SPA_1640</p>
          <p>Publisher: Toccata Press, London</p>
          <p>Publication date: 1998</p>
@@ -2524,7 +2388,6 @@
       <unittitle>Lost in the Stars: The Forgotten Musical Life of Alexander Siloti</unittitle>
       <note>
          <p>Creator: Barber, Charles F.</p>
-         <p>Publication date: 2002</p>
          <p>ID: SPA_1641</p>
          <p>Publisher: Scarecrow Press, Inc., Lanham</p>
          <p>Publication date: 2002</p>
@@ -2542,7 +2405,6 @@
       <unittitle>Perfect Pitch: A Life Story</unittitle>
       <note>
          <p>Creator: Slonimsky, Nicolas</p>
-         <p>Publication date: 1988</p>
          <p>ID: SPA_1642</p>
          <p>Publisher: Oxford University Press, Oxford</p>
          <p>Publication date: 1988</p>
@@ -2559,7 +2421,6 @@
       <unittitle>(Re)lire Souvtchinski (1892 - 1985)</unittitle>
       <note>
          <p>Creator: Humbertclaude, Eric (ed.)</p>
-         <p>Publication date: 1990</p>
          <p>ID: SPA_1643</p>
          <p>Publisher: Eric Humbertclaude, La Bresse</p>
          <p>Publication date: 1990</p>
@@ -2575,7 +2436,6 @@
       <unittitle>Petr Suvchinskii i ego vremia</unittitle>
       <note>
          <p>Creator: Bretanitskaia, Alla</p>
-         <p>Publication date: 1999</p>
          <p>ID: SPA_1644</p>
          <p>Publisher: Izdatel'skoe Obedinenie 'Kompozitor', Moskva</p>
          <p>Publication date: 1999</p>
@@ -2594,7 +2454,6 @@
          <p>Creator: Souvtchinsky, Pierre</p>
          <p>Secondary creator: Langlois, Frank</p>
          <p>Secondary creator: Boulez, Pierre</p>
-         <p>Publication date: 2004</p>
          <p>ID: SPA_1645</p>
          <p>Publisher: Actes Sud, Arles</p>
          <p>Publication date: 2004</p>
@@ -2612,7 +2471,6 @@
       <unittitle>Pisma k Petru Suvchinskomu. V muzykal'nom krugu russkogo zarubezh'ia</unittitle>
       <note>
          <p>Creator: Poldiaeva, Elena</p>
-         <p>Publication date: 2005</p>
          <p>ID: SPA_1646</p>
          <p>Publisher: Osteuropa-förderung, Berlin</p>
          <p>Publication date: 2005</p>
@@ -2629,7 +2487,6 @@
       <unittitle>Pierre Souvtchinski, cahiers d'étude</unittitle>
       <note>
          <p>Creator: Humbertclaude, Éric (ed.)</p>
-         <p>Publication date: 2006</p>
          <p>ID: SPA_1647</p>
          <p>Publisher: L'Harmattan, Paris</p>
          <p>Publication date: 2006</p>
@@ -2648,7 +2505,6 @@
       <unittitle>Stalin and the Shaping of the Soviet Union</unittitle>
       <note>
          <p>Creator: Jonge, Alex de</p>
-         <p>Publication date: 1986</p>
          <p>ID: SPA_1648</p>
          <p>Publisher: Collins, London</p>
          <p>Publication date: 1986</p>
@@ -2665,7 +2521,6 @@
       <unittitle>Stanislavskii - reformator opernogo iskusstva: materialy, dokumenty</unittitle>
       <note>
          <p>Creator: Kalashnikov, Iu S</p>
-         <p>Publication date: 1983</p>
          <p>ID: SPA_1649</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1983</p>
@@ -2702,7 +2557,6 @@
             (Volume 1)</unittitle>
       <note>
          <p>Creator: Taruskin, Richard</p>
-         <p>Publication date: 1996</p>
          <p>ID: SPA_1651</p>
          <p>Publisher: Oxford University Press, Oxford</p>
          <p>Publication date: 1996</p>
@@ -2721,7 +2575,6 @@
             (Volume 2)</unittitle>
       <note>
          <p>Creator: Taruskin, Richard</p>
-         <p>Publication date: 1996</p>
          <p>ID: SPA_1652</p>
          <p>Publisher: Oxford University Press, Oxford</p>
          <p>Publication date: 1996</p>
@@ -2739,7 +2592,6 @@
       <unittitle>Confronting Stravinsky</unittitle>
       <note>
          <p>Creator: Pasler, Jann (ed.)</p>
-         <p>Publication date: 1986</p>
          <p>ID: SPA_1653</p>
          <p>Publisher: University of California Press, Berkeley</p>
          <p>Publication date: 1986</p>
@@ -2756,7 +2608,6 @@
       <unittitle>Stravinsky and the Rite of Spring: The Beginnings of a Musical Language</unittitle>
       <note>
          <p>Creator: Toorn, Pieter C van den</p>
-         <p>Publication date: 1987</p>
          <p>ID: SPA_1654</p>
          <p>Publisher: Oxford University Press, Oxford</p>
          <p>Publication date: 1987</p>
@@ -2774,7 +2625,6 @@
       <unittitle>Stravinsky: A Creative Spring: Russia and France 1882-1934</unittitle>
       <note>
          <p>Creator: Walsh, Stephen</p>
-         <p>Publication date: 1999</p>
          <p>ID: SPA_1655</p>
          <p>Publisher: Alfred A Knopf, New York</p>
          <p>Publication date: 1999</p>
@@ -2793,7 +2643,6 @@
          <p>Creator: Stravinsky, Vera</p>
          <p>Secondary creator: McCaffrey, Rita</p>
          <p>Secondary creator: Craft, Robert</p>
-         <p>Publication date: 1982</p>
          <p>ID: SPA_1656</p>
          <p>Publisher: Thames &amp; Hudson, Over Whallop, Hampshire, Great Britain</p>
          <p>Publication date: 1982</p>
@@ -2810,7 +2659,6 @@
       <unittitle>With Strings Attached: Reminiscences and Reflections</unittitle>
       <note>
          <p>Creator: Szígetí, Joseph</p>
-         <p>Publication date: 1967</p>
          <p>ID: SPA_1657</p>
          <p>Publisher: Alfred A Knopf, New York</p>
          <p>Publication date: 1967</p>
@@ -2828,7 +2676,6 @@
       <unittitle>Aleksandr Cherepnin: dolgoe stranstvie</unittitle>
       <note>
          <p>Creator: Korabel'nikova, Liudmila</p>
-         <p>Publication date: 1999</p>
          <p>ID: SPA_1658</p>
          <p>Publisher: Iazyki Russkoi Kul'tury, Moskva</p>
          <p>Publication date: 1999</p>
@@ -2846,7 +2693,6 @@
       <note>
          <p>Creator: Reich, Willy</p>
          <p>Secondary creator: Halbreich, Harry (trans.)</p>
-         <p>Publication date: 1962</p>
          <p>ID: SPA_1659</p>
          <p>Publisher: La Revue Musicale, Paris</p>
          <p>Publication date: 1962</p>
@@ -2865,7 +2711,6 @@
          <p>Creator: Bogdanov-Beresovsky, Valerian Mikhailovich</p>
          <p>Secondary creator: Garry, Stephen (trans.)</p>
          <p>Secondary creator: Lawson, Joan (trans.)</p>
-         <p>Publication date: 1952</p>
          <p>ID: SPA_1660</p>
          <p>Publisher: Macgibbon &amp; Kee, London</p>
          <p>Publication date: 1952</p>
@@ -2882,7 +2727,6 @@
       <unittitle>Notnaia Biblioteka Sem'i Ul'ianovykh: Katalog–spravochnik</unittitle>
       <note>
          <p>Creator: Kunetskaia, L</p>
-         <p>Publication date: 1978</p>
          <p>ID: SPA_1661</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1978</p>
@@ -2901,7 +2745,6 @@
       <note>
          <p>Creator: Samuel, Claude</p>
          <p>Secondary creator: Glasow, E. Thomas (trans.)</p>
-         <p>Publication date: 1983</p>
          <p>ID: SPA_1662</p>
          <p>Publisher: Amadeus Press, Portland, Oregon</p>
          <p>Publication date: 1983</p>
@@ -2920,7 +2763,6 @@
       <note>
          <p>Creator: Vishnevskaya, Galina</p>
          <p>Secondary creator: Daniels, Guy (trans.)</p>
-         <p>Publication date: 1986</p>
          <p>ID: SPA_1663</p>
          <p>Publisher: Sceptre, Great Britain</p>
          <p>Publication date: 1986</p>
@@ -2937,7 +2779,6 @@
       <unittitle>The House of Wittgenstein: A Family at War</unittitle>
       <note>
          <p>Creator: Waugh, Alexander</p>
-         <p>Publication date: 2009</p>
          <p>ID: SPA_1664</p>
          <p>Publisher: Bloomsbury, London</p>
          <p>Publication date: 2009</p>
@@ -2955,7 +2796,6 @@
       <unittitle>Riadom Velikimi : Atovm'ian i ego vremia</unittitle>
       <note>
          <p>Creator: Kravets, Nelly (ed.)</p>
-         <p>Publication date: 2012</p>
          <p>ID: SPA_1665</p>
          <p>Publisher: GITIS, Moskva</p>
          <p>Publication date: 2012</p>
@@ -2977,7 +2817,6 @@
          <p>Secondary creator: Cubr, Antonín (ed.)</p>
          <p>Secondary creator: Hallová, Markéta (ed.)</p>
          <p>Secondary creator: Slavíková, Jitka (ed.)</p>
-         <p>Publication date: 1987</p>
          <p>ID: SPA_1666</p>
          <p>Publisher: Editio Supraphon, Praha</p>
          <p>Publication date: 1987</p>
@@ -2999,7 +2838,6 @@
          <p>Secondary creator: Cubr, Antonín (ed.)</p>
          <p>Secondary creator: Hallová, Markéta (ed.)</p>
          <p>Secondary creator: Slavíková, Jitka (ed.)</p>
-         <p>Publication date: 1988</p>
          <p>ID: SPA_1667</p>
          <p>Publisher: Editio Supraphon, Praha</p>
          <p>Publication date: 1988</p>
@@ -3021,7 +2859,6 @@
          <p>Secondary creator: Cubr, Antonín (ed.)</p>
          <p>Secondary creator: Hallová, Markéta (ed.)</p>
          <p>Secondary creator: Slavíková, Jitka (ed.)</p>
-         <p>Publication date: 1989</p>
          <p>ID: SPA_1668</p>
          <p>Publisher: Editio Supraphon, Praha</p>
          <p>Publication date: 1989</p>
@@ -3043,7 +2880,6 @@
          <p>Secondary creator: Cubr, Antonín (ed.)</p>
          <p>Secondary creator: Hallová, Markéta (ed.)</p>
          <p>Secondary creator: Slavíková, Jitka (ed.)</p>
-         <p>Publication date: 1995</p>
          <p>ID: SPA_1669</p>
          <p>Publisher: Barenreiter Editio Supraphon, </p>
          <p>Publication date: 1995</p>
@@ -3061,7 +2897,6 @@
       <unittitle>N. Ia. Miaskovskii; stat'i pis'ma vospominaniia</unittitle>
       <note>
          <p>Creator: Shlifstein, S (ed.)</p>
-         <p>Publication date: 1959</p>
          <p>ID: SPA_1670</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1959</p>
@@ -3079,7 +2914,6 @@
       <unittitle>N. Ia. Miaskovskii; stat'i pis'ma vospominaniia</unittitle>
       <note>
          <p>Creator: Shlifstein, S (ed.)</p>
-         <p>Publication date: 1960</p>
          <p>ID: SPA_1671</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1960</p>
@@ -3097,7 +2931,6 @@
       <unittitle>S.S. Prokof'ev i N. Ia. Miaskovskii: Perepiska</unittitle>
       <note>
          <p>Creator: Kabalevskii, Dmitri Borisovich (ed.)</p>
-         <p>Publication date: 1977</p>
          <p>ID: SPA_1672</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1977</p>
@@ -3131,7 +2964,6 @@
       <note>
          <p>Creator: Robinson, Harlow (ed.)</p>
          <p>Secondary creator: Robinson, Harlow (trans.)</p>
-         <p>Publication date: 1998</p>
          <p>ID: SPA_1674</p>
          <p>Publisher: Northeastern University Press, Boston</p>
          <p>Publication date: 1998</p>
@@ -3181,7 +3013,6 @@
       <unittitle>I. F. Stravinskii: Perepiska s russkimi korrespondentami: Materialy k biografii: Tom 1 1882-1912</unittitle>
       <note>
          <p>Creator: Varunts, Viktor P</p>
-         <p>Publication date: 1998</p>
          <p>ID: SPA_1677</p>
          <p>Publisher: Kompozitor, Moskva</p>
          <p>Publication date: 1998</p>
@@ -3199,7 +3030,6 @@
             II 1923-1939</unittitle>
       <note>
          <p>Creator: Varunts, Viktor P</p>
-         <p>Publication date: 2003</p>
          <p>ID: SPA_1678</p>
          <p>Publisher: Kompozitor, Moskva</p>
          <p>Publication date: 2003</p>
@@ -3218,7 +3048,6 @@
             III 1913-1922</unittitle>
       <note>
          <p>Creator: Varunts, Viktor P</p>
-         <p>Publication date: 2000</p>
          <p>ID: SPA_1679</p>
          <p>Publisher: Kompozitor, Moskva</p>
          <p>Publication date: 2000</p>
@@ -3235,7 +3064,6 @@
       <unittitle>How They Said It: Wise and Witty Letters from the Famous and Infamous</unittitle>
       <note>
          <p>Creator: Maggio, Rosalie</p>
-         <p>Publication date: 2000</p>
          <p>ID: SPA_1680</p>
          <p>Publisher: Prentice Hall Press, Paramus, NJ</p>
          <p>Publication date: 2000</p>
@@ -3253,7 +3081,6 @@
       <unittitle>Slovar' Russkogo Iazyka</unittitle>
       <note>
          <p>Creator: Ozhegov, S I</p>
-         <p>Publication date: 1973</p>
          <p>ID: SPA_1681</p>
          <p>Publisher: Sovetskaia Entsiklopediia, Moskva</p>
          <p>Publication date: 1973</p>
@@ -3270,7 +3097,6 @@
       <unittitle>Pears Cyclopaedia 88th Edition</unittitle>
       <note>
          <p>Creator: Cook, Christopher (ed.)</p>
-         <p>Publication date: 1979</p>
          <p>ID: SPA_1682</p>
          <p>Publisher: Pelham Books, Bungay, Suffolk</p>
          <p>Publication date: 1979</p>
@@ -3287,7 +3113,6 @@
       <unittitle>The New Collegiate Latin and English Dictionary</unittitle>
       <note>
          <p>Creator: Traupman, John C</p>
-         <p>Publication date: 1966</p>
          <p>ID: SPA_1683</p>
          <p>Publisher: Bantam Books, Philadelphia</p>
          <p>Publication date: 1966</p>
@@ -3304,7 +3129,6 @@
       <unittitle>Russko-Angliiskii Slovar'</unittitle>
       <note>
          <p>Creator: Akhmatova, O S (ed.)</p>
-         <p>Publication date: 1967</p>
          <p>ID: SPA_1684</p>
          <p>Publisher: Sovetskaia Entsiklopediia, Moskva</p>
          <p>Publication date: 1967</p>
@@ -3321,7 +3145,6 @@
       <unittitle>Kapesni Slovnik: Anglicko-Chesky a Chesko-Anglicky</unittitle>
       <note>
          <p>Creator: Hais, Karel</p>
-         <p>Publication date: 1963</p>
          <p>ID: SPA_1685</p>
          <p>Publisher: Statni Pedagogicke Nakladatelstvi, Praha</p>
          <p>Publication date: 1963</p>
@@ -3338,7 +3161,6 @@
       <unittitle>Kratkii Anglo-Russkii i Russko-Angliiskii Slovar'</unittitle>
       <note>
          <p>Creator: Zaimovskii, S G</p>
-         <p>Publication date: 1959</p>
          <p>ID: SPA_1686</p>
          <p>Publisher: Gosudarstvennoe Izdatel'stvo Inostrannykh i Natsional'nykh
             Slovarei, Moskva</p>
@@ -3356,7 +3178,6 @@
       <unittitle>Anglo-Russkii Slovar'</unittitle>
       <note>
          <p>Creator: Akhmatova, O S</p>
-         <p>Publication date: 1957</p>
          <p>ID: SPA_1687</p>
          <p>Publisher: Gosudarstvennoe Izdatel'stvo Inostrannykh i Natsional'nykh
             Slovarei, Moskva</p>
@@ -3374,7 +3195,6 @@
       <unittitle>Preservation Politics: Dance Revived Reconstructed Remade</unittitle>
       <note>
          <p>Creator: Jordan, Stephanie (ed.)</p>
-         <p>Publication date: 2000</p>
          <p>ID: SPA_1688</p>
          <p>Publisher: Dance Books Ltd, London</p>
          <p>Publication date: 2000</p>
@@ -3397,7 +3217,6 @@
          <p>Creator: Souritz, Elizabeth</p>
          <p>Secondary creator: Visson, Lynn (trans.)</p>
          <p>Secondary creator: Banes, Sally (ed.)</p>
-         <p>Publication date: 1990</p>
          <p>ID: SPA_1689</p>
          <p>Publisher: Dance Books, Lodon</p>
          <p>Publication date: 1990</p>
@@ -3415,7 +3234,6 @@
       <unittitle>Rannie Balety Stravinskogo</unittitle>
       <note>
          <p>Creator: Vershinina, I Ia</p>
-         <p>Publication date: 1967</p>
          <p>ID: SPA_1690</p>
          <p>Publisher: Nauka, Moskva</p>
          <p>Publication date: 1967</p>
@@ -3436,7 +3254,6 @@
          <p>Creator: Buckle, Richard</p>
          <p>Creator: Woodcock, Sarah</p>
          <p>Creator: Dyer, Philip</p>
-         <p>Publication date: 1981</p>
          <p>ID: SPA_1691</p>
          <p>Publisher: Victoria and Albert Museum, London</p>
          <p>Publication date: 1981</p>
@@ -3454,7 +3271,6 @@
       <note>
          <p>Creator: Docherty, Peter (ed.)</p>
          <p>Creator: White, Tim (ed.)</p>
-         <p>Publication date: 1996</p>
          <p>ID: SPA_1692</p>
          <p>Publisher: Lund Humphries Publishers, London</p>
          <p>Publication date: 1996</p>
@@ -3471,7 +3287,6 @@
       <unittitle>The World of Diaghilev</unittitle>
       <note>
          <p>Creator: Percival, John</p>
-         <p>Publication date: 1979</p>
          <p>ID: SPA_1693</p>
          <p>Publisher: Herbert Press, </p>
          <p>Publication date: 1979</p>
@@ -3487,7 +3302,6 @@
       <unittitle>Diaghilev's Ballets Russes</unittitle>
       <note>
          <p>Creator: Garafola, Lynn</p>
-         <p>Publication date: 1989</p>
          <p>ID: SPA_1694</p>
          <p>Publisher: Oxford University Press, New York</p>
          <p>Publication date: 1989</p>
@@ -3510,7 +3324,6 @@
          <p>Secondary creator: Pozharskaia, Militsa</p>
          <p>Secondary creator: Schouvaloff, Alexander</p>
          <p>Secondary creator: Vershinina, Irina</p>
-         <p>Publication date: 1996</p>
          <p>ID: SPA_1695</p>
          <p>Publisher: Barbican Art Gallery / Lund Humphries Publishers, London</p>
          <p>Publication date: 1996</p>
@@ -3528,7 +3341,6 @@
       <note>
          <p>Creator: Grigoriev, S L</p>
          <p>Secondary creator: Bowen, Vera (trans.) (ed.)</p>
-         <p>Publication date: 1953</p>
          <p>ID: SPA_1696</p>
          <p>Publisher: Constable, London</p>
          <p>Publication date: 1953</p>
@@ -3545,7 +3357,6 @@
       <unittitle>L'Histoire Secrète des Ballets Russes: De Diaghilev a Picasso, de Cocteau a Stravinsky et Noureev</unittitle>
       <note>
          <p>Creator: Fédorovski, Vladimir</p>
-         <p>Publication date: 2002</p>
          <p>ID: SPA_1697</p>
          <p>Publisher: Editions du Rocher, </p>
          <p>Publication date: 2002</p>
@@ -3563,7 +3374,6 @@
          <p>Creator: Spencer, Charles</p>
          <p>Secondary creator: Battersby, Martin</p>
          <p>Secondary creator: Dyer, Philip</p>
-         <p>Publication date: 1979</p>
          <p>ID: SPA_1698</p>
          <p>Publisher: Penguin Books, Middlesex, England</p>
          <p>Publication date: 1979</p>
@@ -3580,7 +3390,6 @@
       <unittitle>Kamennyi Tsvetok</unittitle>
       <note>
          <p>Creator: Bazhov, P</p>
-         <p>Publication date: 1999</p>
          <p>ID: SPA_1699</p>
          <p>Publisher: Machaon, Moskva</p>
          <p>Publication date: 1999</p>
@@ -3599,7 +3408,6 @@
          <p>Creator: Grigorovich, Yuri</p>
          <p>Creator: Demidov, Alexander</p>
          <p>Secondary creator: Levcoeva, N (trans.)</p>
-         <p>Publication date: 1988</p>
          <p>ID: SPA_1700</p>
          <p>Publisher: T.F.H. Publications, Inc., </p>
          <p>Publication date: 1988</p>
@@ -3618,7 +3426,6 @@
          <p>Creator: Grigorovich, Yuri</p>
          <p>Creator: Demidov, Alexander</p>
          <p>Secondary creator: Coey, Tim (trans.)</p>
-         <p>Publication date: 1990</p>
          <p>ID: SPA_1701</p>
          <p>Publisher: T.F.H. Publications, Inc., Neptune City, NJ</p>
          <p>Publication date: 1990</p>
@@ -3637,7 +3444,6 @@
       <note>
          <p>Creator: Shakespeare, William</p>
          <p>Secondary creator: Evans, G. Blakemore (ed.)</p>
-         <p>Publication date: 1988</p>
          <p>ID: SPA_1702</p>
          <p>Publisher: Cambridge University Press, Cambridge</p>
          <p>Publication date: 1988</p>
@@ -3654,7 +3460,6 @@
       <unittitle>Ballets Russes</unittitle>
       <note>
          <p>Creator: Shead, Richard</p>
-         <p>Publication date: 1989</p>
          <p>ID: SPA_1703</p>
          <p>Publisher: Wellfleet Press, Secaucus, NJ</p>
          <p>Publication date: 1989</p>
@@ -3672,7 +3477,6 @@
       <unittitle>Ballets Russes</unittitle>
       <note>
          <p>Creator: Shead, Richard</p>
-         <p>Publication date: 1989</p>
          <p>ID: SPA_1704</p>
          <p>Publisher: Wellfleet Press, Secaucus, NJ</p>
          <p>Publication date: 1989</p>
@@ -3689,7 +3493,6 @@
       <unittitle>The Diaghilev Exhibition: From the Edinburgh Festival, 1954</unittitle>
       <note>
          <p>Creator: Buckle, Richard (ed.)</p>
-         <p>Publication date: 1954</p>
          <p>ID: SPA_1705</p>
          <p>Publisher: The Observer Ltd., Edinburgh</p>
          <p>Publication date: 1954</p>
@@ -3707,7 +3510,6 @@
       <note>
          <p>Creator: Amati, Manuela (ed.)</p>
          <p>Creator: Zanetti, Antonella (ed.)</p>
-         <p>Publication date: 1998</p>
          <p>ID: SPA_1706</p>
          <p>Publisher: Editrice Compositori, Bologna</p>
          <p>Publication date: 1998</p>
@@ -3724,7 +3526,6 @@
       <unittitle>The New Soviet Theatre</unittitle>
       <note>
          <p>Creator: Macleod, Joseph</p>
-         <p>Publication date: 1943</p>
          <p>ID: SPA_1707</p>
          <p>Publisher: George Allen &amp; Unwin, Ltd., London</p>
          <p>Publication date: 1943</p>
@@ -3741,7 +3542,6 @@
       <unittitle>Alexander Nevsky (radio play)</unittitle>
       <note>
          <p>Creator: MacNeice, Louis</p>
-         <p>Publication date: 1941</p>
          <p>ID: SPA_1708</p>
          <p>Publisher: BBC, London</p>
          <p>Publication date: 1941</p>
@@ -3762,7 +3562,6 @@
          <p>Creator: Egorova, Tatiana K</p>
          <p>Secondary creator: Ganf, Tatiana A.</p>
          <p>Secondary creator: Egunova, Natalia A.</p>
-         <p>Publication date: 1997</p>
          <p>ID: SPA_1709</p>
          <p>Publisher: Harwood Academic Publishers, Amsterdam</p>
          <p>Publication date: 1997</p>
@@ -3779,7 +3578,6 @@
       <unittitle>Ivan the Terrible</unittitle>
       <note>
          <p>Creator: Eisenstein, Sergei</p>
-         <p>Publication date: 1985</p>
          <p>ID: SPA_1710</p>
          <p>Publisher: Lorrimer Publishing Ltd., London</p>
          <p>Publication date: 1985</p>
@@ -3799,7 +3597,6 @@
          <p>Creator: Montagu, Ivor (ed.)</p>
          <p>Secondary creator: Montagu, Ivor (trans.)</p>
          <p>Secondary creator: Marshall, Herbert (trans.)</p>
-         <p>Publication date: 1963</p>
          <p>ID: SPA_1711</p>
          <p>Publisher: Secker &amp; Warburg, London</p>
          <p>Publication date: 1963</p>
@@ -3819,7 +3616,6 @@
          <p>Creator: Leyda, Jay</p>
          <p>Creator: Voynow, Zina</p>
          <p>Secondary creator: Perry, Ted (intro.)</p>
-         <p>Publication date: 1982</p>
          <p>ID: SPA_1712</p>
          <p>Publisher: Methuen, New York</p>
          <p>Publication date: 1982</p>
@@ -3837,7 +3633,6 @@
       <note>
          <p>Creator: Christie, Ian (ed.)</p>
          <p>Creator: Elliott, David (ed.)</p>
-         <p>Publication date: 1988</p>
          <p>ID: SPA_1713</p>
          <p>Publisher: Museum of Modern Art, Oxford</p>
          <p>Publication date: 1988</p>
@@ -3857,7 +3652,6 @@
       <note>
          <p>Creator: Eisenstein, Sergei</p>
          <p>Secondary creator: Griffith, Richard</p>
-         <p>Publication date: 1970</p>
          <p>ID: SPA_1714</p>
          <p>Publisher: Dover, Inc., New York</p>
          <p>Publication date: 1970</p>
@@ -3875,7 +3669,6 @@
       <unittitle>October</unittitle>
       <note>
          <p>Creator: Taylor, Richard</p>
-         <p>Publication date: 2002</p>
          <p>ID: SPA_1715</p>
          <p>Publisher: BFI Publishing, London</p>
          <p>Publication date: 2002</p>
@@ -3892,7 +3685,6 @@
       <unittitle>Ivan The Terrible</unittitle>
       <note>
          <p>Creator: Tsivian, Yuri</p>
-         <p>Publication date: 2002</p>
          <p>ID: SPA_1716</p>
          <p>Publisher: BFI Publishing, London</p>
          <p>Publication date: 2002</p>
@@ -3911,7 +3703,6 @@
          <p>Creator: Eisenstein, Sergei</p>
          <p>Secondary creator: Leyda, Jay (ed.)</p>
          <p>Secondary creator: Matias, Diana (trans.)</p>
-         <p>Publication date: 1984</p>
          <p>ID: SPA_1717</p>
          <p>Publisher: Lorrimer Publishing, </p>
          <p>Publication date: 1984</p>
@@ -3928,7 +3719,6 @@
       <unittitle>Sergej Prokofjews Filmmusik zu Sergej Eisensteins "Alexander Newski"</unittitle>
       <note>
          <p>Creator: Wünschel, Ulrich</p>
-         <p>Publication date: 2006</p>
          <p>ID: SPA_1718</p>
          <p>Publisher: Wolke Verlag, Hofheim</p>
          <p>Publication date: 2006</p>
@@ -3945,7 +3735,6 @@
       <unittitle>Rannie Opery Prokof'eva</unittitle>
       <note>
          <p>Creator: Tarakanov, Mikhail Evgenevich</p>
-         <p>Publication date: 1996</p>
          <p>ID: SPA_1719</p>
          <p>Publisher: Gosudarstvennyi Institut Iskusstvovnaniia, Moskva</p>
          <p>Publication date: 1996</p>
@@ -3963,7 +3752,6 @@
       <unittitle>Teatr Prokof'eva v Peterburge</unittitle>
       <note>
          <p>Creator: Danko, Larissa</p>
-         <p>Publication date: 2003</p>
          <p>ID: SPA_1720</p>
          <p>Publisher: Akademicheskii Proekt, St Petersburg</p>
          <p>Publication date: 2003</p>
@@ -3981,7 +3769,6 @@
             spustia</unittitle>
       <note>
          <p>Creator: Lobacheva, Nadezhda A.</p>
-         <p>Publication date: 2008</p>
          <p>ID: SPA_1721</p>
          <p>Publisher: Kompozitor, Moskva</p>
          <p>Publication date: 2008</p>
@@ -4000,7 +3787,6 @@
          <p>Creator: Briussov, Valeri</p>
          <p>Secondary creator: Montagu, Ivor (trans.)</p>
          <p>Secondary creator: Nalbandov, Sergei (trans.)</p>
-         <p>Publication date: 1975</p>
          <p>ID: SPA_1722</p>
          <p>Publisher: Neville Spearman Limited, London</p>
          <p>Publication date: 1975</p>
@@ -4017,7 +3803,6 @@
       <unittitle>"Voina i Mir" Prokof'eva: Ppyt analiza variantov opery</unittitle>
       <note>
          <p>Creator: Volkov, Anatolii Isaakovich</p>
-         <p>Publication date: 1976</p>
          <p>ID: SPA_1723</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1976</p>
@@ -4034,7 +3819,6 @@
       <unittitle>Opery S. Prokof'eva</unittitle>
       <note>
          <p>Creator: Danko, Larissa</p>
-         <p>Publication date: 1963</p>
          <p>ID: SPA_1724</p>
          <p>Publisher: Gosudarstvennoe Muzykal'noe Izdatel'stvo, Leningrad</p>
          <p>Publication date: 1963</p>
@@ -4052,7 +3836,6 @@
       <unittitle>Opera S.S. Prokof'eva 'Obruchenie v Monastyre' ('Duen'ia')</unittitle>
       <note>
          <p>Creator: Mnatsakanova, E</p>
-         <p>Publication date: 1962</p>
          <p>ID: SPA_1725</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1962</p>
@@ -4069,7 +3852,6 @@
       <unittitle>Opera S.S. Prokof'eva 'Voina i Mir'</unittitle>
       <note>
          <p>Creator: Uteshev, A</p>
-         <p>Publication date: 1960</p>
          <p>ID: SPA_1726</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1960</p>
@@ -4087,7 +3869,6 @@
       <note>
          <p>Creator: Prokofiev, Sergei</p>
          <p>Secondary creator: Guseva, O (ed.)</p>
-         <p>Publication date: 1991</p>
          <p>ID: SPA_1727</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1991</p>
@@ -4104,7 +3885,6 @@
       <unittitle>The Duenna</unittitle>
       <note>
          <p>Secondary creator: Karsavina, Jean (trans.)</p>
-         <p>Publication date: 1948</p>
          <p>ID: SPA_1728</p>
          <p>Publisher: AM - RUS Music Agency, Inc., New York</p>
          <p>Publication date: 1948</p>
@@ -4122,7 +3902,6 @@
       <note>
          <p>Secondary creator: Palmer, Irving (trans.)</p>
          <p>Secondary creator: Palmer, Georgette (trans.)</p>
-         <p>Publication date: 1975</p>
          <p>ID: SPA_1729</p>
          <p>Publisher: Boosey &amp; Hawkes, New York</p>
          <p>Publication date: 1975</p>
@@ -4139,7 +3918,6 @@
       <unittitle>L'Amour des Trois Oranges</unittitle>
       <note>
          <p>Creator: Prokofiev, Serge</p>
-         <p>Publication date: 1990</p>
          <p>ID: SPA_1730</p>
          <p>Publisher: L'Avant Scène Opera, </p>
          <p>Publication date: 1990</p>
@@ -4155,7 +3933,6 @@
       <unittitle>Guerre et Paix: Prokofiev</unittitle>
       <note>
          <p>Creator: Lischke, A</p>
-         <p>Publication date: 2000</p>
          <p>ID: SPA_1731</p>
          <p>Publisher: L'Avant Scène Opera, </p>
          <p>Publication date: 2000</p>
@@ -4171,7 +3948,6 @@
       <unittitle>Russian Opera and the Symbolist Movement</unittitle>
       <note>
          <p>Creator: Morrison, Simon</p>
-         <p>Publication date: 2002</p>
          <p>ID: SPA_1732</p>
          <p>Publisher: University of California Press, Berkeley</p>
          <p>Publication date: 2002</p>
@@ -4188,7 +3964,6 @@
       <unittitle>Bol'shoi Teatr: Pervye postanovki oper na russkoi stsene 1825-1993</unittitle>
       <note>
          <p>Creator: Zarubin, V I</p>
-         <p>Publication date: 1994</p>
          <p>ID: SPA_1733</p>
          <p>Publisher: Ellis Lak, Moskva</p>
          <p>Publication date: 1994</p>
@@ -4206,7 +3981,6 @@
             Concert Halls Around the World</unittitle>
       <note>
          <p>Creator: Swift, Richard</p>
-         <p>Publication date: 2006</p>
          <p>ID: SPA_1734</p>
          <p>Publisher: Red Lead Press, Pittsburgh, PA</p>
          <p>Publication date: 2006</p>
@@ -4224,7 +3998,6 @@
       <note>
          <p>Creator: Shostakovich, Dmitry</p>
          <p>Secondary creator: Downes, Edward (trans.)</p>
-         <p>Publication date: 1963</p>
          <p>ID: SPA_1735</p>
          <p>Publisher: Hertford &amp; Harlow, London</p>
          <p>Publication date: 1963</p>
@@ -4242,7 +4015,6 @@
       <note>
          <p>Secondary creator: Makaroff, Dmitri (trans.)</p>
          <p>Secondary creator: Downes, Edward (trans.)</p>
-         <p>Publication date: 1990</p>
          <p>ID: SPA_1736</p>
          <p>Publisher: Boosey &amp; Hawkes Music Publishers Ltd., </p>
          <p>Publication date: 1990</p>
@@ -4259,7 +4031,6 @@
       <unittitle>Le Joueur: Comédie lyrique en 4 actes et 6 tableaux d'apres Dostoievski</unittitle>
       <note>
          <p>Secondary creator: Spaak, Paul (trans.)</p>
-         <p>Publication date: 1929</p>
          <p>ID: SPA_1737</p>
          <p>Publisher: Edition Russe de Musique, Bruxelles</p>
          <p>Publication date: 1929</p>
@@ -4277,7 +4048,6 @@
       <note>
          <p>Creator: Sheridan, Richard Brinsley</p>
          <p>Secondary creator: Price, Cecil (trans.)</p>
-         <p>Publication date: 1975</p>
          <p>ID: SPA_1738</p>
          <p>Publisher: Oxford University Press, London</p>
          <p>Publication date: 1975</p>
@@ -4295,7 +4065,6 @@
       <note>
          <p>Creator: Hastings, Selina</p>
          <p>Secondary creator: Cartwright, Reg</p>
-         <p>Publication date: 1987</p>
          <p>ID: SPA_1739</p>
          <p>Publisher: Walker Books, London</p>
          <p>Publication date: 1987</p>
@@ -4316,7 +4085,6 @@
          <p>Creator: Prokofiev, Sergei</p>
          <p>Secondary creator: Girgis, Nazih (trans.)</p>
          <p>Secondary creator: Toth, Madeleine</p>
-         <p>Publication date: 1995</p>
          <p>ID: SPA_1740</p>
          <p>Publisher: US-Mid-East Performing Arts Council, Oxford, NJ</p>
          <p>Publication date: 1995</p>
@@ -4334,7 +4102,6 @@
       <unittitle>Petia i Volk</unittitle>
       <note>
          <p>Creator: Prokofiev, Sergey</p>
-         <p>Publication date: 1960</p>
          <p>ID: SPA_1741</p>
          <p>Publisher: Detskii Mir, </p>
          <p>Publication date: 1960</p>
@@ -4352,7 +4119,6 @@
       <unittitle>Le bûcher d'hiver conte musical de Serge Prokofiev</unittitle>
       <note>
          <p>Creator: Miquel, Joëlle</p>
-         <p>Publication date: 1995</p>
          <p>ID: SPA_1742</p>
          <p>Publisher: Chant du Monde, Paris</p>
          <p>Publication date: 1995</p>
@@ -4370,7 +4136,6 @@
       <unittitle>Master Class</unittitle>
       <note>
          <p>Creator: Pownall, David</p>
-         <p>Publication date: 1983</p>
          <p>ID: SPA_1743</p>
          <p>Publisher: Faber &amp; Faber Ltd, London</p>
          <p>Publication date: 1983</p>
@@ -4389,7 +4154,6 @@
          <p>Creator: Komissarzhevsky, V</p>
          <p>Secondary creator: Schneierson, Vic (trans.)</p>
          <p>Secondary creator: Perelman, Vic (trans.)</p>
-         <p>Publication date: 1959</p>
          <p>ID: SPA_1744</p>
          <p>Publisher: Foreign Languages Publishing House, Moscow</p>
          <p>Publication date: 1959</p>
@@ -4408,7 +4172,6 @@
       <note>
          <p>Creator: Tairov, Alexander</p>
          <p>Secondary creator: Kuhlke, William (trans.)</p>
-         <p>Publication date: 1969</p>
          <p>ID: SPA_1745</p>
          <p>Publisher: University of Miami Press, Coral Gables, Florida</p>
          <p>Publication date: 1969</p>
@@ -4428,7 +4191,6 @@
          <p>Creator: Prokofiev, Serge</p>
          <p>Secondary creator: Tallec, Olivier</p>
          <p>Secondary creator: Giraudeau, Bernard</p>
-         <p>Publication date: 2009</p>
          <p>ID: SPA_1746</p>
          <p>Publisher: Éditions Gallimard Jeunesse, </p>
          <p>Publication date: 2009</p>
@@ -4446,7 +4208,6 @@
       <unittitle>Peterburgskaia opera i ee mastera 1890 - 1910</unittitle>
       <note>
          <p>Creator: Stark, E</p>
-         <p>Publication date: 1940</p>
          <p>ID: SPA_1747</p>
          <p>Publisher: Gosudarstvennoe Izdatel'stvo "Iskustvo", Moskva</p>
          <p>Publication date: 1940</p>
@@ -4464,7 +4225,6 @@
       <unittitle>Iz Proshlogo Sovetskoi Muzykal'noi Kul'tury</unittitle>
       <note>
          <p>Creator: Livanova, Tamara Nikolaevna (ed.)</p>
-         <p>Publication date: 1975</p>
          <p>ID: SPA_1748</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1975</p>
@@ -4482,7 +4242,6 @@
       <unittitle>Iz Proshlogo Sovetskoi Muzykal'noi Kul'tury: Vypusk Vtroi</unittitle>
       <note>
          <p>Creator: Livanova, Tamara Nikolaevna (ed.)</p>
-         <p>Publication date: 1976</p>
          <p>ID: SPA_1749</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1976</p>
@@ -4500,7 +4259,6 @@
       <unittitle>Natsional'nye Traditsii Russkogo Khorovogo Iskusstva: Tvorchestvo, Ispolnitel'stvo, Obrazovanie</unittitle>
       <note>
          <p>Creator: Levando, P P (ed.)</p>
-         <p>Publication date: 1988</p>
          <p>ID: SPA_1750</p>
          <p>Publisher: Conservatory Rimsky-Korsakov, Leningrad</p>
          <p>Publication date: 1988</p>
@@ -4519,7 +4277,6 @@
       <unittitle>Liubiteliam Muzyki Posviashchaetsia</unittitle>
       <note>
          <p>Creator: Dobrynina, E</p>
-         <p>Publication date: 1980</p>
          <p>ID: SPA_1751</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1980</p>
@@ -4536,7 +4293,6 @@
       <unittitle>Nezabyvaemoe: Vospominaniia: Ocherki i stat'i</unittitle>
       <note>
          <p>Creator: Adzhemov, Konstantin Khristoforovich</p>
-         <p>Publication date: 1972</p>
          <p>ID: SPA_1752</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1972</p>
@@ -4553,7 +4309,6 @@
       <unittitle>Muzyka v dramaticheskom teatre: Sbornik statei</unittitle>
       <note>
          <p>Creator: Olkhovich, E M</p>
-         <p>Publication date: 1976</p>
          <p>ID: SPA_1753</p>
          <p>Publisher: Muzyka, </p>
          <p>Publication date: 1976</p>
@@ -4570,7 +4325,6 @@
       <unittitle>Keldyshevskii sbornik: Muzykal'no–istoricheskie chteniia pamiati Iu. V. Keldysha</unittitle>
       <note>
          <p>Creator: Zvereva, S G</p>
-         <p>Publication date: 1999</p>
          <p>ID: SPA_1754</p>
          <p>Publisher: Gosudarstvennyi Institut Iskusstvoznaniia, Moskva</p>
          <p>Publication date: 1999</p>
@@ -4588,7 +4342,6 @@
       <note>
          <p>Creator: Prokhorova, I</p>
          <p>Creator: Skudina, G</p>
-         <p>Publication date: 1976</p>
          <p>ID: SPA_1755</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1976</p>
@@ -4605,7 +4358,6 @@
       <unittitle>Musorgskii i muzyka XX veka: Sbornik statei</unittitle>
       <note>
          <p>Creator: Nekrasova, L A</p>
-         <p>Publication date: 1996</p>
          <p>ID: SPA_1756</p>
          <p>Publisher: Sankt-Peterburgskaia Gosudarstvennaia Konservatoriia, Sankt–Peterburg</p>
          <p>Publication date: 1996</p>
@@ -4622,7 +4374,6 @@
       <unittitle>Building a Library 2: A listen's guide to record collecting</unittitle>
       <note>
          <p>Creator: Lade, John (ed.)</p>
-         <p>Publication date: 1980</p>
          <p>ID: SPA_1757</p>
          <p>Publisher: Oxford University Press, Oxford</p>
          <p>Publication date: 1980</p>
@@ -4639,7 +4390,6 @@
       <unittitle>Musical Chronicle (1917-1923)</unittitle>
       <note>
          <p>Creator: Rosenfeld, Paul</p>
-         <p>Publication date: 1923</p>
          <p>ID: SPA_1758</p>
          <p>Publisher: Harcourt Brace &amp; Company, New York</p>
          <p>Publication date: 1923</p>
@@ -4658,7 +4408,6 @@
       <note>
          <p>Creator: Edmunds, Neil (ed.)</p>
          <p>Secondary creator: Sakwa, Richard</p>
-         <p>Publication date: 2004</p>
          <p>ID: SPA_1759</p>
          <p>Publisher: RoutledgeCurzon, London and New York</p>
          <p>Publication date: 2004</p>
@@ -4689,7 +4438,6 @@
       <unittitle>Iz Proshlogo Sovetskoi Muzykal'noi Kul'tury: Vypusk Tretoi</unittitle>
       <note>
          <p>Creator: Livanova, Tamara Nikolaevna (ed.)</p>
-         <p>Publication date: 1982</p>
          <p>ID: SPA_1760</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1982</p>
@@ -4708,7 +4456,6 @@
       <note>
          <p>Creator: Matich, Olga (ed.)</p>
          <p>Creator: Heim, Michael (ed.)</p>
-         <p>Publication date: 1984</p>
          <p>ID: SPA_1761</p>
          <p>Publisher: Ardis, Ann Arbor</p>
          <p>Publication date: 1984</p>
@@ -4727,7 +4474,6 @@
       <note>
          <p>Creator: Valkova, V.</p>
          <p>Creator: Getselev, B. (ed.)</p>
-         <p>Publication date: 1997</p>
          <p>ID: SPA_1762</p>
          <p>Publisher: Nizhegorodskaia Gosudarstvennaia Konservatoriia Im. M. I. Glinki, Nizhnii Novgorod</p>
          <p>Publication date: 1997</p>
@@ -4747,7 +4493,6 @@
             2001-2010</unittitle>
       <note>
          <p>Creator: Morrison, Simon (ed.)</p>
-         <p>Publication date: 2011</p>
          <p>ID: SPA_1763</p>
          <p>Publisher: Serge Prokofiev Foundation, London</p>
          <p>Publication date: 2011</p>
@@ -4764,7 +4509,6 @@
       <unittitle>Muzykal'noe Nasledstvo: Tom II: Chast' vtoriia</unittitle>
       <note>
          <p>Creator: Gordeeva, E (ed.)</p>
-         <p>Publication date: 1968</p>
          <p>ID: SPA_1764</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1968</p>
@@ -4781,7 +4525,6 @@
       <unittitle>Muzykal'noe Nasledstvo: Tom IV</unittitle>
       <note>
          <p>Creator: Gordeeva, E (ed.)</p>
-         <p>Publication date: 1976</p>
          <p>ID: SPA_1765</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1976</p>
@@ -4798,7 +4541,6 @@
       <unittitle>Muzykal'nyi Sovremennik: Sbornik statei: Vypusk 3</unittitle>
       <note>
          <p>Creator: Danilevich, Lev Vasilevich (ed.)</p>
-         <p>Publication date: 1979</p>
          <p>ID: SPA_1766</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1979</p>
@@ -4816,7 +4558,6 @@
       <unittitle>Muzykal'noe ispolnitel'stvo: deviatyi sbornik statei: Vypusk Deviatoi</unittitle>
       <note>
          <p>Creator: Nikolaev, Alexander Alexandrovich (ed.)</p>
-         <p>Publication date: 1976</p>
          <p>ID: SPA_1767</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1976</p>
@@ -4833,7 +4574,6 @@
       <unittitle>Ocherki po Dramaturgii Opery XX Veka: Kniga vtoraia</unittitle>
       <note>
          <p>Creator: Iarustovskii, B</p>
-         <p>Publication date: 1978</p>
          <p>ID: SPA_1768</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1978</p>
@@ -4851,7 +4591,6 @@
       <note>
          <p>Creator: Zhitomirskii, Daniel Vladimirovich</p>
          <p>Creator: Raaben, Lev Nikolaevich</p>
-         <p>Publication date: 1984</p>
          <p>ID: SPA_1769</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1984</p>
@@ -4868,7 +4607,6 @@
       <unittitle>Muzyka i Sovremennost': Sbornik Statei: Vypusk Pervoi</unittitle>
       <note>
          <p>Creator: Lebedeva, T A (ed.)</p>
-         <p>Publication date: 1962</p>
          <p>ID: SPA_1770</p>
          <p>Publisher: Gosudarstvennoe Muzykal'noe Izdatel'stvo, Moskva</p>
          <p>Publication date: 1962</p>
@@ -4886,7 +4624,6 @@
       <unittitle>Muzyka i Sovremennost': Sbornik Statei: Vypusk Vtoroi</unittitle>
       <note>
          <p>Creator: Lebedeva, T A (ed.)</p>
-         <p>Publication date: 1963</p>
          <p>ID: SPA_1771</p>
          <p>Publisher: Gosudarstvennoe Muzykal'noe Izdatel'stvo, Moskva</p>
          <p>Publication date: 1963</p>
@@ -4905,7 +4642,6 @@
       <note>
          <p>Creator: Golovinskii, G L</p>
          <p>Creator: Shakhnazarova, N G</p>
-         <p>Publication date: 1981</p>
          <p>ID: SPA_1772</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1981</p>
@@ -4922,7 +4658,6 @@
       <unittitle>Muzyka v sotsialisticheskom obshchestveL: Vypusk Tretoi</unittitle>
       <note>
          <p>Creator: Farbshteina, A A</p>
-         <p>Publication date: 1977</p>
          <p>ID: SPA_1773</p>
          <p>Publisher: Muzyka, </p>
          <p>Publication date: 1977</p>
@@ -4939,7 +4674,6 @@
       <unittitle>Muzyka Rossii: Vypusk Vtoroi</unittitle>
       <note>
          <p>Creator: Balasanian, S</p>
-         <p>Publication date: 1978</p>
          <p>ID: SPA_1774</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1978</p>
@@ -4956,7 +4690,6 @@
       <unittitle>Russkii Sovetskii Opernii Teatr (1917 - 1941): Ocherk Istorii</unittitle>
       <note>
          <p>Creator: Gozenpud, Abram Akimovich</p>
-         <p>Publication date: 1963</p>
          <p>ID: SPA_1775</p>
          <p>Publisher: Gosudarstvennoe Muzykal'noe Izdatel'stvo, Leningrad</p>
          <p>Publication date: 1963</p>
@@ -4973,7 +4706,6 @@
       <unittitle>Russkii Opernyi Teatr Mezhdu Dvukh Revolutsii (1905-1917)</unittitle>
       <note>
          <p>Creator: Gozenpud, Abram Akimovich</p>
-         <p>Publication date: 1975</p>
          <p>ID: SPA_1776</p>
          <p>Publisher: Muzyka, </p>
          <p>Publication date: 1975</p>
@@ -4991,7 +4723,6 @@
       <unittitle>Opera i ee stsenicheskoe voploshchenie</unittitle>
       <note>
          <p>Creator: Rotbaum, L</p>
-         <p>Publication date: 1980</p>
          <p>ID: SPA_1777</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1980</p>
@@ -5008,7 +4739,6 @@
       <unittitle>Stranitsy Istorii Sovetskogo Teatra</unittitle>
       <note>
          <p>Creator: Khaichenko, G A</p>
-         <p>Publication date: 1965</p>
          <p>ID: SPA_1778</p>
          <p>Publisher: Iskusstvo, Moskva</p>
          <p>Publication date: 1965</p>
@@ -5025,7 +4755,6 @@
       <unittitle>Izbrannye stat'i</unittitle>
       <note>
          <p>Creator: Dolzhanskii, Alexander Naumovich</p>
-         <p>Publication date: 1973</p>
          <p>ID: SPA_1779</p>
          <p>Publisher: Muzyka, Leningrad</p>
          <p>Publication date: 1973</p>
@@ -5042,7 +4771,6 @@
       <unittitle>Ocherki i issledovaniia po istorii russkoi muzyki</unittitle>
       <note>
          <p>Creator: Keldysh, Iurii Vsevolodovich</p>
-         <p>Publication date: 1978</p>
          <p>ID: SPA_1780</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1978</p>
@@ -5059,7 +4787,6 @@
       <unittitle>Vek Nyneshnii i vek minuvshii: Stat'i o muzyke</unittitle>
       <note>
          <p>Creator: Nestiev, Izrail Vladimirovich</p>
-         <p>Publication date: 1986</p>
          <p>ID: SPA_1781</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1986</p>
@@ -5076,7 +4803,6 @@
       <unittitle>Leo Ginzburg: Izbrannoe: Dirizhery i orkestry: Voprosy teorii i praktiki dirizhirovaniia</unittitle>
       <note>
          <p>Creator: Varunts, Viktor P (ed.)</p>
-         <p>Publication date: 1981</p>
          <p>ID: SPA_1782</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1981</p>
@@ -5093,7 +4819,6 @@
       <unittitle>O Sovremennoi muzykal'noi kritike: Posobie dlia seminarov</unittitle>
       <note>
          <p>Creator: Bronfin, E</p>
-         <p>Publication date: 1977</p>
          <p>ID: SPA_1783</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1977</p>
@@ -5110,7 +4835,6 @@
       <unittitle>O Muzyke XX veka: Poiasneniia i prilozheniia k programmam simfonicheskikh i kamernykh kontsertov</unittitle>
       <note>
          <p>Creator: Asafiev, Boris Vladimirovich</p>
-         <p>Publication date: 1982</p>
          <p>ID: SPA_1784</p>
          <p>Publisher: Muzyka, Leningrad</p>
          <p>Publication date: 1982</p>
@@ -5128,7 +4852,6 @@
             imeni M. I. Glinki: Vypusk Pervoi</unittitle>
       <note>
          <p>Creator: Rakhmanova, Marina (ed.)</p>
-         <p>Publication date: 1999</p>
          <p>ID: SPA_1785</p>
          <p>Publisher: Kompozitor, Moskva</p>
          <p>Publication date: 1999</p>
@@ -5145,7 +4868,6 @@
       <unittitle>Izbrannye Stat'i</unittitle>
       <note>
          <p>Creator: Zhitomirskii, Daniel Vladimirovich</p>
-         <p>Publication date: 1981</p>
          <p>ID: SPA_1786</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1981</p>
@@ -5163,7 +4885,6 @@
       <note>
          <p>Creator: Grigoriev, L (ed.)</p>
          <p>Creator: Platek, Ia (ed.)</p>
-         <p>Publication date: 1970</p>
          <p>ID: SPA_1787</p>
          <p>Publisher: Sovetskii Kompozitor, </p>
          <p>Publication date: 1970</p>
@@ -5180,7 +4901,6 @@
       <unittitle>Muzyka spektaklia</unittitle>
       <note>
          <p>Creator: Tarshis, Nadezhda</p>
-         <p>Publication date: 1978</p>
          <p>ID: SPA_1788</p>
          <p>Publisher: Iskusstvo, Leningrad</p>
          <p>Publication date: 1978</p>
@@ -5197,7 +4917,6 @@
       <unittitle>Music in the 20th century: From Debussy through Stravinsky</unittitle>
       <note>
          <p>Creator: Austin, William W.</p>
-         <p>Publication date: 1966</p>
          <p>ID: SPA_1789</p>
          <p>Publisher: J. M. Dent &amp; Sons LTD., London</p>
          <p>Publication date: 1966</p>
@@ -5214,7 +4933,6 @@
       <unittitle>Russkaia muzyka i XX vek: Russkoe myzkal'noe iskusstvo v istorii xudozhestvennoi kul'tury xx veka</unittitle>
       <note>
          <p>Creator: Aranovsky, Mark (ed.)</p>
-         <p>Publication date: 1997</p>
          <p>ID: SPA_1790</p>
          <p>Publisher: Gosudarstvennyi Institut Iskusstvoznaniia, Moskva</p>
          <p>Publication date: 1997</p>
@@ -5232,7 +4950,6 @@
       <note>
          <p>Creator: Brown, Malcolm Hamrick (ed.)</p>
          <p>Creator: Wiley, Roland John (ed.)</p>
-         <p>Publication date: 1985</p>
          <p>ID: SPA_1791</p>
          <p>Publisher: Michigan University Press, Ann Arbor</p>
          <p>Publication date: 1985</p>
@@ -5249,7 +4966,6 @@
       <unittitle>Kniga o Sovetskoi Muzyke</unittitle>
       <note>
          <p>Creator: Danilevich, Lev Vasilevich</p>
-         <p>Publication date: 1968</p>
          <p>ID: SPA_1792</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1968</p>
@@ -5266,7 +4982,6 @@
       <unittitle>Istoriia Russkoi Muzyki 1890-1917: Tom 10 A</unittitle>
       <note>
          <p>Creator: Keldysh, Iurii Vsevolodovich</p>
-         <p>Publication date: 1997</p>
          <p>ID: SPA_1793</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1997</p>
@@ -5284,7 +4999,6 @@
       <unittitle>Russian Music and its Sources in Chant and Folk-song</unittitle>
       <note>
          <p>Creator: Swan, Alfred J</p>
-         <p>Publication date: 1973</p>
          <p>ID: SPA_1794</p>
          <p>Publisher: John Baker, London</p>
          <p>Publication date: 1973</p>
@@ -5301,7 +5015,6 @@
       <unittitle>Muzyka Revoliutsii</unittitle>
       <note>
          <p>Creator: Dreiden, Sim</p>
-         <p>Publication date: 1970</p>
          <p>ID: SPA_1795</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1970</p>
@@ -5318,7 +5031,6 @@
       <unittitle>A History of Russian Music</unittitle>
       <note>
          <p>Creator: Leonard, Richard Anthony</p>
-         <p>Publication date: 1956</p>
          <p>ID: SPA_1796</p>
          <p>Publisher: Jarrolds, London</p>
          <p>Publication date: 1956</p>
@@ -5335,7 +5047,6 @@
       <unittitle>Studies in Russian Music: Critical Essays on the Most Important of Rimsky-Korsakov's Operas, Borodin's 'Prince Igor,' Dargamozhsky's 'Stone Guest,' etc.; With Chapters on Glinka, Mussorgsky, Balakirev and Tchaikovsky</unittitle>
       <note>
          <p>Creator: Abraham, Gerald</p>
-         <p>Publication date: 1935</p>
          <p>ID: SPA_1797</p>
          <p>Publisher: William Reeves, London</p>
          <p>Publication date: 1935</p>
@@ -5353,7 +5064,6 @@
       <note>
          <p>Creator: Calvocoressi, Michel-Dmitri</p>
          <p>Creator: Abraham, Gerald</p>
-         <p>Publication date: 1936</p>
          <p>ID: SPA_1798</p>
          <p>Publisher: Duckworth, London</p>
          <p>Publication date: 1936</p>
@@ -5370,7 +5080,6 @@
       <unittitle>Music and Musical Life in Soviet Russia 1917-1970</unittitle>
       <note>
          <p>Creator: Schwarz, Boris</p>
-         <p>Publication date: 1972/1976</p>
          <p>ID: SPA_1799</p>
          <p>Publisher: Barrie &amp; Jenkins, London</p>
          <p>Publication date: 1972/1976</p>
@@ -5387,7 +5096,6 @@
       <unittitle>Soviet Composers and the Development of Soviet Music</unittitle>
       <note>
          <p>Creator: Krebs, Stanley Dale</p>
-         <p>Publication date: 1970</p>
          <p>ID: SPA_1800</p>
          <p>Publisher: George Allen &amp; Unwin LTD, London</p>
          <p>Publication date: 1970</p>
@@ -5404,7 +5112,6 @@
       <unittitle>Music of the Soviet Age: 1917-1987</unittitle>
       <note>
          <p>Creator: Hakobian, Levon</p>
-         <p>Publication date: 1998</p>
          <p>ID: SPA_1801</p>
          <p>Publisher: Melos Music Literature, Stockholm</p>
          <p>Publication date: 1998</p>
@@ -5421,7 +5128,6 @@
       <unittitle>Istoriia Otechestvennoi Muzyki Sovetskogo Perioda</unittitle>
       <note>
          <p>Creator: Alfeevskaia, G C</p>
-         <p>Publication date: 1993</p>
          <p>ID: SPA_1802</p>
          <p>Publisher: Moskovskii Gosudarstvennyi Otkrytyi Pedagogicheskii Institut, Moskva</p>
          <p>Publication date: 1993</p>
@@ -5439,7 +5145,6 @@
       <unittitle>Eight Soviet Composers</unittitle>
       <note>
          <p>Creator: Abraham, Gerald</p>
-         <p>Publication date: 1943</p>
          <p>ID: SPA_1803</p>
          <p>Publisher: Oxford University Press, Oxford</p>
          <p>Publication date: 1943</p>
@@ -5457,7 +5162,6 @@
       <note>
          <p>Creator: Boelza, Egor</p>
          <p>Secondary creator: Bush, Alan (ed.)</p>
-         <p>Publication date: 1944</p>
          <p>ID: SPA_1804</p>
          <p>Publisher: The Pilot Press, London</p>
          <p>Publication date: 1944</p>
@@ -5474,7 +5178,6 @@
       <unittitle>Kompozitory Moskvy: Vypusk Vtoroi: G. Gladkov, I. Kataev, V. Kikta, V. Pikul', T. Smirnova</unittitle>
       <note>
          <p>Creator: Kosacheva, R (ed.)</p>
-         <p>Publication date: 1980</p>
          <p>ID: SPA_1805</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1980</p>
@@ -5491,7 +5194,6 @@
       <unittitle>Twenty Soviet Composers. Keynote Series Book 1</unittitle>
       <note>
          <p>Creator: Moisenco, Rena</p>
-         <p>Publication date: 1942</p>
          <p>ID: SPA_1806</p>
          <p>Publisher: Workers' Music Association, London</p>
          <p>Publication date: 1942</p>
@@ -5508,7 +5210,6 @@
       <unittitle>Musical Uproar in Moscow</unittitle>
       <note>
          <p>Creator: Werth, Alexander</p>
-         <p>Publication date: 1949</p>
          <p>ID: SPA_1807</p>
          <p>Publisher: Turnstile Press, London</p>
          <p>Publication date: 1949</p>
@@ -5525,7 +5226,6 @@
       <unittitle>The Soviet Proletarian Music Movement</unittitle>
       <note>
          <p>Creator: Edmunds, Neil</p>
-         <p>Publication date: 2000</p>
          <p>ID: SPA_1808</p>
          <p>Publisher: Peter Lang, </p>
          <p>Publication date: 2000</p>
@@ -5542,7 +5242,6 @@
       <unittitle>The Harlequin Years: Music in Paris 1917-1929</unittitle>
       <note>
          <p>Creator: Nichols, Roger</p>
-         <p>Publication date: 2002</p>
          <p>ID: SPA_1809</p>
          <p>Publisher: Thames &amp; Hudson Ltd, London</p>
          <p>Publication date: 2002</p>
@@ -5559,7 +5258,6 @@
       <unittitle>Music Since the First World War</unittitle>
       <note>
          <p>Creator: Whittall, Arnold</p>
-         <p>Publication date: 1988</p>
          <p>ID: SPA_1810</p>
          <p>Publisher: J. M. Dent &amp; Sons Ltd, London</p>
          <p>Publication date: 1988</p>
@@ -5579,7 +5277,6 @@
          <p>Creator: Petrone, Karen</p>
          <p>Secondary creator: Rabinowitch, Alexander</p>
          <p>Secondary creator: Rosenberg, William G.</p>
-         <p>Publication date: 2000</p>
          <p>ID: SPA_1811</p>
          <p>Publisher: Indiana University Press, Bloomington &amp; Indianapolis</p>
          <p>Publication date: 2000</p>
@@ -5596,7 +5293,6 @@
       <unittitle>Sumbur vmesto muzyki: Stalinskaia kul'turnaia revoliutsiia 1936-1938</unittitle>
       <note>
          <p>Creator: Maksimenkov, Leonid</p>
-         <p>Publication date: 1997</p>
          <p>ID: SPA_1812</p>
          <p>Publisher: Iuridicheskaia Kniga, Moskva</p>
          <p>Publication date: 1997</p>
@@ -5614,7 +5310,6 @@
             soviètiques. Les chemins de la musique</unittitle>
       <note>
          <p>Creator: Lemaire, Frans C.</p>
-         <p>Publication date: 1994</p>
          <p>ID: SPA_1813</p>
          <p>Publisher: Fayard, Mesnil-sur-l'Estrée</p>
          <p>Publication date: 1994</p>
@@ -5633,7 +5328,6 @@
       <unittitle>Evraziiskoe uklonenie v muzyke 1920-1930-x godov: stat'i i materialy</unittitle>
       <note>
          <p>Creator: Vishnevetskii, Igor</p>
-         <p>Publication date: 2005</p>
          <p>ID: SPA_1814</p>
          <p>Publisher: Novoe literaturnoe obozrenie, Moskva</p>
          <p>Publication date: 2005</p>
@@ -5655,7 +5349,6 @@
       <unittitle>Boosey &amp; Hawkes: The Publishing Story</unittitle>
       <note>
          <p>Creator: Wallace, Helen</p>
-         <p>Publication date: 2007</p>
          <p>ID: SPA_1815</p>
          <p>Publisher: Boosey &amp; Hawkes, London</p>
          <p>Publication date: 2007</p>
@@ -5672,7 +5365,6 @@
       <unittitle>Roshia-Buyo. The Russian Ballet</unittitle>
       <note>
          <p>Creator: Ohtaguro, Motoo</p>
-         <p>Publication date: 1917</p>
          <p>ID: SPA_1816</p>
          <p>Publisher: Ongaku-to-Mungaku-Sha, Ohmori, Tokyo</p>
          <p>Publication date: 1917</p>
@@ -5694,7 +5386,6 @@
       <unittitle>Zoku-Bahaa-yori-Shenberuhi. From Bach to Schoenberg, Part II</unittitle>
       <note>
          <p>Creator: Ohtaguro, Motoo</p>
-         <p>Publication date: 1918</p>
          <p>ID: SPA_1817</p>
          <p>Publisher: Ongaku-to-Bungaku-Sha, Ohmori, Tokyo</p>
          <p>Publication date: 1918</p>
@@ -5716,7 +5407,6 @@
       <unittitle>Deiateli russkogo iskusstva i M. B. Khrapchenko: Predsedatel' Vsesoiuznogo komiteta po delam iskusstv: aprel' 1939 - ianvar' 1948</unittitle>
       <note>
          <p>Creator: Perkhin, V. V.</p>
-         <p>Publication date: 2007</p>
          <p>ID: SPA_1818</p>
          <p>Publisher: Nauka, Moskva</p>
          <p>Publication date: 2007</p>
@@ -5735,7 +5425,6 @@
       <unittitle>Lénine, Staline et la Musique. Musée de la musique 12 octobre 2010 – 16 janvier 2011</unittitle>
       <note>
          <p>Creator: Pascal Huynh</p>
-         <p>Publication date: 2010</p>
          <p>ID: SPA_1819</p>
          <p>Publisher: Fayard&#xD;Cité de la musique, Paris</p>
          <p>Publication date: 2010</p>
@@ -5756,7 +5445,6 @@
       <unittitle>Muzykal'naia Entsiklopediia: Chast' 1</unittitle>
       <note>
          <p>Creator: Keldysh, Iurii Vsevolodovich (ed.)</p>
-         <p>Publication date: 1974</p>
          <p>ID: SPA_1820</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1974</p>
@@ -5773,7 +5461,6 @@
       <unittitle>Muzykal'naia Entsiklopediia: Vol 2</unittitle>
       <note>
          <p>Creator: Keldysh, Iurii Vsevolodovich (ed.)</p>
-         <p>Publication date: 1974</p>
          <p>ID: SPA_1821</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1974</p>
@@ -5791,7 +5478,6 @@
       <unittitle>Muzykal'naia Entsiklopediia: Tom 3</unittitle>
       <note>
          <p>Creator: Keldysh, Iurii Vsevolodovich (ed.)</p>
-         <p>Publication date: 1974</p>
          <p>ID: SPA_1822</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1974</p>
@@ -5838,7 +5524,6 @@
       <unittitle>Muzykal'naia Entsiklopediia: Tom 6</unittitle>
       <note>
          <p>Creator: Keldysh, Iurii Vsevolodovich (ed.)</p>
-         <p>Publication date: 1982</p>
          <p>ID: SPA_1825</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1982</p>
@@ -5856,7 +5541,6 @@
       <unittitle>Vokal'no-Entsiklopedicheskii Slovar' biobibliografiia: Tom Pervoi</unittitle>
       <note>
          <p>Creator: Agin, M C</p>
-         <p>Publication date: 1991-1994</p>
          <p>ID: SPA_1826</p>
          <p>Publisher: Izdatel'stvo Respublikanskogo Koordinatsionnogo Khozraschetnogo
             Redaktsionno-Izdatel'skogo Tsentra, Moskva</p>
@@ -5875,7 +5559,6 @@
       <unittitle>Vokal'no-Entsiklopedicheskii Slovar' biobibliografiia: Tom Vtoroi</unittitle>
       <note>
          <p>Creator: Agin, M C</p>
-         <p>Publication date: 1991-1994</p>
          <p>ID: SPA_1827</p>
          <p>Publisher: Izdatel'stvo Respublikanskogo Koordinatsionnogo Khozraschetnogo
             Redaktsionno-Izdatel'skogo Tsentra, Moskva</p>
@@ -5894,7 +5577,6 @@
       <unittitle>Vokal'no-Entsiklopedicheskii Slovar' biobibliografiia: Tom Tretoi</unittitle>
       <note>
          <p>Creator: Agin, M C</p>
-         <p>Publication date: 1991-1994</p>
          <p>ID: SPA_1828</p>
          <p>Publisher: Izdatel'stvo Respublikanskogo Koordinatsionnogo Khozraschetnogo
             Redaktsionno-Izdatel'skogo Tsentra, Moskva</p>
@@ -5913,7 +5595,6 @@
       <unittitle>Vokal'no-Entsiklopedicheskii Slovar' Biobibliografiia: Tom IV</unittitle>
       <note>
          <p>Creator: Agin, M C (ed.)</p>
-         <p>Publication date: 1991-1994</p>
          <p>ID: SPA_1829</p>
          <p>Publisher: Izdatel'stvo Respublikanskogo Koordinatsionnogo Khozraschetnogo Redaktsionno-Izdatel'skogo Tsentra, Moskva</p>
          <p>Publication date: 1991-1994</p>
@@ -5931,7 +5612,6 @@
       <unittitle>Vokal'no-Entsiklopedicheskii Slovar' Biobibliografiia: Tom V</unittitle>
       <note>
          <p>Creator: Agin, M C (ed.)</p>
-         <p>Publication date: 1991-1994</p>
          <p>ID: SPA_1830</p>
          <p>Publisher: Izdatel'stvo Respublikanskogo Koordinatsionnogo Khozraschetnogo Redaktsionno-Izdatel'skogo Tsentra, Moskva</p>
          <p>Publication date: 1991-1994</p>
@@ -5949,7 +5629,6 @@
       <unittitle>Opernye Prem'ery XX Veka (1901-1940) Slovar'</unittitle>
       <note>
          <p>Creator: Shteinpress, Boris Solomonovich</p>
-         <p>Publication date: 1983</p>
          <p>ID: SPA_1831</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1983</p>
@@ -5968,7 +5647,6 @@
       <unittitle>Opernye Prem'ery XX Veka (1941-1960) Slovar'</unittitle>
       <note>
          <p>Creator: Shteinpress, Boris Solomonovich (ed.)</p>
-         <p>Publication date: 1986</p>
          <p>ID: SPA_1832</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1986</p>
@@ -5985,7 +5663,6 @@
       <unittitle>A Bibliography of Russian Composers</unittitle>
       <note>
          <p>Creator: Moldon, David</p>
-         <p>Publication date: 1976</p>
          <p>ID: SPA_1833</p>
          <p>Publisher: White Lion Publishing, London</p>
          <p>Publication date: 1976</p>
@@ -6002,7 +5679,6 @@
       <unittitle>Slovar' Oper (1736 - 1959): Vpervye postavlennykh ili izdannykh v dorevoliutsionnoi Rossii i v SSSR</unittitle>
       <note>
          <p>Creator: Bernandt, Grigorii Borisovich</p>
-         <p>Publication date: 1962</p>
          <p>ID: SPA_1834</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1962</p>
@@ -6020,7 +5696,6 @@
       <unittitle>Russian Composers and Musicians: A Biographical Dictionary</unittitle>
       <note>
          <p>Creator: Vodarsky-Shiraeff, Alexandria (ed.)</p>
-         <p>Publication date: 1969</p>
          <p>ID: SPA_1835</p>
          <p>Publisher: Greenwood Press, New York</p>
          <p>Publication date: 1969</p>
@@ -6038,7 +5713,6 @@
       <note>
          <p>Creator: Shteinpress, Boris Solomonovich</p>
          <p>Creator: Iampolskii, Izrail Markovich</p>
-         <p>Publication date: 1966</p>
          <p>ID: SPA_1836</p>
          <p>Publisher: Sovetskaia Entsiklopediia, Moskva</p>
          <p>Publication date: 1966</p>
@@ -6057,7 +5731,6 @@
          <p>Creator: Buluchevskii, Iu.</p>
          <p>Creator: Fomin, V.</p>
          <p>Secondary creator: Golubovskii, I V (ed.)</p>
-         <p>Publication date: 1975</p>
          <p>ID: SPA_1837</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1975</p>
@@ -6074,7 +5747,6 @@
       <unittitle>Entsiklopedicheskii Muzykal'nyi Slovar'</unittitle>
       <note>
          <p>Creator: Keldysh, G V (ed.)</p>
-         <p>Publication date: 1959</p>
          <p>ID: SPA_1838</p>
          <p>Publisher: Gosudarstvennoe Nauchnoe Izdatel'stvo Bol'shaia Sovetskaia
             Entsiklopediia, Moskva</p>
@@ -6093,7 +5765,6 @@
       <note>
          <p>Creator: Severiukhin, D Ia</p>
          <p>Creator: Leikind, O L</p>
-         <p>Publication date: 1994</p>
          <p>ID: SPA_1839</p>
          <p>Publisher: Chernysheva, Sankt Petersburg</p>
          <p>Publication date: 1994</p>
@@ -6110,7 +5781,6 @@
       <unittitle>Kratkii Opernyi Slovar'</unittitle>
       <note>
          <p>Creator: Gozenpud, Abram Akimovich</p>
-         <p>Publication date: 1986</p>
          <p>ID: SPA_1840</p>
          <p>Publisher: Muzichna Ukraina, Kiev</p>
          <p>Publication date: 1986</p>
@@ -6127,7 +5797,6 @@
       <unittitle>Otechestvennye Pevtsy (1750-1917): Slovar'</unittitle>
       <note>
          <p>Creator: Pruzhansky, A. M.</p>
-         <p>Publication date: 1991</p>
          <p>ID: SPA_1841</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1991</p>
@@ -6145,7 +5814,6 @@
       <unittitle>Kratkii Biograficheskii Slovar' Zarubezhnykh Kompozitorov</unittitle>
       <note>
          <p>Creator: Mirkin, M Iu</p>
-         <p>Publication date: 1969</p>
          <p>ID: SPA_1842</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1969</p>
@@ -6162,7 +5830,6 @@
       <unittitle>Balet entsiklopediia</unittitle>
       <note>
          <p>Creator: Grigorovich, Iurii Nikolaevich (ed.)</p>
-         <p>Publication date: 1981</p>
          <p>ID: SPA_1843</p>
          <p>Publisher: Sovetskaia Entsiklopediia, Moskva</p>
          <p>Publication date: 1981</p>
@@ -6179,7 +5846,6 @@
       <unittitle>Slovar' Izdatel'skikh Terminov</unittitle>
       <note>
          <p>Creator: Milchina, A E (ed.)</p>
-         <p>Publication date: 1983</p>
          <p>ID: SPA_1844</p>
          <p>Publisher: Kniga, Moskva</p>
          <p>Publication date: 1983</p>
@@ -6197,7 +5863,6 @@
       <note>
          <p>Creator: Bernandt, Grigorii Borisovich</p>
          <p>Creator: Iampolskii, Izrail Markovich</p>
-         <p>Publication date: 1979</p>
          <p>ID: SPA_1845</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1979</p>
@@ -6216,7 +5881,6 @@
             sociale en France 1920-1940</unittitle>
       <note>
          <p>Creator: Mnoukhine, Lev (ed.)</p>
-         <p>Publication date: 1995</p>
          <p>ID: SPA_1846</p>
          <p>Publisher: YMCA-Press, </p>
          <p>Publication date: 1995</p>
@@ -6235,7 +5899,6 @@
             sociale en France 1920-1940</unittitle>
       <note>
          <p>Creator: Mnoukhine, Lev (ed.)</p>
-         <p>Publication date: 1995</p>
          <p>ID: SPA_1847</p>
          <p>Publisher: YMCA-Press, </p>
          <p>Publication date: 1995</p>
@@ -6254,7 +5917,6 @@
             sociale en France 1920-1940</unittitle>
       <note>
          <p>Creator: Mnoukhine, Lev (ed.)</p>
-         <p>Publication date: 1996</p>
          <p>ID: SPA_1848</p>
          <p>Publisher: YMCA-Press, </p>
          <p>Publication date: 1996</p>
@@ -6272,7 +5934,6 @@
             sociale en France 1920-1940l</unittitle>
       <note>
          <p>Creator: Mnoukhine, Lev (ed.)</p>
-         <p>Publication date: 1997</p>
          <p>ID: SPA_1849</p>
          <p>Publisher: YMCA-Press, </p>
          <p>Publication date: 1997</p>
@@ -6291,7 +5952,6 @@
             sociale en France 1920-1940</unittitle>
       <note>
          <p>Creator: Mnoukhine, Lev (ed.)</p>
-         <p>Publication date: 2000</p>
          <p>ID: SPA_1850</p>
          <p>Publisher: YMCA-Press; Russkii Put', </p>
          <p>Publication date: 2000</p>
@@ -6309,7 +5969,6 @@
       <unittitle>Antonin Dvorak: Thematic Catalogue</unittitle>
       <note>
          <p>Creator: Burghauser, Jarmil (ed.)</p>
-         <p>Publication date: 1996</p>
          <p>ID: SPA_1851</p>
          <p>Publisher: Barenreiter Editio Supraphon, Praha</p>
          <p>Publication date: 1996</p>
@@ -6327,7 +5986,6 @@
       <unittitle>Thematic Catalogues in Music: An Annotated Bibliography</unittitle>
       <note>
          <p>Creator: Brook, Barry</p>
-         <p>Publication date: 1972</p>
          <p>ID: SPA_1852</p>
          <p>Publisher: Pendragon Press, Hillsdale, NY</p>
          <p>Publication date: 1972</p>
@@ -6345,7 +6003,6 @@
       <note>
          <p>Creator: Hulme, Derek C</p>
          <p>Secondary creator: Shostakovich, Irina</p>
-         <p>Publication date: 1991</p>
          <p>ID: SPA_1853</p>
          <p>Publisher: Clarendon Press, Oxford</p>
          <p>Publication date: 1991</p>
@@ -6365,7 +6022,6 @@
          <p>Creator: Bennett, John R</p>
          <p>Secondary creator: Semeonff, Boris</p>
          <p>Secondary creator: Zhelezny, Anatoli</p>
-         <p>Publication date: 1981</p>
          <p>ID: SPA_1854</p>
          <p>Publisher: Greenwood Press, Westport, CT</p>
          <p>Publication date: 1981</p>
@@ -6383,7 +6039,6 @@
       <unittitle>La Société Triton (1932-1939)</unittitle>
       <note>
          <p>Creator: Duchesneau, Michel</p>
-         <p>Publication date: 1997</p>
          <p>ID: SPA_1855</p>
          <p>Publisher: Université de Paris-Sorbonne Observatoire Musical Français, Paris</p>
          <p>Publication date: 1997</p>
@@ -6400,7 +6055,6 @@
       <unittitle>V Mire Muzyki: Kalendar' na 1977 god</unittitle>
       <note>
          <p>Creator: Tiurin, Iu (ed.)</p>
-         <p>Publication date: 1976</p>
          <p>ID: SPA_1856</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1976</p>
@@ -6417,7 +6071,6 @@
       <unittitle>V Mire Muzyki: Kalendar' na 1976 god</unittitle>
       <note>
          <p>Creator: Lev, V (ed.)</p>
-         <p>Publication date: 1975</p>
          <p>ID: SPA_1857</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1975</p>
@@ -6435,7 +6088,6 @@
       <note>
          <p>Creator: Burbank, Richard</p>
          <p>Secondary creator: Slonimsky, Nicolas</p>
-         <p>Publication date: 1984</p>
          <p>ID: SPA_1858</p>
          <p>Publisher: Thames &amp; Hudson, London</p>
          <p>Publication date: 1984</p>
@@ -6453,7 +6105,6 @@
       <unittitle>Letopis' Muzykal'noi Literatury: Tom IV - 1961</unittitle>
       <note>
          <p>Creator: Komarova, T K (ed.)</p>
-         <p>Publication date: 1961</p>
          <p>ID: SPA_1859</p>
          <p>Publisher: Vsesoiuznoi Knizhnoi Palaty, Moskva</p>
          <p>Publication date: 1961</p>
@@ -6470,7 +6121,6 @@
       <unittitle>Muzykal'nyi Kalendar (1970)</unittitle>
       <note>
          <p>Creator: Iagolim, Boris Savelevich</p>
-         <p>Publication date: 1969</p>
          <p>ID: SPA_1860</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1969</p>
@@ -6489,7 +6139,6 @@
       <note>
          <p>Creator: Koltypina, Galina Borisovna</p>
          <p>Creator: Iagolim, Boris Savelevich</p>
-         <p>Publication date: 1974</p>
          <p>ID: SPA_1861</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1974</p>
@@ -6506,7 +6155,6 @@
       <unittitle>Muzykal'naia literatura iz SSSR: Tematicheskii katalog dlia zaiavok: No
             1</unittitle>
       <note>
-         <p>Publication date: 1976</p>
          <p>ID: SPA_1862</p>
          <p>Publisher: Mezhdunarodnaia Kniga, Moskva</p>
          <p>Publication date: 1976</p>
@@ -6525,7 +6173,6 @@
       <note>
          <p>Creator: Koltypina, Galina Borisovna</p>
          <p>Creator: Pavlova, N. G.</p>
-         <p>Publication date: 1984</p>
          <p>ID: SPA_1863</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1984</p>
@@ -6542,7 +6189,6 @@
       <unittitle>Plan Vypuska Literatury (1976)</unittitle>
       <note>
          <p>Creator: Kislova, N</p>
-         <p>Publication date: 1975</p>
          <p>ID: SPA_1864</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1975</p>
@@ -6559,7 +6205,6 @@
       <unittitle>Notoizdatel'skoe delo v Rossii: Istoricheskaia Spravka</unittitle>
       <note>
          <p>Creator: Ivanov, G K</p>
-         <p>Publication date: 1970</p>
          <p>ID: SPA_1865</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1970</p>
@@ -6576,7 +6221,6 @@
       <unittitle>Izdatel'stvo 'Muzyka'</unittitle>
       <note>
          <p>Creator: Maslovataia, R</p>
-         <p>Publication date: 1987</p>
          <p>ID: SPA_1866</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1987</p>
@@ -6594,7 +6238,6 @@
       <note>
          <p>Creator: Pankratova, V A</p>
          <p>Creator: Poliakova, Liudmilla Viktorovna</p>
-         <p>Publication date: 1971</p>
          <p>ID: SPA_1867</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1971</p>
@@ -6612,7 +6255,6 @@
       <note>
          <p>Creator: Sabinina, Marina Dmitrievna</p>
          <p>Creator: Tsypin, G M</p>
-         <p>Publication date: 1972</p>
          <p>ID: SPA_1868</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1972</p>
@@ -6629,7 +6271,6 @@
       <unittitle>Leningradskaia Konservatoriia v vospominaniaikh: Kniga 2</unittitle>
       <note>
          <p>Creator: Tigranova, G G (ed.)</p>
-         <p>Publication date: 1988</p>
          <p>ID: SPA_1869</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1988</p>
@@ -6646,7 +6287,6 @@
       <unittitle>Bol'shoi Teatr SSSR: V proshlom i nastoiashchem</unittitle>
       <note>
          <p>Creator: Grosheva, Elena Andreevna</p>
-         <p>Publication date: 1962</p>
          <p>ID: SPA_1870</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1962</p>
@@ -6663,7 +6303,6 @@
       <unittitle>Muzykal'nyi Pavlovsk</unittitle>
       <note>
          <p>Creator: Rozanov, Alexander Semenovich</p>
-         <p>Publication date: 1978</p>
          <p>ID: SPA_1871</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1978</p>
@@ -6680,7 +6319,6 @@
       <unittitle>Theatre du Capitole: Toulouse</unittitle>
       <note>
          <p>Creator: Ghristi, Christophe</p>
-         <p>Publication date: 1996</p>
          <p>ID: SPA_1872</p>
          <p>Publisher: Theatre du Capitole, </p>
          <p>Publication date: 1996</p>
@@ -6713,7 +6351,6 @@
             Centres</unittitle>
       <note>
          <p>Creator: Turbet, Richard (ed.)</p>
-         <p>Publication date: 2003</p>
          <p>ID: SPA_1874</p>
          <p>Publisher: Ashgate, Aldershot</p>
          <p>Publication date: 2003</p>
@@ -6730,7 +6367,6 @@
             iazyke (1971-1978)</unittitle>
       <note>
          <p>Creator: Pavlova, N G</p>
-         <p>Publication date: 1980</p>
          <p>ID: SPA_1875</p>
          <p>Publisher: Gosudarstvennaia ordena Lenina biblioteka SSSR imeni V. I. Lenina, Moskva</p>
          <p>Publication date: 1980</p>
@@ -6747,7 +6383,6 @@
             literatury, izdannykh na russkom iazyke (1976-1986)</unittitle>
       <note>
          <p>Creator: Pavlova, N G</p>
-         <p>Publication date: 1989</p>
          <p>ID: SPA_1876</p>
          <p>Publisher: Gosudarstvennaia ordena Lenina biblioteka SSSR imeni V. I. Lenina, Moskva</p>
          <p>Publication date: 1989</p>
@@ -6764,7 +6399,6 @@
       <note>
          <p>Creator: Shakhova, N. V.</p>
          <p>Creator: Kuz'min, E. I</p>
-         <p>Publication date: 1996</p>
          <p>ID: SPA_1877</p>
          <p>Publisher: Libereia, Moskva</p>
          <p>Publication date: 1996</p>
@@ -6781,7 +6415,6 @@
       <unittitle>Putevoditel' po kabinetu rukopisei</unittitle>
       <note>
          <p>Creator: Al'tshullep, A Ia (ed.)</p>
-         <p>Publication date: 1996</p>
          <p>ID: SPA_1878</p>
          <p>Publisher: RIII, Sankt Petersburg</p>
          <p>Publication date: 1996</p>
@@ -6798,7 +6431,6 @@
       <unittitle>Concert Programmes in the UK and Ireland: A Preliminary Report</unittitle>
       <note>
          <p>Creator: Ridgewell, Rupert</p>
-         <p>Publication date: 2003</p>
          <p>ID: SPA_1879</p>
          <p>Publisher: IAML (UK &amp; Irl) and the Music Libraries Trust, London</p>
          <p>Publication date: 2003</p>
@@ -6815,7 +6447,6 @@
             quarterlies. MLA Index and Bibliography Series</unittitle>
       <note>
          <p>Creator: Elliot, Paula</p>
-         <p>Publication date: 1997</p>
          <p>ID: SPA_1880</p>
          <p>Publisher: The Music Libary Association, Canton</p>
          <p>Publication date: 1997</p>
@@ -6831,7 +6462,6 @@
       <unittitle>Modernism in Russian Piano Music: Skriabin, Prokofiev, and Their Russian Contemporaries. Russian Music Studies</unittitle>
       <note>
          <p>Creator: Roberts, Peter Dean</p>
-         <p>Publication date: 1993</p>
          <p>ID: SPA_1881</p>
          <p>Publisher: Indiana University Press, Bloomington and Indianapolis</p>
          <p>Publication date: 1993</p>
@@ -6849,7 +6479,6 @@
       <unittitle>Modernism in Russian Piano Music: Skriabin, Prokofiev, and Their Russian Contemporaries. Russian Music Studies</unittitle>
       <note>
          <p>Creator: Roberts, Peter Dean</p>
-         <p>Publication date: 1993</p>
          <p>ID: SPA_1882</p>
          <p>Publisher: Indiana University Press, Bloomington and Indianapolis</p>
          <p>Publication date: 1993</p>
@@ -6867,7 +6496,6 @@
       <unittitle>The Piano Works of Serge Prokofiev</unittitle>
       <note>
          <p>Creator: Fiess, Stephen C E</p>
-         <p>Publication date: 1994</p>
          <p>ID: SPA_1883</p>
          <p>Publisher: Scarecrow Press, Metuchen, NJ and London</p>
          <p>Publication date: 1994</p>
@@ -6884,7 +6512,6 @@
       <unittitle>The Music of Sergei Prokofiev</unittitle>
       <note>
          <p>Creator: Minturn, Neil</p>
-         <p>Publication date: 1997</p>
          <p>ID: SPA_1884</p>
          <p>Publisher: Yale University Press, New Haven and London</p>
          <p>Publication date: 1997</p>
@@ -6901,7 +6528,6 @@
       <unittitle>Stil' Simfonii Prokof'eva: Issledovanie</unittitle>
       <note>
          <p>Creator: Tarakanov, Mikhail Evgenevich</p>
-         <p>Publication date: 1968</p>
          <p>ID: SPA_1885</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1968</p>
@@ -6918,7 +6544,6 @@
       <unittitle>Simfonii Prokof'eva</unittitle>
       <note>
          <p>Creator: Slonimskii, Sergei Mikhailovich</p>
-         <p>Publication date: 1964</p>
          <p>ID: SPA_1886</p>
          <p>Publisher: Muzyka, Leningrad</p>
          <p>Publication date: 1964</p>
@@ -6936,7 +6561,6 @@
       <unittitle>Sovremennye Cherty Garmonii Prokof'eva</unittitle>
       <note>
          <p>Creator: Kholopov, Iurii Nikolaevich</p>
-         <p>Publication date: 1967</p>
          <p>ID: SPA_1887</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1967</p>
@@ -6954,7 +6578,6 @@
       <unittitle>Melodika S. Prokof'eva: Issledovatel'skie ocherki</unittitle>
       <note>
          <p>Creator: Aranovsky, Mark</p>
-         <p>Publication date: 1969</p>
          <p>ID: SPA_1888</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1969</p>
@@ -6971,7 +6594,6 @@
       <unittitle>Ladovaia sistema S. Prokof'eva</unittitle>
       <note>
          <p>Creator: Skorik, Miroslav Mikhailovich</p>
-         <p>Publication date: 1969</p>
          <p>ID: SPA_1889</p>
          <p>Publisher: Muzichna Ukraina, Kiev</p>
          <p>Publication date: 1969</p>
@@ -6988,7 +6610,6 @@
       <unittitle>Forma Perioda na Primerakh Muzyki S.Prokof'eva: Khrestomatiia</unittitle>
       <note>
          <p>Creator: Berkov, Viktor Osipovich (ed.)</p>
-         <p>Publication date: 1968</p>
          <p>ID: SPA_1890</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1968</p>
@@ -7006,7 +6627,6 @@
       <unittitle>Nekotorye Osobennosti Garmonii Prokof'eva. Metodicheskoe posobie po garmonii</unittitle>
       <note>
          <p>Creator: Ter-Martirosian, T</p>
-         <p>Publication date: 1966</p>
          <p>ID: SPA_1891</p>
          <p>Publisher: Muzyka, Leningrad</p>
          <p>Publication date: 1966</p>
@@ -7023,7 +6643,6 @@
       <unittitle>Vokal'no-simfonicheskie proizvedeniia S. Prokof'eva</unittitle>
       <note>
          <p>Creator: Rogozhina, Nina Ivanovna</p>
-         <p>Publication date: 1964</p>
          <p>ID: SPA_1892</p>
          <p>Publisher: Muzyka, Leningrad</p>
          <p>Publication date: 1964</p>
@@ -7040,7 +6659,6 @@
       <unittitle>Romansy i pesni S. S. Prokof'eva,</unittitle>
       <note>
          <p>Creator: Rogozhina, Nina Ivanovna</p>
-         <p>Publication date: 1971</p>
          <p>ID: SPA_1893</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1971</p>
@@ -7057,7 +6675,6 @@
       <unittitle>Kamerno-Instrumental'nye Ansambli S. Prokof'eva</unittitle>
       <note>
          <p>Creator: Soroker, Iakov L'vovich</p>
-         <p>Publication date: 1973</p>
          <p>ID: SPA_1894</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1973</p>
@@ -7074,7 +6691,6 @@
       <unittitle>Skripichnoe Tvorchestvo S. Prokof'eva</unittitle>
       <note>
          <p>Creator: Soroker, Iakov L'vovich</p>
-         <p>Publication date: 1965</p>
          <p>ID: SPA_1895</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1965</p>
@@ -7091,7 +6707,6 @@
       <unittitle>Kantata S. Prokof'eva 'Alexander Nevsky'</unittitle>
       <note>
          <p>Creator: Rogozhina, Nina Ivanovna</p>
-         <p>Publication date: 1958</p>
          <p>ID: SPA_1896</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Publication date: 1958</p>
@@ -7109,7 +6724,6 @@
       <unittitle>Violonchel'noe Tvorchestvo Prokof'eva</unittitle>
       <note>
          <p>Creator: Blok, Vladimir</p>
-         <p>Publication date: 1973</p>
          <p>ID: SPA_1897</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1973</p>
@@ -7127,7 +6741,6 @@
       <unittitle>Kontserty dlia violoncheli s orkestrom S. Prokof'eva</unittitle>
       <note>
          <p>Creator: Blok, Vladimir</p>
-         <p>Publication date: 1959</p>
          <p>ID: SPA_1898</p>
          <p>Publisher: Gosudarstvennoe Muzykal'noe Izdatel'stvo, Moskva</p>
          <p>Publication date: 1959</p>
@@ -7145,7 +6758,6 @@
       <unittitle>Kontserty dlia violoncheli s orkestrom S. Prokof'eva</unittitle>
       <note>
          <p>Creator: Blok, Vladimir</p>
-         <p>Publication date: 1959</p>
          <p>ID: SPA_1899</p>
          <p>Publisher: Gosudarstvennoe Muzykal'noe Izdatel'stvo, Moskva</p>
          <p>Publication date: 1959</p>
@@ -7163,7 +6775,6 @@
       <unittitle>Muzyka Prokof'eva dlia detei</unittitle>
       <note>
          <p>Creator: Blok, Vladimir</p>
-         <p>Publication date: 1969</p>
          <p>ID: SPA_1900</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1969</p>
@@ -7181,7 +6792,6 @@
       <unittitle>Balety Prokof'eva</unittitle>
       <note>
          <p>Creator: Vasilenko, Sergei</p>
-         <p>Publication date: 1965</p>
          <p>ID: SPA_1901</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1965</p>
@@ -7198,7 +6808,6 @@
       <unittitle>Balety Prokof'eva</unittitle>
       <note>
          <p>Creator: Vasilenko, Sergei</p>
-         <p>Publication date: 1965</p>
          <p>ID: SPA_1902</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1965</p>
@@ -7216,7 +6825,6 @@
       <unittitle>Fortep'iannoe Tvorchestvo S.S. Prokof'eva</unittitle>
       <note>
          <p>Creator: Gakkel, Leonid Evgenevich</p>
-         <p>Publication date: 1960</p>
          <p>ID: SPA_1903</p>
          <p>Publisher: Gosudarstvennoe Muzykal'noe Izdatel'stvo, Moskva</p>
          <p>Publication date: 1960</p>
@@ -7235,7 +6843,6 @@
       <note>
          <p>Creator: Kholopov, Iurii Nikolaevich</p>
          <p>Creator: Kholopova, V</p>
-         <p>Publication date: 1961</p>
          <p>ID: SPA_1904</p>
          <p>Publisher: Gosudarstvennoe Muzykal'noe Izdatel'stvo, Moskva</p>
          <p>Publication date: 1961</p>
@@ -7253,7 +6860,6 @@
       <unittitle>Fol'klor i Kompozitor: Teoreticheskie etody</unittitle>
       <note>
          <p>Creator: Zemtsovskii, Isaly Iosifovich</p>
-         <p>Publication date: 1978</p>
          <p>ID: SPA_1905</p>
          <p>Publisher: Sovetskii Kompozitor, Leningrad</p>
          <p>Publication date: 1978</p>
@@ -7270,7 +6876,6 @@
       <unittitle>Orkestrovye Stili v Russkoi Muzyke</unittitle>
       <note>
          <p>Creator: Barsova, I A</p>
-         <p>Publication date: 1987</p>
          <p>ID: SPA_1906</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1987</p>
@@ -7289,7 +6894,6 @@
          <p>Creator: Soroker, Yakov</p>
          <p>Secondary creator: Samilenko, Olya (trans.)</p>
          <p>Secondary creator: Hornjatkevych, Andrij (ed.)</p>
-         <p>Publication date: 1995</p>
          <p>ID: SPA_1907</p>
          <p>Publisher: Canadian Institute of Ukrainian Studies Press, Toronto and Edmonton</p>
          <p>Publication date: 1995</p>
@@ -7306,7 +6910,6 @@
       <unittitle>Skripichnyi Kontserty Prokof'eva</unittitle>
       <note>
          <p>Creator: Volkov, Anatolii Isaakovich</p>
-         <p>Publication date: 1962</p>
          <p>ID: SPA_1908</p>
          <p>Publisher: Muzgiz, Moskva</p>
          <p>Publication date: 1962</p>
@@ -7325,7 +6928,6 @@
       <note>
          <p>Creator: Goedicke, Ruth</p>
          <p>Secondary creator: Kuhn, Ernst</p>
-         <p>Publication date: 2004</p>
          <p>ID: SPA_1909</p>
          <p>Publisher: Verlag Ernst Kuhn, Berlin</p>
          <p>Publication date: 2004</p>
@@ -7342,7 +6944,6 @@
       <unittitle>Metod tvorcheskoi raboty S. Prokof'eva: Issledovanie</unittitle>
       <note>
          <p>Creator: Blok, Vladimir</p>
-         <p>Publication date: 1979</p>
          <p>ID: SPA_1910</p>
          <p>Publisher: Muzyka, Moskva</p>
          <p>Publication date: 1979</p>
@@ -7359,7 +6960,6 @@
       <unittitle>Natsional'no-russkie traditsii v muzyke S. S. Prokof'eva</unittitle>
       <note>
          <p>Creator: Boganova, Tatiana Vasilevna</p>
-         <p>Publication date: 1961</p>
          <p>ID: SPA_1911</p>
          <p>Publisher: Sovetskii kompozitor, Moskva</p>
          <p>Publication date: 1961</p>
@@ -7375,7 +6975,6 @@
       <unittitle>Fortepiannye sonaty Prokof'eva</unittitle>
       <note>
          <p>Creator: Ordzhonikidze, Givi</p>
-         <p>Publication date: 1962</p>
          <p>ID: SPA_1912</p>
          <p>Publisher: Gosudarstvennoe Muzykal'noe Izdatel'stvo, Moskva</p>
          <p>Publication date: 1962</p>
@@ -7393,7 +6992,6 @@
       <unittitle>Prokofiev's Piano Sonatas: A Guide for the Listener and the Performer</unittitle>
       <note>
          <p>Creator: Berman, Boris</p>
-         <p>Publication date: 2008</p>
          <p>ID: SPA_1913</p>
          <p>Publisher: Yale University Press, New Haven and London</p>
          <p>Publication date: 2008</p>
@@ -7404,4 +7002,5 @@
       </note>
    </did>
 </c>
-</xmloutput>
+
+</outputxml>

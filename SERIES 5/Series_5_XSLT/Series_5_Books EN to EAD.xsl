@@ -1,4 +1,4 @@
-<!-- convert Series_5_Books.xml to CU-EAD  - - MS 6/30/17 -->
+<!-- convert Series_5_Books.xml to CU-EAD  - - MS 6/30/17 rev. 7/25/17 -->
 
 <xsl:stylesheet 
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xs="http://www.w3.org/2001/XMLSchema"
@@ -21,7 +21,6 @@
            <note>
            <xsl:apply-templates select="AUTHORS/AUTHOR"></xsl:apply-templates>
            <xsl:apply-templates select="SUBSIDIARY_AUTHORS/SUBSIDIARY_AUTHOR"></xsl:apply-templates>
-           <xsl:apply-templates select="YEAR"></xsl:apply-templates>
                
                <p>ID: SPA_<xsl:number value="$spa + 1501"/></p>    
                
