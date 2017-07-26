@@ -74,7 +74,9 @@
          </AUTHORS>
          <YEAR>1989</YEAR>
          <TITLE>100 Years of Russian Art: From 1889 – 1989 from Private Collections in the USSR</TITLE>
-         <SUBSIDIARY_AUTHORS>Dudakov, E (ed.)</SUBSIDIARY_AUTHORS>
+         <SUBSIDIARY_AUTHORS>
+           <SUBSIDIARY_AUTHOR>Dudakov, E (ed.)</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>Lund Humphries Publishers</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
@@ -95,7 +97,9 @@
          <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Glinka Museum</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <SECONDARY_AUTHOR>Medvedeva, Irina</SECONDARY_AUTHOR>
+         <SUBSIDIARY_AUTHORS>
+           <SUBSIDIARY_AUTHOR>Medvedeva, Irina</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM2>English</CUSTOM2>
          <CUSTOM5>10/11/2003</CUSTOM5>
@@ -111,7 +115,9 @@
          <YEAR>1990</YEAR>
          <TITLE>The Russian Experiment in Art 1863-1922</TITLE>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <SECONDARY_AUTHOR>Burleigh-Motley, Marian</SECONDARY_AUTHOR>
+         <SUBSIDIARY_AUTHORS>
+           <SUBSIDIARY_AUTHOR>Burleigh-Motley, Marian</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
@@ -196,12 +202,12 @@
       <PUBLISHER>Rizzoli</PUBLISHER>
       <TYPE_OF_WORK>Book</TYPE_OF_WORK>
        <SUBSIDIARY_AUTHORS>
-           <SECONDARY_AUTHOR>Fauchereau, Serge</SECONDARY_AUTHOR>
-           <SECONDARY_AUTHOR>Lischke, André</SECONDARY_AUTHOR>
-           <SECONDARY_AUTHOR>Rakitina, Elena</SECONDARY_AUTHOR>
-           <SECONDARY_AUTHOR>Simsolo, Noël</SECONDARY_AUTHOR>
-           <SECONDARY_AUTHOR>Turowski, Andrzej</SECONDARY_AUTHOR>
-           <SECONDARY_AUTHOR>Zadora, Stanislas</SECONDARY_AUTHOR>
+           <SUBSIDIARY_AUTHOR>Fauchereau, Serge</SUBSIDIARY_AUTHOR>
+           <SUBSIDIARY_AUTHOR>Lischke, André</SUBSIDIARY_AUTHOR>
+           <SUBSIDIARY_AUTHOR>Rakitina, Elena</SUBSIDIARY_AUTHOR>
+           <SUBSIDIARY_AUTHOR>Simsolo, Noël</SUBSIDIARY_AUTHOR>
+           <SUBSIDIARY_AUTHOR>Turowski, Andrzej</SUBSIDIARY_AUTHOR>
+           <SUBSIDIARY_AUTHOR>Zadora, Stanislas</SUBSIDIARY_AUTHOR>
        </SUBSIDIARY_AUTHORS>
       <CUSTOM1>English</CUSTOM1>
       <CUSTOM5>?</CUSTOM5>
@@ -219,7 +225,9 @@
        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
       <PUBLISHER>Conran Octapus</PUBLISHER>
       <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-      <SUBSIDIARY_AUTHOR>Bouchet, Guy</SUBSIDIARY_AUTHOR>
+      <SUBSIDIARY_AUTHORS>
+        <SUBSIDIARY_AUTHOR>Bouchet, Guy</SUBSIDIARY_AUTHOR>
+      </SUBSIDIARY_AUTHORS>
       <CUSTOM1>English</CUSTOM1>
       <CUSTOM5>?</CUSTOM5>
       <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
@@ -324,7 +332,9 @@
          <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
          <PUBLISHER>The Macmillan Company</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-       <SUBSIDIARY_AUTHORS>Denniston, Elinore</SUBSIDIARY_AUTHORS>
+         <SUBSIDIARY_AUTHORS>
+           <SUBSIDIARY_AUTHOR>Denniston, Elinore</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
@@ -515,7 +525,9 @@
          <PLACE_PUBLISHED>Neptune City, NJ</PLACE_PUBLISHED>
          <PUBLISHER>Paganiniana Publications, Inc.</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <SUBSIDIARY_AUTHORS>Yuri Sviridov (Trans)</SUBSIDIARY_AUTHORS>
+         <SUBSIDIARY_AUTHORS>
+           <SUBSIDIARY_AUTHOR>Yuri Sviridov (trans.)</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>11/03/2002</CUSTOM5>
          <ACCESSION_NUMBER>214</ACCESSION_NUMBER>
@@ -668,7 +680,9 @@
        <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
        <PUBLISHER>O. G. I.</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-       <SUBSIDIARY_AUTHOR>Zingerman, B I</SUBSIDIARY_AUTHOR>
+       <SUBSIDIARY_AUTHORS>
+         <SUBSIDIARY_AUTHOR>Zingerman, B I</SUBSIDIARY_AUTHOR>
+       </SUBSIDIARY_AUTHORS>
        <VOLUME>1</VOLUME>
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>07/11/2000</CUSTOM5>
@@ -770,7 +784,9 @@
          <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
          <PUBLISHER>Tudor</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <SUBSIDIARY_AUTHORS>Paul England (trans.)</SUBSIDIARY_AUTHORS>
+         <SUBSIDIARY_AUTHORS>
+           <SUBSIDIARY_AUTHOR>Paul England (trans.)</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>03/11/2003</CUSTOM5>
          <ACCESSION_NUMBER>248</ACCESSION_NUMBER>
@@ -899,7 +915,9 @@
         <PLACE_PUBLISHED>Neptune City, NJ</PLACE_PUBLISHED>
         <PUBLISHER>Paganiniana Publications, Inc.</PUBLISHER>
         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-        <SUBSIDIARY_AUTHORS>Young, Catherine (trans.)</SUBSIDIARY_AUTHORS>
+        <SUBSIDIARY_AUTHORS>
+          <SUBSIDIARY_AUTHOR>Young, Catherine (trans.)</SUBSIDIARY_AUTHOR>
+        </SUBSIDIARY_AUTHORS>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>?</CUSTOM5>
         <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
@@ -1298,7 +1316,9 @@
          <PLACE_PUBLISHED>Arles</PLACE_PUBLISHED>
          <PUBLISHER>Actes Sud</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <SUBSIDIARY_AUTHORS>Mougeot, Philippe (trans.)</SUBSIDIARY_AUTHORS>
+         <SUBSIDIARY_AUTHORS>
+           <SUBSIDIARY_AUTHOR>Mougeot, Philippe (trans.)</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <CUSTOM1>French</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
@@ -1348,7 +1368,9 @@
          <PLACE_PUBLISHED>Paris</PLACE_PUBLISHED>
          <PUBLISHER>Chêne</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <SUBSIDIARY_AUTHORS>Hofmann, Rostislav (trans.)</SUBSIDIARY_AUTHORS>
+         <SUBSIDIARY_AUTHORS>
+           <SUBSIDIARY_AUTHOR>Hofmann, Rostislav (trans.)</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <CUSTOM1>French</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>7</ACCESSION_NUMBER>
@@ -1624,7 +1646,9 @@
          <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
          <PUBLISHER>Calder &amp; Boyars</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <SUBSIDIARY_AUTHORS>John, Miriam (trans.)</SUBSIDIARY_AUTHORS>
+         <SUBSIDIARY_AUTHORS>
+           <SUBSIDIARY_AUTHOR>John, Miriam (trans.)</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
@@ -2006,7 +2030,9 @@
          <PLACE_PUBLISHED>Zürich, St. Gallen</PLACE_PUBLISHED>
          <PUBLISHER>M &amp; T Verlag</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-       <SUBSIDIARY_AUTHORS>Reich, Willi (trans.)</SUBSIDIARY_AUTHORS>
+       <SUBSIDIARY_AUTHORS>
+         <SUBSIDIARY_AUTHOR>Reich, Willi (trans.)</SUBSIDIARY_AUTHOR>
+       </SUBSIDIARY_AUTHORS>
          <ISBN>3-7265-6030-0</ISBN>
          <CUSTOM1>German</CUSTOM1>
          <CUSTOM5>21/09/2005</CUSTOM5>
@@ -2226,10 +2252,10 @@
          <PLACE_PUBLISHED>Sankt-Peterburg</PLACE_PUBLISHED>
          <PUBLISHER>Vita Nova</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-       <SUBSIDIARY_AUTHOR>
+       <SUBSIDIARY_AUTHORS>
            <SUBSIDIARY_AUTHOR>Besti, Andrei (illustrator)</SUBSIDIARY_AUTHOR>
             <SUBSIDIARY_AUTHOR>Dmitrenko, Aleksei (ed.)</SUBSIDIARY_AUTHOR>
-        </SUBSIDIARY_AUTHOR>
+        </SUBSIDIARY_AUTHORS>
        <ISBN>9785938982260</ISBN>
          <CUSTOM1>Russian with English, French and German translation</CUSTOM1>
          <CUSTOM5>11/02/2010</CUSTOM5>
@@ -2375,7 +2401,9 @@
          <TITLE>Sviatoslav Richter: Notebooks and Conversations</TITLE>
          <PUBLISHER>Faber &amp; Faber</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <SUBSIDIARY_AUTHORS>Spencer, Stewart (trans.)</SUBSIDIARY_AUTHORS>
+         <SUBSIDIARY_AUTHORS>
+           <SUBSIDIARY_AUTHOR>Spencer, Stewart (trans.)</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>24/09/2002</CUSTOM5>
          <ACCESSION_NUMBER>220</ACCESSION_NUMBER>
@@ -2422,7 +2450,7 @@
          </AUTHORS>
          <YEAR>1946</YEAR>
          <TITLE>Iu. A. Shaporin</TITLE>
-       <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>  
+       <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
        <PUBLISHER>Muzgiz</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
         <CUSTOM1>Russian</CUSTOM1>
@@ -2439,10 +2467,12 @@
          </AUTHORS>
          <YEAR>1998</YEAR>
          <TITLE>Shostakovich Reconsidered</TITLE>
-       <PLACE_PUBLISHED>London</PLACE_PUBLISHED>  
+       <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
        <PUBLISHER>Toccata Press</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-       <SUBSIDIARY_AUTHORS>Ashkenazy, Vladimir</SUBSIDIARY_AUTHORS>
+       <SUBSIDIARY_AUTHORS>
+         <SUBSIDIARY_AUTHOR>Ashkenazy, Vladimir</SUBSIDIARY_AUTHOR>
+       </SUBSIDIARY_AUTHORS>
         <CUSTOM1>English</CUSTOM1>
        <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>98</ACCESSION_NUMBER>
@@ -2491,7 +2521,7 @@
          </AUTHORS>
          <YEAR>1990</YEAR>
          <TITLE>(Re)lire Souvtchinski (1892 - 1985)</TITLE>
-        <PLACE_PUBLISHED>La Bresse</PLACE_PUBLISHED> 
+        <PLACE_PUBLISHED>La Bresse</PLACE_PUBLISHED>
         <PUBLISHER>Eric Humbertclaude</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM5>03/11/2003</CUSTOM5>
@@ -2617,7 +2647,9 @@
          <PLACE_PUBLISHED>Prague</PLACE_PUBLISHED>
          <PUBLISHER>Divadelni Ustav Praha</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <SUBSIDIARY_AUTHORS>Eislerová, Jean (trans.)</SUBSIDIARY_AUTHORS>
+         <SUBSIDIARY_AUTHORS>
+           <SUBSIDIARY_AUTHOR>Eislerová, Jean (trans.)</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <CUSTOM1>Czech</CUSTOM1>
          <CUSTOM5>28/08/2001</CUSTOM5>
          <ACCESSION_NUMBER>200</ACCESSION_NUMBER>
@@ -2722,7 +2754,7 @@
          </AUTHORS>
          <YEAR>1982</YEAR>
          <TITLE>Igor and Vera Stravinsky: A Photograph Album 1921 to 1971</TITLE>
-        <PLACE_PUBLISHED>Over Whallop, Hampshire, Great Britain</PLACE_PUBLISHED> 
+        <PLACE_PUBLISHED>Over Whallop, Hampshire, Great Britain</PLACE_PUBLISHED>
         <PUBLISHER>Thames &amp; Hudson</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <SUBSIDIARY_AUTHORS>
@@ -2834,7 +2866,9 @@
          <PLACE_PUBLISHED>Portland, Oregon</PLACE_PUBLISHED>
          <PUBLISHER>Amadeus Press</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <SUBSIDIARY_AUTHORS>Glasow, E. Thomas (trans.)</SUBSIDIARY_AUTHORS>
+         <SUBSIDIARY_AUTHORS>
+           <SUBSIDIARY_AUTHOR>Glasow, E. Thomas (trans.)</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>11/03/2002</CUSTOM5>
          <ACCESSION_NUMBER>214</ACCESSION_NUMBER>
@@ -2852,7 +2886,9 @@
          <PLACE_PUBLISHED>Great Britain</PLACE_PUBLISHED>
          <PUBLISHER>Sceptre</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <SUBSIDIARY_AUTHORS>Daniels, Guy (trans.)</SUBSIDIARY_AUTHORS>
+         <SUBSIDIARY_AUTHORS>
+           <SUBSIDIARY_AUTHOR>Daniels, Guy (trans.)</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>07/11/2000</CUSTOM5>
          <ACCESSION_NUMBER>165</ACCESSION_NUMBER>
@@ -3077,7 +3113,9 @@
          <PLACE_PUBLISHED>Boston</PLACE_PUBLISHED>
          <PUBLISHER>Northeastern University Press</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <SUBSIDIARY_AUTHORS>Robinson, Harlow (trans.)</SUBSIDIARY_AUTHORS>
+         <SUBSIDIARY_AUTHORS>
+           <SUBSIDIARY_AUTHOR>Robinson, Harlow (trans.)</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>105</ACCESSION_NUMBER>
@@ -3215,10 +3253,10 @@
          </AUTHORS>
          <YEAR>1979</YEAR>
          <TITLE>Pears Cyclopaedia 88th Edition</TITLE>
-         <PLACE_PUBLISHED>Bungay, Suffolk</PLACE_PUBLISHED>  
+         <PLACE_PUBLISHED>Bungay, Suffolk</PLACE_PUBLISHED>
        <PUBLISHER>Pelham Books</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-       <CUSTOM1>English</CUSTOM1>  
+       <CUSTOM1>English</CUSTOM1>
        <CUSTOM5>19/08/2004</CUSTOM5>
          <CALL_NUMBER>DICT (2)</CALL_NUMBER>
       </RECORD>
@@ -3465,7 +3503,9 @@
          <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>Constable</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <SUBSIDIARY_AUTHORS>Bowen, Vera (trans.) (ed.)</SUBSIDIARY_AUTHORS>
+         <SUBSIDIARY_AUTHORS>
+           <SUBSIDIARY_AUTHOR>Bowen, Vera (trans.) (ed.)</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
@@ -3532,7 +3572,9 @@
         <TITLE>The Authorized Bolshoi Ballet Book of Ivan the Terrible</TITLE>
         <PUBLISHER>T.F.H. Publications, Inc.</PUBLISHER>
         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-        <SECONDARY_AUTHORS>Levcoeva, N (trans.)</SECONDARY_AUTHORS>
+        <SUBSIDIARY_AUTHORS>
+          <SUBSIDIARY_AUTHOR>Levcoeva, N (trans.)</SUBSIDIARY_AUTHOR>
+        </SUBSIDIARY_AUTHORS>
         <CUSTOM5>?</CUSTOM5>
         <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
         <CALL_NUMBER>DM-D (13)</CALL_NUMBER>
@@ -3550,7 +3592,9 @@
         <PLACE_PUBLISHED>Neptune City, NJ</PLACE_PUBLISHED>
         <PUBLISHER>T.F.H. Publications, Inc.</PUBLISHER>
         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-        <SUBSIDIARY_AUTHORS>Coey, Tim (trans.)</SUBSIDIARY_AUTHORS>
+        <SUBSIDIARY_AUTHORS>
+          <SUBSIDIARY_AUTHOR>Coey, Tim (trans.)</SUBSIDIARY_AUTHOR>
+          </SUBSIDIARY_AUTHORS>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>?</CUSTOM5>
         <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
@@ -3568,7 +3612,9 @@
         <PLACE_PUBLISHED>Cambridge</PLACE_PUBLISHED>
         <PUBLISHER>Cambridge University Press</PUBLISHER>
         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-        <SUBSIDIARY_AUTHORS>Evans, G. Blakemore (ed.)</SUBSIDIARY_AUTHORS>
+        <SUBSIDIARY_AUTHORS>
+          <SUBSIDIARY_AUTHOR>Evans, G. Blakemore (ed.)</SUBSIDIARY_AUTHOR>
+        </SUBSIDIARY_AUTHORS>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>?</CUSTOM5>
         <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
@@ -3747,7 +3793,9 @@
          <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
          <PUBLISHER>Methuen</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <SUBSIDIARY_AUTHORS>Perry, Ted (intro.)</SUBSIDIARY_AUTHORS>
+         <SUBSIDIARY_AUTHORS>
+           <SUBSIDIARY_AUTHOR>Perry, Ted (intro.)</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
@@ -3783,7 +3831,9 @@
          <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
          <PUBLISHER>Dover, Inc.</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <SUBSIDIARY_AUTHORS>Griffith, Richard</SUBSIDIARY_AUTHORS>
+         <SUBSIDIARY_AUTHORS>
+           <SUBSIDIARY_AUTHOR>Griffith, Richard</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
@@ -3922,10 +3972,10 @@
          <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>Neville Spearman Limited</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <SECONDARY_AUTHORS>
-            <SECONDARY_AUTHOR>Montagu, Ivor (trans.)</SECONDARY_AUTHOR>
-            <SECONDARY_AUTHOR>Nalbandov, Sergei (trans.)</SECONDARY_AUTHOR>
-         </SECONDARY_AUTHORS>
+         <SUBSIDIARY_AUTHORS>
+            <SUBSIDIARY_AUTHOR>Montagu, Ivor (trans.)</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Nalbandov, Sergei (trans.)</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <CUSTOM1>English</CUSTOM1>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
          <CALL_NUMBER>DM-O (3)</CALL_NUMBER>
@@ -4005,7 +4055,9 @@
          <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
          <PUBLISHER>Muzyka</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <SUBSIDIARY_AUTHORS>Guseva, O (ed.)</SUBSIDIARY_AUTHORS>
+         <SUBSIDIARY_AUTHORS>
+           <SUBSIDIARY_AUTHOR>Guseva, O (ed.)</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>?</CUSTOM5>
          <ACCESSION_NUMBER>97</ACCESSION_NUMBER>
@@ -4020,9 +4072,11 @@
          <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
          <PUBLISHER>AM - RUS Music Agency, Inc.</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <SUBSIDIARY_AUTHORS>Karsavina, Jean (trans.)</SUBSIDIARY_AUTHORS>
+         <SUBSIDIARY_AUTHORS>
+           <SUBSIDIARY_AUTHOR>Karsavina, Jean (trans.)</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <CUSTOM1>English</CUSTOM1>
-         <ACCESSION_NUMBER></ACCESSION_NUMBER>   
+         <ACCESSION_NUMBER></ACCESSION_NUMBER>
          <CALL_NUMBER>DM-O (9)</CALL_NUMBER>
       </RECORD>
    <RECORD>
@@ -4034,10 +4088,10 @@
          <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
          <PUBLISHER>Boosey &amp; Hawkes</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <SECONDARY_AUTHORS>
-            <SECONDARY_AUTHOR>Palmer, Irving (trans.)</SECONDARY_AUTHOR>
-            <SECONDARY_AUTHOR>Palmer, Georgette (trans.)</SECONDARY_AUTHOR>
-         </SECONDARY_AUTHORS>
+         <SUBSIDIARY_AUTHORS>
+            <SUBSIDIARY_AUTHOR>Palmer, Irving (trans.)</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Palmer, Georgette (trans.)</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <CUSTOM1>English</CUSTOM1>
          <ACCESSION_NUMBER></ACCESSION_NUMBER>
          <CALL_NUMBER>DM-O (10)</CALL_NUMBER>
@@ -4130,7 +4184,9 @@
         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
         <PUBLISHER>Hertford &amp; Harlow</PUBLISHER>
         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-        <SECONDARY_AUTHORS>Downes, Edward (trans.)</SECONDARY_AUTHORS>
+        <SUBSIDIARY_AUTHORS>
+          <SUBSIDIARY_AUTHOR>Downes, Edward (trans.)</SUBSIDIARY_AUTHOR>
+        </SUBSIDIARY_AUTHORS>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>10/02/05</CUSTOM5>
         <CALL_NUMBER>DM-O (16)</CALL_NUMBER>
@@ -4142,10 +4198,10 @@
         <TITLE>Maddalena: An Opera in One Act by Sergei Prokofiev</TITLE>
         <PUBLISHER>Boosey &amp; Hawkes Music Publishers Ltd.</PUBLISHER>
         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-        <SECONDARY_AUTHORS>
-            <SECONDARY_AUTHOR>Makaroff, Dmitri (trans.)</SECONDARY_AUTHOR>
-            <SECONDARY_AUTHOR>Downes, Edward (trans.)</SECONDARY_AUTHOR>
-        </SECONDARY_AUTHORS>
+        <SUBSIDIARY_AUTHORS>
+            <SUBSIDIARY_AUTHOR>Makaroff, Dmitri (trans.)</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Downes, Edward (trans.)</SUBSIDIARY_AUTHOR>
+        </SUBSIDIARY_AUTHORS>
         <CUSTOM1>English</CUSTOM1>
         <CALL_NUMBER>DM-O (17)</CALL_NUMBER>
     </RECORD>
@@ -4157,7 +4213,9 @@
         <PLACE_PUBLISHED>Bruxelles</PLACE_PUBLISHED>
         <PUBLISHER>Edition Russe de Musique</PUBLISHER>
         <TYPE_OF_WORK>Script</TYPE_OF_WORK>
-        <SECONDARY_AUTHOR>Spaak, Paul (trans.)</SECONDARY_AUTHOR>
+        <SUBSIDIARY_AUTHORS>
+          <SUBSIDIARY_AUTHOR>Spaak, Paul (trans.)</SUBSIDIARY_AUTHOR>
+        </SUBSIDIARY_AUTHORS>
         <CUSTOM1>French</CUSTOM1>
         <CALL_NUMBER>DM-O (18)</CALL_NUMBER>
     </RECORD>
@@ -4169,9 +4227,9 @@
         </AUTHORS>
         <YEAR>1975</YEAR>
         <TITLE>Sheridan's Plays</TITLE>
-        <SECONDARY_AUTHORS>
-            <SECONDARY_AUTHOR>Price, Cecil (trans.)</SECONDARY_AUTHOR>
-        </SECONDARY_AUTHORS>
+        <SUBSIDIARY_AUTHORS>
+            <SUBSIDIARY_AUTHOR>Price, Cecil (trans.)</SUBSIDIARY_AUTHOR>
+        </SUBSIDIARY_AUTHORS>
         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
         <PUBLISHER>Oxford University Press</PUBLISHER>
         <ISBN>0192811584</ISBN>
@@ -4192,7 +4250,9 @@
          <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
          <PUBLISHER>Walker Books</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <SUBSIDIARY_AUTHORS>Cartwright, Reg</SUBSIDIARY_AUTHORS>
+         <SUBSIDIARY_AUTHORS>
+           <SUBSIDIARY_AUTHOR>Cartwright, Reg</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <CUSTOM1>English</CUSTOM1>
          <ACCESSION_NUMBER>16</ACCESSION_NUMBER>
          <CALL_NUMBER>DM-other (1)</CALL_NUMBER>
@@ -4543,9 +4603,9 @@
          </AUTHORS>
          <YEAR>2004</YEAR>
          <TITLE>Soviet Music and Society under Lenin and Stalin: The baton and sickle</TITLE>
-         <SECONDARY_AUTHORS>
-            <SECONDARY_AUTHOR>Sakwa, Richard</SECONDARY_AUTHOR>
-         </SECONDARY_AUTHORS>
+         <SUBSIDIARY_AUTHORS>
+            <SUBSIDIARY_AUTHOR>Sakwa, Richard</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <SECONDARY_TITLE>BASEES/RoutledgeCurzon Series on Russian and East European
             Studies</SECONDARY_TITLE>
          <PLACE_PUBLISHED>London and New York</PLACE_PUBLISHED>
@@ -5328,7 +5388,9 @@
         </AUTHORS>
         <YEAR>1944</YEAR>
         <TITLE>Handbook of Soviet Musicians</TITLE>
-        <SUBSIDIARY_AUTHORS>Bush, Alan (ed.)</SUBSIDIARY_AUTHORS>
+        <SUBSIDIARY_AUTHORS>
+          <SUBSIDIARY_AUTHOR>Bush, Alan (ed.)</SUBSIDIARY_AUTHOR>
+        </SUBSIDIARY_AUTHORS>
         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
         <PUBLISHER>The Pilot Press</PUBLISHER>
         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
@@ -5442,10 +5504,10 @@
         </AUTHORS>
         <YEAR>2000</YEAR>
         <TITLE>Life Has Become More Joyous, Comrades: Celebrations in the Time of Stalin</TITLE>
-        <SECONDARY_AUTHORS>
-            <SECONDARY_AUTHOR>Rabinowitch, Alexander</SECONDARY_AUTHOR>
-            <SECONDARY_AUTHOR>Rosenberg, William G.</SECONDARY_AUTHOR>
-        </SECONDARY_AUTHORS>
+        <SUBSIDIARY_AUTHORS>
+            <SUBSIDIARY_AUTHOR>Rabinowitch, Alexander</SUBSIDIARY_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Rosenberg, William G.</SUBSIDIARY_AUTHOR>
+        </SUBSIDIARY_AUTHORS>
         <SECONDARY_TITLE>Indiana-Michigan Series in Russian and East European
             Studies</SECONDARY_TITLE>
         <PLACE_PUBLISHED>Bloomington &amp; Indianapolis</PLACE_PUBLISHED>
@@ -5762,7 +5824,7 @@
             Redaktsionno-Izdatel'skogo Tsentra</PUBLISHER>
          <VOLUME>2</VOLUME>
          <NUMBER_OF_VOLUMES>5</NUMBER_OF_VOLUMES>
-         <TYPE_OF_WORK>Book</TYPE_OF_WORK> 
+         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
          <CUSTOM1>Russian</CUSTOM1>
          <CUSTOM5>25/08/99</CUSTOM5>
          <ACCESSION_NUMBER>131</ACCESSION_NUMBER>
@@ -5788,7 +5850,7 @@
          <ACCESSION_NUMBER>131</ACCESSION_NUMBER>
          <CALL_NUMBER>MUSDICT (9)</CALL_NUMBER>
          <NOTES>5 volumes. Biography and bibliography</NOTES>
-      </RECORD> 
+      </RECORD>
     <RECORD>
         <REFERENCE_TYPE>20</REFERENCE_TYPE>
         <REFNUM>347</REFNUM>
@@ -5940,7 +6002,9 @@
         </AUTHORS>
         <YEAR>1975</YEAR>
         <TITLE>Kratkii Muzykal'nyi Slovar' dlia uchashchikhsia</TITLE>
-        <SUBSIDIARY_AUTHORS>Golubovskii, I V (ed.)</SUBSIDIARY_AUTHORS>
+        <SUBSIDIARY_AUTHORS>
+          <SUBSIDIARY_AUTHOR>Golubovskii, I V (ed.)</SUBSIDIARY_AUTHOR>
+        </SUBSIDIARY_AUTHORS>
         <PLACE_PUBLISHED>Moskva</PLACE_PUBLISHED>
         <PUBLISHER>Muzyka</PUBLISHER>
         <TYPE_OF_WORK>Book</TYPE_OF_WORK>
@@ -6220,7 +6284,9 @@
          <PLACE_PUBLISHED>Oxford</PLACE_PUBLISHED>
          <PUBLISHER>Clarendon Press</PUBLISHER>
          <TYPE_OF_WORK>Book</TYPE_OF_WORK>
-         <SUBSIDIARY_AUTHORS>Shostakovich, Irina</SUBSIDIARY_AUTHORS>
+         <SUBSIDIARY_AUTHORS>
+           <SUBSIDIARY_AUTHOR>Shostakovich, Irina</SUBSIDIARY_AUTHOR>
+         </SUBSIDIARY_AUTHORS>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>10/11/2003</CUSTOM5>
          <ACCESSION_NUMBER>253</ACCESSION_NUMBER>
@@ -6302,7 +6368,9 @@
         <AUTHORS>
             <AUTHOR>Burbank, Richard</AUTHOR>
         </AUTHORS>
-        <SUBSIDIARY_AUTHORS>Slonimsky, Nicolas</SUBSIDIARY_AUTHORS>
+        <SUBSIDIARY_AUTHORS>
+          <SUBSIDIARY_AUTHOR>Slonimsky, Nicolas</SUBSIDIARY_AUTHOR>
+        </SUBSIDIARY_AUTHORS>
         <YEAR>1984</YEAR>
         <TITLE>Twentieth Century Music: A Chronology</TITLE>
         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
@@ -7158,9 +7226,9 @@
         <YEAR>2004</YEAR>
         <TITLE>Sergej Prokofjews viersätzige Klaviersonaten: Studien zu Form und
             Gehalt</TITLE>
-        <SECONDARY_AUTHORS>
-            <SECONDARY_AUTHOR>Kuhn, Ernst</SECONDARY_AUTHOR>
-        </SECONDARY_AUTHORS>
+        <SUBSIDIARY_AUTHORS>
+            <SUBSIDIARY_AUTHOR>Kuhn, Ernst</SUBSIDIARY_AUTHOR>
+        </SUBSIDIARY_AUTHORS>
         <SECONDARY_TITLE>Studia Slavica Musicologica: Prokofjew-Studien, Bd. 2</SECONDARY_TITLE>
         <PLACE_PUBLISHED>Berlin</PLACE_PUBLISHED>
         <PUBLISHER>Verlag Ernst Kuhn</PUBLISHER>
