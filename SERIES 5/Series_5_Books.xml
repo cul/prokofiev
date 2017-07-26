@@ -4066,7 +4066,9 @@
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM></REFNUM>
-         <AUTHORS>Prokofieff, Sergei</AUTHORS>
+         <AUTHORS>
+           <AUTHOR>Prokofieff, Sergei</AUTHOR>
+         </AUTHORS>
          <YEAR>1948</YEAR>
          <TITLE>The Duenna</TITLE>
          <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
@@ -4082,7 +4084,9 @@
    <RECORD>
          <REFERENCE_TYPE>20</REFERENCE_TYPE>
          <REFNUM></REFNUM>
-         <AUTHORS>Prokofieff, Serge</AUTHORS>
+         <AUTHORS>
+           <AUTHOR>Prokofieff, Serge</AUTHOR>
+         </AUTHORS>
          <YEAR>1975</YEAR>
          <TITLE>The Gambler (Le Joueur): Opera in Four Acts and Six Scenes</TITLE>
          <PLACE_PUBLISHED>New York</PLACE_PUBLISHED>
@@ -4193,7 +4197,9 @@
     </RECORD>
     <RECORD>
         <REFERENCE_TYPE>20</REFERENCE_TYPE>
-        <AUTHORS>Liven, Baron</AUTHORS>
+        <AUTHORS>
+          <AUTHOR>Liven, Baron</AUTHOR>
+        </AUTHORS>
         <YEAR>1990</YEAR>
         <TITLE>Maddalena: An Opera in One Act by Sergei Prokofiev</TITLE>
         <PUBLISHER>Boosey &amp; Hawkes Music Publishers Ltd.</PUBLISHER>
@@ -4207,7 +4213,9 @@
     </RECORD>
     <RECORD>
         <REFERENCE_TYPE>20</REFERENCE_TYPE>
-        <AUTHORS>Prokofieff, Serge</AUTHORS>
+        <AUTHORS>
+          <AUTHOR>Prokofieff, Serge</AUTHOR>
+        </AUTHORS>
         <YEAR>1929</YEAR>
         <TITLE>Le Joueur: Comédie lyrique en 4 actes et 6 tableaux d'apres Dostoievski</TITLE>
         <PLACE_PUBLISHED>Bruxelles</PLACE_PUBLISHED>
