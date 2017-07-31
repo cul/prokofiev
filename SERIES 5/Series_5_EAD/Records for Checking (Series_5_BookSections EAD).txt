@@ -6,7 +6,7 @@
 
          ID: SPA_1
          Book title: Studies on 20th Century Music in East and Eastern Middle
-         Europe
+         Europe, Detlef Gojowy (ed.)
          Pages: 79-102
          Publication date: 1990
          Publisher: Arno Spitz, Berlin
@@ -51,7 +51,7 @@
 
          Creator: Richter, Sviatoslav
          ID: SPA_4
-         Book title: Pianisty rasskazyvaiut: Sbornik statei
+         Book title: Pianisty rasskazyvaiut: Sbornik statei, Sokolov, M. (ed.)
          Pages: 132-146
          Publication date: 1988
          Publisher: Sovetskii Kompozitor, Moscow
@@ -81,7 +81,7 @@
 
          Creator: Samosud, S. A.
          ID: SPA_6
-         Book title: S. A. Samosud: Stat'i, vospominaniia, pis'ma
+         Book title: S. A. Samosud: Stat'i, vospominaniia, pis'ma, Dansker, O. L. (ed.)
          Publication date: 1984
          Publisher: Sovetskii Kompozitor, Moskva
          Language: Russian
@@ -122,7 +122,7 @@
 
 
 
-  TITLE: Ob avtora. U Prokof'eva
+  TITLE: Ob avtoraU Prokof'eva
 
          Creator: Khentova, Sof'ia
          ID: SPA_9

@@ -39,9 +39,11 @@
                            <p>ID: SPA_<xsl:number value="$SPA"/></p>
                         
                         <xsl:if test="BOOK_TITLE">
-                           <p>Book title: <xsl:apply-templates select="BOOK_TITLE"></xsl:apply-templates></p>
-                                    <xsl:text>&#xa;</xsl:text>
+                            <p>Book title: <xsl:apply-templates select="BOOK_TITLE"></xsl:apply-templates>
+                             <xsl:apply-templates select="EDITOR"></xsl:apply-templates></p>               
+                            <xsl:text>&#xa;</xsl:text>
                         </xsl:if>
+                        
                         <xsl:apply-templates select="PAGES"></xsl:apply-templates>
                         <xsl:apply-templates select="YEAR"></xsl:apply-templates>
                         <xsl:apply-templates select="PUBLISHER"></xsl:apply-templates>                        
@@ -70,6 +72,10 @@
 
     <xsl:template match="PAGES">
         <p><xsl:text>Pages:&#x20;</xsl:text><xsl:value-of select="."/></p>
+    </xsl:template>
+    
+    <xsl:template match="EDITOR">
+        <xsl:text>, </xsl:text><xsl:value-of select="."/><xsl:text> (ed.)</xsl:text>
     </xsl:template>
 
     <xsl:template match="ARTICLE_TITLE|ARTICLE_TITLES/ARTICLE_TITLE">

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <outputxml>
-
+  
 <!--EAD SPA_1-->
 <c level="file">
    <did>
@@ -9,7 +9,7 @@
       <note>
          <p>ID: SPA_1</p>
          <p>Book title: Studies on 20th Century Music in East and Eastern Middle
-         Europe</p>
+         Europe, Detlef Gojowy (ed.)</p>
          <p>Pages: 79-102</p>
          <p>Publication date: 1990</p>
          <p>Publisher: Arno Spitz, Berlin</p>
@@ -66,7 +66,7 @@
       <note>
          <p>Creator: Richter, Sviatoslav</p>
          <p>ID: SPA_4</p>
-         <p>Book title: Pianisty rasskazyvaiut: Sbornik statei</p>
+         <p>Book title: Pianisty rasskazyvaiut: Sbornik statei, Sokolov, M. (ed.)</p>
          <p>Pages: 132-146</p>
          <p>Publication date: 1988</p>
          <p>Publisher: Sovetskii Kompozitor, Moscow</p>
@@ -104,7 +104,7 @@
       <note>
          <p>Creator: Samosud, S. A.</p>
          <p>ID: SPA_6</p>
-         <p>Book title: S. A. Samosud: Stat'i, vospominaniia, pis'ma</p>
+         <p>Book title: S. A. Samosud: Stat'i, vospominaniia, pis'ma, Dansker, O. L. (ed.)</p>
          <p>Publication date: 1984</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
          <p>Language: Russian</p>
@@ -157,7 +157,7 @@
 <!--EAD SPA_9-->
 <c level="file">
    <did>
-      <unittitle>Ob avtora. U Prokof'eva</unittitle>
+      <unittitle>Ob avtoraU Prokof'eva</unittitle>
       <note>
          <p>Creator: Khentova, Sof'ia</p>
          <p>ID: SPA_9</p>
