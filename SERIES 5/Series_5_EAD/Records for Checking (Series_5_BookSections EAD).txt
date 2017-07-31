@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+  TITLE: Love for Three Oranges: the collaboration of Vsevolod Meyerhold and Sergei
+         Prokofiev
+
+         ID: SPA_1
+         Book title: Studies on 20th Century Music in East and Eastern Middle
+         Europe
+         Pages: 79-102
+         Publication date: 1990
+         Publisher: Arno Spitz, Berlin
+         Language: English
+         Call Number: spa-tex-bsn-0001
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+
+
+
+  TITLE: Serge Prokofieff
+
+         Creator: Bruyr, José
+         ID: SPA_2
+         Book title: L'Ecran des Musiciens (seconde série)
+         Pages: 11-31
+         Publication date: 1933
+         Publisher: Corti, Paris
+         Language: French
+         Call Number: spa-tex-bsn-0002
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+
+
+
+  TITLE: Egipetskie Nochi
+
+         Creator: Tairov, A. Ia.
+         ID: SPA_3
+         Book title: Zapiski rezhissera: Stati, besedy, rechi, pis'ma
+         Pages: 361-375 + notes 554-8
+         Publication date: 1970
+         Publisher: Vserossiiskoe teatral'noe obshchestvo, Moscow
+         Language: Russian
+         Call Number: spa-tex-bsn-0003
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+
+
+
+  TITLE: O Prokof'eve
+
+         Creator: Richter, Sviatoslav
+         ID: SPA_4
+         Book title: Pianisty rasskazyvaiut: Sbornik statei
+         Pages: 132-146
+         Publication date: 1988
+         Publisher: Sovetskii Kompozitor, Moscow
+         Language: Russian
+         Call Number: spa-tex-bsn-0005
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+
+
+
+  TITLE: Posle "Romeo i Dzhul'etty"
+
+         Creator: Vul'f, Vitalii
+         ID: SPA_5
+         Book title: Teatral'nyi dozhd': Zametki i esse
+         Pages: 34-41
+         Publication date: 1998
+         Publisher: Izdatel'stvo "Znanie", Moskva
+         Language: Russian
+         Call Number: spa-tex-bsn-0006
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+
+
+
+  TITLE: S. A. Samosud
+
+         Creator: Samosud, S. A.
+         ID: SPA_6
+         Book title: S. A. Samosud: Stat'i, vospominaniia, pis'ma
+         Publication date: 1984
+         Publisher: Sovetskii Kompozitor, Moskva
+         Language: Russian
+         Call Number: spa-tex-bsn-0007
+         Document type: Excerpts
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: Excerpt from this book according to the index entries for Prokofiev
+
+
+
+  TITLE: Bibliograficheskii
+
+         Creator: Levidova, I M
+         ID: SPA_7
+         Book title: Uil'iam Shekspir: Bibliograficheskii ukazatel' russkikh
+         perevodov i kriticheskoi literatury na russkom iazyke 1963-1975
+         Publication date: 1978
+         Publisher: Kniga, Moskva
+         Language: Russian
+         Call Number: spa-tex-bsn-0008
+         Document type: Excerpt
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: Excerpts from this book according to the index entries for Prokofiev
+
+
+
+  TITLE: Repertuar Teatra 1917 - 1957. Gosudarstvennyi ordena Lenina akademicheskii teatr opery i baleta imeni S.
+         M. Kirova [Kirov state order of Lenin Academic Opera and Ballet
+         Theatre]
+
+         ID: SPA_8
+         Pages: 143-175
+         Publication date: 1957
+         Language: Russian
+         Call Number: spa-tex-bsn-0009
+         Document type: List of repertoire
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+
+
+
+  TITLE: Ob avtora. U Prokof'eva
+
+         Creator: Khentova, Sof'ia
+         ID: SPA_9
+         Book title: Rostropovich
+         Pages: 53-79
+         Publication date: 1993
+         Publisher: Kul't-Inform-Press, Sankt-Peterburg
+         Language: Russian
+         Call Number: spa-tex-bsn-0010
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: Two excerpts from the book
+
+
+
+  TITLE: The Symphony
+
+         Creator: Asafiev, Boris Vladimirovich
+         Secondary creator: Angelini, Jane (trans.)
+         ID: SPA_10
+         Book title: Ocherki sovetskogo muzykal'nogo tvorchestva
+         Publication date: 1947
+         Language: English
+         Call Number: spa-tex-bsn-0011
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: This is an unpublished translation from the Russian.
+
+
+
+  TITLE: Prokof'ev
+
+         ID: SPA_11
+         Book title: Unknown
+         Pages: 194-205
+         Language: Russian
+         Call Number: spa-tex-bsn-0012
+         Document type: Reviews
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: From a compilation of concert reviews (other composers include Rakhmaninov, Reger).
+         &#xD;Extracts from Rech' and Nash Vek. &#xD;No bibliographic information indicated
+         on photocopy.

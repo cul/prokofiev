@@ -29,7 +29,7 @@
 
         <c level="file">
                 <did>
-                    <unittitle><xsl:apply-templates select="ARTICLE_TITLE"></xsl:apply-templates>
+                    <unittitle><xsl:apply-templates select="ARTICLE_TITLE|ARTICLE_TITLES/ARTICLE_TITLE"></xsl:apply-templates>
                         <xsl:apply-templates select="SECONDARY_TITLE"></xsl:apply-templates></unittitle>
                        <xsl:text>&#xa;</xsl:text>
                     <note>
@@ -72,7 +72,7 @@
         <p><xsl:text>Pages:&#x20;</xsl:text><xsl:value-of select="."/></p>
     </xsl:template>
 
-    <xsl:template match="ARTICLE_TITLE">
+    <xsl:template match="ARTICLE_TITLE|ARTICLE_TITLES/ARTICLE_TITLE">
         <xsl:value-of select="."/>
     </xsl:template>
 
