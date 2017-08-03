@@ -505,7 +505,7 @@
             <PERIODICAL_EDITOR>Mann, Noëlle</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2001-11</YEAR>
-        <ARTICLE_TITLE>'On the Dnieper': Reappraisal fo an "unfairly rejected
+        <ARTICLE_TITLE>'On the Dnieper': Reappraisal of an "unfairly rejected
             opus"</ARTICLE_TITLE>
         <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
@@ -1839,6 +1839,8 @@
         <YEAR>2005-05</YEAR>
         <ARTICLE_TITLE>The UK première of "Love for Three Oranges"</ARTICLE_TITLE>
         <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Serge Prokofiev Foundation</PUBLISHER>
         <NUMBER>9</NUMBER>
         <PAGES>31-33</PAGES>
         <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
@@ -2155,7 +2157,7 @@
         </AUTHORS>
         <YEAR>2006</YEAR>
         <ARTICLE_TITLE>The songs of Sergei Prokofiev</ARTICLE_TITLE>
-        <SUBSIDIARY_ARTICLE_TITLE> Texts and Contexts, Imitations and
+        <SUBSIDIARY_ARTICLE_TITLE>Texts and Contexts, Imitations and
             Interrogations</SUBSIDIARY_ARTICLE_TITLE>
         <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
@@ -2280,7 +2282,7 @@
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>09/06/2006 (new classification no. 07/11/2006)</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
-        <NOTES>This article was first published in Tempo, New Ser., No. 11, pp. 5-9, Spring 1949. 
+        <NOTES>This article was first published in Tempo, New Ser., No. 11, pp. 5-9, Spring 1949.
             2 copies (1 archival/red-dot).</NOTES>
         <CALL_NUMBER>spa-tex-per-ORA011</CALL_NUMBER>
     </RECORD>
@@ -3630,7 +3632,7 @@
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>28/05/2009</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
-        <NOTES>2 copies (1 archival / red-dot)</NOTES>  
+        <NOTES>2 copies (1 archival / red-dot)</NOTES>
         <CALL_NUMBER>spa-tex-per-ORA017</CALL_NUMBER>
     </RECORD>
 <RECORD>
@@ -4053,7 +4055,7 @@
             <PERIODICAL_AUTHOR>Mann, Noëlle</PERIODICAL_AUTHOR>
         </AUTHORS>
         <YEAR>2010</YEAR>
-        <ARTICLE_TITLE>New Simplicity as Humanist Revolution: the Case of The Prodigal Son, 
+        <ARTICLE_TITLE>New Simplicity as Humanist Revolution: the Case of The Prodigal Son,
             On the Dnieper, and Désir at American Ballet Theatre</ARTICLE_TITLE>
         <PERIODICAL_TITLE>Three Oranges</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
@@ -4204,7 +4206,7 @@
         <NUMBER_OF_ENTRIES>5</NUMBER_OF_ENTRIES>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>19/04/2010</CUSTOM5>
-        <NOTES>Marcel Votour is nom de plume of Serge Prokofiev Jr. 
+        <NOTES>Marcel Votour is nom de plume of Serge Prokofiev Jr.
             2 copies (1 archival / red-dot)</NOTES>
         <CALL_NUMBER>spa-tex-per-ORA019</CALL_NUMBER>
     </RECORD>
@@ -5137,7 +5139,7 @@
         <ARTICLE_REFNUM></ARTICLE_REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Prokofiev, Sergei</ARTICLE_AUTHOR>
-            <TRANSLATOR>Fay, Laurel E</TRANSLATOR>
+            <TRANSLATOR>Fay, Laurel E.</TRANSLATOR>
             <PERIODICAL_EDITOR>Morrison, Simon</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2012</YEAR>
@@ -5213,7 +5215,7 @@
         <CUSTOM5>21/12/2012</CUSTOM5>
         <NOTES>Shelved with the rest of ORA. 2 copies (1 archival / red-dot)</NOTES>
         <CALL_NUMBER>spa-tex-per-ORAHI</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <PERIODICAL_REFNUM>3607</PERIODICAL_REFNUM>
@@ -5241,7 +5243,7 @@
         <CUSTOM5>21/12/2012</CUSTOM5>
         <NOTES>Shelved with the rest of ORA. 2 copies (1 archival / red-dot)</NOTES>
         <CALL_NUMBER>spa-tex-per-ORAHI</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <PERIODICAL_REFNUM>3607</PERIODICAL_REFNUM>
@@ -5268,7 +5270,7 @@
         <CUSTOM5>21/12/2012</CUSTOM5>
         <NOTES>Shelved with the rest of ORA. 2 copies (1 archival / red-dot)</NOTES>
         <CALL_NUMBER>spa-tex-per-ORAHI</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <PERIODICAL_REFNUM>3607</PERIODICAL_REFNUM>
@@ -5295,7 +5297,7 @@
         <CUSTOM5>21/12/2012</CUSTOM5>
         <NOTES>Shelved with the rest of ORA. 2 copies (1 archival / red-dot)</NOTES>
         <CALL_NUMBER>spa-tex-per-ORAHI</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <PERIODICAL_REFNUM>3607</PERIODICAL_REFNUM>
@@ -5322,7 +5324,7 @@
         <CUSTOM5>21/12/2012</CUSTOM5>
         <NOTES>Shelved with the rest of ORA. 2 copies (1 archival / red-dot)</NOTES>
         <CALL_NUMBER>spa-tex-per-ORAHI</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <PERIODICAL_REFNUM>3607</PERIODICAL_REFNUM>
@@ -5350,7 +5352,7 @@
         <CUSTOM5>21/12/2012</CUSTOM5>
         <NOTES>Shelved with the rest of ORA. 2 copies (1 archival / red-dot)</NOTES>
         <CALL_NUMBER>spa-tex-per-ORAHI</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <PERIODICAL_REFNUM>3607</PERIODICAL_REFNUM>
@@ -5378,7 +5380,7 @@
         <CUSTOM5>21/12/2012</CUSTOM5>
         <NOTES>Shelved with the rest of ORA. 2 copies (1 archival / red-dot)</NOTES>
         <CALL_NUMBER>spa-tex-per-ORAHI</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <PERIODICAL_REFNUM>3607</PERIODICAL_REFNUM>
@@ -5406,7 +5408,7 @@
         <CUSTOM5>21/12/2012</CUSTOM5>
         <NOTES>Shelved with the rest of ORA. 2 copies (1 archival / red-dot)</NOTES>
         <CALL_NUMBER>spa-tex-per-ORAHI</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <PERIODICAL_REFNUM>3607</PERIODICAL_REFNUM>
@@ -5433,7 +5435,7 @@
         <CUSTOM5>21/12/2012</CUSTOM5>
         <NOTES>Shelved with the rest of ORA. 2 copies (1 archival / red-dot)</NOTES>
         <CALL_NUMBER>spa-tex-per-ORAHI</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <PERIODICAL_REFNUM>3607</PERIODICAL_REFNUM>
@@ -5460,7 +5462,7 @@
         <CUSTOM5>21/12/2012</CUSTOM5>
         <NOTES>Shelved with the rest of ORA. 2 copies (1 archival / red-dot)</NOTES>
         <CALL_NUMBER>spa-tex-per-ORAHI</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <PERIODICAL_REFNUM>3607</PERIODICAL_REFNUM>
@@ -5488,7 +5490,7 @@
         <CUSTOM5>21/12/2012</CUSTOM5>
         <NOTES>Shelved with the rest of ORA. 2 copies (1 archival / red-dot)</NOTES>
         <CALL_NUMBER>spa-tex-per-ORAHI</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <PERIODICAL_REFNUM>3607</PERIODICAL_REFNUM>
@@ -5515,7 +5517,7 @@
         <CUSTOM5>21/12/2012</CUSTOM5>
         <NOTES>Shelved with the rest of ORA. 2 copies (1 archival / red-dot)</NOTES>
         <CALL_NUMBER>spa-tex-per-ORAHI</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <PERIODICAL_REFNUM>3607</PERIODICAL_REFNUM>
@@ -5544,7 +5546,7 @@
         <CUSTOM5>21/12/2012</CUSTOM5>
         <NOTES>Formally titled "1938 Brno Scenario." Shelved with the rest of ORA. 2 copies (1 archival / red-dot)</NOTES>
         <CALL_NUMBER>spa-tex-per-ORAHI</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <PERIODICAL_REFNUM>3607</PERIODICAL_REFNUM>
@@ -5571,7 +5573,7 @@
         <CUSTOM5>21/12/2012</CUSTOM5>
         <NOTES>Formally titled "1938 Brno Scenario." Shelved with the rest of ORA. 2 copies (1 archival / red-dot)</NOTES>
         <CALL_NUMBER>spa-tex-per-ORAHI</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <PERIODICAL_REFNUM>3607</PERIODICAL_REFNUM>
@@ -5598,7 +5600,7 @@
         <CUSTOM5>21/12/2012</CUSTOM5>
         <NOTES>Shelved with the rest of ORA. 2 copies (1 archival / red-dot)</NOTES>
         <CALL_NUMBER>spa-tex-per-ORAHI</CALL_NUMBER>
-      </RECORD> 
+      </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <PERIODICAL_REFNUM>3607</PERIODICAL_REFNUM>
@@ -5625,7 +5627,7 @@
         <CUSTOM5>21/12/2012</CUSTOM5>
         <NOTES>Shelved with the rest of ORA. 2 copies (1 archival / red-dot)</NOTES>
         <CALL_NUMBER>spa-tex-per-ORAHI</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <PERIODICAL_REFNUM>3607</PERIODICAL_REFNUM>
@@ -5652,7 +5654,7 @@
         <CUSTOM5>21/12/2012</CUSTOM5>
         <NOTES>Shelved with the rest of ORA. 2 copies (1 archival / red-dot)</NOTES>
         <CALL_NUMBER>spa-tex-per-ORAHI</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <PERIODICAL_REFNUM>3607</PERIODICAL_REFNUM>
@@ -5679,7 +5681,7 @@
         <CUSTOM5>21/12/2012</CUSTOM5>
         <NOTES>Shelved with the rest of ORA. 2 copies (1 archival / red-dot)</NOTES>
         <CALL_NUMBER>spa-tex-per-ORAHI</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <PERIODICAL_REFNUM>3607</PERIODICAL_REFNUM>
@@ -5707,7 +5709,7 @@
         <CUSTOM5>21/12/2012</CUSTOM5>
         <NOTES>Shelved with the rest of ORA. 2 copies (1 archival / red-dot)</NOTES>
         <CALL_NUMBER>spa-tex-per-ORAHI</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <PERIODICAL_REFNUM>3607</PERIODICAL_REFNUM>
@@ -5734,7 +5736,7 @@
         <CUSTOM5>21/12/2012</CUSTOM5>
         <NOTES>Shelved with the rest of ORA. 2 copies (1 archival / red-dot)</NOTES>
         <CALL_NUMBER>spa-tex-per-ORAHI</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 <RECORD>
         <REFERENCE_TYPE>4</REFERENCE_TYPE>
         <PERIODICAL_REFNUM>3607</PERIODICAL_REFNUM>
@@ -5762,5 +5764,5 @@
         <CUSTOM5>21/12/2012</CUSTOM5>
         <NOTES>Shelved with the rest of ORA. 2 copies (1 archival / red-dot)</NOTES>
         <CALL_NUMBER>spa-tex-per-ORAHI</CALL_NUMBER>
-    </RECORD> 
+    </RECORD>
 </outputxml>

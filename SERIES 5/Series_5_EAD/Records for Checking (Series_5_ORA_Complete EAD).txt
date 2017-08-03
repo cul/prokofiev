@@ -1,0 +1,3437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+  TITLE: Prokofiev in St. Petersburg
+
+         Creator: Danko, Larissa
+         ID: SPA_1
+         Periodical: Three Oranges, Number 1, Page(s) 6-7
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA001
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Lina Prokofiev
+
+         Creator: Downes, Lady Joan
+         ID: SPA_2
+         Periodical: Three Oranges, Number 1, Page(s) 14-15
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA001
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Listening to Prokofiev: Memories from a Soviet Classroom
+
+         Creator: Frolova-Walker, Marina
+         ID: SPA_3
+         Periodical: Three Oranges, Number 1, Page(s) 11
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA001
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: About the Prokofiev Family
+
+         Creator: Mann, Noëlle
+         ID: SPA_4
+         Periodical: Three Oranges, Number 2, Page(s) 19
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA001
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: The Inexorable Journey Towards France
+
+         Creator: Mann, Noëlle
+         ID: SPA_5
+         Periodical: Three Oranges, Number 1, Page(s) 8-10
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA001
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Is it "Prokofiev", "Prokofieff" or "PRKF"?
+
+         Creator: Mann, Noëlle
+         ID: SPA_6
+         Periodical: Three Oranges, Number 1, Page(s) 3
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA001
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Sir Edward Downes: A Life in Music
+
+         Creator: Mann, Noëlle
+         ID: SPA_7
+         Periodical: Three Oranges, Number 1, Page(s) 28-30
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA001
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Oleg Prokofiev: traces left behind
+
+         Creator: Prokofiev, Frances
+         ID: SPA_8
+         Periodical: Three Oranges, Number 1, Page(s) 16-18
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA001
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Little-known Facts About People Close to Prokofiev
+
+         Creator: Prokofiev, Sviatoslav
+         ID: SPA_9
+         Periodical: Three Oranges, Number 1, Page(s) 20-21
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA001
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: A Friendship in Terioki
+
+         Creator: Prokofiev Jr., Serge
+         ID: SPA_10
+         Periodical: Three Oranges, Number 1, Page(s) 22-23
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA001
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: "An incredible country:" Prokofiev and America
+
+         Creator: Robinson, Harlow
+         ID: SPA_11
+         Periodical: Three Oranges, Number 1, Page(s) 4-5
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA001
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Back in the USSR
+
+         Creator: Savkina, Natalia
+         ID: SPA_12
+         Periodical: Three Oranges, Number 1, Page(s) 12-13
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA001
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+
+  TITLE: A Photo - A Story
+
+         Creator: Anon.
+         ID: SPA_13
+         Periodical: Three Oranges, Number 2, Page(s) 6-7
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA002
+         Document type: Transcript
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Magic, Music and Poetry: Prokofiev's Creative Relationship with Balmont and the
+            Genesis of 'Seven, They Are Seven'
+
+         Creator: Davidson, Pamela
+         ID: SPA_14
+         Periodical: Three Oranges, Number 2, Page(s) 14-19
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA002
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Prokofiev in Public and Private
+
+         Creator: Frolova-Walker, Marina
+         ID: SPA_15
+         Periodical: Three Oranges, Number 2, Page(s) 30-33
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA002
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: An Unlikely Alliance: Prokofiev and London
+
+         Creator: Mann, Noëlle
+         ID: SPA_16
+         Periodical: Three Oranges, Number 2, Page(s) 34-37
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA002
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Breathless with Excitement: Prokofiev's Incantation
+
+         Creator: Mann, Noëlle
+         ID: SPA_17
+         Periodical: Three Oranges, Number 2, Page(s) 20-23
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA002
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: The Tribulations of a Curator
+
+         Creator: Mann, Noëlle
+         ID: SPA_18
+         Periodical: Three Oranges, Number 2, Page(s) 38-39
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA002
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Live and on disc: the last decade of Prokofiev performances
+
+         Creator: Nice, David
+         ID: SPA_19
+         Periodical: Three Oranges, Number 2, Page(s) 24
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA002
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: 'On the Dnieper': Reappraisal of an "unfairly rejected
+            opus"
+
+         Creator: Press, Stephen
+         ID: SPA_20
+         Periodical: Three Oranges, Number 2, Page(s) 24-29
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA002
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: 1920
+
+         Creator: Prokofiev, Sviatoslav
+         ID: SPA_21
+         Periodical: Three Oranges, Number 2, Page(s) 2-5
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA002
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: The Game
+
+         Creator: Prokofiev Jr., Serge
+         ID: SPA_22
+         Periodical: Three Oranges, Number 2, Page(s) 8-10
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA002
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Serge Prokofiev: The Composer as Interpreter
+
+         Creator: Arnest, Mark
+         ID: SPA_23
+         Periodical: Three Oranges, Number 3, Page(s) 22-25
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA003
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Prokofiev's Unfinished Concertino: A Twisted Tale
+
+         Creator: Isserlis, Steven
+         ID: SPA_24
+         Periodical: Three Oranges, Number 3, Page(s) 32-33
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA003
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Prokofiev and Briusov
+
+         Creator: Morrison, Simon
+         ID: SPA_25
+         Periodical: Three Oranges, Number 3, Page(s) 13-15
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA003
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Anglo-American Attitudes: Prokofiev's First Critics in London and New York,
+            1916-1922
+
+         Creator: Nice, David
+         ID: SPA_26
+         Periodical: Three Oranges, Number 3, Page(s) 19-21
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA003
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Story of a Disagreement between Prokofiev and Souvchinsky
+
+         Creator: Poldiaeva, Elena
+         ID: SPA_27
+         Periodical: Three Oranges, Number 3, Page(s) 26-29
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA003
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Ettal 1922-23
+
+         Creator: Prokofiev, Sviatoslav
+         ID: SPA_28
+         Periodical: Three Oranges, Number 3, Page(s) 2-5
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA003
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: A Bad Dog
+
+         Creator: Prokofiev, Serge
+         Secondary creator: McDuff, David (trans.)
+         ID: SPA_29
+         Periodical: Three Oranges, Number 3, Page(s) 6-9
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA003
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: A Photo – A Story
+
+         Creator: Anon.
+         ID: SPA_30
+         Periodical: Three Oranges, Number 4, Page(s) 22-23
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA004
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Sergei Prokofiev - "Soviet" Composer
+
+         Creator: Chernysheva, Ekaterina
+         ID: SPA_31
+         Periodical: Three Oranges, Number 4, Page(s) 10-15
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA004
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Trapeze: a Forgotten Ballet by Serge Prokofiev and Boris Romanov
+
+         Creator: Mann, Noëlle
+         ID: SPA_32
+         Periodical: Three Oranges, Number 4, Page(s) 4-9
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA004
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: The Many Faces of Prokofiev
+
+         Creator: Nissman, Barbara
+         ID: SPA_33
+         Periodical: Three Oranges, Number 4, Page(s) 24-29
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA004
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Individual Tournament
+
+         Creator: Prokofiev, Serge
+         ID: SPA_34
+         Periodical: Three Oranges, Number 4, Page(s) 2-3
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA004
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Eisenstein: the Sound Years
+
+         Creator: Riley, John
+         ID: SPA_35
+         Periodical: Three Oranges, Number 4, Page(s) 30-31
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA004
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: The Magnificent George
+
+         Creator: Sayers, Lesley-Anne
+         ID: SPA_36
+         Periodical: Three Oranges, Number 4, Page(s) 16-21
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA004
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Remembering Yuri Nikolaevich Kholopov
+
+         Creator: Anon.
+         ID: SPA_37
+         Periodical: Three Oranges, Number 5, Page(s) 13
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA005
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 3 copies (2 archival/red-dot). Anniversary Issue
+
+
+
+  TITLE: Anniversary Gala Concert, 5 March 2003
+
+         Creator: Jaffé, Daniel
+         ID: SPA_38
+         Periodical: Three Oranges, Number 5, Page(s) 30-31
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA005
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 3 copies (2 archival/red-dot). Anniversary Issue
+
+
+
+  TITLE: "Prokofiev and 20th-Century Culture": a report
+
+         Creator: Hibberd, Kristian
+         ID: SPA_39
+         Periodical: Three Oranges, Number 5, Page(s) 14-19
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA005
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 3 copies (2 archival/red-dot). Anniversary Issue
+
+
+
+  TITLE: Lina Prokofiev in Conversation
+
+         Creator: Mann, Noëlle
+         ID: SPA_40
+         Periodical: Three Oranges, Number 5, Page(s) 2-5
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA005
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 3 copies (2 archival/red-dot). Anniversary Issue
+
+
+
+  TITLE: Prokofiev and the press: a commentary
+
+         Creator: Mann, Noëlle
+         ID: SPA_41
+         Periodical: Three Oranges, Number 5, Page(s) 10-12
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA005
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 3 copies (2 archival/red-dot). Anniversary Issue
+
+
+
+  TITLE: Public events report
+
+         Creator: Nice, David
+         ID: SPA_42
+         Periodical: Three Oranges, Number 5, Page(s) 20-23
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA005
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 3 copies (2 archival/red-dot). Anniversary Issue
+
+
+
+  TITLE: UK concerts round-up
+
+         Creator: Nice, David
+         ID: SPA_43
+         Periodical: Three Oranges, Number 5, Page(s) 28-29
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA005
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 3 copies (2 archival/red-dot). Anniversary Issue
+
+
+
+  TITLE: Trapeze re-interpreted
+
+         Creator: Press, Stephen
+         ID: SPA_44
+         Periodical: Three Oranges, Number 5, Page(s) 24-27
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA005
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 3 copies (2 archival/red-dot). Anniversary Issue
+
+
+
+  TITLE: Moments of my life
+
+         Creator: Prokofiev, Serge
+         ID: SPA_45
+         Periodical: Three Oranges, Number 5, Page(s) 6-9
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Language: English
+         Call Number: spa-tex-per-ORA005
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 3 copies (2 archival/red-dot). Anniversary Issue
+
+
+
+  TITLE: Desert Island Disc
+
+         Creator: Anon.
+         ID: SPA_46
+         Periodical: Three Oranges, Number 6, Page(s) 28-31
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Publication date: November 2003
+         Language: English
+         Call Number: spa-tex-per-ORA006
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Semyon Kotko on the air
+
+         Creator: Anon.
+         ID: SPA_47
+         Periodical: Three Oranges, Number 6, Page(s) 6
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Publication date: November 2003
+         Language: English
+         Call Number: spa-tex-per-ORA006
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Prokofiev's 1935 recordings
+
+         Creator: Mann, Noëlle
+         ID: SPA_48
+         Periodical: Three Oranges, Number 6, Page(s) 2-3
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Publication date: November 2003
+         Language: English
+         Call Number: spa-tex-per-ORA006
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Semyon Kotko: a dossier
+
+         Creator: Mann, Noëlle
+         ID: SPA_49
+         Periodical: Three Oranges, Number 6, Page(s) 4-5
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Publication date: November 2003
+         Language: English
+         Call Number: spa-tex-per-ORA006
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: The Prokofievs: Three Generations
+
+         Creator: Mann, Noëlle
+         ID: SPA_50
+         Periodical: Three Oranges, Number 6, Page(s) 33
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Publication date: November 2003
+         Language: English
+         Call Number: spa-tex-per-ORA006
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: A soldier came from the front
+
+         Creator: Morgan, Edward
+         ID: SPA_51
+         Periodical: Three Oranges, Number 6, Page(s) 7-13
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Publication date: November 2003
+         Language: English
+         Call Number: spa-tex-per-ORA006
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Semyon Kotko: three works
+
+         Creator: Morgan, Edward
+         ID: SPA_52
+         Periodical: Three Oranges, Number 6, Page(s) 14-21
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Publication date: November 2003
+         Language: English
+         Call Number: spa-tex-per-ORA006
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: David Nice, "Prokofiev: From Russia to the West 1891 - 1935"
+
+         Creator: Morrison, Simon
+         ID: SPA_53
+         Periodical: Three Oranges, Number 6, Page(s) 27
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Publication date: November 2003
+         Language: English
+         Call Number: spa-tex-per-ORA006
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: London Prokofiev celebrations
+
+         Creator: Nice, David
+         ID: SPA_54
+         Periodical: Three Oranges, Number 6, Page(s) 32
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Publication date: November 2003
+         Language: English
+         Call Number: spa-tex-per-ORA006
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Prokofiev's vexing entry into the USA
+
+         Creator: Press, Stephen
+         ID: SPA_55
+         Periodical: Three Oranges, Number 6, Page(s) 22-26
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Association, London
+         Publication date: November 2003
+         Language: English
+         Call Number: spa-tex-per-ORA006
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Egyptian Nights: in search of the "new simplicity"
+
+         Creator: Abensour, Gérard
+         Creator: Petchenina, Ludmilla
+         ID: SPA_56
+         Periodical: Three Oranges, Number 7, Page(s) 11-15
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Language: English
+         Call Number: spa-tex-per-ORA007
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Graphalogical report, 1931
+
+         Creator: Anon.
+         ID: SPA_57
+         Periodical: Three Oranges, Number 7, Page(s) 3
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Language: English
+         Call Number: spa-tex-per-ORA007
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Prokofiev and Tairov on Egyptian Nights
+
+         Creator: Anon.
+         ID: SPA_58
+         Periodical: Three Oranges, Number 7, Page(s) 16-19
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Language: English
+         Call Number: spa-tex-per-ORA007
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Prokofiev and the Princess de Polignac
+
+         Creator: Kahn, Sylvia
+         ID: SPA_59
+         Periodical: Three Oranges, Number 7, Page(s) 5-9
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Language: English
+         Call Number: spa-tex-per-ORA007
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Meeting Tairov
+
+         Creator: Mann, Noëlle
+         ID: SPA_60
+         Periodical: Three Oranges, Number 7, Page(s) 20
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Language: English
+         Call Number: spa-tex-per-ORA007
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Remembering Sir Peter Ustinov
+
+         Creator: Mann, Noëlle
+         ID: SPA_61
+         Periodical: Three Oranges, Number 7, Page(s) 21
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Language: English
+         Call Number: spa-tex-per-ORA007
+         Document type: Obituary
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: "I don't believe in the Church"
+
+         Creator: Prokofiev, Serge
+         ID: SPA_62
+         Periodical: Three Oranges, Number 7, Page(s) 4
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Language: English
+         Call Number: spa-tex-per-ORA007
+         Document type: Transcript
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Rotterdam Prokofiev Festival
+
+         Creator: Robinson, Harlow
+         ID: SPA_63
+         Periodical: Three Oranges, Number 7, Page(s) 25-29
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Language: English
+         Call Number: spa-tex-per-ORA007
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Prokofiev and Sherman: the first Soviet production of Romeo and Juliet
+
+         Creator: Kravetz, Nelly
+         ID: SPA_64
+         Periodical: Three Oranges, Number 8, Page(s) 16-21
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Language: English
+         Call Number: spa-tex-per-ORA008
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Background to Romeo and Juliet
+
+         Creator: Mann, Noëlle
+         ID: SPA_65
+         Periodical: Three Oranges, Number 8, Page(s) 22-26
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Language: English
+         Call Number: spa-tex-per-ORA008
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Louis MacNeice's adaptation of Eisenstein's Alexander Nevsky
+
+         Creator: Mann, Noëlle
+         Creator: Morgan, Edward
+         ID: SPA_66
+         Periodical: Three Oranges, Number 8, Page(s) 7-10
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Language: English
+         Call Number: spa-tex-per-ORA008
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Prokofiev and America
+
+         Creator: Mann, Noëlle
+         Creator: Sutcliffe, Tom
+         ID: SPA_67
+         Periodical: Three Oranges, Number 8, Page(s) 32-34
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Language: English
+         Call Number: spa-tex-per-ORA008
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Alexander Nevsky: a play for radio and a Prokofiev UK première
+
+         Creator: Morgan, Edward
+         ID: SPA_68
+         Periodical: Three Oranges, Number 8, Page(s) 2-6
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Language: English
+         Call Number: spa-tex-per-ORA008
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Gergiev's post-anniversary cycle of Prokofiev symphonies
+
+         Creator: Nice, David
+         ID: SPA_69
+         Periodical: Three Oranges, Number 8, Page(s) 27
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Language: English
+         Call Number: spa-tex-per-ORA008
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Prokofiev and St. Petersburg
+
+         Creator: Robinson, Harlow
+         ID: SPA_70
+         Periodical: Three Oranges, Number 8, Page(s) 11-15
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Language: English
+         Call Number: spa-tex-per-ORA008
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: The UK première of "Love for Three Oranges"
+
+         Creator: Mann, Noëlle
+         ID: SPA_71
+         Periodical: Three Oranges, Number 9, Page(s) 31-33
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Language: English
+         Call Number: spa-tex-per-ORA009
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: The Black Summer of 1939
+
+         Creator: Medvedeva, Irina
+         ID: SPA_72
+         Periodical: Three Oranges, Number 9, Page(s) 2-11
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Language: English
+         Call Number: spa-tex-per-ORA009
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Tonya (1942). Reflections on an unreleased film and an unpublished score
+
+         Creator: Morrison, Simon
+         ID: SPA_73
+         Periodical: Three Oranges, Number 9, Page(s) 12-17
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Language: English
+         Call Number: spa-tex-per-ORA009
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Papers from the Attic
+
+         Creator: Prokofiev, Oleg
+         Secondary creator: Navrozov, Andrei (trans.)
+         ID: SPA_74
+         Periodical: Three Oranges, Number 9, Page(s) 26-30
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Language: English
+         Call Number: spa-tex-per-ORA009
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: This article was first published in English in the Yale Literary Magazine, Vol. 148,
+            No. 2, pp. 17-26 (September 1979). 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Soviet Wartime Films
+
+         Creator: Riley, John
+         ID: SPA_75
+         Periodical: Three Oranges, Number 9, Page(s) 18-23
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Language: English
+         Call Number: spa-tex-per-ORA009
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Never Stop Fighting. Or why Lina Prokofiev never wrote her memoirs
+
+         Creator: Sachs, Harvey
+         ID: SPA_76
+         Periodical: Three Oranges, Number 9, Page(s) 24-25
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Language: English
+         Call Number: spa-tex-per-ORA009
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: And more on Prokofiev's Three Oranges
+
+         Creator: Mann, Noëlle
+         ID: SPA_77
+         Periodical: Three Oranges, Number 10, Page(s) 25-29
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Language: English
+         Call Number: spa-tex-per-ORA010
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Recycling or new work: Romeo and Juliet Suite No. 2
+
+         Creator: Mann, Noëlle
+         ID: SPA_78
+         Periodical: Three Oranges, Number 10, Page(s) 11-17
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Language: English
+         Call Number: spa-tex-per-ORA010
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Prokofiev's Shakespearian period
+
+         Creator: Morgan, Edward
+         ID: SPA_79
+         Periodical: Three Oranges, Number 10, Page(s) 2-10
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Language: English
+         Call Number: spa-tex-per-ORA010
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: By way of Le Pas d'acier Prokofiev and Iakulov's Ursiniol comes to the
+            stage
+
+         Creator: Press, Stephen
+         ID: SPA_80
+         Periodical: Three Oranges, Number 10, Page(s) 36-39
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Language: English
+         Call Number: spa-tex-per-ORA010
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: The significance of Christian Science in Prokofiev's life and work
+
+         Creator: Savkina, Natalia
+         Secondary creator: Morgan, Edward (trans.)
+         ID: SPA_81
+         Periodical: Three Oranges, Number 10, Page(s) 18-24
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Language: English
+         Call Number: spa-tex-per-ORA010
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Milkin's portrait of Prokofiev
+
+         Creator: Anon.
+         ID: SPA_82
+         Periodical: Three Oranges, Number 11, Page(s) 28-29
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2006-05
+         Language: English
+         Call Number: spa-tex-per-ORA011
+         Document type: Photographs, letters and commentary
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: The songs of Sergei Prokofiev. Texts and Contexts, Imitations and
+            Interrogations
+
+         Creator: Bullock, Philip Ross
+         ID: SPA_83
+         Periodical: Three Oranges, Number 11, Page(s) 17-22
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2006-05
+         Language: English
+         Call Number: spa-tex-per-ORA011
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Letter to the Editor: on Christian Science
+
+         Creator: Hodgson, Peter J
+         ID: SPA_84
+         Periodical: Three Oranges, Number 11, Page(s) 32
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2006-05
+         Language: English
+         Call Number: spa-tex-per-ORA011
+         Document type: Letter
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Georgii Gorchakov and the story of an unknown Prokofiev biography
+
+         Creator: Mann, Noëlle
+         ID: SPA_85
+         Periodical: Three Oranges, Number 11, Page(s) 9-13
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2006-05
+         Language: English
+         Call Number: spa-tex-per-ORA011
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Two friends of Prokofiev: Serge Moreux and Georgii Gorchakov
+
+         Creator: Moreux, Bernard
+         Creator: Bellocq, Ivan
+         ID: SPA_86
+         Periodical: Three Oranges, Number 11, Page(s) 2-8
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2006-05
+         Language: English
+         Call Number: spa-tex-per-ORA011
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Prokofiev: An intimate portrait
+
+         Creator: Moreux, Serge
+         ID: SPA_87
+         Periodical: Three Oranges, Number 11, Page(s) 14-16
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2006-05
+         Language: English
+         Call Number: spa-tex-per-ORA011
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: This article was first published in Tempo, New Ser., No. 11, pp. 5-9, Spring 1949.
+            2 copies (1 archival/red-dot).
+
+
+
+  TITLE: L'Amour de trois oranges et la Opera National de Paris (Bastille), Decembre 2005
+
+         Creator: Morgan, Edward
+         ID: SPA_88
+         Periodical: Three Oranges, Number 11, Page(s) 33
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2006-05
+         Language: English
+         Call Number: spa-tex-per-ORA011
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Prokofiev's recording of his Third Piano Concerto: London, June 1932
+
+         Creator: Morgan, Edward
+         ID: SPA_89
+         Periodical: Three Oranges, Number 11, Page(s) 30-31
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2006-05
+         Language: English
+         Call Number: spa-tex-per-ORA011
+         Document type: Commentary
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: The house in which Romeo and Juliet was born
+
+         Creator: Prokofiev, Sviatoslav
+         ID: SPA_90
+         Periodical: Three Oranges, Number 11, Page(s) 24-27
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2006-05
+         Language: English
+         Call Number: spa-tex-per-ORA011
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: The ballet Peter and the Wolf at the Hackney Empire, London
+
+         Creator: Anon.
+         ID: SPA_91
+         Periodical: Three Oranges, Number 12, Page(s) 34
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2006-11
+         Language: English
+         Call Number: spa-tex-per-ORA012
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Premiere of Peter and the Wolf animated film, London
+
+         Creator: Anon.
+         ID: SPA_92
+         Periodical: Three Oranges, Number 12, Page(s) 34
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2006-11
+         Language: English
+         Call Number: spa-tex-per-ORA012
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: The Recordings of Peter and the Wolf
+
+         Creator: Biel, Michael
+         ID: SPA_93
+         Periodical: Three Oranges, Number 12, Page(s) 23-28
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2006-11
+         Language: English
+         Call Number: spa-tex-per-ORA012
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: First review of "Peter and the Wolf"
+
+         Creator: Goldenweiser, Alexander
+         Secondary creator: Morgan, Edward (trans.)
+         ID: SPA_94
+         Periodical: Three Oranges, Number 12, Page(s) 31
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2006-11
+         Language: English
+         Call Number: spa-tex-per-ORA012
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Suggestion Diabolique
+
+         Creator: Harrison, Martin
+         ID: SPA_95
+         Periodical: Three Oranges, Number 12, Page(s) 33
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2006-11
+         Language: English
+         Call Number: spa-tex-per-ORA012
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: At Peace with the Wolf? Prokofiev's "Official" Soviet Works for
+            Children
+
+         Creator: Kelly, Catriona
+         ID: SPA_96
+         Periodical: Three Oranges, Number 12, Page(s) 2-9
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2006-11
+         Language: English
+         Call Number: spa-tex-per-ORA012
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Peter and the Wolf - Children's tale of symphonic work?
+
+         Creator: Mann, Noëlle
+         ID: SPA_97
+         Periodical: Three Oranges, Number 12, Page(s) 17-22
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2006-11
+         Language: English
+         Call Number: spa-tex-per-ORA012
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Recollections of a collaboration: Natalia Sats and Sergei Prokofiev
+
+         Creator: Morgan, Edward
+         ID: SPA_98
+         Periodical: Three Oranges, Number 12, Page(s) 10-16
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2006-11
+         Language: English
+         Call Number: spa-tex-per-ORA012
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Prokofiev's Ballets for Diaghilev
+
+         Creator: Press, Stephen D
+         ID: SPA_99
+         Periodical: Three Oranges, Number 12, Page(s) 32
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2006-11
+         Language: English
+         Call Number: spa-tex-per-ORA012
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: The draft of Prokofiev's story "Peter and the Wolf"
+
+         Creator: Prokofiev, Serge
+         ID: SPA_100
+         Periodical: Three Oranges, Number 12, Page(s) 29-30
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2006-11
+         Language: English
+         Call Number: spa-tex-per-ORA012
+         Document type: Transcript
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival/red-dot)
+
+
+
+  TITLE: Creating the Lieutenant Kizhe Suite
+
+         Creator: Bartig, Kevin
+         ID: SPA_101
+         Periodical: Three Oranges, Number 13, Page(s) 22-26
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2007-05
+         Language: English
+         Call Number: spa-tex-per-ORA013
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Prokofiev's Classical Symphony and the question of sincerity in music
+
+         Creator: Green, Edward
+         ID: SPA_102
+         Periodical: Three Oranges, Number 13, Page(s) 2-9
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2007-05
+         Language: English
+         Call Number: spa-tex-per-ORA013
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: The Prodigal Son, The Life and Work of Sergei Prokofiev
+
+         Creator: Grossman, Andrew
+         ID: SPA_103
+         Periodical: Three Oranges, Number 13, Page(s) 30-33
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2007-05
+         Language: English
+         Call Number: spa-tex-per-ORA013
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Why did Prokofiev write the 'Classical Symphony'?
+
+         Creator: Kholopov, Iurii Nikolaevich
+         ID: SPA_104
+         Periodical: Three Oranges, Number 13, Page(s) 10-13
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2007-05
+         Language: English
+         Call Number: spa-tex-per-ORA013
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Prokofiev's autobiographical writings
+
+         Creator: Mann, Noëlle
+         ID: SPA_105
+         Periodical: Three Oranges, Number 13, Page(s) 27-29
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2007-05
+         Language: English
+         Call Number: spa-tex-per-ORA013
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Prokofiev and the Myth of Revolution: The Cantata for the Twentieth Anniversary of
+            the October Revolution
+
+         Creator: Orlov, Vladimir
+         ID: SPA_106
+         Periodical: Three Oranges, Number 13, Page(s) 14-21
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2007-05
+         Language: English
+         Call Number: spa-tex-per-ORA013
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Princeton's Boris Godunov, 1936/2007: after seventy years, Prokofiev's music is attached to
+            Meyerhold's vision of Pushkin's play
+
+         Creator: Emerson, Caryl
+         Creator: Morrison, Simon
+         ID: SPA_107
+         Periodical: Three Oranges, Number 14, Page(s) 3-10
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2007-11
+         Language: English
+         Call Number: spa-tex-per-ORA014
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Devin Fore and Boris Wolfson on Meyerhold, Prokofiev, and the debacles of
+            1936
+
+         Creator: Fore, Devin
+         Creator: Wolfson, Boris
+         ID: SPA_108
+         Periodical: Three Oranges, Number 14, Page(s) 16-21
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2007-11
+         Language: English
+         Call Number: spa-tex-per-ORA014
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Boris Godunov in America: notes on a Meyerhold production resurrected
+
+         Creator: Grossman,Andrew
+         ID: SPA_109
+         Periodical: Three Oranges, Number 14, Page(s) 29-33
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2007-11
+         Language: English
+         Call Number: spa-tex-per-ORA014
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Boris Godunov in Audio-Visual Syncopation: Testimonials
+
+         Creator: Various
+         ID: SPA_110
+         Periodical: Three Oranges, Number 14, Page(s) 11-15
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2007-11
+         Language: English
+         Call Number: spa-tex-per-ORA014
+         Document type: Testimonials
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Cellists pay tribute to Mstislav Rostropovich. Karine Georgian, Steven Isserlis, Alexander Ivashkin, Raphael Wallfisch, Jamie Walton
+
+         Creator: Various
+         ID: SPA_111
+         Periodical: Three Oranges, Number 14, Page(s) 22-28
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2007-11
+         Language: English
+         Call Number: spa-tex-per-ORA014
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Prokofiev's Last American Tour
+
+         Creator: Bergman, Elizabeth
+         ID: SPA_112
+         Periodical: Three Oranges, Number 15, Page(s) 25-28
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2008-05
+         Language: English
+         Call Number: spa-tex-per-ORA015
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archive / red-dot)
+
+
+
+  TITLE: Vladimir Jurowski Conducts Prokofiev's Fifth Symphony and Ode to the End of the War
+
+         Creator: Grossman, Andrew
+         ID: SPA_113
+         Periodical: Three Oranges, Number 15, Page(s) 40-41
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2008-05
+         Language: English
+         Call Number: spa-tex-per-ORA015
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archive / red-dot)
+
+
+
+  TITLE: Elizaveta Dattel in Memoriam
+
+         Creator: Medvedeva, Irina
+         Secondary creator: Emerson, Caryl (trans.)
+         ID: SPA_114
+         Periodical: Three Oranges, Number 15, Page(s) 29-35
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2008-05
+         Language: English
+         Call Number: spa-tex-per-ORA015
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archive / red-dot)
+
+
+
+  TITLE: Yorisada Tokugawa and the story of an unrealised commission
+
+         Creator: Numabe, Shin-ichi
+         ID: SPA_115
+         Periodical: Three Oranges, Number 15, Page(s) 14-17
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2008-05
+         Language: English
+         Call Number: spa-tex-per-ORA015
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archive / red-dot)
+
+
+
+  TITLE: Motoo Ohtaguro and Serge Prokofiev: an unexpected friendship
+
+         Creator: Numabe, Shin-ichi
+         Creator: Nunokawa, Yumiko
+         ID: SPA_116
+         Periodical: Three Oranges, Number 15, Page(s) 3-8
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2008-05
+         Language: English
+         Call Number: spa-tex-per-ORA015
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archive / red-dot)
+
+
+
+  TITLE: Motoo Ohtaguro interviews Prokofiev
+
+         Creator: Ohtaguro, Motoo
+         Creator: Prokofiev, Serge
+         Secondary creator: Matsumoto, Naomi
+         ID: SPA_117
+         Periodical: Three Oranges, Number 15, Page(s) 9-13
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2008-05
+         Language: English
+         Call Number: spa-tex-per-ORA015
+         Document type: Interview
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archive / red-dot)
+
+
+
+  TITLE: Prokofiev in Japan: a view from the interior
+
+         Creator: Phillips, Anthony
+         ID: SPA_118
+         Periodical: Three Oranges, Number 15, Page(s) 18-24
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2008-05
+         Language: English
+         Call Number: spa-tex-per-ORA015
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archive / red-dot)
+
+
+
+  TITLE: Juan Codina - a Singer
+
+         Creator: Prokofiev Jr., Serge
+         Secondary creator: Morgan, Edward (trans.)
+         ID: SPA_119
+         Periodical: Three Oranges, Number 15, Page(s) 36-37
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2008-05
+         Language: English
+         Call Number: spa-tex-per-ORA015
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archive / red-dot)
+
+
+
+  TITLE: Partisans in the Ukrainian Steppes
+
+         Creator: Riley, John
+         ID: SPA_120
+         Periodical: Three Oranges, Number 15, Page(s) 38-39
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2008-05
+         Language: English
+         Call Number: spa-tex-per-ORA015
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archive / red-dot)
+
+
+
+  TITLE: Resolution of the Central Committee of the All-Union Communist Party (Bolsheviks) of 10 February 1948 On V. Muradeli's
+            Opera, The Great Friendship
+
+         Creator: Anon.
+         Secondary creator: Frolova-Walker, Marina (trans.)
+         Secondary creator: Walker, Jonathan (trans.)
+         ID: SPA_121
+         Periodical: Three Oranges, Number 16, Page(s) 10-11
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2008-11
+         Language: English
+         Call Number: spa-tex-per-ORA016
+         Document type: Transcript
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Excerpts from The Musical Times, 1948
+
+         Creator: Anon.
+         ID: SPA_122
+         Periodical: Three Oranges, Number 16, Page(s) 21-22
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2008-11
+         Language: English
+         Call Number: spa-tex-per-ORA016
+         Document type: Transcript
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Bard Music Festival 2008: Prokofiev and His World
+
+         Creator: Amico, Ross
+         ID: SPA_123
+         Periodical: Three Oranges, Number 16, Page(s) 29-30
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2008-11
+         Language: English
+         Call Number: spa-tex-per-ORA016
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: A new edition of the "long" autobiography
+
+         Creator: Bartig, Kevin
+         ID: SPA_124
+         Periodical: Three Oranges, Number 16, Page(s) 23-25
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2008-11
+         Language: English
+         Call Number: spa-tex-per-ORA016
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Betrothal in a Monastery
+
+         Creator: Jaffé, Daniel
+         Secondary creator: Prokofiev, Sergei
+         ID: SPA_125
+         Periodical: Three Oranges, Number 16, Page(s) 33-34
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2008-11
+         Language: English
+         Call Number: spa-tex-per-ORA016
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Sergey Prokofiev, Diaries 1915 - 1923: Behind the Mask
+
+         Creator: Jaffé, Daniel
+         Secondary creator: Prokofiev, Serge
+         Secondary creator: Phillips, Anthony
+         ID: SPA_126
+         Periodical: Three Oranges, Number 16, Page(s) 26
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2008-11
+         Language: English
+         Call Number: spa-tex-per-ORA016
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Memories of a Friendship: from the journals of Berthe Malko
+
+         Creator: Malko, Berthe
+         Secondary creator: Malko, George
+         ID: SPA_127
+         Periodical: Three Oranges, Number 16, Page(s) 3-9
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2008-11
+         Language: English
+         Call Number: spa-tex-per-ORA016
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Nikolai Malko: biographical notes
+
+         Creator: Malko, George
+         ID: SPA_128
+         Periodical: Three Oranges, Number 16, Page(s) 2
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2008-11
+         Language: English
+         Call Number: spa-tex-per-ORA016
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: The Rise and Fall of the 1948 Central Committee Resolution on Music
+
+         Creator: Maximenkov, Leonid
+         ID: SPA_129
+         Periodical: Three Oranges, Number 16, Page(s) 14-20
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2008-11
+         Language: English
+         Call Number: spa-tex-per-ORA016
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Prokofiev Study Day
+
+         Creator: Morgan, Edward
+         ID: SPA_130
+         Periodical: Three Oranges, Number 16, Page(s) 27-28
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2008-11
+         Language: English
+         Call Number: spa-tex-per-ORA016
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Ballet Falsehood: The Snow Queen and Rushes
+
+         Creator: Nice, David
+         ID: SPA_131
+         Periodical: Three Oranges, Number 16, Page(s) 31-32
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2008-11
+         Language: English
+         Call Number: spa-tex-per-ORA016
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Response of Sergei Prokofiev to the Resolution of 10 February 1948
+
+         Creator: Prokofiev, Sergei
+         Secondary creator: Frolova-Walker, Marina (trans.)
+         Secondary creator: Walker, Jonathan (trans.)
+         ID: SPA_132
+         Periodical: Three Oranges, Number 16, Page(s) 12-13
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2008-11
+         Language: English
+         Call Number: spa-tex-per-ORA016
+         Document type: Transcript
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: 1938 Brno Scenario
+
+         Creator: Anon.
+         Secondary creator: Tancibudek, Vera
+         ID: SPA_133
+         Periodical: Three Oranges, Number 17, Page(s) 17
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2009-05
+         Language: English
+         Call Number: spa-tex-per-ORA017
+         Document type: Transcript
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Prokofiev and Albert Coates
+
+         Creator: McKnight, Fiona
+         ID: SPA_134
+         Periodical: Three Oranges, Number 17, Page(s) 26-29
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2009-05
+         Language: English
+         Call Number: spa-tex-per-ORA017
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Zora Semberova: a biographical sketch
+
+         Creator: McKnight, Fiona
+         ID: SPA_135
+         Periodical: Three Oranges, Number 17, Page(s) 16
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2009-05
+         Language: English
+         Call Number: spa-tex-per-ORA017
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Romeo and Juliet, On Motifs of Shakespeare. Alan Marcer interviews Simon Morrison and Mark Morris
+
+         Creator: Mercer, Alan
+         Secondary creator: Morris, Mark
+         Secondary creator: Morrison, Simon
+         ID: SPA_136
+         Periodical: Three Oranges, Number 17, Page(s) 30-34
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2009-05
+         Language: English
+         Call Number: spa-tex-per-ORA017
+         Document type: Interview
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Introduction to Source Documents. The World Première of Romeo and Juliet in Brno,
+            Czechoslovakia
+
+         Creator: Morrison, Simon
+         ID: SPA_137
+         Periodical: Three Oranges, Number 17, Page(s) 11-12
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2009-05
+         Language: English
+         Call Number: spa-tex-per-ORA017
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Romeo and Juliet's Happy Ending
+
+         Creator: Morrison, Simon
+         ID: SPA_138
+         Periodical: Three Oranges, Number 17, Page(s) 3-10
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2009-05
+         Language: English
+         Call Number: spa-tex-per-ORA017
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Barbican Theatre, November 2008
+
+         Creator: Nice, David
+         ID: SPA_139
+         Periodical: Three Oranges, Number 17, Page(s) 35
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2009-05
+         Language: English
+         Call Number: spa-tex-per-ORA017
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Albert Coates – a Forgotten Master
+
+         Creator: Patmore, David
+         ID: SPA_140
+         Periodical: Three Oranges, Number 17, Page(s) 18-25
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2009-05
+         Language: English
+         Call Number: spa-tex-per-ORA017
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Extracts from Zora Sembrova's Memoirs
+
+         Creator: Semberova, Zora
+         Secondary creator: Short, David
+         ID: SPA_141
+         Periodical: Three Oranges, Number 17, Page(s) 13
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2009-05
+         Language: English
+         Call Number: spa-tex-per-ORA017
+         Document type: Transcript
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Reminiscences of Romeo and Juliet in Brno
+
+         Creator: Semberova, Zora
+         ID: SPA_142
+         Periodical: Three Oranges, Number 17, Page(s) 14-15
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2009-05
+         Language: English
+         Call Number: spa-tex-per-ORA017
+         Document type: Transcript
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: "The FBI March" by Sergei Prokofiev
+
+         Creator: Bergman, Elizabeth
+         Secondary creator: Prokofiev, Sergei
+         ID: SPA_143
+         Periodical: Three Oranges, Number 18, Page(s) 15-16
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2009-11
+         Language: English
+         Call Number: spa-tex-per-ORA018
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Cooling the volcano: Prokofiev's Cello Concerto Op. 58
+            and Symphony-Concerto Op. 125
+
+         Creator: Ivashkin, Alexander
+         ID: SPA_144
+         Periodical: Three Oranges, Number 18, Page(s) 7-14
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2009-11
+         Language: English
+         Call Number: spa-tex-per-ORA018
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Piatigorsky, Prokofiev, and the Genesis of the First Cello Concerto
+
+         Creator: King, Terry
+         ID: SPA_145
+         Periodical: Three Oranges, Number 18, Page(s) 2-5
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2009-11
+         Language: English
+         Call Number: spa-tex-per-ORA018
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Remembering Sir Edward Downes
+
+         Creator: Mann, Noëlle
+         ID: SPA_146
+         Periodical: Three Oranges, Number 18, Page(s) 23
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2009-11
+         Language: English
+         Call Number: spa-tex-per-ORA018
+         Document type: Obituary
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Simon Morrison: "The People's Artist"
+
+         Creator: Mann, Noëlle
+         Secondary creator: Morrison, Simon
+         ID: SPA_147
+         Periodical: Three Oranges, Number 18, Page(s) 32-34
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2009-11
+         Language: English
+         Call Number: spa-tex-per-ORA018
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Prokofiev's Reception in Western Popular Music
+
+         Creator: Medic, Ivana
+         ID: SPA_148
+         Periodical: Three Oranges, Number 18, Page(s) 17-22
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2009-11
+         Language: English
+         Call Number: spa-tex-per-ORA018
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Boris Berman: "Prokofiev's Piano Sonatas"
+
+         Creator: Nice, David
+         ID: SPA_149
+         Periodical: Three Oranges, Number 18, Page(s) 30
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2009-11
+         Language: English
+         Call Number: spa-tex-per-ORA018
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Yosif Feyginberg: "Prokofiev: the Unfinished Diary"
+
+         Creator: Riley, John
+         ID: SPA_150
+         Periodical: Three Oranges, Number 18, Page(s) 27-29
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2009-11
+         Language: English
+         Call Number: spa-tex-per-ORA018
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Prokofiev's "Music for Athletes"
+
+         Creator: Silk, Emily
+         ID: SPA_151
+         Periodical: Three Oranges, Number 18, Page(s) 31
+         Editor: Mann, Noëlle
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2009-11
+         Language: English
+         Call Number: spa-tex-per-ORA018
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: "Russian work premieres with a Princeton spin". 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: New Simplicity as Humanist Revolution: the Case of The Prodigal Son,
+            On the Dnieper, and Désir at American Ballet Theatre
+
+         Creator: Grossman, Andrew
+         ID: SPA_152
+         Periodical: Three Oranges, Number 19, Page(s) 20-25
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2010-05
+         Language: English
+         Call Number: spa-tex-per-ORA019
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: An Unknown Ivan the Terrible Oratorio
+
+         Creator: Kravetz, Nelly
+         Secondary creator: Morrison, Simon (trans.)
+         ID: SPA_153
+         Periodical: Three Oranges, Number 19, Page(s) 3-14
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2010-05
+         Language: English
+         Call Number: spa-tex-per-ORA019
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Prokofiev the Reader
+
+         Creator: Lobacheva, Nadhezhda
+         Secondary creator: Morgan, Edward
+         ID: SPA_154
+         Periodical: Three Oranges, Number 19, Page(s) 15-19
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2010-05
+         Language: English
+         Call Number: spa-tex-per-ORA019
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: War and Peace - world première of original version. The Gambler
+
+         Creator: Nice, David
+         ID: SPA_155
+         Periodical: Three Oranges, Number 19, Page(s) 33-35
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2010-05
+         Language: English
+         Call Number: spa-tex-per-ORA019
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: A Precious Species of Wood
+
+         Creator: Prokofiev Jr., Serge
+         Secondary creator: Morrison, Simon (trans.)
+         ID: SPA_156
+         Periodical: Three Oranges, Number 19, Page(s) 28-32
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2010-05
+         Language: English
+         Call Number: spa-tex-per-ORA019
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: Article about the "Wood Book" (Dereviannaia kniga) and its launch in
+            Moscow. 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Lina Prokofieff - "Poetico", Photographic Exhibition
+
+         Creator: Votour, Marcel
+         Secondary creator: Morrison, Simon
+         ID: SPA_157
+         Periodical: Three Oranges, Number 19, Page(s) 26-27
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2010-05
+         Language: English
+         Call Number: spa-tex-per-ORA019
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: Marcel Votour is nom de plume of Serge Prokofiev Jr.
+            2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Wind band arrangements of American Overture and Peter and the Wolf
+
+         Creator: Becker, Sam
+         ID: SPA_158
+         Periodical: Three Oranges, Number 20, Page(s) 38-39
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2010-11
+         Language: English
+         Call Number: spa-tex-per-ORA020
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Excerpt from The Twentieth Century of Lina Prokofiev
+
+         Creator: Chemberdji, Valentina
+         ID: SPA_159
+         Periodical: Three Oranges, Number 20, Page(s) 21-28
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2010-11
+         Language: English
+         Call Number: spa-tex-per-ORA020
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: The Wood Book: New Horizons
+
+         Creator: Dediulin, Sergei
+         Secondary creator: Ossorgin, Katya Ermolaev
+         ID: SPA_160
+         Periodical: Three Oranges, Number 20, Page(s) 36-37
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2010-11
+         Language: English
+         Call Number: spa-tex-per-ORA020
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: The Giant and Other Creatures: Prokofiev's Childhood Compositions
+
+         Creator: Guillaumier, Christina K
+         ID: SPA_161
+         Periodical: Three Oranges, Number 20, Page(s) 29-35
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2010-11
+         Language: English
+         Call Number: spa-tex-per-ORA020
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Lina's Childhood
+
+         Creator: Morrison, Simon
+         ID: SPA_162
+         Periodical: Three Oranges, Number 20, Page(s) 3-14
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2010-11
+         Language: English
+         Call Number: spa-tex-per-ORA020
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: What's an awful song like you doing in a nice piece like this? . The finale in Prokofiev's Symphony-Concerto, Op. 125
+
+         Creator: Taruskin, Richard
+         ID: SPA_163
+         Periodical: Three Oranges, Number 20, Page(s) 15-20
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2010-11
+         Language: English
+         Call Number: spa-tex-per-ORA020
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Prokofiev: On Guard for Peace and the Queen of Spades
+
+         Creator: Bartig, Kevin
+         ID: SPA_164
+         Periodical: Three Oranges, Number 21, Page(s) 34
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-05
+         Language: English
+         Call Number: spa-tex-per-ORA021
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: War and Peace and Prokofiev's Late Operatic Aesthetic
+
+         Creator: Guillaumier, Christina
+         ID: SPA_165
+         Periodical: Three Oranges, Number 21, Page(s) 20-25
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-05
+         Language: English
+         Call Number: spa-tex-per-ORA021
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Prokofiev's Unfinished Opera Distant Seas
+
+         Creator: Lobacheva, Nadezhda
+         ID: SPA_166
+         Periodical: Three Oranges, Number 21, Page(s) 26-30
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-05
+         Language: English
+         Call Number: spa-tex-per-ORA021
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Travels with an Opera: Prokofiev's War and Peace
+
+         Creator: McAllister, Rita
+         ID: SPA_167
+         Periodical: Three Oranges, Number 21, Page(s) 12-19
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-05
+         Language: English
+         Call Number: spa-tex-per-ORA021
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: The Scenario of Distant Seas
+
+         Creator: Prokofiev, Sergei
+         Secondary creator: Fay, Laurel E. (trans.)
+         ID: SPA_168
+         Periodical: Three Oranges, Number 21, Page(s) 31-33
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-05
+         Language: English
+         Call Number: spa-tex-per-ORA021
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: The Libretto of Prokofiev's Maddalena
+
+         Creator: Puymbroeck, Stefan Van
+         ID: SPA_169
+         Periodical: Three Oranges, Number 21, Page(s) 2-8
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-05
+         Language: English
+         Call Number: spa-tex-per-ORA021
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Introduction and Annotation of the Source Archival Document
+
+         Creator: Savkina, Natalia
+         ID: SPA_170
+         Periodical: Three Oranges, Number 21, Page(s) 9-11
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-05
+         Language: English
+         Call Number: spa-tex-per-ORA021
+         Document type: Transcript
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Responses to Maddalena
+
+         Creator: Various
+         ID: SPA_171
+         Periodical: Three Oranges, Number 21, Page(s) 2-8
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-05
+         Language: English
+         Call Number: spa-tex-per-ORA021
+         Document type: Transcript
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Madrid 30 September 2011
+
+         Creator: Anon.
+         ID: SPA_172
+         Periodical: Three Oranges, Number 22, Page(s) 28-29
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-11
+         Language: English
+         Call Number: spa-tex-per-ORA022
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Prokofiev. Man of the people?
+
+         Creator: Anon.
+         ID: SPA_173
+         Periodical: Three Oranges, Number 22, Page(s) 30
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-11
+         Language: English
+         Call Number: spa-tex-per-ORA022
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: A birthday fete in Moscow: 'Prokofiev in the
+            modern world', 27-30 April 2011
+
+         Creator: Bartig, Kevin
+         ID: SPA_174
+         Periodical: Three Oranges, Number 22, Page(s) 26-27
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-11
+         Language: English
+         Call Number: spa-tex-per-ORA022
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Ivana Gavric From the Street
+
+         Creator: Bartig, Kevin
+         ID: SPA_175
+         Periodical: Three Oranges, Number 22, Page(s) 31
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-11
+         Language: English
+         Call Number: spa-tex-per-ORA022
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Prokofiev and Soviet Musical Aesthetics
+
+         Creator: Dean, Terry
+         ID: SPA_176
+         Periodical: Three Oranges, Number 22, Page(s) 17-25
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-11
+         Language: English
+         Call Number: spa-tex-per-ORA022
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Prokofiev's Unrealised Film Projects
+
+         Creator: Khait, Juliia
+         ID: SPA_177
+         Periodical: Three Oranges, Number 22, Page(s) 13-16
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-11
+         Language: English
+         Call Number: spa-tex-per-ORA022
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: 'Placeless, Dateless' Documents in the Sergei Prokofiev
+            Collection. ased on materials in the Glinka State Central Museum
+            of Musical Cultural
+
+         Creator: Krivtsova, Elena
+         ID: SPA_178
+         Periodical: Three Oranges, Number 22, Page(s) 2-7
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-11
+         Language: English
+         Call Number: spa-tex-per-ORA022
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Sergei Prokofiev and Moldova: Creative and Biographical Ties
+
+         Creator: Mironenko, Elena
+         ID: SPA_179
+         Periodical: Three Oranges, Number 22, Page(s) 8-12
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-11
+         Language: English
+         Call Number: spa-tex-per-ORA022
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Prokofiev's and Krzhizhanovsky's Eugene Onegin
+            in Princeton: the Program
+
+         Creator: Anon.
+         ID: SPA_180
+         Periodical: Three Oranges, Number 23, Page(s) 21-28
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2012-05
+         Language: English
+         Call Number: spa-tex-per-ORA023
+         Document type: Program
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: A Human Genius in an Inhuman Time
+
+         Creator: Denzin, Sergei
+         Creator: Smale, Alison
+         ID: SPA_181
+         Periodical: Three Oranges, Number 23, Page(s) 32-33
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2012-05
+         Language: English
+         Call Number: spa-tex-per-ORA023
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Prokofiev's Kazakh Songs, Lost and Found
+
+         Creator: Gavrilova, Vera
+         ID: SPA_182
+         Periodical: Three Oranges, Number 23, Page(s) 16-18
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2012-05
+         Language: English
+         Call Number: spa-tex-per-ORA023
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: A 'Smart Dinner': Hollywood, Rouben Mamoulian, and the Prokofievs
+
+         Creator: Kiltz, Pilar Castro
+         ID: SPA_183
+         Periodical: Three Oranges, Number 23, Page(s) 18-20
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2012-05
+         Language: English
+         Call Number: spa-tex-per-ORA023
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: The Ivan the Terrible Oratorio: Path to the London Premiere
+
+         Creator: Kravetz, Nelly
+         ID: SPA_184
+         Periodical: Three Oranges, Number 23, Page(s) 29-31
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2012-05
+         Language: English
+         Call Number: spa-tex-per-ORA023
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: "...I saw Rachmaninoff in a dream with a bouquet
+            of lilac and yelow flowers..."
+
+         Creator: Krivtsova, Elena
+         ID: SPA_185
+         Periodical: Three Oranges, Number 23, Page(s) 2-11
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2012-05
+         Language: English
+         Call Number: spa-tex-per-ORA023
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Prokofiev's Akhmatova Songs: A Semantic Analysis
+
+         Creator: Morrison, Simon
+         ID: SPA_186
+         Periodical: Three Oranges, Number 23, Page(s) 12-15
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2012-05
+         Language: English
+         Call Number: spa-tex-per-ORA023
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Three Reviews of Ivan the Terrible in London
+
+         Creator: Various
+         ID: SPA_187
+         Periodical: Three Oranges, Number 23, Page(s) 34-35
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2012-05
+         Language: English
+         Call Number: spa-tex-per-ORA023
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Prokofiev Piano Sonatas Nos. 1-5 as interpreted
+            by Alexandra Silocea, and Piano Sonata No.6 as interpreted
+            by Behzod Abduraimov
+
+         Creator: Dean, Terry
+         ID: SPA_188
+         Periodical: Three Oranges, Number 24, Page(s) 38
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2012-11
+         Language: English
+         Call Number: spa-tex-per-ORA024
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Miralda G. Kozlova (1928-2012)
+
+         Creator: Morrison, Simon
+         ID: SPA_189
+         Periodical: Three Oranges, Number 24, Page(s) 36
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2012-11
+         Language: English
+         Call Number: spa-tex-per-ORA024
+         Document type: Obituary
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Zora Semberova (1913-2012)
+
+         Creator: Morrison, SImon
+         ID: SPA_190
+         Periodical: Three Oranges, Number 24, Page(s) 37
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2012-11
+         Language: English
+         Call Number: spa-tex-per-ORA024
+         Document type: Obituary
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Betrothal in a Monastery in Tokyo and Edinburgh
+
+         Creator: Numabe, Shin-ichi
+         Creator: Nunokawa, Yumiko
+         ID: SPA_191
+         Periodical: Three Oranges, Number 24, Page(s) 38
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2012-11
+         Language: English
+         Call Number: spa-tex-per-ORA024
+         Document type: Review
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: The Path to Originality in Prokofiev's Early Piano Works
+
+         Creator: O'Shea, Gary
+         ID: SPA_192
+         Periodical: Three Oranges, Number 24, Page(s) 23-29
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2012-11
+         Language: English
+         Call Number: spa-tex-per-ORA024
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Prokofiev's 1938-1939 Autobiographical Statement
+            for the Committee on Arts Affairs
+
+         Creator: Prokofiev, Sergei
+         Secondary creator: Fay, Laurel E. (trans.)
+         ID: SPA_193
+         Periodical: Three Oranges, Number 24, Page(s) 30-33
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2012-11
+         Language: English
+         Call Number: spa-tex-per-ORA024
+         Document type: Transcript
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Lina Prokofiev: Foresaken Photographs
+
+         Creator: Prokofieff Jr., Serge
+         Creator: Prokofiev, Lina
+         ID: SPA_194
+         Periodical: Three Oranges, Number 24, Page(s) 34-35
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2012-11
+         Language: English
+         Call Number: spa-tex-per-ORA024
+         Document type: Transcript
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Two friends of Prokofiev: Serge Moreux and Georgii Gorchakov
+
+         Creator: Bellocq, Ivan
+         Creator: Moreux, Bernard
+         ID: SPA_195
+         Periodical: Three Oranges, Highlights, Page(s) 117-122
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-04
+         Language: English
+         Call Number: spa-tex-per-ORAHI
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: Shelved with the rest of ORA. 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Magic, Music and Poetry: Prokofiev's Creative Relationship
+            with Balmont and the Genesis of Seven, They Are Seven
+
+         Creator: Davidson, Pamela
+         ID: SPA_196
+         Periodical: Three Oranges, Highlights, Page(s) 9-14
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-04
+         Language: English
+         Call Number: spa-tex-per-ORAHI
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: Shelved with the rest of ORA. 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Prokofiev and the Princess de Polignac
+
+         Creator: Kahan, Sylvia
+         ID: SPA_197
+         Periodical: Three Oranges, Highlights, Page(s) 45-49
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-04
+         Language: English
+         Call Number: spa-tex-per-ORAHI
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: Shelved with the rest of ORA. 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: At Peace with the Wolf? Prokofiev's 'Official' Soviet Works for Children
+
+         Creator: Kelly, Catriona
+         ID: SPA_198
+         Periodical: Three Oranges, Highlights, Page(s) 63-71
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-04
+         Language: English
+         Call Number: spa-tex-per-ORAHI
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: Shelved with the rest of ORA. 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Why did Prokofiev Write the "Classical Symphony"?
+
+         Creator: Kholopov, Yuri
+         ID: SPA_199
+         Periodical: Three Oranges, Highlights, Page(s) 72-75
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-04
+         Language: English
+         Call Number: spa-tex-per-ORAHI
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: Shelved with the rest of ORA. 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: An Unknown Ivan the Terrible Oratorio
+
+         Creator: Kravetz, Nelly
+         Secondary creator: Morrison, Simon (trans.)
+         ID: SPA_200
+         Periodical: Three Oranges, Highlights, Page(s) 93-108
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-04
+         Language: English
+         Call Number: spa-tex-per-ORAHI
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: Shelved with the rest of ORA. 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Motoo Ohtaguro and Serge Prokofiev: An Unexpected Friendship
+
+         Creator: Numabe, Shin-ichi
+         Creator: Nunokawa, Yumiko
+         ID: SPA_201
+         Periodical: Three Oranges, Highlights, Page(s) 76-83
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-04
+         Language: English
+         Call Number: spa-tex-per-ORAHI
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: Shelved with the rest of ORA. 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Memories of a Friendship: From the Journals of Berthe Malko
+
+         Creator: Malko, Berthe
+         Secondary creator: Malko, George
+         ID: SPA_202
+         Periodical: Three Oranges, Highlights, Page(s) 127-132
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-04
+         Language: English
+         Call Number: spa-tex-per-ORAHI
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: Shelved with the rest of ORA. 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Background to Romeo and Juliet
+
+         Creator: Mann, Noëlle
+         ID: SPA_203
+         Periodical: Three Oranges, Highlights, Page(s) 58-62
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-04
+         Language: English
+         Call Number: spa-tex-per-ORAHI
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: Shelved with the rest of ORA. 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Trapeze: A Forgotten Ballet by Serge Prokofiev and Boris Romanov
+
+         Creator: Mann, Noëlle
+         ID: SPA_204
+         Periodical: Three Oranges, Highlights, Page(s) 15-20
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-04
+         Language: English
+         Call Number: spa-tex-per-ORAHI
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: Shelved with the rest of ORA. 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Semyon Kotko: A Dossier
+
+         Creator: Mann, Noëlle
+         Creator: Morrison, Simon
+         ID: SPA_205
+         Periodical: Three Oranges, Highlights, Page(s) 27-44
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-04
+         Language: English
+         Call Number: spa-tex-per-ORAHI
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: Shelved with the rest of ORA. 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: The Rise and Fall of the 1948 Central Committee Resolution on Music
+
+         Creator: Maximenkov, Leonid
+         ID: SPA_206
+         Periodical: Three Oranges, Highlights, Page(s) 84-92
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-04
+         Language: English
+         Call Number: spa-tex-per-ORAHI
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: Shelved with the rest of ORA. 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: The 1938 World Premiere of Romeo and Juliet in Brno, Czechoslovakia
+
+         Creator: McKnight, Fiona
+         Creator: Morrison, Simon
+         Creator: Semberova, Zora
+         ID: SPA_207
+         Periodical: Three Oranges, Highlights, Page(s) 133-141
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-04
+         Language: English
+         Call Number: spa-tex-per-ORAHI
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: Formally titled "1938 Brno Scenario." Shelved with the rest of ORA. 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Prokofiev's Shakespearian period
+
+         Creator: Morgan, Edward
+         ID: SPA_208
+         Periodical: Three Oranges, Highlights, Page(s) 50-57
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-04
+         Language: English
+         Call Number: spa-tex-per-ORAHI
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: Formally titled "1938 Brno Scenario." Shelved with the rest of ORA. 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Introduction
+
+         Creator: Morrison, Simon
+         ID: SPA_209
+         Periodical: Three Oranges, Highlights, Page(s) 5-8
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-04
+         Language: English
+         Call Number: spa-tex-per-ORAHI
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: Shelved with the rest of ORA. 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Lina's Childhood
+
+         Creator: Morrison, SImon
+         ID: SPA_210
+         Periodical: Three Oranges, Highlights, Page(s) 149-161
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-04
+         Language: English
+         Call Number: spa-tex-per-ORAHI
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: Shelved with the rest of ORA. 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Little Known Facts about People Close to Prokofiev
+
+         Creator: Prokofieff, Sviatoslav
+         ID: SPA_211
+         Periodical: Three Oranges, Highlights, Page(s) 109-110
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-04
+         Language: English
+         Call Number: spa-tex-per-ORAHI
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: Shelved with the rest of ORA. 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: The House in which Romeo and Juliet was Born
+
+         Creator: Prokofieff, Sviatoslav
+         ID: SPA_212
+         Periodical: Three Oranges, Highlights, Page(s) 123-126
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-04
+         Language: English
+         Call Number: spa-tex-per-ORAHI
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: Shelved with the rest of ORA. 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: Papers from the Attic
+
+         Creator: Prokofiev, Oleg
+         Secondary creator: Navrozov, Andrei (trans.)
+         ID: SPA_213
+         Periodical: Three Oranges, Highlights, Page(s) 111-116
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-04
+         Language: English
+         Call Number: spa-tex-per-ORAHI
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: Shelved with the rest of ORA. 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: The Magnificent George
+
+         Creator: Sayers, Lesley-Anne
+         ID: SPA_214
+         Periodical: Three Oranges, Highlights, Page(s) 21-26
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-04
+         Language: English
+         Call Number: spa-tex-per-ORAHI
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: Shelved with the rest of ORA. 2 copies (1 archival / red-dot)
+
+
+
+  TITLE: What's an awful song like you doing in a nice piece like this?. The finale in Prokofiev's Symphony-Concerto, Op.125
+
+         Creator: Taruskin, Richard
+         ID: SPA_215
+         Periodical: Three Oranges, Highlights, Page(s) 142-148
+         Editor: Morrison, Simon
+         Publisher: Serge Prokofiev Foundation, London
+         Publication date: 2011-04
+         Language: English
+         Call Number: spa-tex-per-ORAHI
+         Document type: Essay
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Notes: Shelved with the rest of ORA. 2 copies (1 archival / red-dot)
