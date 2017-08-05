@@ -1,9 +1,7 @@
-SOVMUZ and OPERA
-
 <?xml version="1.0" encoding="UTF-8"?>
 <outputxml>
 
-   <RECORD>
+<!--     <RECORD>
       <REFERENCE_TYPE>4</REFERENCE_TYPE>
       <REFNUM>2119</REFNUM>
       <TITLE>Opera Collection: 1950-2000. (1950 - 6 issues; 1951 onwards - 12 issues.) Missing:
@@ -14,156 +12,165 @@ SOVMUZ and OPERA
       <CALL_NUMBER>OPERA</CALL_NUMBER>
       <NOTES>COLLECTION. Duplicate copies exist in periodicals collection: 1961/3 (per-0052);
          1961/4 (per-0053); 1965/9 (per-0054); 1965/11 (per-0055); 2000/5 (per-0056)</NOTES>
-   </RECORD>
- <RECORD>
+   </RECORD> -->
+
+   <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>2178</REFNUM>
          <AUTHORS>
-            <AUTHOR>Allison, John</AUTHOR>
+            <ARTICLE_AUTHOR>Allison, John</ARTICLE_AUTHOR>
+            <EDITOR></EDITOR>
          </AUTHORS>
          <YEAR>1992</YEAR>
-         <TITLE>The Fiery Angel</TITLE>
-         <SECONDARY_TITLE>Opera</SECONDARY_TITLE>
+         <ARTICLE_TITLE>The Fiery Angel</ARTICLE_TITLE>
+         <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
          <VOLUME>43</VOLUME>
          <NUMBER>6</NUMBER>
          <PAGES>726-730</PAGES>
          <DATE>1992-06</DATE>
-         <TYPE_OF_WORK>Review</TYPE_OF_WORK>
-         <ALTERNATE_TITLE>Magazine</ALTERNATE_TITLE>
+         <ARTICLE_TYPE_OF_WORK>Review</ARTICLE_TYPE_OF_WORK>
+         <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>23/11/2005</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
-         <CALL_NUMBER>[OPERA]</CALL_NUMBER>
+         <CALL_NUMBER>OPERA-001</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>2179</REFNUM>
          <AUTHORS>
-            <AUTHOR>Allison, John</AUTHOR>
+            <ARTICLE_AUTHOR>Allison, John</ARTICLE_AUTHOR>
+            <EDITOR></EDITOR>
          </AUTHORS>
          <YEAR>1992</YEAR>
-         <TITLE>Soviet Diary 1927 and Other Writings [book review]</TITLE>
-         <SECONDARY_TITLE>Opera</SECONDARY_TITLE>
+         <ARTICLE_TITLE>Soviet Diary 1927 and Other Writings</ARTICLE_TITLE>
+         <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
          <VOLUME>43</VOLUME>
          <NUMBER>7</NUMBER>
          <PAGES>823-824 &amp; 876-877</PAGES>
          <DATE>1992-07</DATE>
-         <TYPE_OF_WORK>Review</TYPE_OF_WORK>
-         <ALTERNATE_TITLE>Magazine</ALTERNATE_TITLE>
+         <ARTICLETYPE_OF_WORK>Review</ARTICLETYPE_OF_WORK>
+         <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>23/11/2005</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
-         <CALL_NUMBER>[OPERA]</CALL_NUMBER>
+         <CALL_NUMBER>OPERA-002</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>2181</REFNUM>
          <AUTHORS>
-            <AUTHOR>Allison, John</AUTHOR>
+            <ARTICLE_AUTHOR>Allison, John</ARTICLE_AUTHOR>
+            <EDITOR></EDITOR>
          </AUTHORS>
          <YEAR>1993</YEAR>
-         <TITLE>Russian tradition with a difference</TITLE>
-         <SECONDARY_TITLE>Opera</SECONDARY_TITLE>
+         <ARTICLE_TITLE>Russian tradition with a difference</ARTICLE_TITLE>
+         <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
          <VOLUME>44</VOLUME>
          <NUMBER>5</NUMBER>
          <PAGES>514-520</PAGES>
          <DATE>1993-05</DATE>
-         <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
-         <ALTERNATE_TITLE>Magazine</ALTERNATE_TITLE>
+         <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+         <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>01/12/2005</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
-         <CALL_NUMBER>[OPERA]</CALL_NUMBER>
+         <CALL_NUMBER>OPERA-003</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>2182</REFNUM>
          <AUTHORS>
-            <AUTHOR>Allison, John</AUTHOR>
+            <ARTICLE_AUTHOR>Allison, John</ARTICLE_AUTHOR>
+            <EDITOR></EDITOR>
          </AUTHORS>
          <YEAR>1993</YEAR>
-         <TITLE>Valery Gergiev</TITLE>
-         <SECONDARY_TITLE>Opera</SECONDARY_TITLE>
+         <ARTICLE_TITLE>Valery Gergiev</ARTICLE_TITLE>
+         <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
          <VOLUME>44</VOLUME>
          <NUMBER>7</NUMBER>
          <PAGES>766-772</PAGES>
          <DATE>1993-07</DATE>
-         <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
-         <ALTERNATE_TITLE>Magazine</ALTERNATE_TITLE>
+         <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+         <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>01/12/2005</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
-         <CALL_NUMBER>[OPERA]</CALL_NUMBER>
+         <CALL_NUMBER>OPERA-004</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>2183</REFNUM>
          <AUTHORS>
-            <AUTHOR>Allison, John</AUTHOR>
+            <ARTICLE_AUTHOR>Allison, John</ARTICLE_AUTHOR>
+            <EDITOR></EDITOR>
          </AUTHORS>
          <YEAR>1994</YEAR>
-         <TITLE>Rimsky in St Petersburg</TITLE>
-         <SECONDARY_TITLE>Opera</SECONDARY_TITLE>
+         <ARTICLE_TITLE>Rimsky in St Petersburg</ARTICLE_TITLE>
+         <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
          <VOLUME>45</VOLUME>
          <NUMBER>4</NUMBER>
          <PAGES>400-405</PAGES>
          <DATE>1994-04</DATE>
-         <TYPE_OF_WORK>Review</TYPE_OF_WORK>
-         <ALTERNATE_TITLE>Magazine</ALTERNATE_TITLE>
+         <ARTICLE_TYPE_OF_WORK>Review</ARTICLE_TYPE_OF_WORK>
+         <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>02/12/2005</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
-         <CALL_NUMBER>[OPERA]</CALL_NUMBER>
+         <CALL_NUMBER>OPERA-005</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>2184</REFNUM>
          <AUTHORS>
-            <AUTHOR>Allison, John</AUTHOR>
+            <ARTICLE_AUTHOR>Allison, John</ARTICLE_AUTHOR>
+            <EDITOR></EDITOR>
          </AUTHORS>
          <YEAR>1994</YEAR>
-         <TITLE>Yevgeny Onegin: Docklands Sinfonietta London at the Queen Elizabeth Hall</TITLE>
-         <SECONDARY_TITLE>Opera</SECONDARY_TITLE>
+         <ARTICLE_TITLE>Yevgeny Onegin: Docklands Sinfonietta London at the Queen Elizabeth Hall</ARTICLE_TITLE>
+         <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
          <VOLUME>45</VOLUME>
          <NUMBER>5</NUMBER>
          <PAGES>623-624</PAGES>
          <DATE>1994-05</DATE>
-         <TYPE_OF_WORK>Review</TYPE_OF_WORK>
-         <ALTERNATE_TITLE>Magazine</ALTERNATE_TITLE>
+         <ARTICLE_TYPE_OF_WORK>Review</ARTICLE_TYPE_OF_WORK>
+         <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>02/12/2005</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
-         <CALL_NUMBER>[OPERA]</CALL_NUMBER>
+         <CALL_NUMBER>OPERA-006</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>2186</REFNUM>
          <AUTHORS>
-            <AUTHOR>Allison, John</AUTHOR>
+            <ARTICLE_AUTHOR>Allison, John</ARTICLE_AUTHOR>
+            <EDITOR></EDITOR>
          </AUTHORS>
          <YEAR>1997</YEAR>
-         <TITLE>'Parsifal', and paradoxes: John Allison on the Kirov Opera</TITLE>
-         <SECONDARY_TITLE>Opera</SECONDARY_TITLE>
+         <ARTICLE_TITLE>'Parsifal', and paradoxes: John Allison on the Kirov Opera</ARTICLE_TITLE>
+         <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
          <VOLUME>48</VOLUME>
          <NUMBER>7</NUMBER>
          <PAGES>770-773</PAGES>
          <DATE>1997-07</DATE>
-         <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
-         <ALTERNATE_TITLE>Magazine</ALTERNATE_TITLE>
+         <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+         <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
          <CUSTOM1>English</CUSTOM1>
          <CUSTOM5>02/12/2005</CUSTOM5>
          <CUSTOM6>Original</CUSTOM6>
-         <CALL_NUMBER>[OPERA]</CALL_NUMBER>
+         <CALL_NUMBER>OPERA-007</CALL_NUMBER>
       </RECORD>
    <RECORD>
          <REFERENCE_TYPE>1</REFERENCE_TYPE>
          <REFNUM>2125</REFNUM>
          <AUTHORS>
-            <AUTHOR>Anon.</AUTHOR>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <EDITOR></EDITOR>
          </AUTHORS>
          <YEAR>1963</YEAR>
-         <TITLE>The Bolshoi and its problems</TITLE>
-         <SECONDARY_TITLE>Opera</SECONDARY_TITLE>
+         <ARTICLE_TITLE>The Bolshoi and its problems</ARTICLE_TITLE>
+         <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
          <VOLUME>14</VOLUME>
          <NUMBER>3</NUMBER>
          <PAGES>149-155</PAGES>
