@@ -920,6 +920,101 @@
         <NOTES>Review of the first American performance of 'War and Peace'</NOTES>
         <CALL_NUMBER>OPERA-035</CALL_NUMBER>
     </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2154</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Movshon, George</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Rosenthal, Harold</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1975</YEAR>
+        <ARTICLE_TITLE>America: Bolshoi realism</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Rolls House Publishing Company Ltd.</PUBLISHER>
+        <VOLUME>26</VOLUME>
+        <NUMBER>9</NUMBER>
+        <PAGES>843-847</PAGES>
+        <DATE>1975-09</DATE>
+        <ARTICLE_TYPE_OF_WORK>Review</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>14/10/2005</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <NOTES>Includes a review of 'The Gambler'</NOTES>
+        <CALL_NUMBER>OPERA-036</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2155</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Forbes, Elizabeth</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Rosenthal, Harold</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1975</YEAR>
+        <ARTICLE_TITLE>War and Peace</ARTICLE_TITLE>
+        <SUBSIDIARY_ARTICLE_TITLE>English Nationa Opera at the Coliseum, October 23</SUBSIDIARY_ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Rolls House Publishing Company Ltd.</PUBLISHER>
+        <VOLUME>26</VOLUME>
+        <NUMBER>12</NUMBER>
+        <PAGES>1168-1170</PAGES>
+        <DATE>1975-12</DATE>
+        <ARTICLE_TYPE_OF_WORK>Review</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>14/10/2005</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>OPERA-037</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2156</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Boas, Robert</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Rosenthal, Harold</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1976</YEAR>
+        <ARTICLE_TITLE>Switzerland: Successful Prokofiev</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Rolls House Publishing Company Ltd.</PUBLISHER>
+        <VOLUME>27</VOLUME>
+        <NUMBER>10</NUMBER>
+        <PAGES>948-949</PAGES>
+        <DATE>1976-10</DATE>
+        <ARTICLE_TYPE_OF_WORK>Review</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>14/10/2005</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <NOTES>Review of a performance of 'Betrothal in a Monastery'</NOTES>
+        <CALL_NUMBER>OPERA-038</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2158</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Rosenthal, Harold</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Rosenthal, Harold</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1979</YEAR>
+        <ARTICLE_TITLE>Diaghilev and Opera</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Rolls House Publishing Company Ltd.</PUBLISHER>
+        <VOLUME>30</VOLUME>
+        <NUMBER>9</NUMBER>
+        <PAGES>862-864 &amp; 882-884</PAGES>
+        <DATE>1979-09</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>24/10/2005</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>OPERA-039</CALL_NUMBER>
+    </RECORD>
 
 </outputxml>
     
