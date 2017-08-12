@@ -37541,6 +37541,7 @@ Novodevichy Cemetery in Moscow. -->
       </did>
    </c>
 </c>
+     
        <c level="series">
           <!-- Series V: Research Collection -->
           <did>
@@ -44559,9 +44560,16 @@ Novodevichy Cemetery in Moscow. -->
       </note>
    </did>
 </c>
+            
+  <c level="subseries">
+               <did>
+                  <unittitle>Subseries V.2: Book Sections<unitdate type="inclusive"
+                  /></unittitle>
+               </did>
+            </c>
      <c level="subseries">
                <did>
-                  <unittitle>Subseries V.2: Periodicals<unitdate type="inclusive"
+                  <unittitle>Subseries V.3: Periodicals<unitdate type="inclusive"
                   /></unittitle>
                </did>
             </c>
@@ -53476,7 +53484,20 @@ Novodevichy Cemetery in Moscow. -->
       </note>
    </did>
 </c>
-        
+ <!-- add Digital Articles here -->
+            
+<c level="subseries">
+               <did>
+                  <unittitle>Subseries V.4: Three Oranges<unitdate type="inclusive"
+                  /></unittitle>
+               </did>
+            </c>
+ <c level="subseries">
+               <did>
+                  <unittitle>Subseries V.5: Opera<unitdate type="inclusive"
+                  /></unittitle>
+               </did>
+            </c>
    <c level="series">
             <!-- Series X: Other Collections -->
             <did>
