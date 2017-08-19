@@ -1267,7 +1267,7 @@
         <REFNUM>2174</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Poutney, David</ARTICLE_AUTHOR>
-            <PERIODICAL_EDITOR>Rosenthal, Harold</PERIODICAL_EDITOR>
+            <PERIODICAL_EDITOR>Milnes, Rodney</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1988</YEAR>
         <ARTICLE_TITLE>The Joy of Rimsky</ARTICLE_TITLE>
@@ -1290,7 +1290,7 @@
         <REFNUM>2175</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Downes, Edward</ARTICLE_AUTHOR>
-            <PERIODICAL_EDITOR>Rosenthal, Harold</PERIODICAL_EDITOR>
+            <PERIODICAL_EDITOR>Milnes, Rodney</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1989</YEAR>
         <ARTICLE_TITLE>Tchaikovsky's 'beloved child'</ARTICLE_TITLE>
@@ -1313,7 +1313,7 @@
         <REFNUM>2176</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
-            <PERIODICAL_EDITOR>Rosenthal, Harold</PERIODICAL_EDITOR>
+            <PERIODICAL_EDITOR>Milnes, Rodney</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1992</YEAR>
         <ARTICLE_TITLE>Prokofiev Foundation</ARTICLE_TITLE>
@@ -1336,7 +1336,7 @@
         <REFNUM>2177</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Downes, Edward</ARTICLE_AUTHOR>
-            <PERIODICAL_EDITOR>Rosenthal, Harold</PERIODICAL_EDITOR>
+            <PERIODICAL_EDITOR>Milnes, Rodney</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1992</YEAR>
         <ARTICLE_TITLE>Prokofiev's operatic obsession</ARTICLE_TITLE>
@@ -1359,7 +1359,7 @@
         <REFNUM>2178</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Allison, John</ARTICLE_AUTHOR>
-            <PERIODICAL_EDITOR>Rosenthal, Harold</PERIODICAL_EDITOR>
+            <PERIODICAL_EDITOR>Milnes, Rodney</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1992</YEAR>
         <ARTICLE_TITLE>The Fiery Angel</ARTICLE_TITLE>
@@ -1382,7 +1382,7 @@
         <REFNUM>2179</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Allison, John</ARTICLE_AUTHOR>
-            <PERIODICAL_EDITOR>Rosenthal, Harold</PERIODICAL_EDITOR>
+            <PERIODICAL_EDITOR>Milnes, Rodney</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1992</YEAR>
         <ARTICLE_TITLE>Soviet Diary 1927 and Other Writings</ARTICLE_TITLE>
@@ -1400,23 +1400,12 @@
         <CUSTOM6>Original</CUSTOM6>
         <CALL_NUMBER>OPERA-054</CALL_NUMBER>
     </RECORD>
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <RECORD>
+<RECORD>
         <REFERENCE_TYPE>1</REFERENCE_TYPE>
         <REFNUM>2180</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Loppert, Max</ARTICLE_AUTHOR>
-            <PERIODICAL_EDITOR>Rosenthal, Harold</PERIODICAL_EDITOR>
+            <PERIODICAL_EDITOR>Milnes, Rodney</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1993</YEAR>
         <ARTICLE_TITLE>The product of experience: Edward Downes talks to Max Loppert</ARTICLE_TITLE>
@@ -1439,11 +1428,13 @@
         <REFNUM>2181</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Allison, John</ARTICLE_AUTHOR>
-            <PERIODICAL_EDITOR>Rosenthal, Harold</PERIODICAL_EDITOR>
+            <PERIODICAL_EDITOR>Milnes, Rodney</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1993</YEAR>
         <ARTICLE_TITLE>Russian tradition with a difference</ARTICLE_TITLE>
         <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Rolls House Publishing Company Ltd.</PUBLISHER>
         <VOLUME>44</VOLUME>
         <NUMBER>5</NUMBER>
         <PAGES>514-520</PAGES>
@@ -1460,11 +1451,13 @@
         <REFNUM>2182</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Allison, John</ARTICLE_AUTHOR>
-            <EDITOR></EDITOR>
+            <PERIODICAL_EDITOR>Milnes, Rodney</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1993</YEAR>
         <ARTICLE_TITLE>Valery Gergiev</ARTICLE_TITLE>
         <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Rolls House Publishing Company Ltd.</PUBLISHER>
         <VOLUME>44</VOLUME>
         <NUMBER>7</NUMBER>
         <PAGES>766-772</PAGES>
@@ -1475,6 +1468,248 @@
         <CUSTOM5>01/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <CALL_NUMBER>OPERA-057</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2183</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Allison, John</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Milnes, Rodney</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1994</YEAR>
+        <ARTICLE_TITLE>Rimsky in St Petersburg</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
+        <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Rolls House Publishing Company Ltd.</PUBLISHER>
+        <VOLUME>45</VOLUME>
+        <NUMBER>4</NUMBER>
+        <PAGES>400-405</PAGES>
+        <DATE>1994-04</DATE>
+        <ARTICLE_TYPE_OF_WORK>Review</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>02/12/2005</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>OPERA-058</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2184</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Allison, John</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Milnes, Rodney</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1994</YEAR>
+        <ARTICLE_TITLE>Yevgeny Onegin</ARTICLE_TITLE>
+        <SUBSIDIARY_ARTICLE_TITLE>Docklands Sinfonietta London at the Queen Elizabeth Hall</SUBSIDIARY_ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Rolls House Publishing Company Ltd.</PUBLISHER>
+        <VOLUME>45</VOLUME>
+        <NUMBER>5</NUMBER>
+        <PAGES>623-624</PAGES>
+        <DATE>1994-05</DATE>
+        <ARTICLE_TYPE_OF_WORK>Review</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>02/12/2005</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>OPERA-059</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2185</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Menkov, Alexey</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Milnes, Rodney</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1995</YEAR>
+        <ARTICLE_TITLE>Opera in Russia: Future Indefinite</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Rolls House Publishing Company Ltd.</PUBLISHER>
+        <VOLUME>46</VOLUME>
+        <NUMBER>4</NUMBER>
+        <PAGES>395-400</PAGES>
+        <DATE>1995-04</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>02/12/2005</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>OPERA-060</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2186</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Allison, John</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Milnes, Rodney</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1997</YEAR>
+        <ARTICLE_TITLE>'Parsifal', and paradoxes</ARTICLE_TITLE>
+        <SUBSIDIARY_ARTICLE_TITLE>John Allison on the Kirov Opera</SUBSIDIARY_ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Rolls House Publishing Company Ltd.</PUBLISHER>
+        <VOLUME>48</VOLUME>
+        <NUMBER>7</NUMBER>
+        <PAGES>770-773</PAGES>
+        <DATE>1997-07</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>02/12/2005</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>OPERA-061</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2187</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Stolyarenko, Lyudmila</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Milnes, Rodney</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1997</YEAR>
+        <ARTICLE_TITLE>Rebels with a cause</ARTICLE_TITLE>
+        <SUBSIDIARY_ARTICLE_TITLE>Lyudmila Stolyarenko on Moscow's Helikon Opera</SUBSIDIARY_ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Rolls House Publishing Company Ltd.</PUBLISHER>
+        <VOLUME>48</VOLUME>
+        <NUMBER>10</NUMBER>
+        <PAGES>1170-1173</PAGES>
+        <DATE>1997-10</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>02/12/2005</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>OPERA-062</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2188</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Seaman, Gerald R.</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Milnes, Rodney</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1999</YEAR>
+        <ARTICLE_TITLE>Plotting the operas</ARTICLE_TITLE>
+        <SUBSIDIARY_ARTICLE_TITLE>Gerald R. Seaman salutes Pushkin's bicentenary</SUBSIDIARY_ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER></PUBLISHER>
+        <VOLUME>50</VOLUME>
+        <NUMBER>3</NUMBER>
+        <PAGES>262-270</PAGES>
+        <DATE>1999-03</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>05/12/2005</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>OPERA-063</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2189</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Loomis, George</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Milnes, Rodney</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>1999</YEAR>
+        <ARTICLE_TITLE>Battling on bravely</ARTICLE_TITLE>
+        <SUBSIDIARY_ARTICLE_TITLE>George Loomis on the Bolshoy</SUBSIDIARY_ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER></PUBLISHER>
+        <VOLUME>50</VOLUME>
+        <NUMBER>7</NUMBER>
+        <PAGES>776-782</PAGES>
+        <DATE>1999-07</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>05/12/2005</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>OPERA-064</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2190</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Loomis, George</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Allison, John</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2000</YEAR>
+        <ARTICLE_TITLE>A window on the future</ARTICLE_TITLE>
+        <SUBSIDIARY_ARTICLE_TITLE>George Loomis visits the Maryinsky's Academy</SUBSIDIARY_ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER></PUBLISHER>
+        <VOLUME>51</VOLUME>
+        <NUMBER>1</NUMBER>
+        <PAGES>37-41</PAGES>
+        <DATE>2000-01</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>05/12/2005</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <CALL_NUMBER>OPERA-065</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2191</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Allison, John</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Allison, John</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2000</YEAR>
+        <ARTICLE_TITLE>'War and Peace' breaks out</ARTICLE_TITLE>
+        <SUBSIDIARY_ARTICLE_TITLE>John Allison on Prokofiev in Paris</SUBSIDIARY_ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Seymour Press Ltd.</PUBLISHER>
+        <VOLUME>51</VOLUME>
+        <NUMBER>5</NUMBER>
+        <PAGES>532-534</PAGES>
+        <DATE>2000-05</DATE>
+        <ARTICLE_TYPE_OF_WORK>Review</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>05/12/2005</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <NOTES>DUPLICATE. See PER collection.</NOTES>
+        <CALL_NUMBER>OPERA-066 / spa-tex-per-0056</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM>2192</REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Various</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Allison, John</PERIODICAL_EDITOR>
+        </AUTHORS>
+        <YEAR>2000</YEAR>
+        <ARTICLE_TITLE>A triumph - and reproach</ARTICLE_TITLE>
+        <SUBSIDIARY_ARTICLE_TITLE>The Kirov Opera at Covent Garden</SUBSIDIARY_ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <PUBLISHER>Seymour Press Ltd.</PUBLISHER>
+        <VOLUME>51</VOLUME>
+        <NUMBER>9</NUMBER>
+        <PAGES>1024-1030</PAGES>
+        <DATE>2000-09</DATE>
+        <ARTICLE_TYPE_OF_WORK>Review</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Magazine</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5>05/12/2005</CUSTOM5>
+        <CUSTOM6>Original</CUSTOM6>
+        <NOTES>Reviews of performances during Kirov's residency at Covent Garden in 2000.
+            Includes Semyon Kotko and War and Peace</NOTES>
+        <CALL_NUMBER>OPERA-067</CALL_NUMBER>
     </RECORD>
 
 </outputxml>
