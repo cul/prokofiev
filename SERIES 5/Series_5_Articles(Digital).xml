@@ -114,7 +114,7 @@
         </AUTHORS>
         <YEAR>2000</YEAR>
         <ARTICLE_TITLE>Darius Milhaud: Modality and Structure in Music of the 1920s</ARTICLE_TITLE>
-        <SECONDARY_ARTICLE_TITLE>The Music of Sergei Prokofiev</SECONDARY_ARTICLE_TITLE>
+        <SUBSIDIARY_ARTICLE_TITLE>The Music of Sergei Prokofiev</SUBSIDIARY_ARTICLE_TITLE>
         <PERIODICAL_TITLE>Music Theory Spectrum</PERIODICAL_TITLE>
         <PUBLISHER>University of California Press</PUBLISHER>
         <VOLUME>22</VOLUME>
@@ -161,7 +161,7 @@
         <REFNUM>2554</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Nickel, Helen</ARTICLE_AUTHOR>
-            <EDITOR></EDITOR>
+            <EDITOR>Block, L. A.</EDITOR>
         </AUTHORS>
         <YEAR>1933</YEAR>
         <ARTICLE_TITLE>Theaters for Children</ARTICLE_TITLE>
@@ -207,11 +207,13 @@
         <REFERENCE_TYPE>1</REFERENCE_TYPE>
         <REFNUM>2556</REFNUM>
         <AUTHORS>
-            <ARTICLE_AUTHOR>Prokofiev, Serge</ARTICLE_AUTHOR>
+            <ARTICLE_AUTHOR>Prokofieff, Serge</ARTICLE_AUTHOR>
+            <EDITOR>Block, L. A.</EDITOR>
         </AUTHORS>
         <YEAR>1934</YEAR>
         <ARTICLE_TITLE>Soviet Audiences and My Work</ARTICLE_TITLE>
         <PERIODICAL_TITLE>Soviet Travel</PERIODICAL_TITLE>
+        <SUBSIDIARY_PERIODICAL_TITLE>Special Theatre Number</SUBSIDIARY_PERIODICAL_TITLE>
         <NUMBER>3</NUMBER>
         <PAGES>30-31, 74</PAGES>
         <DATE>1934</DATE>
@@ -229,10 +231,12 @@
         <REFNUM>2557</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Satz, Natalia</ARTICLE_AUTHOR>
+            <EDITOR>Block, L. A.</EDITOR>
         </AUTHORS>
         <YEAR>1934</YEAR>
         <ARTICLE_TITLE>The Children's Theatre</ARTICLE_TITLE>
         <PERIODICAL_TITLE>Soviet Travel</PERIODICAL_TITLE>
+        <SUBSIDIARY_PERIODICAL_TITLE>Special Theatre Number</SUBSIDIARY_PERIODICAL_TITLE>
         <NUMBER>3</NUMBER>
         <PAGES>41-44</PAGES>
         <DATE>1934</DATE>
@@ -251,11 +255,13 @@
         <REFNUM>2558</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Bogomazov, S.</ARTICLE_AUTHOR>
+            <EDITOR>Block, L. A.</EDITOR>
         </AUTHORS>
         <YEAR>1934</YEAR>
         <ARTICLE_TITLE>Visiting the Moscow Theatres</ARTICLE_TITLE>
-        <SECONDARY_ARTICLE_TITLE>The Second Theatre Festival</SECONDARY_ARTICLE_TITLE>
+        <SUBSIDIARY_ARTICLE_TITLE>The Second Theatre Festival</SUBSIDIARY_ARTICLE_TITLE>
         <PERIODICAL_TITLE>Soviet Travel</PERIODICAL_TITLE>
+        <SUBSIDIARY_PERIODICAL_TITLE>Special Theatre Number</SUBSIDIARY_PERIODICAL_TITLE>
         <NUMBER>3</NUMBER>
         <PAGES>45-46</PAGES>
         <DATE>1934</DATE>
@@ -274,10 +280,12 @@
         <REFNUM>2559</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Volkov, N</ARTICLE_AUTHOR>
+            <EDITOR>Block, L. A.</EDITOR>
         </AUTHORS>
         <YEAR>1934</YEAR>
         <ARTICLE_TITLE>Vsevolod E. Meyerhold</ARTICLE_TITLE>
         <PERIODICAL_TITLE>Soviet Travel</PERIODICAL_TITLE>
+        <SUBSIDIARY_PERIODICAL_TITLE>Special Theatre Number</SUBSIDIARY_PERIODICAL_TITLE>
         <NUMBER>3</NUMBER>
         <PAGES>47-49</PAGES>
         <DATE>1934</DATE>
@@ -295,6 +303,7 @@
         <REFNUM>2560</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Gayamov, A</ARTICLE_AUTHOR>
+            <EDITOR></EDITOR>
         </AUTHORS>
         <YEAR>1935</YEAR>
         <ARTICLE_TITLE>Children and Music</ARTICLE_TITLE>
@@ -316,6 +325,7 @@
         <REFNUM>2562</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <EDITOR></EDITOR>
         </AUTHORS>
         <YEAR>1935</YEAR>
         <ARTICLE_TITLE>Szigeti and Beecham in Prokofieff Violin Concerto</ARTICLE_TITLE>
@@ -339,6 +349,7 @@
         <REFNUM>2563</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Quevedo, María de</ARTICLE_AUTHOR>
+            <EDITOR>Quevedo, Antonio</EDITOR>
         </AUTHORS>
         <YEAR>1930</YEAR>
         <ARTICLE_TITLE>Sergio Prokofief</ARTICLE_TITLE>
@@ -362,6 +373,7 @@
         <REFNUM>2564</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <EDITOR>Quevedo, Antonio</EDITOR>
         </AUTHORS>
         <YEAR>1930</YEAR>
         <ARTICLE_TITLE>Notas biográficas de Prokofief</ARTICLE_TITLE>
@@ -385,9 +397,10 @@
         <REFNUM>2565</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Prokofiev, Serge</ARTICLE_AUTHOR>
+            <EDITOR>Quevedo, Antonio</EDITOR>
         </AUTHORS>
         <YEAR>1930</YEAR>
-        <ARTICLE_TITLE>Carta sobre le Música Rusa Contemporánea</ARTICLE_TITLE>
+        <ARTICLE_TITLE>Carta de Serge Prokofieff sobre le Música Rusa Contemporánea</ARTICLE_TITLE>
         <PERIODICAL_TITLE>Musicalia</PERIODICAL_TITLE>
         <NUMBER>12</NUMBER>
         <PAGES>83-85</PAGES>
@@ -409,11 +422,12 @@
         <REFNUM>2573</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Morrison, Simon</ARTICLE_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Prokof'yev, Svyatoslav</SUBSIDIARY_AUTHOR>
+            <EDITOR></EDITOR>
         </AUTHORS>
         <YEAR>2005</YEAR>
         <ARTICLE_TITLE>Sergey Prokof'yev: Dnevnik 1907-1933</ARTICLE_TITLE>
         <PERIODICAL_TITLE>Journal of the American Musicological Society</PERIODICAL_TITLE>
-        <SUBSIDIARY_AUTHOR>Prokof'yev, Svyatoslav (ed.)</SUBSIDIARY_AUTHOR>
         <VOLUME>58</VOLUME>
         <NUMBER>1</NUMBER>
         <PAGES>233-243</PAGES>
@@ -434,9 +448,11 @@
         <REFNUM>3388</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Lobacheva, Nadezhda</ARTICLE_AUTHOR>
+            <EDITOR></EDITOR>
         </AUTHORS>
         <YEAR>2008</YEAR>
-        <ARTICLE_TITLE>Prokof'ev-chitatel': k istorii opernykh zamyslov 1940-kh godov</ARTICLE_TITLE>
+        <ARTICLE_TITLE>Prokof'ev-chitatel'</ARTICLE_TITLE>
+        <SUBSIDIARY_ARTICLE_TITLE>K istorii opernykh zamyslov 1940-kh godov</SUBSIDIARY_ARTICLE_TITLE>
         <PERIODICAL_TITLE>Muzykal'naia akademiia</PERIODICAL_TITLE>
         <NUMBER>4</NUMBER>
         <PAGES>63-69</PAGES>
@@ -453,9 +469,11 @@
         <REFNUM>3426</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Robinson, Harlow</ARTICLE_AUTHOR>
+            <EDITOR></EDITOR>
         </AUTHORS>
         <YEAR>1991</YEAR>
-        <ARTICLE_TITLE>Flirting with Decadence: Sergei Prokofiev and Ognennyi angel</ARTICLE_TITLE>
+        <ARTICLE_TITLE>Flirting with Decadence</ARTICLE_TITLE>
+        <SUBSIDIARY_ARTICLE_TITLE>Sergei Prokofiev and Ognennyi angel</SUBSIDIARY_ARTICLE_TITLE>
         <PERIODICAL_TITLE>Opera Quarterly</PERIODICAL_TITLE>
         <VOLUME>8</VOLUME>
         <NUMBER>4</NUMBER>
@@ -469,5 +487,387 @@
             <KEYWORD>The Fiery Angel (Op. 37)</KEYWORD>
         </KEYWORDS>
         <CALL_NUMBER>spa-tex-atl-0182</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM></REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Prokofiev, Oleg</ARTICLE_AUTHOR>
+            <TRANSLATOR>Navrozov, Andrei</TRANSLATOR>
+            <EDITOR></EDITOR>
+        </AUTHORS>
+        <YEAR>1979</YEAR>
+        <ARTICLE_TITLE>Papers From The Attic</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Yale Literary Magazine</PERIODICAL_TITLE>
+        <PUBLISHER>Yale University Press</PUBLISHER>
+        <VOLUME>148</VOLUME>
+        <NUMBER>2</NUMBER>
+        <PAGES></PAGES>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5></CUSTOM5>
+        <CUSTOM6>Digital</CUSTOM6>
+        <NOTES>This article has been reproduced with permission</NOTES>
+        <CALL_NUMBER>spa-tex-atl-0183-ef</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM></REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <EDITOR></EDITOR>
+        </AUTHORS>
+        <YEAR>1942</YEAR>
+        <ARTICLE_TITLE>"Wonderland"</ARTICLE_TITLE>
+        <SUBSIDIARY_ARTICLE_TITLE>New Russian Ballet</SUBSIDIARY_ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Theatre World Souvenir</PERIODICAL_TITLE>
+        <PUBLISHER>The Lewes Press</PUBLISHER>
+        <VOLUME>6</VOLUME>
+        <NUMBER></NUMBER>
+        <PAGES></PAGES>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5></CUSTOM5>
+        <CUSTOM6>Digital</CUSTOM6>
+        <NOTES>As presented as the Cambridge Theatre, London</NOTES>
+        <CALL_NUMBER>spa-tex-atl-0184-ef</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM></REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Downes, Olin</ARTICLE_AUTHOR>
+            <EDITOR></EDITOR>
+        </AUTHORS>
+        <YEAR>1930</YEAR>
+        <ARTICLE_TITLE>Prokofieff Speaks</ARTICLE_TITLE>
+        <SUBSIDIARY_ARTICLE_TITLE>Russian Composer, Here This Week, Favors
+            Return to Simpler, More Melodic Style</SUBSIDIARY_ARTICLE_TITLE>
+        <PERIODICAL_TITLE>The New York Times</PERIODICAL_TITLE>
+        <PUBLISHER></PUBLISHER>
+        <VOLUME></VOLUME>
+        <NUMBER></NUMBER>
+        <PAGES>23, 174</PAGES>
+        <DATE>02/02/1930</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5></CUSTOM5>
+        <CUSTOM6>Digital</CUSTOM6>
+        <NOTES></NOTES>
+        <CALL_NUMBER>spa-tex-atl-0185-ef</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM></REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <EDITOR></EDITOR>
+        </AUTHORS>
+        <YEAR>1930</YEAR>
+        <ARTICLE_TITLE></ARTICLE_TITLE>
+        <PERIODICAL_TITLE>The Evening Post</PERIODICAL_TITLE>
+        <PUBLISHER></PUBLISHER>
+        <VOLUME></VOLUME>
+        <NUMBER></NUMBER>
+        <PAGES>175</PAGES>
+        <DATE>02/01/1930</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5></CUSTOM5>
+        <CUSTOM6>Digital</CUSTOM6>
+        <NOTES></NOTES>
+        <CALL_NUMBER>spa-tex-atl-0186-ef</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM></REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR></ARTICLE_AUTHOR>
+            <EDITOR></EDITOR>
+        </AUTHORS>
+        <YEAR>1930</YEAR>
+        <ARTICLE_TITLE>Wanted – A Simple Style</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>The Daily Telograph</PERIODICAL_TITLE>
+        <PUBLISHER></PUBLISHER>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <VOLUME></VOLUME>
+        <NUMBER></NUMBER>
+        <PAGES>177</PAGES>
+        <DATE>03/08/1930</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5></CUSTOM5>
+        <CUSTOM6>Digital</CUSTOM6>
+        <NOTES></NOTES>
+        <CALL_NUMBER>spa-tex-atl-0187-ef</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM></REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Buranelli, Prosper</ARTICLE_AUTHOR>
+            <EDITOR></EDITOR>
+        </AUTHORS>
+        <YEAR>1918</YEAR>
+        <ARTICLE_TITLE>East, West – And Music</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>The World Magazine</PERIODICAL_TITLE>
+        <PUBLISHER></PUBLISHER>
+        <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
+        <VOLUME></VOLUME>
+        <NUMBER></NUMBER>
+        <PAGES></PAGES>
+        <DATE>1918</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5></CUSTOM5>
+        <CUSTOM6>Digital</CUSTOM6>
+        <NOTES></NOTES>
+        <CALL_NUMBER>spa-tex-atl-0188-ef</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM></REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <EDITOR></EDITOR>
+        </AUTHORS>
+        <YEAR>1918</YEAR>
+        <ARTICLE_TITLE>Musical Courier</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Musical America</PERIODICAL_TITLE>
+        <PUBLISHER></PUBLISHER>
+        <VOLUME></VOLUME>
+        <NUMBER></NUMBER>
+        <PAGES>25</PAGES>
+        <DATE>09/28/1918</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5></CUSTOM5>
+        <CUSTOM6>Digital</CUSTOM6>
+        <NOTES></NOTES>
+        <CALL_NUMBER>spa-tex-atl-0189-ef</CALL_NUMBER>
+    </RECORD>
+    <RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM></REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <EDITOR></EDITOR>
+        </AUTHORS>
+        <YEAR>1918</YEAR>
+        <ARTICLE_TITLE>Russians Here Add $23,000,0000 To Loan</ARTICLE_TITLE>
+        <SUBSIDIARY_ARTICLE_TITLE>Prokofieff and Other Stars at big Carnegie Hall
+            Meeting – Martin Vogel Speaks</SUBSIDIARY_ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Musical America</PERIODICAL_TITLE>
+        <PUBLISHER></PUBLISHER>
+        <VOLUME></VOLUME>
+        <NUMBER></NUMBER>
+        <PAGES></PAGES>
+        <DATE>09/28/1918</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5></CUSTOM5>
+        <CUSTOM6>Digital</CUSTOM6>
+        <NOTES></NOTES>
+        <CALL_NUMBER>spa-tex-atl-0190-ef</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM></REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Martens, Frederick H.</ARTICLE_AUTHOR>
+            <EDITOR></EDITOR>
+        </AUTHORS>
+        <YEAR>1918</YEAR>
+        <ARTICLE_TITLE>Serge Prokofieff, Much-Discussed Ultra-Modern Russian Composer,
+            Now in New York, Tells of Conditions Under Bolsheviki – Latter Paying
+            Big Salaries to Note Artists, Bringing Out New Musical and Dramatic
+            Works in Sumptuous Style, and Regard Artists with Favor</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Musical America</PERIODICAL_TITLE>
+        <PUBLISHER></PUBLISHER>
+        <VOLUME></VOLUME>
+        <NUMBER></NUMBER>
+        <PAGES>15</PAGES>
+        <DATE>09/28/1918</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5></CUSTOM5>
+        <CUSTOM6>Digital</CUSTOM6>
+        <NOTES></NOTES>
+        <CALL_NUMBER>spa-tex-atl-0191-ef</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM></REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Martens, Frederick H.</ARTICLE_AUTHOR>
+            <EDITOR></EDITOR>
+        </AUTHORS>
+        <YEAR>1918</YEAR>
+        <ARTICLE_TITLE>The Last Word in Russian Music</ARTICLE_TITLE>
+        <SUBSIDIARY_ARTICLE_TITLE>An Interview wiht Serge Prokofieff</SUBSIDIARY_ARTICLE_TITLE>
+        <PERIODICAL_TITLE>The Musical Observer</PERIODICAL_TITLE>
+        <PUBLISHER></PUBLISHER>
+        <VOLUME></VOLUME>
+        <NUMBER></NUMBER>
+        <PAGES></PAGES>
+        <DATE>11/1918</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5></CUSTOM5>
+        <CUSTOM6>Digital</CUSTOM6>
+        <NOTES></NOTES>
+        <CALL_NUMBER>spa-tex-atl-0192-ef</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM></REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
+            <EDITOR></EDITOR>
+        </AUTHORS>
+        <YEAR>1918</YEAR>
+        <ARTICLE_TITLE>Program</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Boston Evening Transcript</PERIODICAL_TITLE>
+        <PUBLISHER></PUBLISHER>
+        <VOLUME></VOLUME>
+        <NUMBER></NUMBER>
+        <PAGES></PAGES>
+        <DATE>10/26/1918</DATE>
+        <ARTICLE_TYPE_OF_WORK>Program</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5></CUSTOM5>
+        <CUSTOM6>Digital</CUSTOM6>
+        <NOTES></NOTES>
+        <CALL_NUMBER>spa-tex-atl-0193-ef</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM></REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Seinen, Nathan</ARTICLE_AUTHOR>
+            <EDITOR></EDITOR>
+        </AUTHORS>
+        <YEAR>2009</YEAR>
+        <ARTICLE_TITLE>Kutuzov's Victory, Prokofiev's Defeat: The Revisions of 'War and Peace'</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Music &amp; Letters</PERIODICAL_TITLE>
+        <PUBLISHER>Oxford University Press</PUBLISHER>
+        <VOLUME></VOLUME>
+        <NUMBER></NUMBER>
+        <PAGES>1-33</PAGES>
+        <DATE>06/30/2009</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5></CUSTOM5>
+        <CUSTOM6>Digital</CUSTOM6>
+        <NOTES></NOTES>
+        <CALL_NUMBER>spa-tex-atl-0194-ef</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM></REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Thomson, Andrew</ARTICLE_AUTHOR>
+            <SUBSIDIARY_AUTHOR>Phillips, Anthony</SUBSIDIARY_AUTHOR>
+            <EDITOR></EDITOR>
+        </AUTHORS>
+        <YEAR>2007</YEAR>
+        <ARTICLE_TITLE>Salad days</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Music &amp; Letters</PERIODICAL_TITLE>
+        <PUBLISHER></PUBLISHER>
+        <VOLUME></VOLUME>
+        <NUMBER></NUMBER>
+        <PAGES>99-106</PAGES>
+        <DATE>Spring 2007</DATE>
+        <ARTICLE_TYPE_OF_WORK>Review</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5></CUSTOM5>
+        <CUSTOM6>Digital</CUSTOM6>
+        <NOTES>Review for Anthony Phillips' "Sergey Prokofiev: diaries 1907-1914: prodigious youth</NOTES>
+        <CALL_NUMBER>spa-tex-atl-0195-ef</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM></REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Newton, Paul</ARTICLE_AUTHOR>
+            <EDITOR></EDITOR>
+        </AUTHORS>
+        <YEAR>1938</YEAR>
+        <ARTICLE_TITLE>In Hollywood</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Trenton Evening Times</PERIODICAL_TITLE>
+        <PUBLISHER></PUBLISHER>
+        <VOLUME></VOLUME>
+        <NUMBER></NUMBER>
+        <PAGES>26</PAGES>
+        <DATE>08/04/1938</DATE>
+        <ARTICLE_TYPE_OF_WORK>Announcement</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5></CUSTOM5>
+        <CUSTOM6>Digital</CUSTOM6>
+        <NOTES></NOTES>
+        <CALL_NUMBER>spa-tex-atl-0196-ef</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM></REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Morrison, Simon</ARTICLE_AUTHOR>
+            <ARTICLE_AUTHOR>Kravetz, Nelly</ARTICLE_AUTHOR>
+            <EDITOR></EDITOR>
+        </AUTHORS>
+        <YEAR>2006</YEAR>
+        <ARTICLE_TITLE>The Canatata for the Twentieth Anniversary of October, or How
+            the Specter of Communism Haunted Prokofiev</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>The Journal of Musicology</PERIODICAL_TITLE>
+        <PUBLISHER>University of California's Press</PUBLISHER>
+        <VOLUME>23</VOLUME>
+        <NUMBER>2</NUMBER>
+        <PAGES>227-262</PAGES>
+        <DATE>2006</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5></CUSTOM5>
+        <CUSTOM6>Digital</CUSTOM6>
+        <NOTES></NOTES>
+        <CALL_NUMBER>spa-tex-atl-0197-ef</CALL_NUMBER>
+    </RECORD>
+<RECORD>
+        <REFERENCE_TYPE>1</REFERENCE_TYPE>
+        <REFNUM></REFNUM>
+        <AUTHORS>
+            <ARTICLE_AUTHOR>Slutskaya Levine, Katya</ARTICLE_AUTHOR>
+            <EDITOR></EDITOR>
+        </AUTHORS>
+        <YEAR>2006</YEAR>
+        <ARTICLE_TITLE>"Metempsychosis in Serge Prokofiev's Music of the Soviet Period:
+            The Opera Semyon Kotko</ARTICLE_TITLE>
+        <PERIODICAL_TITLE>Opera Journal</PERIODICAL_TITLE>
+        <PUBLISHER></PUBLISHER>
+        <VOLUME>39</VOLUME>
+        <NUMBER>3</NUMBER>
+        <PAGES>3-30</PAGES>
+        <DATE>09-2006</DATE>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <CUSTOM1>English</CUSTOM1>
+        <CUSTOM5></CUSTOM5>
+        <CUSTOM6>Digital</CUSTOM6>
+        <NOTES></NOTES>
+        <CALL_NUMBER>spa-tex-atl-0198-ef</CALL_NUMBER>
     </RECORD>
 </outputxml>
