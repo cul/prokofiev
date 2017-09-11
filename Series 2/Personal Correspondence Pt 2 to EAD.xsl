@@ -3,6 +3,7 @@
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xs="http://www.w3.org/2001/XMLSchema"
     exclude-result-prefixes="xs"
     version="2.0">
+
 <!-- xsl for letters 1930-1947 -->
     
     <xsl:output method="xml" indent="yes"/>
@@ -11,7 +12,9 @@
        2. Import file in Oxygen - convert to XML:
           File->Import->Text
           Check box: "First row contains field names"
-       3. Column headers turned into tag names -->
+       3. Column headers turned into tag names
+          Check header names for consistency (caps, underscores, etc.)
+ -->
 
 
 <xsl:template match="row">
@@ -29,13 +32,15 @@
 
     <xsl:variable name="Unitdate">
     </xsl:variable>
-    
+
     <xsl:text>&#xa;</xsl:text>
-    <xsl:comment>EAD SPA_<xsl:number value="$SPA"/></xsl:comment>
+    <xsl:comment>EAD SPA_<xsl:number value="$SPA"/>, Access_ID: <xsl:apply-templates select="Access_ID"></xsl:apply-templates>
+    </xsl:comment>
     <xsl:text>&#xa;</xsl:text>
 
 
  <c>
+     <did>
      <!-- if no exact date, choose implied date -->
      <xsl:choose>
          <xsl:when test="Exact_unitdate[string-length(text())>0]">
@@ -43,7 +48,7 @@
                  <xsl:apply-templates select="Sender_Name"/>
                  <xsl:text> to </xsl:text>
                  <xsl:apply-templates select="Recipient_Name"/>
-                 <!-- comma? <xsl:text>, </xsl:text> -->
+                 <xsl:text>, </xsl:text>
                  <unitdate>
                  <xsl:apply-templates select="Exact_unitdate"/>
                  </unitdate>
@@ -55,6 +60,7 @@
                  <xsl:apply-templates select="Sender_Name"/>
                  <xsl:text> to </xsl:text>
                  <xsl:apply-templates select="Recipient_Name"/>
+                 <xsl:text>, </xsl:text>
                  <unitdate>
                  <xsl:apply-templates select="Implied_unitdate"/>
                  </unitdate>
@@ -63,7 +69,6 @@
 
      </xsl:choose>
 
-     <did>
          <container type="Box" label="Box">
             <xsl:apply-templates select="Box_no"/>
          </container>
@@ -72,7 +77,7 @@
             <xsl:apply-templates select="Folder_Name"/>
          </container>
 
-         <notes>
+         <note>
 
              <p>ID: SPA_<xsl:number value="$SPA"/></p><xsl:text>&#xa;</xsl:text>
 
@@ -90,26 +95,27 @@
 
     <!-- xpath expression to test Goldsmith locator code:
          //p[starts-with(text(),'Gold')] -->
-             
+
              <p>Goldsmith locator: <xsl:choose>
                  <xsl:when test="Goldsmith_Binder2[text()='Not applicable']">
                      <xsl:text>Not applicable</xsl:text>
-                   
+
                  </xsl:when>
-                 
+
                  <xsl:otherwise>
                      <xsl:apply-templates select="Goldsmith_Binder2"/>
                      <xsl:apply-templates select="Goldsmith_Binder_Starting_Page"/>
-                 </xsl:otherwise>    
-                 
+                 </xsl:otherwise>
+
              </xsl:choose>&#xa;
              </p>
-         </notes>
+         </note>
      </did>
  </c>
 
 </xsl:template>
 
+    <xsl:template match="Access_ID"><xsl:value-of select="."/></xsl:template>    
     <xsl:template match="Box_no"><xsl:value-of select="."/></xsl:template>
     <xsl:template match="Folder_name"><xsl:value-of select="."/></xsl:template>
     <xsl:template match="Goldsmith_Binder2">Binder&#x20;<xsl:value-of select="."/></xsl:template>
