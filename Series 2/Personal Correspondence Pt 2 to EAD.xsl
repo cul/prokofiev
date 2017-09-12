@@ -39,7 +39,7 @@
     <xsl:text>&#xa;</xsl:text>
 
 
- <c>
+<c level="file">
      <did>
      <!-- if no exact date, choose implied date -->
      <xsl:choose>
