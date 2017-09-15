@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<outputxml> 
-    <!-- 40 items -->
+<outputxml>
+    <!-- 36 items -->
 <RECORD>
         <REFERENCE_TYPE>1</REFERENCE_TYPE>
         <REFNUM>33</REFNUM>
@@ -22,7 +22,7 @@
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM3>SP analytical literature</CUSTOM3>
         <CUSTOM5>28/11/2000 (revised 14/02/2006)</CUSTOM5>
-        <CUSTOM6>Digital</CUSTOM6> 
+        <CUSTOM6>Digital</CUSTOM6>
         <URL>Q:\prokofiev\DIGITISED HOLDINGS\TEXTS\Articles\spa-tex-atl-0113-ef</URL>
         <CALL_NUMBER>spa-tex-atl-0113-ef</CALL_NUMBER>
     </RECORD>

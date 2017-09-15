@@ -12,7 +12,7 @@
             <xsl:variable name="spa">
                 <xsl:number count="RECORD"></xsl:number>
             </xsl:variable>
-    <xsl:comment>EAD SPA_<xsl:number value="$spa + 1501"/></xsl:comment>
+    <xsl:comment>EAD SPA_<xsl:number value="$spa + 13351"/></xsl:comment>
     <xsl:text>&#xa;</xsl:text>
     <c level="file">
       <did>           
@@ -22,7 +22,7 @@
            <xsl:apply-templates select="AUTHORS/AUTHOR"></xsl:apply-templates>
            <xsl:apply-templates select="SUBSIDIARY_AUTHORS/SUBSIDIARY_AUTHOR"></xsl:apply-templates>
                
-               <p>ID: SPA_<xsl:number value="$spa + 1501"/></p>    
+               <p>ID: SPA_<xsl:number value="$spa + 13351"/></p>    
                
            <xsl:apply-templates select="PUBLISHER"></xsl:apply-templates>
            <xsl:apply-templates select="YEAR"></xsl:apply-templates>

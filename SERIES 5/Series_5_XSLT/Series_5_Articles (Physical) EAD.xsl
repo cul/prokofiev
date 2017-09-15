@@ -1,6 +1,6 @@
 <!-- convert Series_5_Articles (Physical).xml
           to Series_5_Articles (Physical)EAD.xml  - - MS 7/17/17 -->
-
+<!-- With updated Numbers 9/15/17-->
 <xsl:stylesheet
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xs="http://www.w3.org/2001/XMLSchema"
     exclude-result-prefixes="xs"
@@ -14,7 +14,7 @@
         </xsl:variable>
         
         <xsl:variable name="SPA">
-            <xsl:number value="$Recordnum + 1913"/>
+            <xsl:number value="$Recordnum + 14081"/>
         </xsl:variable>
         
         

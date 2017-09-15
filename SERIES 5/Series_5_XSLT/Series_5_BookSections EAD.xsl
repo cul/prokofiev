@@ -20,7 +20,7 @@
      Change 0 to start number (minus 1) -->
 
       <xsl:variable name="SPA">
-          <xsl:number value="$Recordnum + 0"/>
+          <xsl:number value="$Recordnum + 13763"/>
       </xsl:variable>
 
       <xsl:comment>EAD SPA_<xsl:number value="$SPA"/></xsl:comment>

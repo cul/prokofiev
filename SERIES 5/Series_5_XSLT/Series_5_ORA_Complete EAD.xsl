@@ -1,8 +1,7 @@
 <!-- convert Series_5_ORA_Complete.xml
           to Series_5_ORA_Complete EAD.xml  - - MS 8/2/17 -->
 
-<!-- Change EAD Number 
-     Continue number series of BookSections -->
+<!-- number series after digital articles -->
 
 <xsl:stylesheet
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xs="http://www.w3.org/2001/XMLSchema"
@@ -20,7 +19,7 @@
           Change 0 to start number (minus 1) -->
 
         <xsl:variable name="SPA">
-            <xsl:number value="$Recordnum + 0"/>
+            <xsl:number value="$Recordnum + 14292"/>
         </xsl:variable>
 
         <xsl:comment>EAD SPA_<xsl:number value="$SPA"/></xsl:comment>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<outputxml>
-  
-   <!--EAD SPA_1    Should start with SPA_2396>  --> 
+
+<!--EAD SPA_13764-->
 <c level="file">
    <did>
       <unittitle>Love for Three Oranges: the collaboration of Vsevolod Meyerhold and Sergei
          Prokofiev</unittitle>
       <note>
-         <p>ID: SPA_1</p>
+         <p>Creator: Robinson, Harlow</p>
+         <p>ID: SPA_13764</p>
          <p>Book title: Studies on 20th Century Music in East and Eastern Middle
          Europe, Detlef Gojowy (ed.)</p>
          <p>Pages: 79-102</p>
@@ -21,13 +21,13 @@
    </did>
 </c>
 
-<!--EAD SPA_2-->
+<!--EAD SPA_13765-->
 <c level="file">
    <did>
       <unittitle>Serge Prokofieff</unittitle>
       <note>
          <p>Creator: Bruyr, José</p>
-         <p>ID: SPA_2</p>
+         <p>ID: SPA_13765</p>
          <p>Book title: L'Ecran des Musiciens (seconde série)</p>
          <p>Pages: 11-31</p>
          <p>Publication date: 1933</p>
@@ -40,13 +40,13 @@
    </did>
 </c>
 
-<!--EAD SPA_3-->
+<!--EAD SPA_13766-->
 <c level="file">
    <did>
       <unittitle>Egipetskie Nochi</unittitle>
       <note>
          <p>Creator: Tairov, A. Ia.</p>
-         <p>ID: SPA_3</p>
+         <p>ID: SPA_13766</p>
          <p>Book title: Zapiski rezhissera: Stati, besedy, rechi, pis'ma</p>
          <p>Pages: 361-375 + notes 554-8</p>
          <p>Publication date: 1970</p>
@@ -59,13 +59,13 @@
    </did>
 </c>
 
-<!--EAD SPA_4-->
+<!--EAD SPA_13767-->
 <c level="file">
    <did>
       <unittitle>O Prokof'eve</unittitle>
       <note>
          <p>Creator: Richter, Sviatoslav</p>
-         <p>ID: SPA_4</p>
+         <p>ID: SPA_13767</p>
          <p>Book title: Pianisty rasskazyvaiut: Sbornik statei, Sokolov, M. (ed.)</p>
          <p>Pages: 132-146</p>
          <p>Publication date: 1988</p>
@@ -78,13 +78,13 @@
    </did>
 </c>
 
-<!--EAD SPA_5-->
+<!--EAD SPA_13768-->
 <c level="file">
    <did>
       <unittitle>Posle "Romeo i Dzhul'etty"</unittitle>
       <note>
          <p>Creator: Vul'f, Vitalii</p>
-         <p>ID: SPA_5</p>
+         <p>ID: SPA_13768</p>
          <p>Book title: Teatral'nyi dozhd': Zametki i esse</p>
          <p>Pages: 34-41</p>
          <p>Publication date: 1998</p>
@@ -97,13 +97,13 @@
    </did>
 </c>
 
-<!--EAD SPA_6-->
+<!--EAD SPA_13769-->
 <c level="file">
    <did>
       <unittitle>S. A. Samosud</unittitle>
       <note>
          <p>Creator: Samosud, S. A.</p>
-         <p>ID: SPA_6</p>
+         <p>ID: SPA_13769</p>
          <p>Book title: S. A. Samosud: Stat'i, vospominaniia, pis'ma, Dansker, O. L. (ed.)</p>
          <p>Publication date: 1984</p>
          <p>Publisher: Sovetskii Kompozitor, Moskva</p>
@@ -116,13 +116,13 @@
    </did>
 </c>
 
-<!--EAD SPA_7-->
+<!--EAD SPA_13770-->
 <c level="file">
    <did>
       <unittitle>Bibliograficheskii</unittitle>
       <note>
          <p>Creator: Levidova, I M</p>
-         <p>ID: SPA_7</p>
+         <p>ID: SPA_13770</p>
          <p>Book title: Uil'iam Shekspir: Bibliograficheskii ukazatel' russkikh
          perevodov i kriticheskoi literatury na russkom iazyke 1963-1975</p>
          <p>Publication date: 1978</p>
@@ -136,14 +136,14 @@
    </did>
 </c>
 
-<!--EAD SPA_8-->
+<!--EAD SPA_13771-->
 <c level="file">
    <did>
       <unittitle>Repertuar Teatra 1917 - 1957. Gosudarstvennyi ordena Lenina akademicheskii teatr opery i baleta imeni S.
          M. Kirova [Kirov state order of Lenin Academic Opera and Ballet
          Theatre]</unittitle>
       <note>
-         <p>ID: SPA_8</p>
+         <p>ID: SPA_13771</p>
          <p>Pages: 143-175</p>
          <p>Publication date: 1957</p>
          <p>Language: Russian</p>
@@ -154,13 +154,13 @@
    </did>
 </c>
 
-<!--EAD SPA_9-->
+<!--EAD SPA_13772-->
 <c level="file">
    <did>
       <unittitle>Ob avtoraU Prokof'eva</unittitle>
       <note>
          <p>Creator: Khentova, Sof'ia</p>
-         <p>ID: SPA_9</p>
+         <p>ID: SPA_13772</p>
          <p>Book title: Rostropovich</p>
          <p>Pages: 53-79</p>
          <p>Publication date: 1993</p>
@@ -174,14 +174,14 @@
    </did>
 </c>
 
-<!--EAD SPA_10-->
+<!--EAD SPA_13773-->
 <c level="file">
    <did>
       <unittitle>The Symphony</unittitle>
       <note>
          <p>Creator: Asafiev, Boris Vladimirovich</p>
          <p>Secondary creator: Angelini, Jane (trans.)</p>
-         <p>ID: SPA_10</p>
+         <p>ID: SPA_13773</p>
          <p>Book title: Ocherki sovetskogo muzykal'nogo tvorchestva</p>
          <p>Publication date: 1947</p>
          <p>Language: English</p>
@@ -193,12 +193,12 @@
    </did>
 </c>
 
-<!--EAD SPA_11-->
+<!--EAD SPA_13774-->
 <c level="file">
    <did>
       <unittitle>Prokof'ev</unittitle>
       <note>
-         <p>ID: SPA_11</p>
+         <p>ID: SPA_13774</p>
          <p>Book title: Unknown</p>
          <p>Pages: 194-205</p>
          <p>Language: Russian</p>
@@ -212,4 +212,3 @@
    </did>
 </c>
 
-</outputxml>

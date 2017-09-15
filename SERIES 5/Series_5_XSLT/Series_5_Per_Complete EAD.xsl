@@ -20,7 +20,7 @@
         </xsl:variable>
         
         <xsl:variable name="SPA">
-            <xsl:number value="$Recordnum + 2088"/>
+            <xsl:number value="$Recordnum + 13774"/>
         </xsl:variable>
         
         <xsl:comment>EAD SPA_<xsl:number value="$SPA"/></xsl:comment>
