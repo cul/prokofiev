@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<c level="subseries">
+
+    <did>
+       <unittitle>Subseries V.1: Books<unitdate type="inclusive"
+       /></unittitle>
+    </did>
+
 <!--EAD SPA_13352-->
 <c level="file">
    <did>
@@ -7003,4 +7009,5 @@
          <p>Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London</p>
       </note>
    </did>
+</c>
 </c>

@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<c level="subseries">
+          <did>
+             <unittitle>Subseries V.3: Periodicals and Articles<unitdate type="inclusive"
+             /></unittitle>
+          </did>
+
 <!--EAD SPA_13775-->
 <c level="file">
    <did>
@@ -5656,6 +5661,4 @@
       </note>
    </did>
 </c>
-
-
-
+</c>
