@@ -7475,7 +7475,7 @@ Novodevichy Cemetery in Moscow. -->
                </did>
             </c>
 
-
+            </c>
 
             <c level="subseries">
                <did>
@@ -7485,8 +7485,8 @@ Novodevichy Cemetery in Moscow. -->
                <scopecontent>
                   <p>105 microfilm copies of Prokofiev musical works.</p>
                </scopecontent>
-            </c>
-
+            
+         
 
             <c level="file">
                <did>
@@ -10837,6 +10837,7 @@ Novodevichy Cemetery in Moscow. -->
                   </note>
                </did>
             </c>
+         
 
 
             <c level="subseries">
@@ -10848,7 +10849,7 @@ Novodevichy Cemetery in Moscow. -->
                   <p>57 digital copies of Prokofiev musical works. Some works contain annotations
                      added after Prokofiev's death.</p>
                </scopecontent>
-            </c>
+            
 
             <c level="file">
                <did>
@@ -12574,6 +12575,8 @@ Novodevichy Cemetery in Moscow. -->
                </did>
             </c>
          </c>
+       </c>
+     </c>
          <c level="series">
             <!-- Series II -->
             <did>
@@ -12717,8 +12720,8 @@ Novodevichy Cemetery in Moscow. -->
                   choruses with orchestra, band music, chamber music, instrumental music, songs,
                   piano music). </p>
             </scopecontent>
-            <c level="subseries">
-               <!-- Subseries III.1 -->
+            <c level="subseries"><!--Subseries III.1-->
+               
                <did>
                   <unittitle>Subseries III.1: Prokofiev Collected Works, Belwin Mills, <unitdate
                         type="inclusive">1979-1980</unitdate></unittitle>
@@ -12728,7 +12731,7 @@ Novodevichy Cemetery in Moscow. -->
                   <p>Ninety-three (93) volumes of Prokofiev’s collected works published by Belwin
                      Mills.</p>
                </scopecontent>
-            </c>
+            
           <!--EAD SPA_374-->
    <c level="file">
       <did>
@@ -14636,6 +14639,7 @@ Novodevichy Cemetery in Moscow. -->
          </note>
       </did>
    </c>
+ </c>
  <c level="subseries">
                <!-- Subseries III.2 -->
                <did>
@@ -14647,7 +14651,7 @@ Novodevichy Cemetery in Moscow. -->
                   <p>Twelve (12) volumes of Prokofiev’s collected works published by the Soviet
                      State Music Publishing House.</p>
                </scopecontent>
-            </c>
+            
             <!--EAD SPA_467-->
             <c level="file">
                <did>
@@ -14907,7 +14911,7 @@ Novodevichy Cemetery in Moscow. -->
                   </note>
                </did>
             </c>
-
+ </c>
 <c level="subseries">
                <!-- Subseries III.3 -->
                <did>
@@ -14918,7 +14922,7 @@ Novodevichy Cemetery in Moscow. -->
                   <p>Three hundred and forty-one (341) editions of Prokofiev’s works by various
                      publishers.</p>
                </scopecontent>
-            </c>
+            
  <!--EAD SPA_479-->
    <c level="file">
       <did>
@@ -22064,6 +22068,7 @@ Novodevichy Cemetery in Moscow. -->
          </note>
       </did>
    </c>
+
    <!--EAD SPA_819-->
    <c level="file">
       <did>
@@ -22085,7 +22090,7 @@ Novodevichy Cemetery in Moscow. -->
          </note>
       </did>
    </c>
-
+</c>
             <c level="subseries">
                <!-- Subseries III.4 SP Arrangments 820-856-->
                <did>
@@ -22095,7 +22100,7 @@ Novodevichy Cemetery in Moscow. -->
                <scopecontent>
                   <p>Thirty-seven (37) arrangements of Prokofiev’s works.</p>
                </scopecontent>
-            </c>
+            
   <!--EAD SPA_820-->
    <c level="file">
       <did>
@@ -22905,7 +22910,7 @@ Novodevichy Cemetery in Moscow. -->
          </note>
       </did>
    </c>
-
+            </c>
             <c level="subseries">
                <!--Subseries III.5 Works by other composers 857-864-->
                <did>
@@ -22915,7 +22920,7 @@ Novodevichy Cemetery in Moscow. -->
                <scopecontent>
                   <p>Eight (8) volumes of works by other Russian composers.</p>
                </scopecontent>
-            </c>
+            
             <!--EAD SPA_857-->
             <c level="file">
                <did>
@@ -23086,7 +23091,7 @@ Novodevichy Cemetery in Moscow. -->
                   </note>
                </did>
             </c>
-
+            </c>
             <c level="subseries">
                <!-- Subseries III.6. Oversize 865-884-->
                <did>
@@ -23096,7 +23101,7 @@ Novodevichy Cemetery in Moscow. -->
                <scopecontent>
                   <p>Twenty (20) oversize editions of Prokofiev’s works by various publishers.</p>
                </scopecontent>
-            </c>
+          
   <!--EAD SPA_865-->
    <c level="file">
       <did>
@@ -23523,8 +23528,9 @@ Novodevichy Cemetery in Moscow. -->
          </note>
       </did>
    </c>
+            </c>
 <c level="subseries">
-               <!-- Subseries 7. Duplicates. 885-907 -->
+               <!-- Subseries III.7. Duplicates. 885-907 -->
                <did>
                   <unittitle>Subseries III.7: Duplicate items, <unitdate type="inclusive"
                         >1958-2011</unitdate></unittitle>
@@ -23532,7 +23538,7 @@ Novodevichy Cemetery in Moscow. -->
                <scopecontent>
                   <p>Twenty-three (23) duplicates of volumes found elsewhere in this series.</p>
                </scopecontent>
-            </c>
+         
    <!--EAD SPA_885-->
    <c level="file">
       <did>
@@ -24008,7 +24014,8 @@ Novodevichy Cemetery in Moscow. -->
          </note>
       </did>
    </c>
-         </c>
+  </c>
+</c>
          <c level="series">
    <!-- Series IV: Concert Programs -->
    <did>
@@ -37548,10 +37555,12 @@ Novodevichy Cemetery in Moscow. -->
             <p>412 books and xx perioicals (journals, articles, reviews, excertps, book sections) related to Prokofiev's work and life</p>
          </scopecontent>
          <c level="subseries">
+            
             <did>
                <unittitle>Subseries V.1: Books<unitdate type="inclusive"
                /></unittitle>
             </did>
+            
 <!--EAD SPA_1502-->
 <c level="file">
    <did>
