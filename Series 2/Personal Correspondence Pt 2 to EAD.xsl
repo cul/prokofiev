@@ -85,7 +85,7 @@
              <xsl:apply-templates select="Sender_Organization"/>
              <xsl:apply-templates select="Recipient_address_merged"/>
              <xsl:apply-templates select="Recipient_Organization"/>
-             <xsl:apply-templates select="Extent_pages"/>
+             <xsl:apply-templates select="Extent_Pages"/>
              <xsl:apply-templates select="Language"/>
              <xsl:apply-templates select="Type"/>
              <xsl:apply-templates select="Format"/>
@@ -115,13 +115,15 @@
 
 </xsl:template>
 
+    
+
     <xsl:template match="Access_ID"><xsl:value-of select="."/></xsl:template>    
     <xsl:template match="Box_no"><xsl:value-of select="."/></xsl:template>
     <xsl:template match="Folder_name"><xsl:value-of select="."/></xsl:template>
     <xsl:template match="Goldsmith_Binder2">Binder&#x20;<xsl:value-of select="."/></xsl:template>
     <xsl:template match="Goldsmith_Binder_Starting_Page[string-length(text())>0]"><xsl:text>, page </xsl:text><xsl:value-of select="."/></xsl:template>
-    <xsl:template match="Exact_unitdate"><xsl:value-of select="."/></xsl:template>
-    <xsl:template match="Extent_pages"><p>Extent: <xsl:value-of select="."/> page(s)</p></xsl:template>
+    <xsl:template match="Exact_unitdate"><xsl:value-of select="."/></xsl:template>    
+    <xsl:template match="Extent_Pages"><p>Extent: <xsl:value-of select="."/> Page(s)</p></xsl:template>    
     <xsl:template match="Sender_Name"><xsl:value-of select="."/></xsl:template>
     <xsl:template match="Implied_unitdate"><xsl:value-of select="."/></xsl:template>
     <xsl:template match="Sender_address_merged[string-length(text())>0]"><p>Sender address: <xsl:value-of select="."/></p></xsl:template>

@@ -18,6 +18,7 @@
 
 
 <xsl:template match="row">
+  
 
     <xsl:variable name="Recordnum">
         <xsl:number count="row"></xsl:number>
@@ -82,11 +83,12 @@
 
              <p>ID: SPA_<xsl:number value="$SPA"/></p><xsl:text>&#xa;</xsl:text>
 
+             
              <xsl:apply-templates select="Sender_address_merged"/>
              <xsl:apply-templates select="Sender_Organization"/>
              <xsl:apply-templates select="Recipient_address_merged"/>
              <xsl:apply-templates select="Recipient_Organization"/>
-             <xsl:apply-templates select="Extent_pages"/>
+             <xsl:apply-templates select="Extent_Pages"/>
              <xsl:apply-templates select="Language"/>
              <xsl:apply-templates select="Type"/>
              <xsl:apply-templates select="Format"/>
@@ -112,7 +114,7 @@
  </c>
 
 </xsl:template>
-
+    
     <xsl:template match="Access_ID"><xsl:value-of select="."/></xsl:template>
     <xsl:template match="Box_no"><xsl:value-of select="."/></xsl:template>
     <xsl:template match="Folder_name"><xsl:value-of select="."/></xsl:template>
@@ -130,6 +132,8 @@
     <xsl:template match="Type"><p>Document type: <xsl:value-of select="."/></p></xsl:template>
     <xsl:template match="Format"><p>Format: <xsl:value-of select="."/></p></xsl:template>
     <xsl:template match="Version"><p>Original or Copy: <xsl:value-of select="."/></p></xsl:template>
+    <xsl:template match="Extent_Pages"><p><xsl:value-of select="."/> page(s)</p></xsl:template>
+    
     <xsl:template match="Language"><p>Language: <xsl:value-of select="."/></p></xsl:template>
     <xsl:template match="Notes[string-length(text())>0]"><p>Notes: <xsl:value-of select="."/></p></xsl:template>
     <xsl:template match="Provenance"><p>Previous holding library: <xsl:value-of select="."/></p></xsl:template>
