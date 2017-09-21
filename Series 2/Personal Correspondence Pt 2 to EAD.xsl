@@ -15,7 +15,9 @@
        3. Column headers turned into tag names
           Check header names for consistency (caps, underscores, etc.)
  -->
-
+<!-- Header name "Goldsmith_Binder2" rather than 'Goldsmith_Binder' as in pt 1 of letters. 
+    also its Goldsmiths_Binder_Starting_Page, with an 'S'in csv. Changed to singular in xml 
+    to match pt 1 letters -->
 
 <xsl:template match="row">
 
@@ -43,14 +45,14 @@
      <did>
      <!-- if no exact date, choose implied date -->
      <xsl:choose>
-         <xsl:when test="Exact_unitdate[string-length(text())>0]">
+         <xsl:when test="Exact_Unitdate[string-length(text())>0]">
              <unittitle>
                  <xsl:apply-templates select="Sender_Name"/>
                  <xsl:text> to </xsl:text>
                  <xsl:apply-templates select="Recipient_Name"/>
                  <xsl:text>, </xsl:text>
                  <unitdate>
-                 <xsl:apply-templates select="Exact_unitdate"/>
+                 <xsl:apply-templates select="Exact_Unitdate"/>
                  </unitdate>
              </unittitle>
          </xsl:when>
@@ -62,7 +64,7 @@
                  <xsl:apply-templates select="Recipient_Name"/>
                  <xsl:text>, </xsl:text>
                  <unitdate>
-                 <xsl:apply-templates select="Implied_unitdate"/>
+                 <xsl:apply-templates select="Implied_Unitdate"/>
                  </unitdate>
              </unittitle>
          </xsl:otherwise>
@@ -70,7 +72,7 @@
      </xsl:choose>
 
          <container type="Box" label="Box">
-            <xsl:apply-templates select="Box_no"/>
+            <xsl:apply-templates select="Box_No"/>
          </container>
 
          <container type="Folder" label="Folder">
@@ -81,9 +83,9 @@
 
              <p>ID: SPA_<xsl:number value="$SPA"/></p><xsl:text>&#xa;</xsl:text>
 
-             <xsl:apply-templates select="Sender_address_merged"/>
+             <xsl:apply-templates select="Sender_Address_Merged"/>
              <xsl:apply-templates select="Sender_Organization"/>
-             <xsl:apply-templates select="Recipient_address_merged"/>
+             <xsl:apply-templates select="Recipient_Address_Merged"/>
              <xsl:apply-templates select="Recipient_Organization"/>
              <xsl:apply-templates select="Extent_Pages"/>
              <xsl:apply-templates select="Language"/>
@@ -96,7 +98,7 @@
     <!-- xpath expression to test Goldsmith locator code:
          //p[starts-with(text(),'Gold')] -->
 
-             <p>Goldsmith locator: <xsl:choose>
+             <p>Goldsmiths locator: <xsl:choose>
                  <xsl:when test="Goldsmith_Binder2[text()='Not applicable']">
                      <xsl:text>Not applicable</xsl:text>
 
@@ -118,18 +120,18 @@
     
 
     <xsl:template match="Access_ID"><xsl:value-of select="."/></xsl:template>    
-    <xsl:template match="Box_no"><xsl:value-of select="."/></xsl:template>
-    <xsl:template match="Folder_name"><xsl:value-of select="."/></xsl:template>
+    <xsl:template match="Box_No"><xsl:value-of select="."/></xsl:template>
+    <xsl:template match="Folder_Name"><xsl:value-of select="."/></xsl:template>
     <xsl:template match="Goldsmith_Binder2">Binder&#x20;<xsl:value-of select="."/></xsl:template>
     <xsl:template match="Goldsmith_Binder_Starting_Page[string-length(text())>0]"><xsl:text>, page </xsl:text><xsl:value-of select="."/></xsl:template>
-    <xsl:template match="Exact_unitdate"><xsl:value-of select="."/></xsl:template>    
+    <xsl:template match="Exact_Unitdate"><xsl:value-of select="."/></xsl:template>    
     <xsl:template match="Extent_Pages"><p>Extent: <xsl:value-of select="."/> Page(s)</p></xsl:template>    
     <xsl:template match="Sender_Name"><xsl:value-of select="."/></xsl:template>
-    <xsl:template match="Implied_unitdate"><xsl:value-of select="."/></xsl:template>
-    <xsl:template match="Sender_address_merged[string-length(text())>0]"><p>Sender address: <xsl:value-of select="."/></p></xsl:template>
+    <xsl:template match="Implied_Unitdate"><xsl:value-of select="."/></xsl:template>
+    <xsl:template match="Sender_Address_Merged[string-length(text())>0]"><p>Sender address: <xsl:value-of select="."/></p></xsl:template>
     <xsl:template match="Sender_Organization[string-length(text())>0]"><p>Sender organization: <xsl:value-of select="."/></p></xsl:template>
     <xsl:template match="Recipient_Name"><xsl:value-of select="."/></xsl:template>
-    <xsl:template match="Recipient_address_merged[string-length(text())>0]"><p>Recipient address: <xsl:value-of select="."/></p></xsl:template>
+    <xsl:template match="Recipient_Address_Merged[string-length(text())>0]"><p>Recipient address: <xsl:value-of select="."/></p></xsl:template>
     <xsl:template match="Recipient_Organization[string-length(text())>0]"><p>Recipient organization: <xsl:value-of select="."/></p></xsl:template>
     <xsl:template match="Type"><p>Document type: <xsl:value-of select="."/></p></xsl:template>
     <xsl:template match="Format"><p>Format: <xsl:value-of select="."/></p></xsl:template>
