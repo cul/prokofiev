@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <outputxml>
     <!-- 36 items -->
+    <!-- Replaced <EDITOR> with <PERIODICAL_EDITOR> -->
 <RECORD>
         <REFERENCE_TYPE>1</REFERENCE_TYPE>
         <REFNUM>33</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Bass, Richard</ARTICLE_AUTHOR>
-            <EDITOR></EDITOR>
+            <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1988</YEAR>
         <ARTICLE_TITLE>Prokofiev's Technique of Chromatic Displacement</ARTICLE_TITLE>
@@ -31,7 +32,7 @@
         <REFNUM>2518</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Pople, Anthony</ARTICLE_AUTHOR>
-            <EDITOR></EDITOR>
+            <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1994</YEAR>
         <ARTICLE_TITLE>Modernism in Russian Piano Music: Skriabin, Prokofiev, and Their Russian
@@ -57,7 +58,7 @@
         <AUTHORS>
             <ARTICLE_AUTHOR>Zimmerman, Daniel J</ARTICLE_AUTHOR>
             <SUBSIDIARY_AUTHOR>Minturn, Neil</SUBSIDIARY_AUTHOR>
-            <EDITOR></EDITOR>
+            <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1998</YEAR>
         <ARTICLE_TITLE>The Music of Sergei Prokofiev</ARTICLE_TITLE>
@@ -81,7 +82,7 @@
         <REFNUM>2526</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Santa, Matthew</ARTICLE_AUTHOR>
-            <EDITOR></EDITOR>
+            <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2000</YEAR>
         <ARTICLE_TITLE>Analysing Post-Tonal Diatonic Music: A Modulo 7 Perspective</ARTICLE_TITLE>
@@ -110,7 +111,7 @@
             <ARTICLE_AUTHOR>Zeeuw, Anne Marie de</ARTICLE_AUTHOR>
             <SUBSIDIARY_AUTHOR>Mawer, Deborah</SUBSIDIARY_AUTHOR>
             <SUBSIDIARY_AUTHOR>Minturn, Neil</SUBSIDIARY_AUTHOR>
-            <EDITOR></EDITOR>
+            <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2000</YEAR>
         <ARTICLE_TITLE>Darius Milhaud: Modality and Structure in Music of the 1920s</ARTICLE_TITLE>
@@ -137,7 +138,7 @@
         <REFNUM>2525</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Beeson, Roger A.</ARTICLE_AUTHOR>
-            <EDITOR></EDITOR>
+            <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1999</YEAR>
         <ARTICLE_TITLE>The Music of Sergei Prokofiev</ARTICLE_TITLE>
@@ -161,7 +162,7 @@
         <REFNUM>2554</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Nickel, Helen</ARTICLE_AUTHOR>
-            <EDITOR>Block, L. A.</EDITOR>
+            <PERIODICAL_EDITOR>Block, L. A.</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1933</YEAR>
         <ARTICLE_TITLE>Theaters for Children</ARTICLE_TITLE>
@@ -184,11 +185,12 @@
         <REFNUM>2555</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Tairov, A.</ARTICLE_AUTHOR>
-            <EDITOR>Block, L. A.</EDITOR>
+            <PERIODICAL_EDITOR>Block, L. A.</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1934</YEAR>
         <ARTICLE_TITLE>How We Produce the Classics</ARTICLE_TITLE>
         <PERIODICAL_TITLE>Soviet Travel</PERIODICAL_TITLE>
+        <SUBSIDIARY_PERIODICAL_TITLE>Special Theatre Number</SUBSIDIARY_PERIODICAL_TITLE>
         <PUBLISHER></PUBLISHER>
         <NUMBER>3</NUMBER>
         <PAGES>23-24</PAGES>
@@ -208,7 +210,7 @@
         <REFNUM>2556</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Prokofieff, Serge</ARTICLE_AUTHOR>
-            <EDITOR>Block, L. A.</EDITOR>
+            <PERIODICAL_EDITOR>Block, L. A.</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1934</YEAR>
         <ARTICLE_TITLE>Soviet Audiences and My Work</ARTICLE_TITLE>
@@ -231,7 +233,7 @@
         <REFNUM>2557</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Satz, Natalia</ARTICLE_AUTHOR>
-            <EDITOR>Block, L. A.</EDITOR>
+            <PERIODICAL_EDITOR>Block, L. A.</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1934</YEAR>
         <ARTICLE_TITLE>The Children's Theatre</ARTICLE_TITLE>
@@ -255,7 +257,7 @@
         <REFNUM>2558</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Bogomazov, S.</ARTICLE_AUTHOR>
-            <EDITOR>Block, L. A.</EDITOR>
+            <PERIODICAL_EDITOR>Block, L. A.</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1934</YEAR>
         <ARTICLE_TITLE>Visiting the Moscow Theatres</ARTICLE_TITLE>
@@ -279,8 +281,8 @@
         <REFERENCE_TYPE>1</REFERENCE_TYPE>
         <REFNUM>2559</REFNUM>
         <AUTHORS>
-            <ARTICLE_AUTHOR>Volkov, N</ARTICLE_AUTHOR>
-            <EDITOR>Block, L. A.</EDITOR>
+            <ARTICLE_AUTHOR>Volkov, N.</ARTICLE_AUTHOR>
+            <PERIODICAL_EDITOR>Block, L. A.</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1934</YEAR>
         <ARTICLE_TITLE>Vsevolod E. Meyerhold</ARTICLE_TITLE>
@@ -303,7 +305,7 @@
         <REFNUM>2560</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Gayamov, A</ARTICLE_AUTHOR>
-            <EDITOR></EDITOR>
+            <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1935</YEAR>
         <ARTICLE_TITLE>Children and Music</ARTICLE_TITLE>
@@ -325,7 +327,7 @@
         <REFNUM>2562</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
-            <EDITOR></EDITOR>
+            <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1935</YEAR>
         <ARTICLE_TITLE>Szigeti and Beecham in Prokofieff Violin Concerto</ARTICLE_TITLE>
@@ -349,7 +351,7 @@
         <REFNUM>2563</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Quevedo, María de</ARTICLE_AUTHOR>
-            <EDITOR>Quevedo, Antonio</EDITOR>
+            <PERIODICAL_EDITOR>Quevedo, Antonio</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1930</YEAR>
         <ARTICLE_TITLE>Sergio Prokofief</ARTICLE_TITLE>
@@ -373,7 +375,7 @@
         <REFNUM>2564</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
-            <EDITOR>Quevedo, Antonio</EDITOR>
+            <PERIODICAL_EDITOR>Quevedo, Antonio</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1930</YEAR>
         <ARTICLE_TITLE>Notas biográficas de Prokofief</ARTICLE_TITLE>
@@ -397,7 +399,7 @@
         <REFNUM>2565</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Prokofiev, Serge</ARTICLE_AUTHOR>
-            <EDITOR>Quevedo, Antonio</EDITOR>
+            <PERIODICAL_EDITOR>Quevedo, Antonio</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1930</YEAR>
         <ARTICLE_TITLE>Carta de Serge Prokofieff sobre le Música Rusa Contemporánea</ARTICLE_TITLE>
@@ -423,7 +425,7 @@
         <AUTHORS>
             <ARTICLE_AUTHOR>Morrison, Simon</ARTICLE_AUTHOR>
             <SUBSIDIARY_AUTHOR>Prokof'yev, Svyatoslav</SUBSIDIARY_AUTHOR>
-            <EDITOR></EDITOR>
+            <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2005</YEAR>
         <ARTICLE_TITLE>Sergey Prokof'yev: Dnevnik 1907-1933</ARTICLE_TITLE>
@@ -448,7 +450,7 @@
         <REFNUM>3388</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Lobacheva, Nadezhda</ARTICLE_AUTHOR>
-            <EDITOR></EDITOR>
+            <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2008</YEAR>
         <ARTICLE_TITLE>Prokof'ev-chitatel'</ARTICLE_TITLE>
@@ -469,7 +471,7 @@
         <REFNUM>3426</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Robinson, Harlow</ARTICLE_AUTHOR>
-            <EDITOR></EDITOR>
+            <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1991</YEAR>
         <ARTICLE_TITLE>Flirting with Decadence</ARTICLE_TITLE>
@@ -493,8 +495,8 @@
         <REFNUM></REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Prokofiev, Oleg</ARTICLE_AUTHOR>
-            <TRANSLATOR>Navrozov, Andrei</TRANSLATOR>
-            <EDITOR></EDITOR>
+            <SUBSIDIARY_AUTHOR>Navrozov, Andrei (trans.)</SUBSIDIARY_AUTHOR>
+            <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1979</YEAR>
         <ARTICLE_TITLE>Papers From The Attic</ARTICLE_TITLE>
@@ -516,7 +518,7 @@
         <REFNUM></REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
-            <EDITOR></EDITOR>
+            <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1942</YEAR>
         <ARTICLE_TITLE>"Wonderland"</ARTICLE_TITLE>
@@ -539,7 +541,7 @@
         <REFNUM></REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Downes, Olin</ARTICLE_AUTHOR>
-            <EDITOR></EDITOR>
+            <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1930</YEAR>
         <ARTICLE_TITLE>Prokofieff Speaks</ARTICLE_TITLE>
@@ -564,7 +566,7 @@
         <REFNUM></REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
-            <EDITOR></EDITOR>
+            <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1930</YEAR>
         <ARTICLE_TITLE></ARTICLE_TITLE>
@@ -587,11 +589,11 @@
         <REFNUM></REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR></ARTICLE_AUTHOR>
-            <EDITOR></EDITOR>
+            <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1930</YEAR>
         <ARTICLE_TITLE>Wanted – A Simple Style</ARTICLE_TITLE>
-        <PERIODICAL_TITLE>The Daily Telograph</PERIODICAL_TITLE>
+        <PERIODICAL_TITLE>The Daily Telegraph</PERIODICAL_TITLE>
         <PUBLISHER></PUBLISHER>
         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
         <VOLUME></VOLUME>
@@ -611,7 +613,7 @@
         <REFNUM></REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Buranelli, Prosper</ARTICLE_AUTHOR>
-            <EDITOR></EDITOR>
+            <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1918</YEAR>
         <ARTICLE_TITLE>East, West – And Music</ARTICLE_TITLE>
@@ -635,7 +637,7 @@
         <REFNUM></REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
-            <EDITOR></EDITOR>
+            <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1918</YEAR>
         <ARTICLE_TITLE>Musical Courier</ARTICLE_TITLE>
@@ -658,7 +660,7 @@
         <REFNUM></REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
-            <EDITOR></EDITOR>
+            <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1918</YEAR>
         <ARTICLE_TITLE>Russians Here Add $23,000,0000 To Loan</ARTICLE_TITLE>
@@ -683,7 +685,7 @@
         <REFNUM></REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Martens, Frederick H.</ARTICLE_AUTHOR>
-            <EDITOR></EDITOR>
+            <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1918</YEAR>
         <ARTICLE_TITLE>Serge Prokofieff, Much-Discussed Ultra-Modern Russian Composer,
@@ -709,7 +711,7 @@
         <REFNUM></REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Martens, Frederick H.</ARTICLE_AUTHOR>
-            <EDITOR></EDITOR>
+            <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1918</YEAR>
         <ARTICLE_TITLE>The Last Word in Russian Music</ARTICLE_TITLE>
@@ -733,7 +735,7 @@
         <REFNUM></REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
-            <EDITOR></EDITOR>
+            <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1918</YEAR>
         <ARTICLE_TITLE>Program</ARTICLE_TITLE>
@@ -756,7 +758,7 @@
         <REFNUM></REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Seinen, Nathan</ARTICLE_AUTHOR>
-            <EDITOR></EDITOR>
+            <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2009</YEAR>
         <ARTICLE_TITLE>Kutuzov's Victory, Prokofiev's Defeat: The Revisions of 'War and Peace'</ARTICLE_TITLE>
@@ -780,7 +782,7 @@
         <AUTHORS>
             <ARTICLE_AUTHOR>Thomson, Andrew</ARTICLE_AUTHOR>
             <SUBSIDIARY_AUTHOR>Phillips, Anthony</SUBSIDIARY_AUTHOR>
-            <EDITOR></EDITOR>
+            <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2007</YEAR>
         <ARTICLE_TITLE>Salad days</ARTICLE_TITLE>
@@ -803,7 +805,7 @@
         <REFNUM></REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Newton, Paul</ARTICLE_AUTHOR>
-            <EDITOR></EDITOR>
+            <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1938</YEAR>
         <ARTICLE_TITLE>In Hollywood</ARTICLE_TITLE>
@@ -827,10 +829,10 @@
         <AUTHORS>
             <ARTICLE_AUTHOR>Morrison, Simon</ARTICLE_AUTHOR>
             <ARTICLE_AUTHOR>Kravetz, Nelly</ARTICLE_AUTHOR>
-            <EDITOR></EDITOR>
+            <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2006</YEAR>
-        <ARTICLE_TITLE>The Canatata for the Twentieth Anniversary of October, or How
+        <ARTICLE_TITLE>The Cantata for the Twentieth Anniversary of October, or How
             the Specter of Communism Haunted Prokofiev</ARTICLE_TITLE>
         <PERIODICAL_TITLE>The Journal of Musicology</PERIODICAL_TITLE>
         <PUBLISHER>University of California's Press</PUBLISHER>
@@ -851,7 +853,7 @@
         <REFNUM></REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Slutskaya Levine, Katya</ARTICLE_AUTHOR>
-            <EDITOR></EDITOR>
+            <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>2006</YEAR>
         <ARTICLE_TITLE>"Metempsychosis in Serge Prokofiev's Music of the Soviet Period:
