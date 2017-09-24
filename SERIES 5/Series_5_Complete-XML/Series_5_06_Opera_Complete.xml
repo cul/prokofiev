@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <outputxml>
     <!-- 122 (?) items -->
+    <!-- NO: Actual count = 71 -->
+    <!-- REFNUM 2161 missing PERIODICAL_TYPE_OF_WORK tag ; so added-->
+    <!-- changed # of parts from 2 to 3 on 2161 (though maybe listed in journal
+    originally as only 2 parts, then it was extended to 3??)-->
+    <!-- also added parenthetical to note on 2161:
+    "Continues in Vol. 31 No. 6 (and in Vol. 31 No. 7)" -->
+
 <RECORD>
         <REFERENCE_TYPE>1</REFERENCE_TYPE>
         <REFNUM>2130</REFNUM>
@@ -221,7 +228,7 @@
         <AUTHORS>
             <ARTICLE_AUTHOR>Anon.</ARTICLE_AUTHOR>
             <PERIODICAL_EDITOR>Rosenthal, Harold</PERIODICAL_EDITOR>
-            <TRANSLATION>Lavery, Mark</TRANSLATION>
+            <TRANSLATOR>Lavery, Mark</TRANSLATOR>
         </AUTHORS>
         <YEAR>1963</YEAR>
         <ARTICLE_TITLE>The Bolshoi and its problems</ARTICLE_TITLE>
@@ -1058,7 +1065,7 @@
         <VOLUME>31</VOLUME>
         <NUMBER>4</NUMBER>
         <PART>1</PART>
-        <NUMBER_OF_PARTS>2</NUMBER_OF_PARTS>
+        <NUMBER_OF_PARTS>3</NUMBER_OF_PARTS>
         <PAGES>340-345</PAGES>
         <DATE>1980-04</DATE>
         <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
@@ -1066,7 +1073,7 @@
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>25/10/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
-        <NOTES>Continues in Vol. 31 No. 6</NOTES>
+        <NOTES>Continues in Vol. 31 No. 6 (and in Vol. 31 No. 7)</NOTES>
         <CALL_NUMBER>OPERA-041</CALL_NUMBER>
     </RECORD>
 <RECORD>
@@ -1087,7 +1094,8 @@
         <NUMBER_OF_PARTS>3</NUMBER_OF_PARTS>
         <PAGES>550-556</PAGES>
         <DATE>1980-06</DATE>
-        <TYPE_OF_WORK>Essay</TYPE_OF_WORK>
+        <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
+        <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
         <ALTERNATE_TITLE>Magazine</ALTERNATE_TITLE>
         <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>25/10/2005</CUSTOM5>
@@ -1479,7 +1487,6 @@
         <YEAR>1994</YEAR>
         <ARTICLE_TITLE>Rimsky in St Petersburg</ARTICLE_TITLE>
         <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
-        <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
         <PUBLISHER>Rolls House Publishing Company Ltd.</PUBLISHER>
         <VOLUME>45</VOLUME>
@@ -1713,4 +1720,3 @@
     </RECORD>
 
 </outputxml>
-    

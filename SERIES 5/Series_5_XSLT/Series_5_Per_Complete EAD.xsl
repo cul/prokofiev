@@ -1,6 +1,9 @@
 <!-- convert Series_5_Per_Complete.xml
           to Series_5_Per_Complete.xml  - - MS 7/17/17 -->
 
+<!-- template ALTERNATE_TITLE is there to accomodate 1 record in xml:
+    refnum 2469, SPA_14017 -->
+
 <xsl:stylesheet
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xs="http://www.w3.org/2001/XMLSchema"
     exclude-result-prefixes="xs"
