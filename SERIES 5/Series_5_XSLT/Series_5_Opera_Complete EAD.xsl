@@ -1,5 +1,5 @@
 <!-- convert Series_5_ORA_Complete.xml
-          to Series_5_ORA_Complete EAD.xml  - - rev MS 9/23/17 -->
+          to Series_5_ORA_Complete EAD.xml  - - MS 8/2/17 -->
 
 <!-- number series after digital articles -->
 
@@ -9,85 +9,55 @@
     version="2.0">
     <xsl:output method="xml" indent="yes"/>
 
-<xsl:template match="outputxml">
+    <xsl:template match="outputxml/RECORD">
 
-<outputxml>
-   <xsl:text>&#xa;</xsl:text> 
-
-
-    <xsl:for-each select="RECORD">
-        
-<!-- set EAD number variable -->
-        
         <xsl:variable name="Recordnum">
             <xsl:number count="RECORD"></xsl:number>
         </xsl:variable>
-<!-- Generate EAD number = $Recordnum + (Start Number minus 1) -->  
+
+     <!-- Generate EAD number
+          Change 0 to start number (minus 1) -->
+
         <xsl:variable name="SPA">
-            <xsl:number value="$Recordnum + 14292"/>
+            <xsl:number value="$Recordnum + 14507"/>
         </xsl:variable>
-        
-     
-        <xsl:text>&#xa;</xsl:text>
+
         <xsl:comment>EAD SPA_<xsl:number value="$SPA"/></xsl:comment>
         <xsl:text>&#xa;</xsl:text>
-        
-        
+
         <c level="file">
-            <did>
-                <unittitle><xsl:apply-templates select="ARTICLE_TITLE"></xsl:apply-templates>
-                    <xsl:apply-templates select="SUBSIDIARY_ARTICLE_TITLE"></xsl:apply-templates></unittitle>
-                <xsl:text>&#xa;</xsl:text>
-                <note>
+             <did>
+                 <unittitle><xsl:apply-templates select="ARTICLE_TITLE"></xsl:apply-templates>
+                     <xsl:apply-templates select="SUBSIDIARY_ARTICLE_TITLE"></xsl:apply-templates></unittitle>
+                    <xsl:text>&#xa;</xsl:text>
+                 <note>
                     <xsl:apply-templates select="AUTHORS/ARTICLE_AUTHOR"></xsl:apply-templates>
                     <xsl:apply-templates select="AUTHORS/SUBSIDIARY_AUTHOR"></xsl:apply-templates>
                     <xsl:apply-templates select="AUTHORS/TRANSLATOR"></xsl:apply-templates>
-                    <p>ID: SPA_<xsl:number value="$SPA"/></p>
-                    
-                    <p>Periodical: <xsl:apply-templates select="PERIODICAL_TITLE"></xsl:apply-templates>
-                        <xsl:apply-templates select="NUMBER"></xsl:apply-templates>
-                        <xsl:apply-templates select="PAGES"></xsl:apply-templates></p>
-                    <xsl:text>&#xa;</xsl:text>
-                    
-                    <xsl:apply-templates select="AUTHORS/PERIODICAL_EDITOR"></xsl:apply-templates>
-                    <xsl:apply-templates select="PUBLISHER"></xsl:apply-templates>
-                    
-                    <!-- if <DATE> tag exists, use <DATE>; else, use <YEAR> -->
-                    
-                    <xsl:choose>
-                        
-                        <xsl:when test="DATE[string-length(text())>0]">
-                            <xsl:apply-templates select="DATE"></xsl:apply-templates>
-                        </xsl:when>
-                        
-                        <xsl:otherwise>
-                            <xsl:apply-templates select="YEAR"></xsl:apply-templates>
-                        </xsl:otherwise>
-                        
-                    </xsl:choose>
-                    
-                    <xsl:apply-templates select="CUSTOM1"></xsl:apply-templates>
-                    <xsl:apply-templates select="CALL_NUMBER"></xsl:apply-templates>
-                    <xsl:apply-templates select="ARTICLE_TYPE_OF_WORK"></xsl:apply-templates>
-                    <p>Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London</p>
-                    <xsl:apply-templates select="NOTES"></xsl:apply-templates>
-                    
-                </note>
-            </did>
+                        <p>ID: SPA_<xsl:number value="$SPA"/></p>
+
+                        <p>Periodical: <xsl:apply-templates select="PERIODICAL_TITLE"></xsl:apply-templates>
+                           <xsl:apply-templates select="NUMBER"></xsl:apply-templates>
+                           <xsl:apply-templates select="PAGES"></xsl:apply-templates></p>
+                           <xsl:text>&#xa;</xsl:text>
+                     <xsl:apply-templates select="AUTHORS/PERIODICAL_EDITOR"></xsl:apply-templates>
+                     <xsl:apply-templates select="PUBLISHER"></xsl:apply-templates>
+                     <xsl:apply-templates select="DATE"></xsl:apply-templates>
+                     <xsl:apply-templates select="CUSTOM1"></xsl:apply-templates>
+                     <xsl:apply-templates select="CALL_NUMBER"></xsl:apply-templates>
+                     <xsl:apply-templates select="ARTICLE_TYPE_OF_WORK"></xsl:apply-templates>
+                     <p>Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London</p>
+                     <xsl:apply-templates select="NOTES"></xsl:apply-templates>
+
+                 </note>
+             </did>
         </c>
         <xsl:text>&#xa;</xsl:text>
+    </xsl:template>
 
 
 
-      </xsl:for-each>
-
-    <xsl:text>&#xa;</xsl:text> 
-    
-    </outputxml>
-</xsl:template>
-
-
-    <xsl:template match="RECORD/PERIODICAL_TITLE">
+    <xsl:template match="PERIODICAL_TITLE">
         <xsl:value-of select="."/>
     </xsl:template>
 
@@ -108,7 +78,7 @@
     </xsl:template>
 
     <xsl:template match="ARTICLE_TITLE">
-        <xsl:value-of select="."/>&#xa;
+        <xsl:value-of select="."/>
     </xsl:template>
 
     <xsl:template match="SUBSIDIARY_ARTICLE_TITLE">.&#x20;<xsl:value-of select="."/></xsl:template>
@@ -136,13 +106,9 @@
     <xsl:template match="DATE">
         <p>Publication date:&#x20;<xsl:value-of select="."/></p>
     </xsl:template>
-    
-    <xsl:template match="YEAR">
-        <p>Publication date:&#x20;<xsl:value-of select="."/></p>
-    </xsl:template>    
 
     <xsl:template match="CUSTOM1">
-        <p>Language:&#x20;<xsl:value-of select="."/><xsl:text>&#x20;</xsl:text></p><xsl:text>&#xa;</xsl:text>
+        <p>Language:&#x20;<xsl:value-of select="."/></p>
     </xsl:template>
 
     <xsl:template match="CALL_NUMBER">
