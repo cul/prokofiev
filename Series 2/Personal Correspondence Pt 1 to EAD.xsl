@@ -118,8 +118,8 @@
     <xsl:template match="Access_ID"><xsl:value-of select="."/></xsl:template>
     <xsl:template match="Box_No"><xsl:value-of select="."/></xsl:template>
     <xsl:template match="Folder_name"><xsl:value-of select="."/></xsl:template>
-    <xsl:template match="Goldsmith_Binder">Binder&#x20;<xsl:value-of select="."/></xsl:template>
-    <xsl:template match="Goldsmith_Binder_Starting_Page"><xsl:text>, page </xsl:text><xsl:value-of select="."/></xsl:template>
+    <xsl:template match="Goldsmiths_Binder">Binder&#x20;<xsl:value-of select="."/></xsl:template>
+    <xsl:template match="Goldsmiths_Binder_Starting_Page"><xsl:text>, page </xsl:text><xsl:value-of select="."/></xsl:template>
     <xsl:template match="Exact_Unitdate"><xsl:value-of select="."/></xsl:template>
     <xsl:template match="Extent_Pages"><p>Extent: <xsl:value-of select="."/> page(s)</p></xsl:template>
     <xsl:template match="Sender_Name"><xsl:value-of select="."/></xsl:template>
