@@ -6,6 +6,13 @@
 
 <!-- xsl for letters 1930-1947 -->
     
+<!--    be aware of 'Goldsmith' vs 'Goldsmiths' in 
+        tags and output. Output should be 'Goldsmiths'
+        
+        pt 2 xslt has 'goldsmith' ; 
+        pt 1 xml has changed headers, 
+        so the pt 1 xslt has 'goldsmiths' -->
+    
     <xsl:output method="xml" indent="yes"/>
 
  <!--  1. Download Google Sheets doc as csv file

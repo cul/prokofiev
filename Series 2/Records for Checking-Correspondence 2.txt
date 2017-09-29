@@ -125727,7 +125727,7 @@ Container:
       
     
 
-TITLE: Igor Stravinsky to Lina Prokofiev, 08 November 1980
+TITLE: Igor Stravinsky to Madame Gallié and Serge Lifar, 07 December 1936
       
 Container: 26S
 Container: 
@@ -125743,7 +125743,7 @@ Container:
          Format: Handwritten
          Original or Copy: Original
          Notes: Original: spa-tex-cor-ori-0019
-Lifar's copy of a letter from Stravinsky to Madame Gallié and Serge Lifar, 1936-12-07. Second sheet is a typed transcription of the extract.
+            Lifar's copy of a letter from Stravinsky to Madame Gallié and Serge Lifar, 1936-12-07. Second sheet is a typed transcription of the extract. Sent to Lina Prokofiev on 08 November 1980
          Previous holding library: Serge Prokofiev Archive
          Goldsmiths locator: Binder XLIII, page 145
       
@@ -125811,33 +125811,14 @@ Container:
          Goldsmiths locator: Binder XXX, page 118
       
     
+    
 
-TITLE: Aron Minster to Sergei Sergeevich Prokofiev, 09 November 9123
+TITLE: Not stated to Sergei Sergeevich Prokofiev, 08 December 1925
       
 Container: 
 Container: 
 
          ID: SPA_13264
-         Sender address: Not stated
-         Sender organization: Not stated
-         Recipient address: Not stated
-         Recipient organization: Not stated
-         Extent: 1 Page(s)
-         Language: Russian
-         Document type: Letter
-         Format: Handwritten
-         Original or Copy: Photocopy
-         Previous holding library: Bibliothèque Nationale de France
-         Goldsmiths locator: Binder IV, page 400
-      
-    
-
-TITLE: Not stated to Sergei Sergeevich Prokofiev, 08 December 9125
-      
-Container: 
-Container: 
-
-         ID: SPA_13265
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -125857,7 +125838,7 @@ TITLE: Not stated to Not stated, 21 January xxxx
 Container: 
 Container: 
 
-         ID: SPA_13266
+         ID: SPA_13265
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -125877,7 +125858,7 @@ TITLE: Lina Prokofiev to Mrs Schmitz, 22 January xxxx
 Container: 
 Container: 
 
-         ID: SPA_13267
+         ID: SPA_13266
          Sender address: Kansas City
          Sender organization: Not stated
          Recipient address: New York
@@ -125897,7 +125878,7 @@ TITLE: Not stated to Sergei Sergeevich Prokofiev, 05 February xxxx
 Container: 
 Container: 
 
-         ID: SPA_13268
+         ID: SPA_13267
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -125918,7 +125899,7 @@ TITLE: Not stated to Not stated, 06 February xxxx
 Container: 
 Container: 
 
-         ID: SPA_13269
+         ID: SPA_13268
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Angers
@@ -125939,7 +125920,7 @@ TITLE: Alexei Fedorovich Staal to Sergei Sergeevich Prokofiev, 08 June xxxx
 Container: 
 Container: 
 
-         ID: SPA_13270
+         ID: SPA_13269
          Sender address: 6 Rue Blaise Desgoffe, Paris
          Sender organization: Not stated
          Recipient address: Not stated
@@ -125959,7 +125940,7 @@ TITLE: Not stated to Not stated, 11 June xxxx
 Container: 
 Container: 
 
-         ID: SPA_13271
+         ID: SPA_13270
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -125979,7 +125960,7 @@ TITLE: Not stated to Clerical assistant, 08 June xxxx
 Container: 
 Container: 
 
-         ID: SPA_13272
+         ID: SPA_13271
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -125999,7 +125980,7 @@ TITLE: Lina Prokofiev to Serge Moreux, 04 July xxxx
 Container: 26S
 Container: 
 
-         ID: SPA_13273
+         ID: SPA_13272
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126020,7 +126001,7 @@ TITLE: Not stated to Serge Pavlovich Diaghilev, 08 August xxxx
 Container: 
 Container: 
 
-         ID: SPA_13274
+         ID: SPA_13273
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Strand, London
@@ -126040,7 +126021,7 @@ TITLE: Not stated to Sergei Sergeevich Prokofiev, 15 August xxxx
 Container: 
 Container: 
 
-         ID: SPA_13275
+         ID: SPA_13274
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126060,7 +126041,7 @@ TITLE: Not stated to Sergei Sergeevich Prokofiev, xxxx-08-xx
 Container: 
 Container: 
 
-         ID: SPA_13276
+         ID: SPA_13275
          Sender address: Paris
          Sender organization: Not stated
          Recipient address: St. Brévin-les-Pins
@@ -126081,7 +126062,7 @@ TITLE: Sergei Sergeevich Prokofiev to Fatma Samoilenko, 03 September xxxx
 Container: 
 Container: 
 
-         ID: SPA_13277
+         ID: SPA_13276
          Sender address: Ste Maxime
          Sender organization: Not stated
          Recipient address: 1 Avenue Émile Deschanel, Paris
@@ -126101,7 +126082,7 @@ TITLE: Not stated to Sergei Sergeevich Prokofiev, 05 September xxxx
 Container: 
 Container: 
 
-         ID: SPA_13278
+         ID: SPA_13277
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126121,7 +126102,7 @@ TITLE: Sergei Sergeevich Prokofiev to Not stated, 12 October xxxx
 Container: 
 Container: 
 
-         ID: SPA_13279
+         ID: SPA_13278
          Sender address: Munich
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126142,7 +126123,7 @@ TITLE: Not stated to Sergei Sergeevich Prokofiev, 26 October xxxx
 Container: 
 Container: 
 
-         ID: SPA_13280
+         ID: SPA_13279
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126162,7 +126143,7 @@ TITLE: Not stated to Sergei Sergeevich Prokofiev, 11 November xxxx
 Container: 
 Container: 
 
-         ID: SPA_13281
+         ID: SPA_13280
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126183,7 +126164,7 @@ TITLE: Not stated to Not stated, 23 November xxxx
 Container: 26S
 Container: 
 
-         ID: SPA_13282
+         ID: SPA_13281
          Sender address: Ettal, Oberbayern
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126204,7 +126185,7 @@ TITLE: Lina Prokofiev to Serge Moreux, 03 December xxxx
 Container: 26S
 Container: 
 
-         ID: SPA_13283
+         ID: SPA_13282
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126225,7 +126206,7 @@ TITLE: Sofiia Kokhanskaia to Sergei Sergeevich Prokofiev, 09 December xxxx
 Container: 
 Container: 
 
-         ID: SPA_13284
+         ID: SPA_13283
          Sender address: 3 Cork Street, London
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126245,7 +126226,7 @@ TITLE: Not stated to Sergei Sergeevich Prokofiev, 11 December xxxx
 Container: 
 Container: 
 
-         ID: SPA_13285
+         ID: SPA_13284
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126266,7 +126247,7 @@ TITLE: Not stated to Not stated, xxxx-xx-10
 Container: 
 Container: 
 
-         ID: SPA_13286
+         ID: SPA_13285
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126286,7 +126267,7 @@ TITLE: Not stated to Sergei Sergeevich Prokofiev, xxxx-xx-17
 Container: 
 Container: 
 
-         ID: SPA_13287
+         ID: SPA_13286
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126306,7 +126287,7 @@ TITLE: Sergei Sergeevich Prokofiev to Fatma Samoilenko, xxxx-xx-19
 Container: 
 Container: 
 
-         ID: SPA_13288
+         ID: SPA_13287
          Sender address: Monte-Carlo
          Sender organization: Not stated
          Recipient address: 1 Avenue Émile Deschanel, Paris
@@ -126326,7 +126307,7 @@ TITLE: Not stated to A. Jasmin, xxxx-xx-22
 Container: 
 Container: 
 
-         ID: SPA_13289
+         ID: SPA_13288
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126346,7 +126327,7 @@ TITLE: Not stated to Boris Nikolaevich Samoilenko, xxxx-xx-28
 Container: 
 Container: 
 
-         ID: SPA_13290
+         ID: SPA_13289
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: 1 Avenue Émile Deschanel, Paris
@@ -126366,7 +126347,7 @@ TITLE: Clerical assistant to Not stated, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13291
+         ID: SPA_13290
          Sender address: Brussels
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126386,7 +126367,7 @@ TITLE: Not stated to Sergei Sergeevich Prokofiev, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13292
+         ID: SPA_13291
          Sender address: New York
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126407,7 +126388,7 @@ TITLE: Not stated to Not stated, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13293
+         ID: SPA_13292
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126427,7 +126408,7 @@ TITLE: Not stated to Not stated, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13294
+         ID: SPA_13293
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126447,7 +126428,7 @@ TITLE: Not stated to Not stated, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13295
+         ID: SPA_13294
          Sender address: 123 Rue de Lille, Paris
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126468,7 +126449,7 @@ TITLE: Joseph Szigeti to Sergei Sergeevich Prokofiev, Unidentified date
 Container: 6
 Container: Unidentified date
 
-         ID: SPA_13296
+         ID: SPA_13295
          Sender address: 3 Rue de l'Hôtel de Ville, Geneva
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126488,7 +126469,7 @@ TITLE: Not stated to Not stated, Unidentified date
 Container: 6
 Container: Unidentified date
 
-         ID: SPA_13297
+         ID: SPA_13296
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126509,7 +126490,7 @@ TITLE: Not stated to Not stated, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13298
+         ID: SPA_13297
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126530,7 +126511,7 @@ TITLE: Not stated to Not stated, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13299
+         ID: SPA_13298
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126551,7 +126532,7 @@ TITLE: Not stated to Not stated, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13300
+         ID: SPA_13299
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126571,7 +126552,7 @@ TITLE: Not stated to Not stated, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13301
+         ID: SPA_13300
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126592,7 +126573,7 @@ TITLE: Not stated to Not stated, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13302
+         ID: SPA_13301
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126613,7 +126594,7 @@ TITLE: Not stated to Not stated, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13303
+         ID: SPA_13302
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126634,7 +126615,7 @@ TITLE: Not stated to Not stated, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13304
+         ID: SPA_13303
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126654,7 +126635,7 @@ TITLE: Not stated to Not stated, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13305
+         ID: SPA_13304
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126675,7 +126656,7 @@ TITLE: Not stated to Not stated, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13306
+         ID: SPA_13305
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126695,7 +126676,7 @@ TITLE: Not stated to Not stated, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13307
+         ID: SPA_13306
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126716,7 +126697,7 @@ TITLE: Not stated to Not stated, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13308
+         ID: SPA_13307
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126737,7 +126718,7 @@ TITLE: Andrei Gromyko to Serge Alexandrovich Koussevitzky, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13309
+         ID: SPA_13308
          Sender address: Washington, D.C.
          Sender organization: Not stated
          Recipient address: Boston
@@ -126757,7 +126738,7 @@ TITLE: Lina Prokofiev to Iurii Vladimirovich Andropov, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13310
+         ID: SPA_13309
          Sender address: Moscow
          Sender organization: Not stated
          Recipient address: Kutuzovskii Prospekt 9, Moscow
@@ -126777,7 +126758,7 @@ TITLE: Not stated to Igor Fedorovich Stravinsky, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13311
+         ID: SPA_13310
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126797,7 +126778,7 @@ TITLE: Sergei Sergeevich Prokofiev to Igor Fedorovich Stravinsky, Unidentified d
 Container: 
 Container: 
 
-         ID: SPA_13312
+         ID: SPA_13311
          Sender address: 66 Rue des St. Pères, Paris
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126817,7 +126798,7 @@ TITLE: Not stated to Clerical assistant, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13313
+         ID: SPA_13312
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126837,7 +126818,7 @@ TITLE: Sergei Sergeevich Prokofiev to Nina Pavlovna Koshetz, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13314
+         ID: SPA_13313
          Sender address: 5 Avenue &amp; 9 Street, New York
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126857,7 +126838,7 @@ TITLE: Not stated to Not stated, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13315
+         ID: SPA_13314
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126877,7 +126858,7 @@ TITLE: Sergei Sergeevich Prokofiev to Fatma Samoilenko, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13316
+         ID: SPA_13315
          Sender address: Route du Petit-Saint-Bernard, Séez
          Sender organization: Not stated
          Recipient address: 1 Avenue Émile Deschanel, Paris
@@ -126898,7 +126879,7 @@ TITLE: Not stated to Fatma Samoilenko, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13317
+         ID: SPA_13316
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126918,7 +126899,7 @@ TITLE: Not stated to Fatma Samoilenko, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13318
+         ID: SPA_13317
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126938,7 +126919,7 @@ TITLE: Sergei Sergeevich Prokofiev to Fatma Samoilenko, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13319
+         ID: SPA_13318
          Sender address: Villa Béthanie, St. Gilles-sur-Vie
          Sender organization: Not stated
          Recipient address: Not stated
@@ -126958,7 +126939,7 @@ TITLE: Not stated to Sergei Sergeevich Prokofiev, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13320
+         ID: SPA_13319
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: 34-33 Rue des Saints Pères, Paris
@@ -126978,7 +126959,7 @@ TITLE: Not stated to Fatma Samoilenko, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13321
+         ID: SPA_13320
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: 1 Avenue Émile Deschanel, Paris
@@ -126998,7 +126979,7 @@ TITLE: Not stated to Sergei Sergeevich Prokofiev, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13322
+         ID: SPA_13321
          Sender address: Paris
          Sender organization: Not stated
          Recipient address: Moscow
@@ -127018,7 +126999,7 @@ TITLE: Not stated to Boris Nikolaevich Samoilenko, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13323
+         ID: SPA_13322
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: 1 Avenue Émile Deschanel, Paris
@@ -127038,7 +127019,7 @@ TITLE: Not stated to Boris Nikolaevich Samoilenko, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13324
+         ID: SPA_13323
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: 1 Avenue Émile Deschanel, Paris
@@ -127058,7 +127039,7 @@ TITLE: Not stated to Not stated, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13325
+         ID: SPA_13324
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -127079,7 +127060,7 @@ TITLE: Not stated to Fatma Samoilenko, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13326
+         ID: SPA_13325
          Sender address: Monte-Carlo
          Sender organization: Not stated
          Recipient address: 1 Avenue Émile Deschanel, Paris
@@ -127100,7 +127081,7 @@ TITLE: Not stated to Fatma Samoilenko, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13327
+         ID: SPA_13326
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -127120,7 +127101,7 @@ TITLE: Not stated to Fatma Samoilenko, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13328
+         ID: SPA_13327
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: 1 Avenue Émile Deschanel, Paris
@@ -127141,7 +127122,7 @@ TITLE: Not stated to Fatma Samoilenko, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13329
+         ID: SPA_13328
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: 1 Avenue Émile Deschanel, Paris
@@ -127161,7 +127142,7 @@ TITLE: Sergei Sergeevich Prokofiev to Fatma Samoilenko, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13330
+         ID: SPA_13329
          Sender address: 32 Rue Cassette, Paris
          Sender organization: Not stated
          Recipient address: 1 Avenue Émile Deschanel, Paris
@@ -127182,7 +127163,7 @@ TITLE: Lina Prokofiev to Serge Moreux, Unidentified date
 Container: 26S
 Container: 
 
-         ID: SPA_13331
+         ID: SPA_13330
          Sender address: Leningrad
          Sender organization: Not stated
          Recipient address: Villetaneuse
@@ -127203,7 +127184,7 @@ TITLE: Lina Prokofiev to Serge Moreux, Unidentified date
 Container: 26S
 Container: 
 
-         ID: SPA_13332
+         ID: SPA_13331
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -127224,7 +127205,7 @@ TITLE: Sergei Sergeevich Prokofiev to Not stated, Unidentified date
 Container: 26S
 Container: 
 
-         ID: SPA_13333
+         ID: SPA_13332
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -127247,7 +127228,7 @@ TITLE: Not stated to Not stated, Unidentified date
 Container: 26S
 Container: 
 
-         ID: SPA_13334
+         ID: SPA_13333
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -127269,7 +127250,7 @@ TITLE: Oleg Sergeevich Prokofiev to Not stated, Unidentified date
 Container: 26S
 Container: 
 
-         ID: SPA_13335
+         ID: SPA_13334
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -127290,7 +127271,7 @@ TITLE: Not stated to Lina Prokofiev, Unidentified date
 Container: 26S
 Container: 
 
-         ID: SPA_13336
+         ID: SPA_13335
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -127311,7 +127292,7 @@ TITLE: Sergei Sergeevich Prokofiev to Not stated, Unidentified date
 Container: 26S
 Container: 
 
-         ID: SPA_13337
+         ID: SPA_13336
          Sender address: Dover Street, London
          Sender organization: Not stated
          Recipient address: Not stated
@@ -127333,7 +127314,7 @@ TITLE: Not stated to Not stated, Unidentified date
 Container: 26S
 Container: 
 
-         ID: SPA_13338
+         ID: SPA_13337
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -127354,7 +127335,7 @@ TITLE: Mikhail Fedorovich Astrof to Clerical assistant, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13339
+         ID: SPA_13338
          Sender address: 5 Rue Valentin Haüy, Paris
          Sender organization: Not stated
          Recipient address: 12 Place d'Anvers, Paris
@@ -127375,7 +127356,7 @@ TITLE: Pierre Petrovich Souvchinsky to Sergei Sergeevich Prokofiev, Unidentified
 Container: 
 Container: 
 
-         ID: SPA_13340
+         ID: SPA_13339
          Sender address: 263 Rue Lecourbe, Paris
          Sender organization: Not stated
          Recipient address: Not stated
@@ -127395,7 +127376,7 @@ TITLE: Sergei Sergeevich Prokofiev to Boris Evseevich Gusman, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13341
+         ID: SPA_13340
          Sender address: 5 Rue Valentin Haüy, Paris
          Sender organization: Not stated
          Recipient address: Gorkogo Ul. 17, Moscow
@@ -127416,7 +127397,7 @@ TITLE: Not stated to Sergei Sergeevich Prokofiev, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13342
+         ID: SPA_13341
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -127436,7 +127417,7 @@ TITLE: Not stated to Sergei Sergeevich Prokofiev, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13343
+         ID: SPA_13342
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -127456,7 +127437,7 @@ TITLE: Not stated to Sergei Sergeevich Prokofiev, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13344
+         ID: SPA_13343
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -127476,7 +127457,7 @@ TITLE: Not stated to Sergei Sergeevich Prokofiev, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13345
+         ID: SPA_13344
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -127497,7 +127478,7 @@ TITLE: Not stated to Sergei Sergeevich Prokofiev, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13346
+         ID: SPA_13345
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -127517,7 +127498,7 @@ TITLE: Not stated to Sergei Sergeevich Prokofiev, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13347
+         ID: SPA_13346
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -127537,7 +127518,7 @@ TITLE: Sergei Sergeevich Prokofiev to Antonina Aleksandrovna Reberg, 1928-xx-xx
 Container: 26S
 Container: 
 
-         ID: SPA_13348
+         ID: SPA_13347
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Zhelannaia Stantsiia, Ekaterininskaia Zheleznaia Doroga
@@ -127558,7 +127539,7 @@ TITLE: Sergei Sergeevich Prokofiev to Nina Alfredovna Reberg, Unidentified date
 Container: 26S
 Container: 
 
-         ID: SPA_13349
+         ID: SPA_13348
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Zhelannaia Stantsiia, Ekaterininskaia Zheleznaia Doroga
@@ -127579,7 +127560,7 @@ TITLE: Not stated to Sergei Sergeevich Prokofiev, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13350
+         ID: SPA_13349
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated
@@ -127599,7 +127580,7 @@ TITLE: Not stated to Sergei Sergeevich Prokofiev, Unidentified date
 Container: 
 Container: 
 
-         ID: SPA_13351
+         ID: SPA_13350
          Sender address: Not stated
          Sender organization: Not stated
          Recipient address: Not stated

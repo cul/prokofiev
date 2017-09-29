@@ -240,7 +240,7 @@ Container:
 Container: 
 
          ID: SPA_1513
-         Sender address: Leningrad
+         Sender address: Petrograd
          Sender organization: Not stated
          Recipient address: Not stated
          Recipient organization: Not stated
@@ -297,8 +297,8 @@ Container: 1910-1915
 
 TITLE: Not stated to Sergey Sergeevich Prokofiev, 24 January 1917
       
-Container: 
-Container: 
+Container: 1
+Container: 1917
 
          ID: SPA_1516
          Sender address: Inzhenernaia 9, Petrograd
@@ -309,7 +309,7 @@ Container:
          Language: Russian
          Document type: Document
          Format: Printed
-         Original or Copy: Photocopy
+         Original or Copy: Original
          Notes: Permission granted to give SP status of member of Russian Red Cross.
          Previous holding library: Bibliothèque Nationale de France
          Goldsmiths locator: Binder I, page 49
@@ -318,8 +318,8 @@ Container:
 
 TITLE: Not stated to Maria Grigorievna Prokofieva, 13 March 1917
       
-Container: 
-Container: 
+Container: 1
+Container: 1917
 
          ID: SPA_1517
          Sender address: Petrograd
@@ -330,7 +330,7 @@ Container:
          Language: Russian
          Document type: Letter
          Format: Handwritten
-         Original or Copy: Photocopy
+         Original or Copy: Original
          Previous holding library: Bibliothèque Nationale de France
          Goldsmiths locator: Binder I, page 31
       
@@ -338,8 +338,8 @@ Container:
 
 TITLE: Not stated to Maria Grigorievna Prokofieva, 30 March 1917
       
-Container: 
-Container: 
+Container: 1
+Container: 1917
 
          ID: SPA_1518
          Sender address: Not stated
@@ -350,7 +350,7 @@ Container:
          Language: Russian
          Document type: Accounts statement
          Format: Handwritten
-         Original or Copy: Photocopy
+         Original or Copy: Original
          Previous holding library: Bibliothèque Nationale de France
          Goldsmiths locator: Binder I, page 43
       
@@ -358,8 +358,8 @@ Container:
 
 TITLE: Not stated to Maria Grigorievna Prokofieva, 30 March 1917
       
-Container: 
-Container: 
+Container: 1
+Container: 1917
 
          ID: SPA_1519
          Sender address: Not stated
@@ -370,7 +370,7 @@ Container:
          Language: Russian
          Document type: Accounts statement
          Format: Handwritten
-         Original or Copy: Photocopy
+         Original or Copy: Original
          Previous holding library: Bibliothèque Nationale de France
          Goldsmiths locator: Binder I, page 44
       
@@ -378,8 +378,8 @@ Container:
 
 TITLE: Not stated to Maria Grigorievna Prokofieva, 30 March 1917
       
-Container: 
-Container: 
+Container: 1
+Container: 1917
 
          ID: SPA_1520
          Sender address: Not stated
@@ -390,7 +390,7 @@ Container:
          Language: Russian
          Document type: Accounts statement
          Format: Handwritten
-         Original or Copy: Photocopy
+         Original or Copy: Original
          Notes: Continuation of I/45.
          Previous holding library: Bibliothèque Nationale de France
          Goldsmiths locator: Binder I, page 46
@@ -399,8 +399,8 @@ Container:
 
 TITLE: Not stated to Maria Grigorievna Prokofieva, April 1917
       
-Container: 
-Container: 
+Container: 1
+Container: 1917
 
          ID: SPA_1521
          Sender address: Petrograd
@@ -411,7 +411,7 @@ Container:
          Language: Russian
          Document type: Accounts statement
          Format: Handwritten
-         Original or Copy: Photocopy
+         Original or Copy: Original
          Previous holding library: Bibliothèque Nationale de France
          Goldsmiths locator: Binder I, page 47
       
@@ -419,8 +419,8 @@ Container:
 
 TITLE: Not stated to Maria Grigorievna Prokofieva, 01 June 1917
       
-Container: 
-Container: 
+Container: 1
+Container: 1917
 
          ID: SPA_1522
          Sender address: Petrograd
@@ -431,7 +431,7 @@ Container:
          Language: Russian
          Document type: Accounts statement
          Format: Handwritten
-         Original or Copy: Photocopy
+         Original or Copy: Original
          Previous holding library: Bibliothèque Nationale de France
          Goldsmiths locator: Binder I, page 45
       
@@ -439,8 +439,8 @@ Container:
 
 TITLE: Not stated to Maria Grigorievna Prokofieva, 06 June 1917
       
-Container: 
-Container: 
+Container: 1
+Container: 1917
 
          ID: SPA_1523
          Sender address: Not stated
@@ -451,7 +451,7 @@ Container:
          Language: Russian
          Document type: Envelope
          Format: Handwritten
-         Original or Copy: Photocopy
+         Original or Copy: Original
          Notes: Full address 'Sanatoriia d[okto]ra Kiseleva'.
          Previous holding library: Bibliothèque Nationale de France
          Goldsmiths locator: Binder I, page 41
@@ -460,8 +460,8 @@ Container:
 
 TITLE: Not stated to Maria Grigorievna Prokofieva, 06 June 1917
       
-Container: 
-Container: 
+Container: 1
+Container: 1917
 
          ID: SPA_1524
          Sender address: Petrograd
@@ -472,7 +472,7 @@ Container:
          Language: Russian
          Document type: Accounts statement
          Format: Handwritten
-         Original or Copy: Photocopy
+         Original or Copy: Original
          Previous holding library: Bibliothèque Nationale de France
          Goldsmiths locator: Binder I, page 46A
       
@@ -480,8 +480,8 @@ Container:
 
 TITLE: Not stated to Maria Grigorievna Prokofieva, 15 June 1917
       
-Container: 
-Container: 
+Container: 1
+Container: 1917
 
          ID: SPA_1525
          Sender address: Petrograd
@@ -492,7 +492,7 @@ Container:
          Language: Russian
          Document type: Envelope
          Format: Handwritten
-         Original or Copy: Photocopy
+         Original or Copy: Original
          Notes: Reverse of Envelope, side 41.
          Previous holding library: Bibliothèque Nationale de France
          Goldsmiths locator: Binder I, page 42
@@ -501,8 +501,8 @@ Container:
 
 TITLE: Not stated to Sergey Sergeevich Prokofiev, 30 June 1917
       
-Container: 
-Container: 
+Container: 1
+Container: 1917
 
          ID: SPA_1526
          Sender address: Petrograd
@@ -513,7 +513,7 @@ Container:
          Language: Russian
          Document type: Accounts statement
          Format: Handwritten
-         Original or Copy: Photocopy
+         Original or Copy: Original
          Previous holding library: Bibliothèque Nationale de France
          Goldsmiths locator: Binder I, page 32
       
@@ -521,8 +521,8 @@ Container:
 
 TITLE: Not stated to Maria Grigorievna Prokofieva, 30 June 1917
       
-Container: 
-Container: 
+Container: 1
+Container: 1917
 
          ID: SPA_1527
          Sender address: Petrograd
@@ -533,7 +533,7 @@ Container:
          Language: Russian
          Document type: Envelope
          Format: Handwritten
-         Original or Copy: Photocopy
+         Original or Copy: Original
          Notes: Full address: 'Sanatoriia D[oktor]a Kisielva'.
          Previous holding library: Bibliothèque Nationale de France
          Goldsmiths locator: Binder I, page 25
@@ -542,8 +542,8 @@ Container:
 
 TITLE: Not stated to Maria Grigorievna Prokofieva, 30 June 1917
       
-Container: 
-Container: 
+Container: 1
+Container: 1917
 
          ID: SPA_1528
          Sender address: Petrograd
@@ -554,7 +554,7 @@ Container:
          Language: Russian
          Document type: Accounts statement
          Format: Handwritten
-         Original or Copy: Photocopy
+         Original or Copy: Original
          Previous holding library: Bibliothèque Nationale de France
          Goldsmiths locator: Binder I, page 26
       
@@ -562,8 +562,8 @@ Container:
 
 TITLE: Not stated to Maria Grigorievna Prokofieva, 30 June 1917
       
-Container: 
-Container: 
+Container: 1
+Container: 1917
 
          ID: SPA_1529
          Sender address: Not stated
@@ -574,7 +574,7 @@ Container:
          Language: Russian
          Document type: Accounts statement
          Format: Handwritten
-         Original or Copy: Photocopy
+         Original or Copy: Original
          Previous holding library: Bibliothèque Nationale de France
          Goldsmiths locator: Binder I, page 28
       
@@ -582,8 +582,8 @@ Container:
 
 TITLE: Not stated to Sergey Sergeevich Prokofiev, 18 July 1917
       
-Container: 
-Container: 
+Container: 1
+Container: 1917
 
          ID: SPA_1530
          Sender address: Petrograd
@@ -594,7 +594,7 @@ Container:
          Language: Russian
          Document type: Accounts statement
          Format: Handwritten
-         Original or Copy: Photocopy
+         Original or Copy: Original
          Previous holding library: Bibliothèque Nationale de France
          Goldsmiths locator: Binder I, page 35
       
@@ -602,8 +602,8 @@ Container:
 
 TITLE: Not stated to Sergey Sergeevich Prokofiev, 19 July 1917
       
-Container: 
-Container: 
+Container: 1
+Container: 1917
 
          ID: SPA_1531
          Sender address: Petrograd
@@ -614,7 +614,7 @@ Container:
          Language: Russian
          Document type: Accounts statement
          Format: Handwritten
-         Original or Copy: Photocopy
+         Original or Copy: Original
          Previous holding library: Bibliothèque Nationale de France
          Goldsmiths locator: Binder I, page 36
       
@@ -622,8 +622,8 @@ Container:
 
 TITLE: Not stated to Sergey Sergeevich Prokofiev, 21 July 1917
       
-Container: 
-Container: 
+Container: 1
+Container: 1917
 
          ID: SPA_1532
          Sender address: Petrograd
@@ -634,7 +634,7 @@ Container:
          Language: Russian
          Document type: Envelope
          Format: Handwritten
-         Original or Copy: Photocopy
+         Original or Copy: Original
          Previous holding library: Bibliothèque Nationale de France
          Goldsmiths locator: Binder I, page 30
       
@@ -642,8 +642,8 @@ Container:
 
 TITLE: Not stated to Sergey Sergeevich Prokofiev, 30 July 1917
       
-Container: 
-Container: 
+Container: 1
+Container: 1917
 
          ID: SPA_1533
          Sender address: Petrograd
@@ -654,7 +654,7 @@ Container:
          Language: Russian
          Document type: Accounts statement
          Format: Handwritten
-         Original or Copy: Photocopy
+         Original or Copy: Original
          Previous holding library: Bibliothèque Nationale de France
          Goldsmiths locator: Binder I, page 38
       
@@ -662,8 +662,8 @@ Container:
 
 TITLE: Not stated to Sergey Sergeevich Prokofiev, July 1917
       
-Container: 
-Container: 
+Container: 1
+Container: 1917
 
          ID: SPA_1534
          Sender address: Petrograd
@@ -674,7 +674,7 @@ Container:
          Language: Russian
          Document type: Accounts statement
          Format: Handwritten
-         Original or Copy: Photocopy
+         Original or Copy: Original
          Previous holding library: Bibliothèque Nationale de France
          Goldsmiths locator: Binder I, page 37
       
@@ -682,8 +682,8 @@ Container:
 
 TITLE: Not stated to Maria Grigorievna Prokofieva, July 1917
       
-Container: 
-Container: 
+Container: 1
+Container: 1917
 
          ID: SPA_1535
          Sender address: Petrograd
@@ -694,7 +694,7 @@ Container:
          Language: Russian
          Document type: Accounts statement
          Format: Handwritten
-         Original or Copy: Photocopy
+         Original or Copy: Original
          Previous holding library: Bibliothèque Nationale de France
          Goldsmiths locator: Binder I, page 27
       
@@ -702,8 +702,8 @@ Container:
 
 TITLE: Not stated to Sergey Sergeevich Prokofiev, 15 August 1917
       
-Container: 
-Container: 
+Container: 1
+Container: 1917
 
          ID: SPA_1536
          Sender address: Petrograd
@@ -714,7 +714,7 @@ Container:
          Language: Russian
          Document type: Accounts statement
          Format: Handwritten
-         Original or Copy: Photocopy
+         Original or Copy: Original
          Previous holding library: Bibliothèque Nationale de France
          Goldsmiths locator: Binder I, page 33
       
@@ -722,8 +722,8 @@ Container:
 
 TITLE: Not stated to Maria Grigorievna Prokofieva, 15 August 1917
       
-Container: 
-Container: 
+Container: 1
+Container: 1917
 
          ID: SPA_1537
          Sender address: Petrograd
@@ -734,7 +734,7 @@ Container:
          Language: Russian
          Document type: Accounts statement
          Format: Handwritten
-         Original or Copy: Photocopy
+         Original or Copy: Original
          Previous holding library: Bibliothèque Nationale de France
          Goldsmiths locator: Binder I, page 29
       
@@ -742,8 +742,8 @@ Container:
 
 TITLE: Not stated to Sergey Sergeevich Prokofiev, 07 October 1917
       
-Container: 
-Container: 
+Container: 1
+Container: 1917
 
          ID: SPA_1538
          Sender address: Petrograd
@@ -754,7 +754,7 @@ Container:
          Language: Russian
          Document type: Memo
          Format: Typed
-         Original or Copy: Photocopy
+         Original or Copy: Original
          Previous holding library: Bibliothèque Nationale de France
          Goldsmiths locator: Binder I, page 34
       
@@ -762,8 +762,8 @@ Container:
 
 TITLE: Not stated to Sergey Sergeevich Prokofiev, 22 November 1917
       
-Container: 
-Container: 
+Container: 1
+Container: 1917
 
          ID: SPA_1539
          Sender address: Not stated
@@ -774,7 +774,7 @@ Container:
          Language: Russian
          Document type: Document
          Format: Typed
-         Original or Copy: Photocopy
+         Original or Copy: Original
          Notes: Certificate granting SP exemption from military service.
          Previous holding library: Bibliothèque Nationale de France
          Goldsmiths locator: Binder I, page 50
@@ -783,8 +783,8 @@ Container:
 
 TITLE: Not stated to Maria Grigorievna Prokofieva, 02 December 1917
       
-Container: 
-Container: 
+Container: 1
+Container: 1917
 
          ID: SPA_1540
          Sender address: Petrograd
@@ -795,7 +795,7 @@ Container:
          Language: Russian
          Document type: Accounts statement
          Format: Handwritten
-         Original or Copy: Photocopy
+         Original or Copy: Original
          Previous holding library: Bibliothèque Nationale de France
          Goldsmiths locator: Binder I, page 40
       
@@ -884,8 +884,8 @@ Container:
 
 TITLE: Anatolii Vasilevich Lunacharsky to Not stated, 20 April 1918
       
-Container: 
-Container: 
+Container: 1
+Container: 1918
 
          ID: SPA_1545
          Sender address: Smolny 6, Petrograd
@@ -896,7 +896,7 @@ Container:
          Language: Russian
          Document type: Document
          Format: Typed
-         Original or Copy: Photocopy
+         Original or Copy: Original
          Notes: Request for passport for SP.
          Previous holding library: Bibliothèque Nationale de France
          Goldsmiths locator: Binder I, page 48
@@ -19175,7 +19175,7 @@ Container: 1
 Container: 1923, November
 
          ID: SPA_2445
-         Sender address: 9 Domneasca, Galatz
+         Sender address: 9 Domneasca, Galatz (Galați), Romania
          Sender organization: Not stated
          Recipient address: Not stated
          Recipient organization: Not stated
