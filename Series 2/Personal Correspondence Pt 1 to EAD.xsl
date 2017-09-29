@@ -97,14 +97,14 @@
              <xsl:apply-templates select="Provenance"></xsl:apply-templates>
 
              <p>Goldsmiths locator: <xsl:choose>
-                 <xsl:when test="Goldsmith_Binder[text()='Not applicable']">
+                 <xsl:when test="Goldsmiths_Binder[text()='Not applicable']">
                      <xsl:text>Not applicable</xsl:text>
 
                  </xsl:when>
 
                  <xsl:otherwise>
-                     <xsl:apply-templates select="Goldsmith_Binder"/>
-                     <xsl:apply-templates select="Goldsmith_Binder_Starting_Page"/>
+                     <xsl:apply-templates select="Goldsmiths_Binder"/>
+                     <xsl:apply-templates select="Goldsmiths_Binder_Starting_Page"/>
                  </xsl:otherwise>
 
              </xsl:choose>&#xa;
