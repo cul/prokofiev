@@ -1,27 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <outputxml>
-<!--  
-<RECORD>
-        <REFERENCE_TYPE>1</REFERENCE_TYPE>
-        <REFNUM></REFNUM>
-        <AUTHORS>
-            <ARTICLE_AUTHOR></ARTICLE_AUTHOR>
-            <PERIODICAL_EDITOR></EDITOR>
-        </AUTHORS>
-        <YEAR>1934</YEAR>
-        <ARTICLE_TITLE></ARTICLE_TITLE>
-        <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
-        <NUMBER>6</NUMBER>
-        <PAGES></PAGES>
-        <DATE>1934-06</DATE>
-        <ARTICLE_TYPE_OF_WORK>Essay</TYPE_OF_WORK>
-        <PERIODICAL_TYPE_OF_WORK>Journal</ALTERNATE_TITLE>
-        <CUSTOM1>Russian</CUSTOM1>
-        <CUSTOM5>08/12/2005</CUSTOM5>
-        <CUSTOM6>Original</CUSTOM6>
-        <CALL_NUMBER>SOVMUZ-001</CALL_NUMBER>
-        <NOTES>Issue 1934/6 stored in Publications-fragile: box 1, SC Store Bay R6</NOTES>
-    </RECORD> NEEDS TO BE LOCATED, NO RECORD AVAILABLE AND MAY NOT BE IN COLLECTION-->
 <RECORD>
         <REFERENCE_TYPE>1</REFERENCE_TYPE>
         <REFNUM>2217</REFNUM>
@@ -38,7 +16,7 @@
         <DATE>1960-02</DATE>
         <ARTICLE_TYPE_OF_WORK>Review</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>07/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <CALL_NUMBER>SOVMUZ-002</CALL_NUMBER>
@@ -61,7 +39,7 @@
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
         <ENTRY>1</ENTRY>
         <NUMBER_OF_ENTRIES>2</NUMBER_OF_ENTRIES>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>08/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <CALL_NUMBER>SOVMUZ-003</CALL_NUMBER>
@@ -83,7 +61,7 @@
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
         <ENTRY>2</ENTRY>
         <NUMBER_OF_ENTRIES>2</NUMBER_OF_ENTRIES>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>08/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <CALL_NUMBER>SOVMUZ-003</CALL_NUMBER>
@@ -107,7 +85,7 @@
         <ENTRY>1</ENTRY>
         <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>09/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <CALL_NUMBER>SOVMUZ-004</CALL_NUMBER>
@@ -131,7 +109,7 @@
         <ENTRY>2</ENTRY>
         <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>09/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <CALL_NUMBER>SOVMUZ-004</CALL_NUMBER>
@@ -155,7 +133,7 @@
         <ENTRY>3</ENTRY>
         <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
         <ISBN>0131/6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>09/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <CALL_NUMBER>SOVMUZ-004</CALL_NUMBER>
@@ -179,7 +157,7 @@
         <ENTRY>4</ENTRY>
         <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>09/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <CALL_NUMBER>SOVMUZ-004</CALL_NUMBER>
@@ -203,7 +181,7 @@
         <ENTRY>5</ENTRY>
         <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>09/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <CALL_NUMBER>SOVMUZ-004</CALL_NUMBER>
@@ -227,7 +205,7 @@
         <ENTRY>6</ENTRY>
         <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>09/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <CALL_NUMBER>SOVMUZ-004</CALL_NUMBER>
@@ -251,7 +229,7 @@
         <ENTRY>7</ENTRY>
         <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>09/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <CALL_NUMBER>SOVMUZ-004</CALL_NUMBER>
@@ -275,7 +253,7 @@
         <ENTRY>8</ENTRY>
         <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>09/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <CALL_NUMBER>SOVMUZ-004</CALL_NUMBER>
@@ -300,7 +278,7 @@
         <ENTRY>9</ENTRY>
         <NUMBER_OF_ENTRIES>9</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>09/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <CALL_NUMBER>SOVMUZ-004</CALL_NUMBER>
@@ -321,7 +299,7 @@
         <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>12/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <CALL_NUMBER>SOVMUZ-005</CALL_NUMBER>
@@ -345,7 +323,7 @@
         <ENTRY>1</ENTRY>
         <NUMBER_OF_ENTRIES>3</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>12/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <CALL_NUMBER>SOVMUZ-006</CALL_NUMBER>
@@ -368,7 +346,7 @@
         <ENTRY>2</ENTRY>
         <NUMBER_OF_ENTRIES>3</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>12/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <CALL_NUMBER>SOVMUZ-006</CALL_NUMBER>
@@ -391,7 +369,7 @@
         <ENTRY>3</ENTRY>
         <NUMBER_OF_ENTRIES>3</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>12/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <CALL_NUMBER>SOVMUZ-006</CALL_NUMBER>
@@ -415,7 +393,7 @@
         <ENTRY>1</ENTRY>
         <NUMBER_OF_ENTRIES>2</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>13/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <CALL_NUMBER>SOVMUZ-007</CALL_NUMBER>
@@ -439,7 +417,7 @@
         <ENTRY>2</ENTRY>
         <NUMBER_OF_ENTRIES>2</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>13/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <CALL_NUMBER>SOVMUZ-007</CALL_NUMBER>
@@ -460,7 +438,7 @@
         <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>13/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <CALL_NUMBER>SOVMUZ-009</CALL_NUMBER>
@@ -481,7 +459,7 @@
         <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>13/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <CALL_NUMBER>SOVMUZ-010</CALL_NUMBER>
@@ -505,7 +483,7 @@
         <ENTRY>1</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>14/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Dedicated Prokofiev Issue</NOTES>
@@ -530,7 +508,7 @@
         <ENTRY>2</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>14/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Dedicated Prokofiev Issue</NOTES>
@@ -555,7 +533,7 @@
         <ENTRY>3</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>13/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Dedicated Prokofiev Issue</NOTES>
@@ -579,7 +557,7 @@
         <ENTRY>4</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>13/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Dedicated Prokofiev Issue</NOTES>
@@ -605,7 +583,7 @@
         <ENTRY>5</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>13/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Dedicated Prokofiev Issue</NOTES>
@@ -630,7 +608,7 @@
         <ENTRY>6</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>13/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Dedicated Prokofiev Issue</NOTES>
@@ -655,7 +633,7 @@
         <ENTRY>7</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>14/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Dedicated Prokofiev Issue</NOTES>
@@ -680,7 +658,7 @@
         <ENTRY>8</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>13/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Dedicated Prokofiev Issue</NOTES>
@@ -705,7 +683,7 @@
         <ENTRY>9</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>13/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Dedicated Prokofiev Issue</NOTES>
@@ -730,7 +708,7 @@
         <ENTRY>10</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>14/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Dedicated Prokofiev Issue</NOTES>
@@ -755,7 +733,7 @@
         <ENTRY>11</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>14/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <CALL_NUMBER>SOVMUZ-011</CALL_NUMBER>
@@ -779,7 +757,7 @@
         <ENTRY>12</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>14/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <CALL_NUMBER>SOVMUZ-011</CALL_NUMBER>
@@ -803,7 +781,7 @@
         <ENTRY>13</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>13/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Dedicated Prokofiev Issue</NOTES>
@@ -828,7 +806,7 @@
         <ENTRY>14</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>09/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <CALL_NUMBER>SOVMUZ-011</CALL_NUMBER>
@@ -852,7 +830,7 @@
         <ENTRY>15</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>14/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Dedicated Prokofiev Issue</NOTES>
@@ -877,7 +855,7 @@
         <ENTRY>16</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>14/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Dedicated Prokofiev Issue</NOTES>
@@ -902,7 +880,7 @@
         <ENTRY>17</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>14/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Dedicated Prokofiev Issue</NOTES>
@@ -927,7 +905,7 @@
         <ENTRY>18</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>09/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <CALL_NUMBER>SOVMUZ-011</CALL_NUMBER>
@@ -951,7 +929,7 @@
         <ENTRY>19</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>14/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Dedicated Prokofiev Issue</NOTES>
@@ -976,7 +954,7 @@
         <ENTRY>20</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>13/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Dedicated Prokofiev Issue</NOTES>
@@ -1001,7 +979,7 @@
         <ENTRY>21</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>13/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Dedicated Prokofiev Issue</NOTES>
@@ -1026,7 +1004,7 @@
         <ENTRY>22</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>09/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <CALL_NUMBER>SOVMUZ-011</CALL_NUMBER>
@@ -1050,7 +1028,7 @@
         <ENTRY>23</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>09/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <CALL_NUMBER>SOVMUZ-011</CALL_NUMBER>
@@ -1073,7 +1051,7 @@
         <ENTRY>24</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>14/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Dedicated Prokofiev Issue</NOTES>
@@ -1099,7 +1077,7 @@
         <ENTRY>25</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>14/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Dedicated Prokofiev Issue</NOTES>
@@ -1124,7 +1102,7 @@
         <ENTRY>26</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>14/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Dedicated Prokofiev Issue</NOTES>
@@ -1149,7 +1127,7 @@
         <ENTRY>27</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>14/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Dedicated Prokofiev Issue</NOTES>
@@ -1174,7 +1152,7 @@
         <ENTRY>28</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>13/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Dedicated Prokofiev Issue</NOTES>
@@ -1199,7 +1177,7 @@
         <ENTRY>29</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>13/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Dedicated Prokofiev Issue</NOTES>
@@ -1224,7 +1202,7 @@
         <ENTRY>30</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>14/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Dedicated Prokofiev Issue</NOTES>
@@ -1249,7 +1227,7 @@
         <ENTRY>31</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>14/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Dedicated Prokofiev Issue</NOTES>
@@ -1274,7 +1252,7 @@
         <ENTRY>32</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>13/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Dedicated Prokofiev Issue</NOTES>
@@ -1298,7 +1276,7 @@
         <ENTRY>33</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>13/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Dedicated Prokofiev Issue</NOTES>
@@ -1323,7 +1301,7 @@
         <ENTRY>34</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>13/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Dedicated Prokofiev Issue</NOTES>
@@ -1348,13 +1326,13 @@
         <ENTRY>35</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>13/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Dedicated Prokofiev Issue</NOTES>
         <CALL_NUMBER>SOVMUZ-011</CALL_NUMBER>
     </RECORD>
-    <RECORD>
+<RECORD>
         <REFERENCE_TYPE>1</REFERENCE_TYPE>
         <REFNUM>2297</REFNUM>
         <AUTHORS>
@@ -1373,13 +1351,13 @@
         <ENTRY>36</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>13/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Dedicated Prokofiev Issue</NOTES>
         <CALL_NUMBER>SOVMUZ-011</CALL_NUMBER>
     </RECORD>
-    <RECORD>
+<RECORD>
         <REFERENCE_TYPE>1</REFERENCE_TYPE>
         <REFNUM>2299</REFNUM>
         <AUTHORS>
@@ -1398,7 +1376,7 @@
         <ENTRY>37</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>13/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Dedicated Prokofiev Issue</NOTES>
@@ -1423,13 +1401,12 @@
         <ENTRY>38</ENTRY>
         <NUMBER_OF_ENTRIES>38</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>14/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Dedicated Prokofiev Issue</NOTES>
-        <CALL_NUMBER>SOVMUZ</CALL_NUMBER>
+        <CALL_NUMBER>SOVMUZ-011</CALL_NUMBER>
     </RECORD>
-
 <RECORD>
         <REFERENCE_TYPE>1</REFERENCE_TYPE>
         <REFNUM>2320</REFNUM>
@@ -1446,11 +1423,13 @@
         <DATE>1991-06</DATE>
         <ARTICLE_TYPE_OF_WORK>Essay</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>1</ENTRY>
+        <NUMBER_OF_ENTRIES>2</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>14/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
-        <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
+        <CALL_NUMBER>SOVMUZ-012</CALL_NUMBER>
     </RECORD>
 <RECORD>
         <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -1467,18 +1446,13 @@
         <DATE>1991-06</DATE>
         <ARTICLE_TYPE_OF_WORK>Transcript</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
+        <ENTRY>2</ENTRY>
+        <NUMBER_OF_ENTRIES>2</NUMBER_OF_ENTRIES>
         <ISBN>0131-6818</ISBN>
-        <CUSTOM1>Russian</CUSTOM1>
+        <LANGUAGE>Russian</LANGUAGE>
         <CUSTOM5>14/12/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
-        <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
+        <CALL_NUMBER>SOVMUZ-012</CALL_NUMBER>
     </RECORD>
-
-
-
-<language></language>
-
- 1985/complete; 1986/ complete; 1987: 3 &amp; 9 missing; 1988/complete;
-1989/complete; 1990: 9 missing; 1991/ 1, 3, 4, 6, 7 &amp; 8
 </outputxml>
     
