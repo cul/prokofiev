@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <outputxml>
 <RECORD>
         <REFERENCE_TYPE>1</REFERENCE_TYPE>
@@ -196,7 +196,7 @@
         <YEAR>1985</YEAR>
         <ARTICLE_TITLE>Glavnaia problema - ovladenie osoboi, prokof'evskoi, intonatsiei</ARTICLE_TITLE>
         <SUBSIDIARY_ARTICLE_TITLE>Issledovat' i propagandirovat' nasledie S. S. Prokof'eva</SUBSIDIARY_ARTICLE_TITLE>
-        <EDITION_TITLE>Sovetskaia muzyka</EDITION_TITLE>
+        <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
         <NUMBER>4</NUMBER>
         <PAGES>63-64</PAGES>
         <DATE>1985-04</DATE>
@@ -871,7 +871,7 @@
         <YEAR>1991</YEAR>
         <ARTICLE_TITLE>Ogromnoe zhelanie zhit'</ARTICLE_TITLE>
         <SUBSIDIARY_ARTICLE_TITLE>Chto vy dumaete o Sontse?</SUBSIDIARY_ARTICLE_TITLE>
-        <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+        <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
         <NUMBER>4</NUMBER>
         <PAGES>94-95</PAGES>
         <DATE>1991-04</DATE>
@@ -1455,4 +1455,3 @@
         <CALL_NUMBER>SOVMUZ-012</CALL_NUMBER>
     </RECORD>
 </outputxml>
-    
