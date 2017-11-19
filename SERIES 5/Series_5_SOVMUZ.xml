@@ -580,7 +580,7 @@
          <YEAR>1991</YEAR>
          <ARTICLE_TITLE>Ogromnoe zhelanie zhit'</ARTICLE_TITLE>
          <SUBSIDIARY_ARTICLE_TITLE>Chto vy dumaete o Sontse?</SUBSIDIARY_ARTICLE_TITLE>
-         <SECONDARY_TITLE>Sovetskaia muzyka</SECONDARY_TITLE>
+         <PERIODICAL_TITLE>Sovetskaia muzyka</PERIODICAL_TITLE>
          <NUMBER>4</NUMBER>
          <PAGES>94-95</PAGES>
          <DATE>1991-04</DATE>
@@ -1237,5 +1237,5 @@
          <CUSTOM6>Original</CUSTOM6>
          <NOTES>Dedicated Prokofiev Issue</NOTES>
          <CALL_NUMBER>[SOVMUZ]</CALL_NUMBER>
-      </RECORD>  
+      </RECORD>
 </outputxml>

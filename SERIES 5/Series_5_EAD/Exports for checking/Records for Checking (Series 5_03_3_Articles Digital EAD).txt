@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+
   TITLE: Prokofiev's Technique of Chromatic Displacement
 
          Creator: Bass, Richard
-         ID: SPA_14508
+         ID: SPA_14257
          Periodical: Music Analysis, Volume 7, Number 2, Page(s) 197-214
          Publication date: 1988-07
          Language: English
@@ -18,7 +19,7 @@
             Contemporaries
 
          Creator: Pople, Anthony
-         ID: SPA_14509
+         ID: SPA_14258
          Periodical: Music &amp; Letters, Volume 75, Number 3, Page(s) 486-487
          Publication date: 1994-08
          Language: English
@@ -33,7 +34,7 @@
 
          Creator: Zimmerman, Daniel J
          Secondary creator: Minturn, Neil
-         ID: SPA_14510
+         ID: SPA_14259
          Periodical: Journal of Music Theory, Volume 42, Number 1, Page(s) 153-164
          Publication date: 1998 (Spring)
          Language: English
@@ -48,7 +49,7 @@
   TITLE: Analysing Post-Tonal Diatonic Music: A Modulo 7 Perspective
 
          Creator: Santa, Matthew
-         ID: SPA_14511
+         ID: SPA_14260
          Periodical: Music Analysis, Volume 19, Number 2, Page(s) 167-201
          Publication date: 2000
          Language: English
@@ -66,7 +67,7 @@
          Creator: Zeeuw, Anne Marie de
          Secondary creator: Mawer, Deborah
          Secondary creator: Minturn, Neil
-         ID: SPA_14512
+         ID: SPA_14261
          Periodical: Music Theory Spectrum, Volume 22, Number 2, Page(s) 271-275
          Publication date: 2000 (Autumn)
          Language: English
@@ -82,7 +83,7 @@
   TITLE: The Music of Sergei Prokofiev
 
          Creator: Beeson, Roger A.
-         ID: SPA_14513
+         ID: SPA_14262
          Periodical: Notes, Volume 55, Number 3, Page(s) 674-675
          Publication date: 1999-03
          Language: English
@@ -96,7 +97,7 @@
   TITLE: Theaters for Children
 
          Creator: Nickel, Helen
-         ID: SPA_14514
+         ID: SPA_14263
          Periodical: Soviet Travel, Number 1, Page(s) 31-33, 43
          Editor: Block, L. A.
          Publication date: 1933
@@ -112,7 +113,7 @@
   TITLE: How We Produce the Classics
 
          Creator: Tairov, A.
-         ID: SPA_14515
+         ID: SPA_14264
          Periodical: Soviet Travel, Special Theatre Number, Number 3, Page(s) 23-24
          Editor: Block, L. A.
          Publication date: 1934
@@ -129,7 +130,7 @@
   TITLE: Soviet Audiences and My Work
 
          Creator: Prokofieff, Serge
-         ID: SPA_14516
+         ID: SPA_14265
          Periodical: Soviet Travel, Special Theatre Number, Number 3, Page(s) 30-31, 74
          Editor: Block, L. A.
          Publication date: 1934
@@ -145,7 +146,7 @@
   TITLE: The Children's Theatre
 
          Creator: Satz, Natalia
-         ID: SPA_14517
+         ID: SPA_14266
          Periodical: Soviet Travel, Special Theatre Number, Number 3, Page(s) 41-44
          Editor: Block, L. A.
          Publication date: 1934
@@ -162,7 +163,7 @@
   TITLE: Visiting the Moscow Theatres. The Second Theatre Festival
 
          Creator: Bogomazov, S.
-         ID: SPA_14518
+         ID: SPA_14267
          Periodical: Soviet Travel, Special Theatre Number, Number 3, Page(s) 45-46
          Editor: Block, L. A.
          Publication date: 1934
@@ -179,7 +180,7 @@
   TITLE: Vsevolod E. Meyerhold
 
          Creator: Volkov, N.
-         ID: SPA_14519
+         ID: SPA_14268
          Periodical: Soviet Travel, Special Theatre Number, Number 3, Page(s) 47-49
          Editor: Block, L. A.
          Publication date: 1934
@@ -195,7 +196,7 @@
   TITLE: Children and Music
 
          Creator: Gayamov, A
-         ID: SPA_14520
+         ID: SPA_14269
          Periodical: Sovietland, Number 1, Page(s) 26-27, 43
          Publication date: 1935
          Language: English
@@ -210,7 +211,7 @@
   TITLE: Szigeti and Beecham in Prokofieff Violin Concerto
 
          Creator: Anon.
-         ID: SPA_14521
+         ID: SPA_14270
          Periodical: Columbia Christmas List, Page(s) 3
          Publication date: 1935-12
          Language: English
@@ -227,7 +228,7 @@
   TITLE: Sergio Prokofief
 
          Creator: Quevedo, María de
-         ID: SPA_14522
+         ID: SPA_14271
          Periodical: Musicalia, Number 10, Page(s) 21-22
          Editor: Quevedo, Antonio
          Publication date: 1930-01/03
@@ -245,7 +246,7 @@
   TITLE: Notas biográficas de Prokofief
 
          Creator: Anon.
-         ID: SPA_14523
+         ID: SPA_14272
          Periodical: Musicalia, Number 10, Page(s) 22-25
          Editor: Quevedo, Antonio
          Publication date: 1930-01/03
@@ -263,7 +264,7 @@
   TITLE: Carta de Serge Prokofieff sobre le Música Rusa Contemporánea
 
          Creator: Prokofiev, Serge
-         ID: SPA_14524
+         ID: SPA_14273
          Periodical: Musicalia, Number 12, Page(s) 83-85
          Editor: Quevedo, Antonio
          Publication date: 1930-07/08
@@ -283,7 +284,7 @@
 
          Creator: Morrison, Simon
          Secondary creator: Prokof'yev, Svyatoslav
-         ID: SPA_14525
+         ID: SPA_14274
          Periodical: Journal of the American Musicological Society, Volume 58, Number 1, Page(s) 233-243
          Publication date: 2005
          Language: English
@@ -300,7 +301,7 @@
   TITLE: Prokof'ev-chitatel'. K istorii opernykh zamyslov 1940-kh godov
 
          Creator: Lobacheva, Nadezhda
-         ID: SPA_14526
+         ID: SPA_14275
          Periodical: Muzykal'naia akademiia, Number 4, Page(s) 63-69
          Language: Russian
          Call Number: spa-tex-atl-0180-ef
@@ -313,7 +314,7 @@
   TITLE: Flirting with Decadence. Sergei Prokofiev and Ognennyi angel
 
          Creator: Robinson, Harlow
-         ID: SPA_14527
+         ID: SPA_14276
          Periodical: Opera Quarterly, Volume 8, Number 4, Page(s) 1-7
          Language: English
          Call Number: spa-tex-atl-0182
@@ -327,7 +328,7 @@
 
          Creator: Prokofiev, Oleg
          Secondary creator: Navrozov, Andrei (trans.)
-         ID: SPA_14528
+         ID: SPA_14277
          Periodical: Yale Literary Magazine, Volume 148, Number 2
          Language: English
          Call Number: spa-tex-atl-0183-ef
@@ -341,7 +342,7 @@
   TITLE: "Wonderland". New Russian Ballet
 
          Creator: Anon.
-         ID: SPA_14529
+         ID: SPA_14278
          Periodical: Theatre World Souvenir, Volume 6
          Language: English
          Call Number: spa-tex-atl-0184-ef
@@ -356,7 +357,7 @@
             Return to Simpler, More Melodic Style
 
          Creator: Downes, Olin
-         ID: SPA_14530
+         ID: SPA_14279
          Periodical: The New York Times, Page(s) 23, 174
          Publication date: 02/02/1930
          Language: English
@@ -370,7 +371,7 @@
   TITLE: 
 
          Creator: Anon.
-         ID: SPA_14531
+         ID: SPA_14280
          Periodical: The Evening Post, Page(s) 175
          Publication date: 02/01/1930
          Language: English
@@ -384,7 +385,7 @@
   TITLE: Wanted – A Simple Style
 
          Creator: 
-         ID: SPA_14532
+         ID: SPA_14281
          Periodical: The Daily Telegraph, Page(s) 177
          Publication date: 03/08/1930
          Language: English
@@ -398,7 +399,7 @@
   TITLE: East, West – And Music
 
          Creator: Buranelli, Prosper
-         ID: SPA_14533
+         ID: SPA_14282
          Periodical: The World Magazine
          Publication date: 1918
          Language: English
@@ -412,7 +413,7 @@
   TITLE: Musical Courier
 
          Creator: Anon.
-         ID: SPA_14534
+         ID: SPA_14283
          Periodical: Musical America, Page(s) 25
          Publication date: 09/28/1918
          Language: English
@@ -427,7 +428,7 @@
             Meeting – Martin Vogel Speaks
 
          Creator: Anon.
-         ID: SPA_14535
+         ID: SPA_14284
          Periodical: Musical America
          Publication date: 09/28/1918
          Language: English
@@ -444,7 +445,7 @@
             Works in Sumptuous Style, and Regard Artists with Favor
 
          Creator: Martens, Frederick H.
-         ID: SPA_14536
+         ID: SPA_14285
          Periodical: Musical America, Page(s) 15
          Publication date: 09/28/1918
          Language: English
@@ -458,7 +459,7 @@
   TITLE: The Last Word in Russian Music. An Interview wiht Serge Prokofieff
 
          Creator: Martens, Frederick H.
-         ID: SPA_14537
+         ID: SPA_14286
          Periodical: The Musical Observer
          Publication date: 11/1918
          Language: English
@@ -472,7 +473,7 @@
   TITLE: Program
 
          Creator: Anon.
-         ID: SPA_14538
+         ID: SPA_14287
          Periodical: Boston Evening Transcript
          Publication date: 10/26/1918
          Language: English
@@ -486,7 +487,7 @@
   TITLE: Kutuzov's Victory, Prokofiev's Defeat: The Revisions of 'War and Peace'
 
          Creator: Seinen, Nathan
-         ID: SPA_14539
+         ID: SPA_14288
          Periodical: Music &amp; Letters, Page(s) 1-33
          Publication date: 06/30/2009
          Language: English
@@ -501,7 +502,7 @@
 
          Creator: Thomson, Andrew
          Secondary creator: Phillips, Anthony
-         ID: SPA_14540
+         ID: SPA_14289
          Periodical: Music &amp; Letters, Page(s) 99-106
          Publication date: Spring 2007
          Language: English
@@ -516,7 +517,7 @@
   TITLE: In Hollywood
 
          Creator: Newton, Paul
-         ID: SPA_14541
+         ID: SPA_14290
          Periodical: Trenton Evening Times, Page(s) 26
          Publication date: 08/04/1938
          Language: English
@@ -532,7 +533,7 @@
 
          Creator: Morrison, Simon
          Creator: Kravetz, Nelly
-         ID: SPA_14542
+         ID: SPA_14291
          Periodical: The Journal of Musicology, Volume 23, Number 2, Page(s) 227-262
          Publication date: 2006
          Language: English
@@ -547,7 +548,7 @@
             The Opera Semyon Kotko
 
          Creator: Slutskaya Levine, Katya
-         ID: SPA_14543
+         ID: SPA_14292
          Periodical: Opera Journal, Volume 39, Number 3, Page(s) 3-30
          Publication date: 09-2006
          Language: English
@@ -556,3 +557,5 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
       
+
+    

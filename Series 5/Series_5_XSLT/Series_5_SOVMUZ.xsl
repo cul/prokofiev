@@ -1,5 +1,5 @@
-<!-- convert Series_5_ORA_Complete.xml
-          to Series_5_ORA_Complete EAD.xml  - - rev MS 9/23/17 -->
+<!-- convert Series_5_SOVMUZ.xml
+          to Series_5_SOVMUZ EAD.xml  - - rev MS 9/23/17 -->
 
 <!-- number series after digital articles -->
 
@@ -24,7 +24,7 @@
 
 <!-- Generate EAD number = $Recordnum + (Start Number minus 1) -->
         <xsl:variable name="SPA">
-            <xsl:number value="$Recordnum + 14292"/>
+            <xsl:number value="$Recordnum + 14507"/>
         </xsl:variable>
 
 
@@ -69,6 +69,7 @@
                     <xsl:apply-templates select="CUSTOM1"></xsl:apply-templates>
                     <xsl:apply-templates select="CALL_NUMBER"></xsl:apply-templates>
                     <xsl:apply-templates select="ARTICLE_TYPE_OF_WORK"></xsl:apply-templates>
+<!--                    <xsl:apply-templates select="PERIODICAL_TYPE_OF_WORK"></xsl:apply-templates> -->
                     <p>Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London</p>
                     <xsl:apply-templates select="NOTES"></xsl:apply-templates>
 
@@ -152,7 +153,11 @@
     <xsl:template match="ARTICLE_TYPE_OF_WORK">
         <p>Document type:&#x20;<xsl:value-of select="."/></p>
     </xsl:template>
-
+    <!--
+    <xsl:template match="PERIODICAL_TYPE_OF_WORK">
+        <p>Periodical type:&#x20;<xsl:value-of select="."/></p>
+    </xsl:template>
+    -->
     <xsl:template match="NOTES">
         <p>Notes:&#x20;<xsl:value-of select="."/></p>
     </xsl:template>
