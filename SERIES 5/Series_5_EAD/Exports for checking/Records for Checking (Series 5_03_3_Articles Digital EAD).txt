@@ -1,14 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>   
-
+<?xml version="1.0" encoding="UTF-8"?>
 
   TITLE: Prokofiev's Technique of Chromatic Displacement
 
          Creator: Bass, Richard
-         ID: SPA_14257
+         ID: SPA_14508
          Periodical: Music Analysis, Volume 7, Number 2, Page(s) 197-214
          Publication date: 1988-07
          Language: English
          Call Number: spa-tex-atl-0113-ef
+         Document type: Essay
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
       
 
@@ -17,11 +18,13 @@
             Contemporaries
 
          Creator: Pople, Anthony
-         ID: SPA_14258
+         ID: SPA_14509
          Periodical: Music &amp; Letters, Volume 75, Number 3, Page(s) 486-487
          Publication date: 1994-08
          Language: English
          Call Number: spa-tex-atl-0123-ef
+         Document type: Review
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
       
 
@@ -30,11 +33,13 @@
 
          Creator: Zimmerman, Daniel J
          Secondary creator: Minturn, Neil
-         ID: SPA_14259
+         ID: SPA_14510
          Periodical: Journal of Music Theory, Volume 42, Number 1, Page(s) 153-164
          Publication date: 1998 (Spring)
          Language: English
          Call Number: spa-tex-atl-0129-ef
+         Document type: Review
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Review of THe Music of Sergei Prokofiev by Neil Minturn, 1997
       
@@ -43,11 +48,13 @@
   TITLE: Analysing Post-Tonal Diatonic Music: A Modulo 7 Perspective
 
          Creator: Santa, Matthew
-         ID: SPA_14260
+         ID: SPA_14511
          Periodical: Music Analysis, Volume 19, Number 2, Page(s) 167-201
          Publication date: 2000
          Language: English
          Call Number: spa-tex-atl-0131-ef
+         Document type: Essay
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Includes music-analytical consideration of Op. 22 No. 1. Article cited by Arnold
             Whittall in his Prokofiev and America conference paper on 8 May 2004.
@@ -59,11 +66,13 @@
          Creator: Zeeuw, Anne Marie de
          Secondary creator: Mawer, Deborah
          Secondary creator: Minturn, Neil
-         ID: SPA_14261
+         ID: SPA_14512
          Periodical: Music Theory Spectrum, Volume 22, Number 2, Page(s) 271-275
          Publication date: 2000 (Autumn)
          Language: English
          Call Number: spa-tex-atl-0132-ef
+         Document type: Review
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Review of Deborah Mawer's "Darius Milhaud: Modality and Structure in the 1920s," and of Neil Minturn's "The
             Music of Sergei Prokofiev"
@@ -73,11 +82,13 @@
   TITLE: The Music of Sergei Prokofiev
 
          Creator: Beeson, Roger A.
-         ID: SPA_14262
+         ID: SPA_14513
          Periodical: Notes, Volume 55, Number 3, Page(s) 674-675
          Publication date: 1999-03
          Language: English
          Call Number: spa-tex-atl-0133-ef
+         Document type: Review
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
       
 
@@ -85,12 +96,14 @@
   TITLE: Theaters for Children
 
          Creator: Nickel, Helen
-         ID: SPA_14263
+         ID: SPA_14514
          Periodical: Soviet Travel, Number 1, Page(s) 31-33, 43
          Editor: Block, L. A.
          Publication date: 1933
          Language: English
          Call Number: spa-tex-atl-0150-ef
+         Document type: Essay
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: First page of this document is corrupted and cannot be opened.
       
@@ -99,12 +112,14 @@
   TITLE: How We Produce the Classics
 
          Creator: Tairov, A.
-         ID: SPA_14264
+         ID: SPA_14515
          Periodical: Soviet Travel, Special Theatre Number, Number 3, Page(s) 23-24
          Editor: Block, L. A.
          Publication date: 1934
          Language: English
          Call Number: spa-tex-atl-0151-ef
+         Document type: Essay
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Special Theatre Number. A. Tairov, Director of the Moscow Kamerny Theatre and
             Honored Artist of the Republic
@@ -114,12 +129,14 @@
   TITLE: Soviet Audiences and My Work
 
          Creator: Prokofieff, Serge
-         ID: SPA_14265
+         ID: SPA_14516
          Periodical: Soviet Travel, Special Theatre Number, Number 3, Page(s) 30-31, 74
          Editor: Block, L. A.
          Publication date: 1934
          Language: English
          Call Number: spa-tex-atl-0152-ef
+         Document type: Essay
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Special Theatre Number
       
@@ -128,12 +145,14 @@
   TITLE: The Children's Theatre
 
          Creator: Satz, Natalia
-         ID: SPA_14266
+         ID: SPA_14517
          Periodical: Soviet Travel, Special Theatre Number, Number 3, Page(s) 41-44
          Editor: Block, L. A.
          Publication date: 1934
          Language: English
          Call Number: spa-tex-atl-0153-ef
+         Document type: Essay
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Special Theatre Number. Natalia Satz, founder and director of the Moscow Theatre for
             Shildren; Honored Artist of the Republic
@@ -143,12 +162,14 @@
   TITLE: Visiting the Moscow Theatres. The Second Theatre Festival
 
          Creator: Bogomazov, S.
-         ID: SPA_14267
+         ID: SPA_14518
          Periodical: Soviet Travel, Special Theatre Number, Number 3, Page(s) 45-46
          Editor: Block, L. A.
          Publication date: 1934
          Language: English
          Call Number: spa-tex-atl-0154-ef
+         Document type: Essay
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Special Theatre Number. S. Bogomanov, organsier of the Moscow Theatre Festival and
             the Leningrad Festival of Music
@@ -158,12 +179,14 @@
   TITLE: Vsevolod E. Meyerhold
 
          Creator: Volkov, N.
-         ID: SPA_14268
+         ID: SPA_14519
          Periodical: Soviet Travel, Special Theatre Number, Number 3, Page(s) 47-49
          Editor: Block, L. A.
          Publication date: 1934
          Language: English
          Call Number: spa-tex-atl-0155-ef
+         Document type: Essay
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Special Theatre Number
       
@@ -172,11 +195,13 @@
   TITLE: Children and Music
 
          Creator: Gayamov, A
-         ID: SPA_14269
+         ID: SPA_14520
          Periodical: Sovietland, Number 1, Page(s) 26-27, 43
          Publication date: 1935
          Language: English
          Call Number: spa-tex-atl-0156-ef
+         Document type: Essay
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Special Number about Soviet Children
       
@@ -185,11 +210,13 @@
   TITLE: Szigeti and Beecham in Prokofieff Violin Concerto
 
          Creator: Anon.
-         ID: SPA_14270
+         ID: SPA_14521
          Periodical: Columbia Christmas List, Page(s) 3
          Publication date: 1935-12
          Language: English
          Call Number: spa-tex-atl-0157-ef
+         Document type: Announcement
+         Periodical type: Magazine
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Discography announcement - Szigeti playing Prokofiev's Violin Concerto No. 1
             with Sir Thomas Beecham and the London Philharmonic Orchestra. Print-out in folder
@@ -200,12 +227,14 @@
   TITLE: Sergio Prokofief
 
          Creator: Quevedo, María de
-         ID: SPA_14271
+         ID: SPA_14522
          Periodical: Musicalia, Number 10, Page(s) 21-22
          Editor: Quevedo, Antonio
          Publication date: 1930-01/03
          Language: Spanish
          Call Number: spa-tex-atl-0158-ef
+         Document type: Essay
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Article referred to by Prokofiev in his letter to Quevedo of 05/06/1930 (SPA
             Correspondence: folder XXIV, p. 180). Letter published in English translation in
@@ -216,12 +245,14 @@
   TITLE: Notas biográficas de Prokofief
 
          Creator: Anon.
-         ID: SPA_14272
+         ID: SPA_14523
          Periodical: Musicalia, Number 10, Page(s) 22-25
          Editor: Quevedo, Antonio
          Publication date: 1930-01/03
          Language: Spanish
          Call Number: spa-tex-atl-0159-ef
+         Document type: Essay
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Article referred to by Prokofiev in his letter to Quevedo of 05/06/1930 (SPA
             Correspondence: folder XXIV, p. 180). Letter published in English translation in
@@ -232,12 +263,14 @@
   TITLE: Carta de Serge Prokofieff sobre le Música Rusa Contemporánea
 
          Creator: Prokofiev, Serge
-         ID: SPA_14273
+         ID: SPA_14524
          Periodical: Musicalia, Number 12, Page(s) 83-85
          Editor: Quevedo, Antonio
          Publication date: 1930-07/08
          Language: Spanish
          Call Number: spa-tex-atl-0160-ef
+         Document type: Essay
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Article sent by Prokofiev with his letter to Quevedo of 05/06/1930 (SPA
             Correspondence: folder XXIV, p. 180). Prokofiev submitted the article in French, which
@@ -250,11 +283,13 @@
 
          Creator: Morrison, Simon
          Secondary creator: Prokof'yev, Svyatoslav
-         ID: SPA_14274
+         ID: SPA_14525
          Periodical: Journal of the American Musicological Society, Volume 58, Number 1, Page(s) 233-243
          Publication date: 2005
          Language: English
          Call Number: spa-tex-atl-0163-ef
+         Document type: Review
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Full title:
             "Sergei Prokof'yev: Dnevnik 1907-1933, edited by Svyatoslav Prokof'yev. 2
@@ -265,10 +300,12 @@
   TITLE: Prokof'ev-chitatel'. K istorii opernykh zamyslov 1940-kh godov
 
          Creator: Lobacheva, Nadezhda
-         ID: SPA_14275
+         ID: SPA_14526
          Periodical: Muzykal'naia akademiia, Number 4, Page(s) 63-69
          Language: Russian
          Call Number: spa-tex-atl-0180-ef
+         Document type: Essay
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
       
 
@@ -276,10 +313,12 @@
   TITLE: Flirting with Decadence. Sergei Prokofiev and Ognennyi angel
 
          Creator: Robinson, Harlow
-         ID: SPA_14276
+         ID: SPA_14527
          Periodical: Opera Quarterly, Volume 8, Number 4, Page(s) 1-7
          Language: English
          Call Number: spa-tex-atl-0182
+         Document type: Essay
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
       
 
@@ -288,10 +327,12 @@
 
          Creator: Prokofiev, Oleg
          Secondary creator: Navrozov, Andrei (trans.)
-         ID: SPA_14277
+         ID: SPA_14528
          Periodical: Yale Literary Magazine, Volume 148, Number 2
          Language: English
          Call Number: spa-tex-atl-0183-ef
+         Document type: Essay
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: This article has been reproduced with permission
       
@@ -300,10 +341,12 @@
   TITLE: "Wonderland". New Russian Ballet
 
          Creator: Anon.
-         ID: SPA_14278
+         ID: SPA_14529
          Periodical: Theatre World Souvenir, Volume 6
          Language: English
          Call Number: spa-tex-atl-0184-ef
+         Document type: Essay
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: As presented as the Cambridge Theatre, London
       
@@ -313,11 +356,13 @@
             Return to Simpler, More Melodic Style
 
          Creator: Downes, Olin
-         ID: SPA_14279
+         ID: SPA_14530
          Periodical: The New York Times, Page(s) 23, 174
          Publication date: 02/02/1930
          Language: English
          Call Number: spa-tex-atl-0185-ef
+         Document type: Essay
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
       
 
@@ -325,11 +370,13 @@
   TITLE: 
 
          Creator: Anon.
-         ID: SPA_14280
+         ID: SPA_14531
          Periodical: The Evening Post, Page(s) 175
          Publication date: 02/01/1930
          Language: English
          Call Number: spa-tex-atl-0186-ef
+         Document type: Essay
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
       
 
@@ -337,11 +384,13 @@
   TITLE: Wanted – A Simple Style
 
          Creator: 
-         ID: SPA_14281
+         ID: SPA_14532
          Periodical: The Daily Telegraph, Page(s) 177
          Publication date: 03/08/1930
          Language: English
          Call Number: spa-tex-atl-0187-ef
+         Document type: Essay
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
       
 
@@ -349,11 +398,13 @@
   TITLE: East, West – And Music
 
          Creator: Buranelli, Prosper
-         ID: SPA_14282
+         ID: SPA_14533
          Periodical: The World Magazine
          Publication date: 1918
          Language: English
          Call Number: spa-tex-atl-0188-ef
+         Document type: Essay
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
       
 
@@ -361,11 +412,13 @@
   TITLE: Musical Courier
 
          Creator: Anon.
-         ID: SPA_14283
+         ID: SPA_14534
          Periodical: Musical America, Page(s) 25
          Publication date: 09/28/1918
          Language: English
          Call Number: spa-tex-atl-0189-ef
+         Document type: Essay
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
       
     
@@ -374,11 +427,13 @@
             Meeting – Martin Vogel Speaks
 
          Creator: Anon.
-         ID: SPA_14284
+         ID: SPA_14535
          Periodical: Musical America
          Publication date: 09/28/1918
          Language: English
          Call Number: spa-tex-atl-0190-ef
+         Document type: Essay
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
       
 
@@ -389,11 +444,13 @@
             Works in Sumptuous Style, and Regard Artists with Favor
 
          Creator: Martens, Frederick H.
-         ID: SPA_14285
+         ID: SPA_14536
          Periodical: Musical America, Page(s) 15
          Publication date: 09/28/1918
          Language: English
          Call Number: spa-tex-atl-0191-ef
+         Document type: Essay
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
       
 
@@ -401,11 +458,13 @@
   TITLE: The Last Word in Russian Music. An Interview wiht Serge Prokofieff
 
          Creator: Martens, Frederick H.
-         ID: SPA_14286
+         ID: SPA_14537
          Periodical: The Musical Observer
          Publication date: 11/1918
          Language: English
          Call Number: spa-tex-atl-0192-ef
+         Document type: Essay
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
       
 
@@ -413,11 +472,13 @@
   TITLE: Program
 
          Creator: Anon.
-         ID: SPA_14287
+         ID: SPA_14538
          Periodical: Boston Evening Transcript
          Publication date: 10/26/1918
          Language: English
          Call Number: spa-tex-atl-0193-ef
+         Document type: Program
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
       
 
@@ -425,11 +486,13 @@
   TITLE: Kutuzov's Victory, Prokofiev's Defeat: The Revisions of 'War and Peace'
 
          Creator: Seinen, Nathan
-         ID: SPA_14288
+         ID: SPA_14539
          Periodical: Music &amp; Letters, Page(s) 1-33
          Publication date: 06/30/2009
          Language: English
          Call Number: spa-tex-atl-0194-ef
+         Document type: Essay
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
       
 
@@ -438,11 +501,13 @@
 
          Creator: Thomson, Andrew
          Secondary creator: Phillips, Anthony
-         ID: SPA_14289
+         ID: SPA_14540
          Periodical: Music &amp; Letters, Page(s) 99-106
          Publication date: Spring 2007
          Language: English
          Call Number: spa-tex-atl-0195-ef
+         Document type: Review
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Review for Anthony Phillips' "Sergey Prokofiev: diaries 1907-1914: prodigious youth
       
@@ -451,11 +516,13 @@
   TITLE: In Hollywood
 
          Creator: Newton, Paul
-         ID: SPA_14290
+         ID: SPA_14541
          Periodical: Trenton Evening Times, Page(s) 26
          Publication date: 08/04/1938
          Language: English
          Call Number: spa-tex-atl-0196-ef
+         Document type: Announcement
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
       
 
@@ -465,11 +532,13 @@
 
          Creator: Morrison, Simon
          Creator: Kravetz, Nelly
-         ID: SPA_14291
+         ID: SPA_14542
          Periodical: The Journal of Musicology, Volume 23, Number 2, Page(s) 227-262
          Publication date: 2006
          Language: English
          Call Number: spa-tex-atl-0197-ef
+         Document type: Essay
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
       
 
@@ -478,10 +547,12 @@
             The Opera Semyon Kotko
 
          Creator: Slutskaya Levine, Katya
-         ID: SPA_14292
+         ID: SPA_14543
          Periodical: Opera Journal, Volume 39, Number 3, Page(s) 3-30
          Publication date: 09-2006
          Language: English
          Call Number: spa-tex-atl-0198-ef
+         Document type: Essay
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
       

@@ -43,7 +43,8 @@
                         <xsl:apply-templates select="DATE"></xsl:apply-templates>
                         <xsl:apply-templates select="CUSTOM1"></xsl:apply-templates>
                         <xsl:apply-templates select="CALL_NUMBER"></xsl:apply-templates>
-                        <xsl:apply-templates select="TYPE_OF_WORK"></xsl:apply-templates>
+                        <xsl:apply-templates select="ARTICLE_TYPE_OF_WORK"></xsl:apply-templates>
+                        <xsl:apply-templates select="PERIODICAL_TYPE_OF_WORK"></xsl:apply-templates>                
                         <xsl:apply-templates select="ALTERNATE_TITLE"></xsl:apply-templates>
                         <p>Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London</p>
                         <xsl:apply-templates select="NOTES"></xsl:apply-templates>
@@ -93,7 +94,7 @@
     <xsl:template match="AUTHORS/PERIODICAL_EDITOR">
           <p>Editor:&#x20;<xsl:value-of select="."/></p>
     </xsl:template>
-          
+
     <xsl:template match="DATE">
         <p>Publication date:&#x20;<xsl:value-of select="."/></p>
     </xsl:template>
@@ -106,9 +107,13 @@
         <p>Call Number:&#x20;<xsl:value-of select="."/></p>
     </xsl:template>
 
-    <xsl:template match="TYPE_OF_WORK">
+    <xsl:template match="ARTICLE_TYPE_OF_WORK">
         <p>Document type:&#x20;<xsl:value-of select="."/></p>
     </xsl:template>
+    
+    <xsl:template match="PERIODICAL_TYPE_OF_WORK">
+        <p>Periodical type:&#x20;<xsl:value-of select="."/></p>
+    </xsl:template>    
 
     <xsl:template match="ALTERNATE_TITLE">
         <p>Periodical type:&#x20;<xsl:value-of select="."/></p>

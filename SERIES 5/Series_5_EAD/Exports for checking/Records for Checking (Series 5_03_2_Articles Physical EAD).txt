@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-
   TITLE: Prokofiev's "War and Peace"
 
          Creator: Downes, Edward
-         ID: SPA_1914
+         ID: SPA_14082
          Periodical: Opera, Volume 23, Number 10, Page(s) 882-887
          Publication date: 1972-10
          Language: English
@@ -12,13 +11,13 @@
          Document type: Essay
          Periodical type: Magazine
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Kontsert iz proizvedenii Sergeia Prokof’eva
 
          Creator: Ostretsov, A.
-         ID: SPA_1915
+         ID: SPA_14083
          Periodical: Sovetskaia Muzyka, Number 6, Page(s) 85-88
          Publication date: 1934-06
          Language: Russian
@@ -26,14 +25,14 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: “Romeo i Dzhul’etta” - Simfonicheskaia siuita S.
             Prokof’eva
 
          Creator: Kreitner, G.
-         ID: SPA_1916
+         ID: SPA_14084
          Periodical: Sovetskaia Muzyka, Number 10, Page(s) 77-84
          Publication date: 1937-10
          Language: Russian
@@ -41,13 +40,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Kantata “Aleksandr Nevsky” S. Prokof’eva
 
          Creator: Ostretsov, A.
-         ID: SPA_1917
+         ID: SPA_14085
          Periodical: Sovetskaia Muzyka, Number 11, Page(s) 24-45
          Publication date: 1939-11
          Language: Russian
@@ -56,13 +55,13 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Illustration on pg45
-
-
+      
+   
 
   TITLE: Obraz narodnogo schast'ia
 
          Creator: Nestiev, Izrail Vladimirovich
-         ID: SPA_1918
+         ID: SPA_14086
          Periodical: Sovetskaia Muzyka, Number 12, Page(s) 31-35
          Publication date: 1939-12
          Language: Russian
@@ -71,13 +70,13 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Extract on Zdravitsa
-
-
+      
+   
 
   TITLE: Posle dekady. "Aleksandr Nevsky"
 
          Creator: Danilevich, Lev Vasilevich
-         ID: SPA_1919
+         ID: SPA_14087
          Periodical: Sovetskaia Muzyka, Number 12, Page(s) 49-50
          Publication date: 1939-12
          Language: Russian
@@ -86,13 +85,13 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Extract
-
-
+      
+   
 
   TITLE: Novye simfonii
 
          Creator: Ostretsov, A.
-         ID: SPA_1920
+         ID: SPA_14088
          Periodical: Sovetskaia Muzyka, Number 12, Page(s) 56-65
          Publication date: 1939-12
          Language: Russian
@@ -101,13 +100,13 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Extract of article – full article continues to pg72, which is not included
-
-
+      
+   
 
   TITLE: Balet “Romeo i Dzhul’etta” S. Prokof’eva
 
          Creator: Druskin, M.
-         ID: SPA_1921
+         ID: SPA_14089
          Periodical: Sovetskaia Muzyka, Number 3, Page(s) 10-19
          Publication date: 1940-03
          Language: Russian
@@ -115,13 +114,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Shestaia sonata S. Prokof'eva
 
          Creator: Edel'man, Georgii
-         ID: SPA_1922
+         ID: SPA_14090
          Periodical: Sovetskaia Muzyka, Number 8, Page(s) 55-59
          Publication date: 1940-08
          Language: Russian
@@ -129,13 +128,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: "Semyon Kotko" S. Prokof'eva
 
          Creator: Nest'ev, Izrail Vladimirovich
-         ID: SPA_1923
+         ID: SPA_14091
          Periodical: Sovetskaia Muzyka, Number 9, Page(s) 7-30
          Publication date: 1940-09
          Language: Russian
@@ -143,13 +142,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Pervaia krupnaia udacha. "Semyon Kotko"
 
          Creator: Neigauz, G.
-         ID: SPA_1924
+         ID: SPA_14092
          Periodical: Sovetskaia Muzyka, Number 10, Page(s) 25
          Publication date: 1940-09
          Language: Russian
@@ -158,13 +157,13 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: [concerns "Semyon Kotko"]
-
-
+      
+   
 
   TITLE: Nit' pravdy. "Semyon Kotko"
 
          Creator: Panchekhin, N.
-         ID: SPA_1925
+         ID: SPA_14093
          Periodical: Sovetskaia Muzyka, Number 10, Page(s) 27-29
          Publication date: 1940-10
          Language: Russian
@@ -173,13 +172,13 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: K sporam ob opere "Semyon Kotko" – Page 28 is partly illegible
-
-
+      
+   
 
   TITLE: Neskol’ko myslei o sovetskoi opere. "Semyon Kotko"
 
          Creator: Tsukkerman, V.
-         ID: SPA_1926
+         ID: SPA_14094
          Periodical: Sovetskaia Muzyka, Number 12, Page(s) 66-78
          Publication date: 1940-12
          Language: Russian
@@ -188,13 +187,13 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: [extract about "Semyon Kotko"]
-
-
+      
+   
 
   TITLE: Sergei Prokof’ev: Materialy k tvorcheskoi biografii
 
          Creator: Nestiev, Izrail Vladimirovich
-         ID: SPA_1927
+         ID: SPA_14095
          Periodical: Sovetskaia Muzyka, Number 4, Page(s) 57-70
          Publication date: 1941-04
          Language: Russian
@@ -202,13 +201,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: O stile S. Prokof'eva
 
          Creator: Nestiev, Izrail Vladimirovich
-         ID: SPA_1928
+         ID: SPA_14096
          Periodical: Sovetskaia Muzyka, Number 4, Page(s) 10-26
          Publication date: 1946-04
          Language: Russian
@@ -219,13 +218,13 @@
          Notes: [Osobennosti melodiko-garmonicheskogo pis’ma
          S.Prokof’eva. Cherty polifonii ego muzyki. Operno-dramatichesky opyt S.
          Prokof’eva]
-
-
+      
+   
 
   TITLE: Po okonchanii konservatorii: Sergei Prokof'ev iz avtobiografii
 
          Creator: Prokofiev, Serge
-         ID: SPA_1929
+         ID: SPA_14097
          Periodical: Sovetskaia Muzyka, Number 4, Page(s) 27-37
          Publication date: 1946-04
          Language: Russian
@@ -233,13 +232,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: "Voina i mir" Sergeia Prokof'eva: Ocherk pervyi
 
          Creator: Khokhlovkina, A.
-         ID: SPA_1930
+         ID: SPA_14098
          Periodical: Sovetskaia Muzyka, Number 8-9, Page(s) 15-28
          Publication date: 1946-09
          Language: Russian
@@ -247,14 +246,14 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: “Voina i mir” Sergeia Prokof’eva v Leningradskom
             Gosudarstvennom Akademicheskom Malom Opernom teatre
 
          Creator: Glezer, R.
-         ID: SPA_1931
+         ID: SPA_14099
          Periodical: Sovetskaia Muzyka, Number 8-9, Page(s) 29-34
          Publication date: 1946-09
          Language: Russian
@@ -262,13 +261,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: "Zolushka," balet S. Prokof'eva
 
          Creator: Tsychovich, T.
-         ID: SPA_1932
+         ID: SPA_14100
          Periodical: Sovetskaia Muzyka, Number 8-9, Page(s) 35-50
          Publication date: 1946-09
          Language: Russian
@@ -276,13 +275,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Pis'mo S. S. Prokof'eva
 
          Creator: Anon.
-         ID: SPA_1933
+         ID: SPA_14101
          Periodical: Sovetskaia Muzyka, Number 1, Page(s) 66-67 &amp; 78-79
          Publication date: 1948-01
          Language: Russian
@@ -291,13 +290,13 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Incomplete
-
-
+      
+   
 
   TITLE: Pamiati S. S. Prokof'eva
 
          Creator: Volkov, A
-         ID: SPA_1934
+         ID: SPA_14102
          Periodical: Sovetskaia muzyka, Number 4
          Publication date: 1953-04
          Language: Russian
@@ -305,13 +304,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Simfoniia sveta i radosti zhizni. 7-iia simfoniia S. Prokof'eva
 
          Creator: Shostakovich, Dmitri Dmitrievich
-         ID: SPA_1935
+         ID: SPA_14103
          Periodical: Sovetskaia Muzyka, Number 6, Page(s) 57-60
          Publication date: 1957-06
          Language: Russian
@@ -319,13 +318,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Balet "Kamennyi tsvetok" v teatre imeni kirova. Muzykal'nyi teatr
 
          Creator: Lesnikov, A.
-         ID: SPA_1936
+         ID: SPA_14104
          Periodical: Sovetskaia Muzyka, Number 7, Page(s) 69-73
          Publication date: 1957-07
          Language: Russian
@@ -333,13 +332,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: "Semyon Kotko" v efire
 
          Creator: I. N.
-         ID: SPA_1937
+         ID: SPA_14105
          Periodical: Sovetskaia Muzyka, Number 3, Page(s) 149-150
          Publication date: 1959-03
          Language: Russian
@@ -349,13 +348,13 @@
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: [Opera S. Prokof'eva v post. Vsesoiuznogo
             Radio]
-
-
+      
+   
 
   TITLE: E. Mnatsakanova. Opera S. S. Prokof'eva "Voina i mir"
 
          Creator: Meien, E.
-         ID: SPA_1938
+         ID: SPA_14106
          Periodical: Sovetskaia Muzyka, Number 6, Page(s) 199
          Publication date: 1960-06
          Language: Russian
@@ -364,15 +363,15 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Poiasnenie
-
-
+      
+   
 
   TITLE: Sergei Prokof'ev. "Petia i volk." Risunki B. Korneeva.
             Izdatel'stvo "Detskii mir". Ministerstva kul'tury RSFSR,
             1960
 
          Creator: V. B.
-         ID: SPA_1939
+         ID: SPA_14107
          Periodical: Sovetskaia Muzyka, Number 9, Page(s) 195-196
          Publication date: 1960-09
          Language: Russian
@@ -380,13 +379,13 @@
          Document type: Review
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Novye obrazy - starye resheniia. "Semyon Kotko"
 
          Creator: Genina, L.
-         ID: SPA_1940
+         ID: SPA_14108
          Periodical: Sovetskaia Muzyka, Number 4, Page(s) 98-103
          Publication date: 1961-04
          Language: Russian
@@ -395,13 +394,13 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: K postanovke "Semyon Kotko" v Leningradskom teatre opery i baleta imeni Kirova
-
-
+      
+   
 
   TITLE: Prokof'ev na gruzinskoi stsene. Na muzykal'nykh stsenakh strany. "Semyon Kotko"
 
          Creator: Poliakova, Liudmilla Viktorovna
-         ID: SPA_1941
+         ID: SPA_14109
          Periodical: Sovetskaia Muzyka, Number 10, Page(s) 34-38
          Publication date: 1964-10
          Language: Russian
@@ -410,13 +409,13 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: "Semyon Kotko" v post. Tbilisskogo Gos. Akad. t-ra opery i baleta im. Z. Palishvili
-
-
+      
+   
 
   TITLE: Neopublikovannye rukopisi
 
          Creator: Blok, Vladimir
-         ID: SPA_1942
+         ID: SPA_14110
          Periodical: Sovetskaia Muzyka, Number 4, Page(s) 93-99
          Publication date: 1967-04
          Language: Russian
@@ -425,13 +424,13 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Po materialam TSGALI SSSR
-
-
+      
+   
 
   TITLE: Put'k rastsvetu
 
          Creator: Aranovsky, Mark
-         ID: SPA_1943
+         ID: SPA_14111
          Periodical: Sovetskaia Muzyka, Number 4, Page(s) 95-100
          Publication date: 1968-04
          Language: Russian
@@ -440,13 +439,13 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: K izucheniiu naslediia S. S. Prokof'eva
-
-
+      
+   
 
   TITLE: Vstrechi s khudozhnikom
 
          Creator: Rogal'-Levitsky, Dm.
-         ID: SPA_1944
+         ID: SPA_14112
          Periodical: Sovetskaia Muzyka, Number 4, Page(s) 101-108
          Publication date: 1968-04
          Language: Russian
@@ -455,14 +454,14 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: K izucheniiu naslediia S. S. Prokof'eva
-
-
+      
+   
 
   TITLE: Ego fortepiannaia muzyka...
 
          Creator: Poulenc, Francis
          Secondary creator: Medvedeva, Irina (trans.)
-         ID: SPA_1945
+         ID: SPA_14113
          Periodical: Sovetskaia Muzyka, Number 4, Page(s) 108-111
          Publication date: 1968-04
          Language: Russian
@@ -471,13 +470,13 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Translated from French
-
-
+      
+   
 
   TITLE: Bol'she doveriia muzyke!. "Semyon Kotko"
 
          Creator: Tarakanov, Mikhail Evgenevich
-         ID: SPA_1946
+         ID: SPA_14114
          Periodical: Sovetskaia Muzyka, Number 3, Page(s) 108-112
          Publication date: 1969-03
          Language: Russian
@@ -486,13 +485,13 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Telespektakl "Semyon Kotko"
-
-
+      
+   
 
   TITLE: O "Leninskoi kantate" (Iz istorii muzykal'noi leniniany). K izucheniu naslediia S. Prokof'eva
 
          Creator: Nest'ev, Izrail Vladimirovich
-         ID: SPA_1947
+         ID: SPA_14115
          Periodical: Sovetskaia Muzyka, Number 4, Page(s) 93-103
          Publication date: 1970-04
          Language: Russian
@@ -500,13 +499,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Shel soldat s fronta. Muzykal'nyi teatr. Semyon Kotko
 
          Creator: Ordzhonikidze, Givi
-         ID: SPA_1948
+         ID: SPA_14116
          Periodical: Sovetskaia Muzyka, Number 8, Page(s) 27-36
          Publication date: 1970-08
          Language: Russian
@@ -514,13 +513,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Iz epistoliarnogo naslediia
 
          Creator: Martynov, I.
-         ID: SPA_1949
+         ID: SPA_14117
          Periodical: Sovetskaia Muzyka, Number 4, Page(s) 60-62
          Publication date: 1971-04
          Language: Russian
@@ -529,13 +528,13 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Publikatsiia podgotovlena I. Martynovym
-
-
+      
+   
 
   TITLE: O sud'be baleta S. Prokof'eva "Romeo i Dzhuletta". Pus'mo v redaktsiu
 
          Creator: Rozhdestvensky, Gennadi
-         ID: SPA_1950
+         ID: SPA_14118
          Periodical: Sovetskaia Muzyka, Number 12, Page(s) 56-58
          Publication date: 1973-12
          Language: Russian
@@ -543,13 +542,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Uroki "Igroka". Vozvrashchaias' k napechatannomu
 
          Creator: Sokol'sky, M.
-         ID: SPA_1951
+         ID: SPA_14119
          Periodical: Sovetskaia Muzyka, Number 7, Page(s) 54-56
          Publication date: 1975-07
          Language: Russian
@@ -557,13 +556,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: A stoilo li peredelyvat' Prokof'eva?. Balet "Ivan groznyi"
 
          Creator: Nest'ev, Izrail Vladimirovich
-         ID: SPA_1952
+         ID: SPA_14120
          Periodical: Sovetskaia Muzyka, Number 9, Page(s) 35-39
          Publication date: 1975-09
          Language: Russian
@@ -571,13 +570,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Osvaivaia nasledie velikogo mastera.... "Semyon Kotko"
 
          Creator: Nekrasova, N
-         ID: SPA_1953
+         ID: SPA_14121
          Periodical: Sovetskaia Muzyka, Number 5, Page(s) 55-57
          Publication date: 1979-05
          Language: Russian
@@ -585,13 +584,13 @@
          Document type: Review
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: V rabote nad "Semyon Kotko"
 
          Creator: Tyshler, A.
-         ID: SPA_1954
+         ID: SPA_14122
          Periodical: Sovetskaia Muzyka, Number 5, Page(s) 58-59
          Publication date: 1979-05
          Language: Russian
@@ -599,13 +598,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Ego teatr utverzhdal pravdu. K 90-letiiu S. S. Prokof'eva
 
          Creator: Pokrovskii, Boris Alexandrovich
-         ID: SPA_1955
+         ID: SPA_14123
          Periodical: Sovetskaia Muzyka, Number 4, Page(s) 83-86
          Publication date: 1981-04
          Language: Russian
@@ -613,13 +612,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Podobnaia kamennomu tsvetku
 
          Creator: Grigorovich, Iurii Nikolaevich
-         ID: SPA_1956
+         ID: SPA_14124
          Periodical: Sovetskaia Muzyka, Number 4, Page(s) 86-87
          Publication date: 1981-04
          Language: Russian
@@ -627,13 +626,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Vazhnaia cherta fortepiannogo tvorchestva. Iz rabot molodykh muzykantov
 
          Creator: Pavlinova, V.
-         ID: SPA_1957
+         ID: SPA_14125
          Periodical: Sovetskaia Muzyka, Number 4, Page(s) 88-93
          Publication date: 1981-04
          Language: Russian
@@ -642,13 +641,13 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: K 90-letiiu S. S. Prokof'eva
-
-
+      
+   
 
   TITLE: Zametki iz dnevnika
 
          Creator: Dukhovskaia, V.
-         ID: SPA_1958
+         ID: SPA_14126
          Periodical: Sovetskaia Muzyka, Number 4, Page(s) 93-96
          Publication date: 1981-04
          Language: Russian
@@ -657,13 +656,13 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: K 90-letiiu S. S. Prokof'eva
-
-
+      
+   
 
   TITLE: Nezabyvaemaia vstrecha
 
          Creator: Vil'koreiskaia, T.
-         ID: SPA_1959
+         ID: SPA_14127
          Periodical: Sovetskaia Muzyka, Number 4, Page(s) 97
          Publication date: 1981-04
          Language: Russian
@@ -671,13 +670,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Sorok let druzhby
 
          Creator: Kunin, I.
-         ID: SPA_1960
+         ID: SPA_14128
          Periodical: Sovetskaia Muzyka, Number 4, Page(s) 97-100
          Publication date: 1981-04
          Language: Russian
@@ -685,12 +684,12 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: "Voina i mir" S. Prokof'eva. Bol'shoi teatr SSSR
 
-         ID: SPA_1961
+         ID: SPA_14129
          Periodical: Sovetskaia Muzyka, Number 5, Page(s) 55
          Publication date: 1981-05
          Language: Russian
@@ -698,13 +697,13 @@
          Document type: Photographs
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Muzei v Sontsovke
 
          Creator: Babkov, M.
-         ID: SPA_1962
+         ID: SPA_14130
          Periodical: Sovetskaia Muzyka, Number 8, Page(s) 138-139
          Publication date: 1981-08
          Language: Russian
@@ -712,13 +711,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Prokof'evskaia vesna
 
          Creator: Nekrasov, A.
-         ID: SPA_1963
+         ID: SPA_14131
          Periodical: Sovetskaia Muzyka, Number 9, Page(s) 142
          Publication date: 1981-09
          Language: Russian
@@ -726,13 +725,13 @@
          Document type: Letter
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Chetyre druzhby. Petr Suvchinskii i russkie muzykanty
 
          Creator: Nest'ev, Izrail Vladimirovich
-         ID: SPA_1964
+         ID: SPA_14132
          Periodical: Sovetskaia Muzyka, Number 3, Page(s) 83-95
          Publication date: 1983-03
          Language: Russian
@@ -740,13 +739,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Dialogiia Prokof'eva na opernoi stsene. "Voina i mir"
 
          Creator: Kandinskii, A. I.
-         ID: SPA_1965
+         ID: SPA_14133
          Periodical: Sovetskaia Muzyka, Number 6, Page(s) 40-45
          Publication date: 1983-06
          Language: Russian
@@ -754,13 +753,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Epos i drama. K izucheniiu naslediia S. S. Prokof'eva
 
          Creator: Stepanova, I.
-         ID: SPA_1966
+         ID: SPA_14134
          Periodical: Sovetskaia Muzyka, Number 8, Page(s) 90-95
          Publication date: 1983-08
          Language: Russian
@@ -768,13 +767,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: "Undina". K istorii iunosheskogo sochineniia
 
          Creator: Sviiasov, E.
-         ID: SPA_1967
+         ID: SPA_14135
          Periodical: Sovetskaia Muzyka, Number 8, Page(s) 96-97
          Publication date: 1983-08
          Language: Russian
@@ -782,13 +781,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Tri portreta i razviazka. Izuchaia nasledie S. S. Prokofieva
 
          Creator: Savkina, Natalia Pavlovna
-         ID: SPA_1968
+         ID: SPA_14136
          Periodical: Sovetskaia Muzyka, Number 4, Page(s) 104-111
          Publication date: 1990-04
          Language: Russian
@@ -797,14 +796,14 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Part 1 of 2. Part 2 spa-tex-atl-056
-
-
+      
+   
 
   TITLE: Tri portreta i razviazka: iz nabliudenii nad stilem opery S. S. Prokof'eva
             "Maddalena". Izuchaia nasledie S. S. Prokofieva
 
          Creator: Savkina, Natalia Pavlovna
-         ID: SPA_1969
+         ID: SPA_14137
          Periodical: Sovetskaia Muzyka, Number 5, Page(s) 108-114
          Publication date: 1990-05
          Language: Russian
@@ -813,13 +812,13 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Part 2 of 2. Part 1 spa-tex-atl-0055
-
-
+      
+   
 
   TITLE: Apologiia nepriznaniia. Tvorchestvo
 
          Creator: Tarakanov, Mikhail Evgenevich
-         ID: SPA_1970
+         ID: SPA_14138
          Periodical: Sovetskaia Muzyka, Number 7, Page(s) 6-13
          Publication date: 1990-07
          Language: Russian
@@ -827,13 +826,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Vladimir Deshevov: Desiatiletie poiska
 
          Creator: Zhuravleva, Aina
-         ID: SPA_1971
+         ID: SPA_14139
          Periodical: Sovetskaia Muzyka, Number 2, Page(s) 64-75
          Publication date: 1991-02
          Language: Russian
@@ -842,13 +841,13 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Correspondence between Prokofiev and Milhaud
-
-
+      
+   
 
   TITLE: Prokofiev, Eisenstein and Ivan
 
          Creator: Palmer, Christopher
-         ID: SPA_1972
+         ID: SPA_14140
          Periodical: The Musical Times, Volume cxxxii, Number 1778, Page(s) 179-181
          Publication date: 1991-04
          Language: English
@@ -856,13 +855,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Serge Prokofieff
 
          Creator: Anon.
-         ID: SPA_1973
+         ID: SPA_14141
          Periodical: Tempo, Number 11, Page(s) 4
          Publication date: 1949 (Spring)
          Language: English
@@ -872,13 +871,13 @@
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Introduction to an issue dedicated to Prokofiev –
             ALSO spa-tex-per-0072
-
-
+      
+   
 
   TITLE: Prokofiev: An Intimate Portrait
 
          Creator: Moreux, Serge
-         ID: SPA_1974
+         ID: SPA_14142
          Periodical: Tempo, Number 11, Page(s) 5-9
          Publication date: 1949 (Spring)
          Language: Englihs
@@ -887,13 +886,13 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: ALSO spa-tex-per-0072
-
-
+      
+   
 
   TITLE: Prokofiev's Orchestral Music
 
          Creator: Swarsenski, Hans
-         ID: SPA_1975
+         ID: SPA_14143
          Periodical: Tempo, Number 11, Page(s) 10-25
          Publication date: 1949 (Spring)
          Language: English
@@ -901,13 +900,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Prokofiev's Works For Solo Piano
 
          Creator: Merrick, Frank
-         ID: SPA_1976
+         ID: SPA_14144
          Periodical: Tempo, Number 11, Page(s) 26-29
          Publication date: 1949 (Spring)
          Language: English
@@ -916,13 +915,13 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: ALSO spa-tex-per-0072
-
-
+      
+   
 
   TITLE: Cinderella and Romeo and Juliet
 
          Creator: Morley, Iris
-         ID: SPA_1977
+         ID: SPA_14145
          Periodical: Tempo, Number 11, Page(s) 30-34
          Publication date: 1949 (Spring)
          Language: English
@@ -931,13 +930,13 @@
          Periodical type: Essay
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: ALSO spa-tex-per-0072
-
-
+      
+   
 
   TITLE: Simfoniia-Kontsert S. Prokof'eva. Besedy o Muzyke
 
          Creator: Blok, Vladimir
-         ID: SPA_1978
+         ID: SPA_14146
          Periodical: Muzykal'naia Zhizn', Number 3, Page(s) 15-16
          Publication date: 1973
          Language: Russian
@@ -945,13 +944,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: "Petia i Volk"
 
          Creator: Lebedeva, T
-         ID: SPA_1979
+         ID: SPA_14147
          Periodical: Muzykal'naia Zhizn', Number 7, Page(s) 20
          Publication date: 1977
          Language: Russian
@@ -959,13 +958,13 @@
          Document type: Review
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: David Oistrakh i Sergei Prokofiev
 
          Creator: Iuzefovich, V. A.
-         ID: SPA_1980
+         ID: SPA_14148
          Periodical: Muzykal'naia Zhizn', Number 12, Page(s) 15-17
          Publication date: 1977
          Language: Russian
@@ -974,13 +973,13 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Viktor Iuzefovich interviews Igor Oistrakh
-
-
+      
+   
 
   TITLE: S. S. Prokofiev pishet muzyku k fil'mu...
 
          Creator: Kozlova, M G (Miral'da Georgievna)
-         ID: SPA_1981
+         ID: SPA_14149
          Periodical: Muzykal'naia Zhizn', Number 16, Page(s) 18-19
          Publication date: 1983
          Language: Russian
@@ -989,13 +988,13 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Letters between Prokofiev and Gendel'shtein
-
-
+      
+   
 
   TITLE: V chas muzhestva. O triade fortepiannykh sonat S. Prokof'eva
 
          Creator: Kats, B
-         ID: SPA_1982
+         ID: SPA_14150
          Periodical: Muzykal'naia Zhizn', Number 18, Page(s) ?
          Publication date: 1984
          Language: Russian
@@ -1004,13 +1003,13 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Iz sokrovishchnitsy sovetskoi muzyki
-
-
+      
+   
 
   TITLE: Byt' soboi SPrkfv. Klassiki sovetskoi muzyki
 
          Creator: Volkov, A
-         ID: SPA_1983
+         ID: SPA_14151
          Periodical: Muzykal'naia Zhizn', Number 14, Page(s) ?
          Publication date: 1987
          Language: Russian
@@ -1018,13 +1017,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Prokofiev: Zhizn', muzyki i pamiat' o nem
 
          Creator: Anon.
-         ID: SPA_1984
+         ID: SPA_14152
          Periodical: Muzykal'naia Zhizn', Number 7
          Publication date: 1987
          Language: Russian
@@ -1032,13 +1031,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Vozvrashchenie shedevra. Ob opera S. Prokof'eva "Maddalena"
 
          Creator: Savkina, Natalia Pavlovna
-         ID: SPA_1985
+         ID: SPA_14153
          Periodical: Muzykal'naia Zhizn', Number 17
          Publication date: 1987
          Language: Russian
@@ -1046,13 +1045,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: S. Prokofiev. Iz dnevnika
 
          Creator: Savkina, Natalia Pavlovna
-         ID: SPA_1986
+         ID: SPA_14154
          Periodical: Muzykal'naia Zhizn', Number 9-10, Page(s) 4-6
          Publication date: 1991
          Language: Russian
@@ -1060,13 +1059,13 @@
          Document type: Transcript
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Golos pamiati
 
          Creator: Sergeeva, Natalia
-         ID: SPA_1987
+         ID: SPA_14155
          Periodical: Muzykal'naia Zhizn', Number 9-10, Page(s) 6-8
          Publication date: 1991
          Language: Russian
@@ -1075,13 +1074,13 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Interview with Boris Alexandrovich Pokrovsky
-
-
+      
+   
 
   TITLE: Portret prem'ery na fone istoricheskogo peizazh
 
          Creator: Kuznetsova, Tatiana
-         ID: SPA_1988
+         ID: SPA_14156
          Periodical: Muzykal'naia Zhizn', Number 9-10, Page(s) 8-9
          Publication date: 1991
          Language: Russian
@@ -1089,13 +1088,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: S perom v ruke
 
          Creator: Volkov, A
-         ID: SPA_1989
+         ID: SPA_14157
          Periodical: Muzykal'naia Zhizn', Number 9-10, Page(s) 10-11
          Publication date: 1991
          Language: Russian
@@ -1103,13 +1102,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Pravo byt' schastlivym
 
          Creator: Anon.
-         ID: SPA_1990
+         ID: SPA_14158
          Periodical: Muzykal'naia Zhizn', Number 9-10, Page(s) 12-13
          Publication date: 1991
          Language: Russian
@@ -1117,13 +1116,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Neizvestnye pis'ma S. S. Prokof'eva
 
          Creator: Tumeneva, G.
-         ID: SPA_1991
+         ID: SPA_14159
          Periodical: Muzykal'naia Zhizn', Number 9-10, Page(s) 14
          Publication date: 1991
          Language: Russian
@@ -1131,13 +1130,13 @@
          Document type: Essay / transcript
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Skazka pro Shuta semerykh shutov pereshutivshego. Libretto baleta S. Prokof'eva
 
          Creator: Glebov, Igor
-         ID: SPA_1992
+         ID: SPA_14160
          Periodical: K novym beregam, Number 1, Page(s) 13-18
          Publication date: 1923-04
          Language: Russian
@@ -1145,13 +1144,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Sergei Prokof'ev
 
          Creator: Zhiliaev, N
-         ID: SPA_1993
+         ID: SPA_14161
          Periodical: K novym beregam, Number 1, Page(s) 18-20
          Publication date: 1923-04
          Language: Russian
@@ -1159,13 +1158,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: O fortep'iannom stile S. Prokof'eva
 
          Creator: Feinberg, S
-         ID: SPA_1994
+         ID: SPA_14162
          Periodical: K novym beregam, Number 1, Page(s) 20-22
          Publication date: 1923-04
          Language: Russian
@@ -1173,13 +1172,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Glazunov, Prokofiev, Stravinsky. K pervomu po vozobnovlenii kontsertu Persimfansa
 
          Creator: Alexeev, A
-         ID: SPA_1995
+         ID: SPA_14163
          Periodical: Muzykal'naia nov', Number 10, Page(s) 20
          Publication date: 1924
          Language: Russian
@@ -1187,13 +1186,13 @@
          Document type: Review
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Beseda s S. Prokof'evym
 
          Creator: Anon.
-         ID: SPA_1996
+         ID: SPA_14164
          Periodical: Muzyka i Revoliutsiia, Number 2, Page(s) 30
          Publication date: 1927
          Language: Russian
@@ -1201,13 +1200,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Kontserty S. Prokof'eva
 
          Creator: Braudo, Evgenii
-         ID: SPA_1997
+         ID: SPA_14165
          Periodical: Muzyka i Revoliutsiia, Number 2, Page(s) 29-30
          Publication date: 1927
          Language: Russian
@@ -1215,13 +1214,13 @@
          Document type: Review
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Prokofiev's Fifth Symphony
 
          Creator: Austin, William
-         ID: SPA_1998
+         ID: SPA_14166
          Periodical: The Music Review, Volume 17
          Publication date: 1956
          Language: English
@@ -1229,13 +1228,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Tretii Kontsert Sergeia Prokof'eva
 
          Creator: Glebov, Igor
-         ID: SPA_1999
+         ID: SPA_14167
          Periodical: Sovremennaia Muzyka, Number 10, Page(s) 57-63
          Publication date: 1925
          Language: Russian
@@ -1243,13 +1242,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: S. Prokofiev i ego opera 'Liubov' k trem apel'sinam'
 
          Creator: Drozdov, Anatoli Nikolaevich
-         ID: SPA_2000
+         ID: SPA_14168
          Periodical: Muzyka i Revoliutsiia, Number 9, Page(s) 15-18
          Publication date: 1926
          Language: Russian
@@ -1257,13 +1256,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: 9-yi Kontsert Persimfansa
 
          Creator: Drozdov, Anatoli Nikolaevich
-         ID: SPA_2001
+         ID: SPA_14169
          Periodical: Muzyka i Revoliutsiia, Number 1, Page(s) 44-45
          Publication date: 1926
          Language: Russian
@@ -1271,13 +1270,13 @@
          Document type: Review
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Kontserty P'era Monte
 
          Creator: Braudo, Evgenii
-         ID: SPA_2002
+         ID: SPA_14170
          Periodical: Muzyka i Revoliutsiia, Number 3, Page(s) 36-37
          Publication date: 1926
          Language: Russian
@@ -1285,13 +1284,13 @@
          Document type: Review
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Kontserty S. Prokof'eva
 
          Creator: Grinberg, Moisei Abramovich
-         ID: SPA_2003
+         ID: SPA_14171
          Periodical: Muzyka i Revoliutsiia, Number 2, Page(s) 32
          Publication date: 1927
          Language: Russian
@@ -1299,13 +1298,13 @@
          Document type: Review
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Persimfans i Sergei Prokof'ev
 
          Creator: Drozdov, Anatoli Nikolaevich
-         ID: SPA_2004
+         ID: SPA_14172
          Periodical: Muzyka i Revoliutsiia, Number 2, Page(s) 29
          Publication date: 1927
          Language: Russian
@@ -1313,13 +1312,13 @@
          Document type: Review
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Novyi balet S. Prokof'eva
 
          Creator: Anon.
-         ID: SPA_2005
+         ID: SPA_14173
          Periodical: Muzyka i Revoliutsiia, Number 7-8, Page(s) 46
          Publication date: 1927
          Language: Russian
@@ -1327,14 +1326,14 @@
          Document type: Review
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: 'Liubov' k trem apel'sinam': Sergeia Prokof'eva v
             GABTe
 
          Creator: Liutsh., V S
-         ID: SPA_2006
+         ID: SPA_14174
          Periodical: Muzyka i Revoliutsiia, Number 10, Page(s) 28-29
          Publication date: 1927
          Language: Russian
@@ -1342,13 +1341,13 @@
          Document type: Review
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Sergei Prokofiev
 
          Creator: Anon.
-         ID: SPA_2007
+         ID: SPA_14175
          Periodical: Muzykal'noe Obrazovanie, Number 1-2, Page(s) 179-180
          Publication date: 1927
          Language: Russian
@@ -1356,13 +1355,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: 'Stal'noi skok' - S. Prokof'eva
 
          Creator: Keldysh, Iurii Vsevolodovich
-         ID: SPA_2008
+         ID: SPA_14176
          Periodical: Muzykal'noe Obrazovanie, Number 3, Page(s) 44-45
          Publication date: 1928
          Language: Russian
@@ -1370,13 +1369,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: O 'Stal'nom skok' i direktorskom naskoke
 
          Creator: Gachev, D
-         ID: SPA_2009
+         ID: SPA_14177
          Periodical: Proletarskii Muzykant, Number 6, Page(s) 19-23
          Publication date: 1929
          Language: Russian
@@ -1384,13 +1383,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Balet 'Stal'noi skok' i ego avtor - Prokofiev
 
          Creator: Keldysh, Iurii Vsevolodovich
-         ID: SPA_2010
+         ID: SPA_14178
          Periodical: Proletarskii Muzykant, Number 6, Page(s) 12-19
          Publication date: 1929
          Language: Russian
@@ -1398,13 +1397,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Prokof'evskii kontsert Persimfansa
 
          Creator: Sh., K.
-         ID: SPA_2011
+         ID: SPA_14179
          Periodical: Proletarskii Muzykant, Number 1, Page(s) 36-37
          Publication date: 1929
          Language: Russian
@@ -1412,13 +1411,13 @@
          Document type: Review
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Prokofiev: Playboy of Modern Music
 
          Creator: Stockdale, Alan
-         ID: SPA_2012
+         ID: SPA_14180
          Periodical: The Gramophone, Number ?, Page(s) 101-102
          Publication date: 1939-08
          Language: English
@@ -1426,13 +1425,13 @@
          Document type: Essay
          Periodical type: Magazine
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Prokofiev's Piano Sonatas
 
          Creator: Merrick, Frank
-         ID: SPA_2013
+         ID: SPA_14181
          Periodical: Proceedings of the Royal Musical Association, Volume lxxv, Number 13, Page(s) 13-21
          Publication date: 1948-49
          Language: English
@@ -1440,13 +1439,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Simfoniia velichiia chelovecheskogo dukha. Besedy o muzyke
 
          Creator: Aranovsky, Mark
-         ID: SPA_2014
+         ID: SPA_14182
          Periodical: Muzykal'naia zhizn', Number 20, Page(s) 15-17
          Publication date: 1960
          Language: Russian
@@ -1454,13 +1453,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: "Alexander Nevsky" na stsene
 
          Creator: Kenigsberg, A.
-         ID: SPA_2015
+         ID: SPA_14183
          Periodical: Muzykal'naia Zhizn', Number 8, Page(s) 9
          Publication date: 1970
          Language: Russian
@@ -1468,13 +1467,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Prokofiev's Tolstoy epic
 
          Creator: McAllister, Rita
-         ID: SPA_2016
+         ID: SPA_14184
          Periodical: The Musical Times, Volume 113, Number 1555, Page(s) 851-855
          Publication date: 1972-09
          Language: English
@@ -1482,14 +1481,14 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Robert Falk (1886-1958) as a teacher of painting
 
          Creator: Prokofiev, Oleg
          Secondary creator: Anon.
-         ID: SPA_2017
+         ID: SPA_14185
          Periodical: Leonardo, Volume 9, Page(s) 320-324
          Publication date: 1976
          Language: English
@@ -1498,13 +1497,13 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Based on a text translated from Russian
-
-
+      
+   
 
   TITLE: How The Flaming Angel Became Prokofiev's Third Symphony
 
          Creator: Henderson, Lyn
-         ID: SPA_2018
+         ID: SPA_14186
          Periodical: The Music Review, Volume 40, Page(s) 49-52
          Publication date: 1979
          Language: English
@@ -1512,13 +1511,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Mildred Dilling
 
          Creator: Sharps, Rita
-         ID: SPA_2019
+         ID: SPA_14187
          Periodical: American Harp Journal, Volume 8, Number 2, Page(s) 4-10
          Publication date: 1981 [Winter]
          Language: English
@@ -1526,14 +1525,14 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: 'Prokofiev by Prokofiev: a composer's memoir', 'Sergei Prokofiev, a Soviet tragedy:
             The Case of Sergei Prokofiev, His Life and Work, His Critics, And His Executioners'
 
          Creator: Brown, Malcolm Hamrick
-         ID: SPA_2020
+         ID: SPA_14188
          Periodical: Slavic Review, Volume 40, Number 1, Page(s) 155-156
          Publication date: 1981 [Spring]
          Language: English
@@ -1542,13 +1541,13 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Copy contains Lina Prokofiev's annotations – a review
-
-
+      
+   
 
   TITLE: Russian Music
 
          Creator: Robinson, Harlow
-         ID: SPA_2021
+         ID: SPA_14189
          Periodical: Stagebill, Volume IX, Number 4, Page(s) 22, 25-26, 32
          Publication date: 1981-12
          Language: English
@@ -1556,13 +1555,13 @@
          Document type: Essay
          Periodical type: Magazine
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Serge Prokofiev. L'Amour des trois oranges
 
          Creator: Brown, Malcolm Hamrick
-         ID: SPA_2022
+         ID: SPA_14190
          Periodical: MLA Notes, Page(s) 466-468
          Publication date: 1982-12
          Language: English
@@ -1571,13 +1570,13 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Score, Review
-
-
+      
+   
 
   TITLE: A Soviet Musical Offering
 
          Creator: Robinson, Harlow
-         ID: SPA_2023
+         ID: SPA_14191
          Periodical: Stagebill, Volume XII, Number 4, Page(s) 33, 35-36
          Publication date: 1984-12
          Language: English
@@ -1587,13 +1586,13 @@
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Article on American premiere of Sofia Gubaidulina's
             'Offertorium'
-
-
+      
+   
 
   TITLE: Prokofiev's Fifth Piano Concerto
 
          Creator: Henderson, Lyn
-         ID: SPA_2024
+         ID: SPA_14192
          Periodical: The Music Review, Volume 47, Number 4, Page(s) 267-282
          Publication date: 1986-11
          Language: English
@@ -1601,13 +1600,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Sergei and the Bear: Sergei Prokofiev. A Biography by Harlow Robinson
 
          Creator: Taruskin, Richard
-         ID: SPA_2025
+         ID: SPA_14193
          Periodical: The New Republic, Page(s) 33-37
          Publication date: 1987-04-06
          Language: English
@@ -1616,13 +1615,13 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Pages photocopied and cut to irregular sizes – A review
-
-
+      
+   
 
   TITLE: Prokofiev's Technique of Chromatic Displacement
 
          Creator: Bass, Richard
-         ID: SPA_2026
+         ID: SPA_14194
          Periodical: Music Analysis, Volume 7, Number 2, Page(s) 197-214
          Publication date: 1988-07
          Language: English
@@ -1630,13 +1629,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: The Case of Three Russians: Stravinsky, Prokofiev, and Shostakovich
 
          Creator: Robinson, Harlow
-         ID: SPA_2027
+         ID: SPA_14195
          Periodical: The Opera Quarterly, Volume 6, Number 3, Page(s) 59-75
          Publication date: 1989 (Spring)
          Language: English
@@ -1644,13 +1643,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Prokofiev on Record: A Centenary Survey
 
          Creator: Palmer, Christopher
-         ID: SPA_2028
+         ID: SPA_14196
          Periodical: Gramophone, Volume ?, Number ?, Page(s) ?
          Publication date: 1990-04
          Language: English
@@ -1659,13 +1658,13 @@
          Periodical type: Magazine
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Photocopy of published article: spa-tex-atl-149
-
-
+      
+   
 
   TITLE: Prokofiev's Fourth Piano Concerto
 
          Creator: Henderson, Lyn
-         ID: SPA_2029
+         ID: SPA_14197
          Periodical: The Music Review, Volume 51, Page(s) 46-55
          Publication date: 1990
          Language: English
@@ -1673,13 +1672,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: The Prodigal's Return
 
          Creator: Goodwin, Noël
-         ID: SPA_2030
+         ID: SPA_14198
          Periodical: Dance and Dancers, Volume ?, Number ?, Page(s) 24-25
          Publication date: 1991-04
          Language: English
@@ -1687,13 +1686,13 @@
          Document type: Essay
          Periodical type: Magazine
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Korotko o knigakh: Sergei Prokofiev 'Dnevnik-27'
 
          Creator: N. G.
-         ID: SPA_2031
+         ID: SPA_14199
          Periodical: Kontinent, Number 68, Page(s) 357-359
          Publication date: 1991
          Language: Russian
@@ -1701,14 +1700,14 @@
          Document type: Review
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: A Comparative Study of Prokofiev's Cello Concerto op. 58 and Sinfonia
             Concertante op. 125
 
          Creator: Henderson, Lyn
-         ID: SPA_2032
+         ID: SPA_14200
          Periodical: The Music Review, Volume 52, Number 2, Page(s) 123-136
          Publication date: 1991-05
          Language: English
@@ -1716,13 +1715,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: The Paradox of Russian Non-Liberty
 
          Creator: Ivashkin, Alexander
-         ID: SPA_2033
+         ID: SPA_14201
          Periodical: The Musical Quarterly, Volume 76, Number 4, Page(s) 543-556
          Publication date: 1992 (Winter)
          Language: English
@@ -1730,13 +1729,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Homecoming: 'Sergei Prokofiev: Soviet Diary 1927 and Other Writings'
 
          Creator: Roseberry, Eric
-         ID: SPA_2034
+         ID: SPA_14202
          Periodical: The Musical Times, Volume ?, Number ?, Page(s) 347-348
          Publication date: 1992-07
          Language: English
@@ -1744,13 +1743,13 @@
          Document type: Review
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: The Violin Concertos of Prokofiev
 
          Creator: Henderson, Lyn
-         ID: SPA_2035
+         ID: SPA_14203
          Periodical: The Music Review, Volume 54, Number 3/4, Page(s) 257-264
          Publication date: 1993-08/11
          Language: English
@@ -1758,14 +1757,14 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Modernism in Russian Piano Music: Skriabin, Prokofiev, and Their Russian
             Contemporaries
 
          Creator: Pople, Anthony
-         ID: SPA_2036
+         ID: SPA_14204
          Periodical: Music &amp; Letters, Volume 75, Number 3, Page(s) 486-487
          Publication date: 1994-08
          Language: English
@@ -1773,13 +1772,13 @@
          Document type: Review
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Composer of the Month: Sergei Prokofiev
 
          Creator: Huth, Andrew
-         ID: SPA_2037
+         ID: SPA_14205
          Periodical: BBC Music Magazine, Volume ?, Number ?, Page(s) 42-45
          Publication date: 1997-12
          Language: English
@@ -1787,13 +1786,13 @@
          Document type: Essay
          Periodical type: Magazine
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Svobody ne byvaet slishkom mnogo: k sporam o poezii Gennadiia Aigi
 
          Creator: Novikov, Vl.
-         ID: SPA_2038
+         ID: SPA_14206
          Periodical: Druzhba narodov, Number 11, Page(s) 211-215
          Publication date: 1997
          Language: Russian
@@ -1801,14 +1800,14 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: The Present and the Unpredictable Past: Music and Musical Life of St. Petersburg and
             Moscow Since the 1960s
 
          Creator: Mazo, Margarita
-         ID: SPA_2039
+         ID: SPA_14207
          Periodical: International Journal of Musicology, Volume 5, Page(s) 371-400
          Publication date: 1996
          Language: English
@@ -1816,13 +1815,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Life as a kind of wrong-note music. The Music of Sergei Prokofiev - Neil Minturn
 
          Creator: Griffiths, Paul
-         ID: SPA_2040
+         ID: SPA_14208
          Periodical: Times Literary Supplement, Number 4939, Page(s) 9
          Publication date: 1997-11-28
          Language: English
@@ -1830,13 +1829,13 @@
          Document type: Review
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Richard Taruskin - Knight of Russian Music
 
          Creator: Ritzarev, Marina
-         ID: SPA_2041
+         ID: SPA_14209
          Periodical: The European Legacy, Volume 3, Number 6, Page(s) 65-75
          Publication date: 1998
          Language: English
@@ -1844,13 +1843,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: The Music of Sergei Prokofiev
 
          Creator: Zimmerman, Daniel J
-         ID: SPA_2042
+         ID: SPA_14210
          Periodical: Journal of Music Theory, Volume 42, Number 1, Page(s) 153-164
          Publication date: 1998 (Spring)
          Language: English
@@ -1858,13 +1857,13 @@
          Document type: Review
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Pushkin and Rimsky-Korsakov
 
          Creator: McMillin, Arnold
-         ID: SPA_2043
+         ID: SPA_14211
          Periodical: New Zealand Slavonic Journal, Volume 33, Page(s) 23-33
          Publication date: 1999
          Language: English
@@ -1873,13 +1872,13 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: From the author
-
-
+      
+   
 
   TITLE: Analysing Post-Tonal Diatonic Music: A Modulo 7 Perspective
 
          Creator: Santa, Matthew
-         ID: SPA_2044
+         ID: SPA_14212
          Periodical: Music Analysis, Volume 19, Number 2, Page(s) 167-201
          Publication date: 2000
          Language: English
@@ -1889,13 +1888,13 @@
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Includes music-analytical consideration of Op. 22 No. 1. Article cited by Arnold
             Whittall in his Prokofiev and America conference paper on 8 May 2004.
-
-
+      
+   
 
   TITLE: Darius Milhaud: Modality and Structure in Music of the 1920s. The Music of Sergei Prokofiev
 
          Creator: Zeeuw, Anne Marie de
-         ID: SPA_2045
+         ID: SPA_14213
          Periodical: Music Theory Spectrum, Volume 22, Number 2, Page(s) 271-275
          Publication date: 2000 (Autumn)
          Language: English
@@ -1903,13 +1902,13 @@
          Document type: Review
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: The Music of Sergei Prokofiev
 
          Creator: Beeson, Roger A.
-         ID: SPA_2046
+         ID: SPA_14214
          Periodical: Notes, Volume 55, Number 3, Page(s) 674-675
          Publication date: 1999-03
          Language: English
@@ -1917,13 +1916,13 @@
          Document type: Review
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Sviatoslav Richter
 
          Creator: Monsaingeon, Bruno
-         ID: SPA_2047
+         ID: SPA_14215
          Periodical: BBC Music Magazine, Volume ?, Number ?, Page(s) 59
          Publication date: 2000-12
          Language: English
@@ -1931,13 +1930,13 @@
          Document type: Essay
          Periodical type: Magazine
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Diaghilev and the two versions of Prokofiev's 'Chout'
 
          Creator: Press, Stephen D
-         ID: SPA_2048
+         ID: SPA_14216
          Periodical: Music &amp; Letters, Volume 82, Number 1, Page(s) 51-77
          Publication date: 2001-02
          Language: English
@@ -1945,13 +1944,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: A Theory of Motives for Prokofiev's Music
 
          Creator: Rifkin, Deborah
-         ID: SPA_2049
+         ID: SPA_14217
          Periodical: Music Theory Spectrum, Volume 26, Number 2, Page(s) 265-289
          Publication date: 2004 (Fall)
          Language: English
@@ -1959,13 +1958,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Unstaged Dramas
 
          Creator: Bennett, Clive
-         ID: SPA_2050
+         ID: SPA_14218
          Periodical: The Listener, Number ?, Page(s) 36
          Publication date: 1984-03-01
          Language: English
@@ -1973,14 +1972,14 @@
          Document type: Essay
          Periodical type: Magazine
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Prokofiev in Another Guise. Flautist Jonathan Snowdon talks to Ivor
             Humphreys
 
          Creator: Humphreys, Ivor
-         ID: SPA_2051
+         ID: SPA_14219
          Periodical: Gramophone, Number ?, Page(s) 1638
          Publication date: 1991-03
          Language: English
@@ -1988,13 +1987,13 @@
          Document type: Interview
          Periodical type: Magazine
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Iubileinyi kontsert Persimfansa
 
          Creator: Grinberg, Moisei Abramovich
-         ID: SPA_2052
+         ID: SPA_14220
          Periodical: Muzyka i Revoliutsiia, Number 2, Page(s) 31
          Publication date: 1927
          Language: Russian
@@ -2002,13 +2001,13 @@
          Document type: Review
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Ekstrennyi kontsert Persimfansa
 
          Creator: Grinberg, Moisei Abramovich
-         ID: SPA_2053
+         ID: SPA_14221
          Periodical: Muzyka i Revoliutsiia, Number 2, Page(s) 31-32
          Publication date: 1927
          Language: Russian
@@ -2016,13 +2015,13 @@
          Document type: Review
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Liubov' k trem apel'sinam
 
          Creator: Beliaev, Viktor
-         ID: SPA_2054
+         ID: SPA_14222
          Periodical: Sovremennaia Muzyka, Number ?, Page(s) 246-250
          Publication date: 1927 [?]
          Language: Russian
@@ -2030,13 +2029,13 @@
          Document type: Essay
          Periodical type: Jorunal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Zhivoi oblik Prokof'eva
 
          Creator: Kuznetsov, Konstantin Alexeivich
-         ID: SPA_2055
+         ID: SPA_14223
          Periodical: Sovremennaia Muzyka, Number ?, Page(s) 251-253
          Publication date: 1927 [?]
          Language: Russian
@@ -2044,13 +2043,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Londonskie Apel'siny
 
          Creator: Rakhmanova, Marina
-         ID: SPA_2056
+         ID: SPA_14224
          Periodical: Rossiiskaia Muzykal'naia Gazeta, Number 2, Page(s) 1, 4-5
          Publication date: 2001
          Language: Russian
@@ -2060,13 +2059,13 @@
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Article about the launch of the Prokofiev Association and 'Three
             Oranges'
-
+      
 
 
   TITLE: Notes from Abroad: Russian Trek
 
          Creator: Nissman, Barbara
-         ID: SPA_2057
+         ID: SPA_14225
          Periodical: Piano Today, Volume 19, Number 3, Page(s) 56-57
          Publication date: 1999 (Summer)
          Language: English
@@ -2074,14 +2073,14 @@
          Document type: Essay
          Periodical type: Magazine
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: The Moscow State Philharmonic Orchestra (Prokofiev): "Romeo and Juliet"
             Ballet Suite, No. 2
 
          Creator: [Anon.]
-         ID: SPA_2058
+         ID: SPA_14226
          Periodical: The Gramophone, Number ?, Page(s) 8-9
          Publication date: 1943-06
          Language: English
@@ -2090,13 +2089,13 @@
          Periodical type: Magazine
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Within section "Analytical Notes and First Reviews"
-
-
+      
+   
 
   TITLE: Serge Koussevitzky
 
          Creator: Pastene, CPL. Jerome J.
-         ID: SPA_2059
+         ID: SPA_14227
          Periodical: The Gramophone, Number ?, Page(s) 14-15
          Publication date: 1945-07
          Language: English
@@ -2104,13 +2103,13 @@
          Document type: Essay
          Periodical type: Magazine
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Alexander Nevsky. Dramatic Cantata by Prokofiev
 
          Creator: [Anon.]
-         ID: SPA_2060
+         ID: SPA_14228
          Periodical: The Gramophone, Number ?, Page(s) iv, 133-134
          Publication date: 1947-02
          Language: English
@@ -2120,13 +2119,13 @@
          Periodical type: Magazine
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Announcement of recording on p. iv; review on pp. 133-134
-
-
+      
+   
 
   TITLE: Sergei Prokofiev
 
          Creator: Culshaw, John
-         ID: SPA_2061
+         ID: SPA_14229
          Periodical: The Gramophone, Number ?, Page(s) 18-19
          Publication date: 1947-07
          Language: English
@@ -2134,13 +2133,13 @@
          Document type: Essay
          Periodical type: Magazine
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Sergey Prokofiev (1891-1953): A Centenary Survey. The Gramophone Collection
 
          Creator: Palmer, Christopher
-         ID: SPA_2062
+         ID: SPA_14230
          Periodical: Gramophone, Volume ?, Number 4, Page(s) 1817-1819
          Publication date: 1991-04
          Language: English
@@ -2149,13 +2148,13 @@
          Periodical type: Magazine
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Pre-publication script (from CP Fonds) at: spa-tex-atl-115
-
-
+      
+   
 
   TITLE: Theaters for Children
 
          Creator: Nickel, Helen
-         ID: SPA_2063
+         ID: SPA_14231
          Periodical: Soviet Travel, Number 1, Page(s) 31-33, 43
          Publication date: 1933
          Language: English
@@ -2163,13 +2162,13 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: How We Produce the Classics
 
          Creator: Tairov, A.
-         ID: SPA_2064
+         ID: SPA_14232
          Periodical: Soviet Travel, Number 3, Page(s) 23-24
          Publication date: 1934
          Language: English
@@ -2179,13 +2178,13 @@
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Special Theatre Number. A. Tairov, Director of the Moscow Kamerny Theatre and
             Honored Artist of the Republic
-
-
+      
+   
 
   TITLE: Soviet Audiences and My Work
 
          Creator: Prokofiev, Serge
-         ID: SPA_2065
+         ID: SPA_14233
          Periodical: Soviet Travel, Number 3, Page(s) 30-31, 74
          Publication date: 1934
          Language: English
@@ -2194,13 +2193,13 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Special Theatre Number
-
-
+      
+   
 
   TITLE: The Children's Theatre
 
          Creator: Satz, Natalia
-         ID: SPA_2066
+         ID: SPA_14234
          Periodical: Soviet Travel, Number 3, Page(s) 41-44
          Publication date: 1934
          Language: English
@@ -2210,13 +2209,13 @@
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Special Theatre Number. Natalia Satz, founder and director of the Moscow Theatre for
             Shildren; Honored Artist of the Republic
-
-
+      
+   
 
   TITLE: Visiting the Moscow Theatres. The Second Theatre Festival
 
          Creator: Bogomazov, S.
-         ID: SPA_2067
+         ID: SPA_14235
          Periodical: Soviet Travel, Number 3, Page(s) 45-46
          Publication date: 1934
          Language: English
@@ -2226,13 +2225,13 @@
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Special Theatre Number. S. Bogomanov, organsier of the Moscow Theatre Festival and
             the Leningrad Festival of Music
-
-
+      
+   
 
   TITLE: Vsevolod E. Meyerhold
 
          Creator: Volkov, N
-         ID: SPA_2068
+         ID: SPA_14236
          Periodical: Soviet Travel, Number 3, Page(s) 47-49
          Publication date: 1934
          Language: English
@@ -2241,13 +2240,13 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Special Theatre Number
-
-
+      
+   
 
   TITLE: Children and Music
 
          Creator: Gayamov, A
-         ID: SPA_2069
+         ID: SPA_14237
          Periodical: Sovietland, Number 1, Page(s) 26-27, 43
          Publication date: 1935
          Language: English
@@ -2256,14 +2255,14 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Special Number about Soviet Children
-
+      
 
 
   TITLE: "The World's Music" Series. The Gramophone interviews the Editor of
             the new series of "Pianola" and "Duo-Art" Rolls
 
          Creator: [Anon.]
-         ID: SPA_2070
+         ID: SPA_14238
          Periodical: Gramophone, Volume [?], Number 12, Page(s) 306-307
          Publication date: 1926-12
          Language: English
@@ -2272,13 +2271,13 @@
          Periodical type: Magazine
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Interview with Mr Scholes. Pianola; Duo-Art
-
-
+      
+   
 
   TITLE: Orchestral: His Master's Voice. Gramaphone Reivew
 
          Creator: K. K.
-         ID: SPA_2071
+         ID: SPA_14239
          Periodical: Gramophone, Volume , Number 11, Page(s) 229-230
          Publication date: 1927-11
          Language: English
@@ -2288,13 +2287,13 @@
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Review of an HMV LP issue (D.1259) of three pieces from Love for Three Oranges, with
             the LSO conducted by Albert Coates
-
-
+      
+   
 
   TITLE: Animal magic. Review of 'Peter and the Wolf,' Hackney Empire, London
 
          Creator: Jays, David
-         ID: SPA_2072
+         ID: SPA_14240
          Periodical: FT Magazine, Page(s) 36-37
          Publication date: 2006-04-1/2
          Language: English
@@ -2304,13 +2303,13 @@
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Review includes material from interviews with Noëlle Mann and Edward
          Morgan
-
-
+      
+   
 
   TITLE: The price of protection in a lawless land
 
          Creator: Matthews, Owen
-         ID: SPA_2073
+         ID: SPA_14241
          Periodical: The Spectator, Page(s) 30, 32
          Publication date: 2006-07-08
          Language: English
@@ -2321,26 +2320,26 @@
          Notes: Article about Nikolina Gora, the dacha village outside Moscow where Prokofiev stayed
             for periods of time on his return to Russia. The article includes a photograph of
             Prokofiev and Rostropovich taken at Nikolina Gora
-
-
+      
+   
 
   TITLE: 'Romeo and Juliet' in Moscow
 
          Creator: Morley, Iris
-         ID: SPA_2074
+         ID: SPA_14242
          Periodical: Ballet, Volume 4, Number 2, Page(s) 19-24
          Publication date: August 1947
          Language: English
          Call Number: spa-tex-atl-0166
          Document type: Review
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: The Problem of Problems: Modern Musicians and the Quest for Inspiration
 
          Creator: Richard Capell
-         ID: SPA_2075
+         ID: SPA_14243
          Periodical: The Daily Telegraph
          Publication date: 1936-12-19
          Language: English
@@ -2353,13 +2352,13 @@
             Music?'. References to Andre Gide's Retour de l'U.R.S.S.&#xD;Also on this
             page, preview of concerto including first London performance of Prokofiev Concerto for
             Violin No. 2 (Op. 63), with Robert Soëtens as soloist - 1936-12-20.
-
-
+      
+   
 
   TITLE: Yugoslav Ballet - 'Romeo and Juliet'
 
          Creator: Anon.
-         ID: SPA_2076
+         ID: SPA_14244
          Periodical: The Times
          Publication date: 1955-01-27
          Language: English
@@ -2369,13 +2368,13 @@
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Review of first London performance of Romeo and Juliet (Yugoslav National
             Ballet)
-
-
+      
+   
 
   TITLE: "Romeo and Juliet"
 
          Creator: Anon.
-         ID: SPA_2077
+         ID: SPA_14245
          Periodical: The Stage, Page(s) 10
          Publication date: 1955-02-03
          Language: English
@@ -2385,13 +2384,13 @@
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Review of first London performance of Romeo and Juliet (Yugoslav National
             Ballet)
-
-
+      
+   
 
   TITLE: Muzyka dlia detei
 
          Creator: Goldenweiser, Alexander
-         ID: SPA_2078
+         ID: SPA_14246
          Periodical: Izvestiia
          Publication date: 1936-05-09
          Language: Russian
@@ -2402,53 +2401,53 @@
          Notes: Review by of second performance of Peter and the Wolf at the Central Children's
             Theatre 1936-05-05.&#xD;English translation of this review published in Three Oranges
             Issue 12.
-
-
+      
+   
 
   TITLE: Music in America
 
          Creator: Prokofiev, Serge
          Secondary creator: Florence Jonas
-         ID: SPA_2079
+         ID: SPA_14247
          Periodical: Listen: A Music Monthly, Number 1, Page(s) 1-2
          Publication date: 1963-12
          Language: English
          Call Number: spa-tex-atl-0171
          Document type: Essay
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Prokofieff in America
 
          Creator: Brown, Malcolm Hamrick
-         ID: SPA_2080
+         ID: SPA_14248
          Periodical: Listen: A Music Monthly, Number 1, Page(s) 2-3
          Publication date: 1963-12
          Language: English
          Call Number: spa-tex-atl-0172
          Document type: Essay
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Liubov' k tem apelsinam
 
          Creator: Meyerhold, Vsevolod
-         ID: SPA_2081
+         ID: SPA_14249
          Periodical: Liubov' k tem apelsinam, Number 1
          Language: Russian
          Call Number: spa-tex-atl-0173
          Document type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Meyerhold's adaptation of Gozzi's tale
-
-
+      
+   
 
   TITLE: 'The Most Contemporary Art': Sergei Prokofiev and Soviet Film
 
          Creator: Robinson, Harlow
-         ID: SPA_2082
+         ID: SPA_14250
          Periodical: Studies in Comparative Communism, Volume 17, Number 3 &amp; 4, Page(s) 203-18
          Publication date: Fall / Winter 1984
          Language: English
@@ -2456,26 +2455,26 @@
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: "Poruchik Kizhe" ["Lieutenant Kizhe"]. A Discussion
 
          Creator: Heil, Jerry T.
-         ID: SPA_2083
+         ID: SPA_14251
          Periodical: California Slavic Studies, Volume 14, Page(s) 171-194
          Language: English
          Call Number: spa-tex-atl-0175
          Document type: Essay
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Sergei Prokofieff: A Biographical Sketch
 
          Creator: Jade, Ely
-         ID: SPA_2084
+         ID: SPA_14252
          Periodical: Pro-Musica Quarterly, Page(s) 14-17; 31
          Publication date: December 1925
          Language: English
@@ -2493,13 +2492,13 @@
             contemporary French and American composers. PMQ is an essential primary source for the
             study of early twentieth-century music in the United States."
             (www.ripm.org)
-
-
+      
+   
 
   TITLE: Igrok: tragediia-satira
 
          Creator: Iarustovskii, B
-         ID: SPA_2085
+         ID: SPA_14253
          Periodical: Sovetskaia Muzyka, Number 4, Page(s) 103-114
          Publication date: 1970-04
          Language: Russian
@@ -2508,13 +2507,13 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: [The Gambler: tragedy - satire]
-
-
+      
+   
 
   TITLE: Mysli, rezhdennye prem'eroi
 
          Creator: Daragan, D.
-         ID: SPA_2086
+         ID: SPA_14254
          Periodical: Sovetskaia Muzyka, Number 3, Page(s) 54-62
          Publication date: 1971-03
          Language: Russian
@@ -2522,13 +2521,13 @@
          Document type: Review
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
-
-
+      
+   
 
   TITLE: Igrok S. Prokof'eva
 
          Creator: Nestiev, Izrail Vladimirovich
-         ID: SPA_2087
+         ID: SPA_14255
          Periodical: Sovetskaia Muzyka, Number 4, Page(s) 100-102
          Publication date: 1964-04
          Language: Russian
@@ -2537,14 +2536,14 @@
          Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: The Gambler
-
-
+      
+   
 
   TITLE: Sergei Prokofiev's Fiery Angel: Formal analysis of the opera
 
          Creator: Van Puymbroeck, Stefan
-         ID: SPA_2088
-         Periodical:
+         ID: SPA_14256
+         Periodical: 
          Language: English
          Call Number: spa-tex-atl-0183
          Document type: Essay
@@ -2552,3 +2551,6 @@
          Notes: Lecture given at Goldsmiths, University of London, 10 May 2008&#xD;&#xD;Printed from
                electronic file saved in Q:\Prokofiev\DIGITISED HOLDINGS\TEXTS\Stefan Van
                Puymbroeck_Fiery Angel Lecture – UPDATE: Cannot find electronic file
+      
+
+   
