@@ -45,9 +45,8 @@
                         </xsl:if>
                         
                         <xsl:apply-templates select="PAGES"></xsl:apply-templates>
-                        <xsl:apply-templates select="YEAR"></xsl:apply-templates>
                         <xsl:apply-templates select="PUBLISHER"></xsl:apply-templates>                        
-                        <xsl:apply-templates select="DATE"></xsl:apply-templates>
+                        <xsl:apply-templates select="YEAR"></xsl:apply-templates>
                         <xsl:apply-templates select="CUSTOM1"></xsl:apply-templates>
                         <xsl:apply-templates select="CALL_NUMBER"></xsl:apply-templates>
                         <xsl:apply-templates select="TYPE_OF_WORK"></xsl:apply-templates>
