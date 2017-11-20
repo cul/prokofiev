@@ -7,6 +7,7 @@
             ID: SPA_14508
             Periodical: Sovetskaia muzyka, Number 2, Page(s) 101-109
             Publication date: 1960-02
+            Language: Russian 
             Call Number: SOVMUZ-002
             Document type: Review
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -19,6 +20,7 @@
             ID: SPA_14509
             Periodical: Sovetskaia muzyka, Number 10, Page(s) 27-36
             Publication date: 1974-10
+            Language: Russian 
             Call Number: SOVMUZ-003
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -31,6 +33,7 @@
             ID: SPA_14510
             Periodical: Sovetskaia muzyka, Number 10, Page(s) 119-122
             Publication date: 1974-10
+            Language: Russian 
             Call Number: SOVMUZ-003
             Document type: Review
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -43,6 +46,7 @@
             ID: SPA_14511
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 73-77
             Publication date: 1985-04
+            Language: Russian 
             Call Number: SOVMUZ-004
             Document type: Interview
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -55,6 +59,7 @@
             ID: SPA_14512
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 66-68
             Publication date: 1985-04
+            Language: Russian 
             Call Number: SOVMUZ-004
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -67,6 +72,7 @@
             ID: SPA_14513
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 68-70
             Publication date: 1985-04
+            Language: Russian 
             Call Number: SOVMUZ-004
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -79,6 +85,7 @@
             ID: SPA_14514
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 72-73
             Publication date: 1985-04
+            Language: Russian 
             Call Number: SOVMUZ-004
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -91,6 +98,7 @@
             ID: SPA_14515
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 70
             Publication date: 1985-04
+            Language: Russian 
             Call Number: SOVMUZ-004
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -103,6 +111,7 @@
             ID: SPA_14516
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 63-64
             Publication date: 1985-04
+            Language: Russian 
             Call Number: SOVMUZ-004
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -115,6 +124,7 @@
             ID: SPA_14517
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 64-66
             Publication date: 1985-04
+            Language: Russian 
             Call Number: SOVMUZ-004
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -127,6 +137,7 @@
             ID: SPA_14518
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 70-72
             Publication date: 1985-04
+            Language: Russian 
             Call Number: SOVMUZ-004
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -140,6 +151,7 @@
             ID: SPA_14519
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 59-63
             Publication date: 1985-04
+            Language: Russian 
             Call Number: SOVMUZ-004
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -152,6 +164,7 @@
             ID: SPA_14520
             Periodical: Sovetskaia muzyka, Number 2, Page(s) 77-80
             Publication date: 1986-02
+            Language: Russian 
             Call Number: SOVMUZ-005
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -164,6 +177,7 @@
             ID: SPA_14521
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 84-87
             Publication date: 1986-04
+            Language: Russian 
             Call Number: SOVMUZ-006
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -176,6 +190,7 @@
             ID: SPA_14522
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 92-94
             Publication date: 1986-04
+            Language: Russian 
             Call Number: SOVMUZ-006
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -188,6 +203,7 @@
             ID: SPA_14523
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 87-92
             Publication date: 1986-04
+            Language: Russian 
             Call Number: SOVMUZ-006
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -200,6 +216,7 @@
             ID: SPA_14524
             Periodical: Sovetskaia muzyka, Number 5, Page(s) 81-93
             Publication date: 1988-05
+            Language: Russian 
             Call Number: SOVMUZ-007
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -212,6 +229,7 @@
             ID: SPA_14525
             Periodical: Sovetskaia muzyka, Number 5, Page(s) 93-94
             Publication date: 1988-05
+            Language: Russian 
             Call Number: SOVMUZ-007
             Document type: Transcript and commentary
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -224,6 +242,7 @@
             ID: SPA_14526
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 65-67 + illustrations between 64 &amp; 65
             Publication date: 1990-04
+            Language: Russian 
             Call Number: SOVMUZ-009
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -236,6 +255,7 @@
             ID: SPA_14527
             Periodical: Sovetskaia muzyka, Number 11, Page(s) 1-3
             Publication date: 1990-11
+            Language: Russian 
             Call Number: SOVMUZ-010
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -248,6 +268,7 @@
             ID: SPA_14528
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 85-86
             Publication date: 1991-04
+            Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essays
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -261,6 +282,7 @@
             ID: SPA_14529
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 93
             Publication date: 1991-04
+            Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -274,6 +296,7 @@
             ID: SPA_14530
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 6-7
             Publication date: 1991-04
+            Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -287,6 +310,7 @@
             ID: SPA_14531
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 29-35
             Publication date: 1991-04
+            Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -301,6 +325,7 @@
             ID: SPA_14532
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 61-64
             Publication date: 1991-04
+            Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Transcript and commentary
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -314,6 +339,7 @@
             ID: SPA_14533
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 47-49
             Publication date: 1991-04
+            Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Transcript
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -327,6 +353,7 @@
             ID: SPA_14534
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 92-93
             Publication date: 1991-04
+            Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -340,6 +367,7 @@
             ID: SPA_14535
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 52-53
             Publication date: 1991-04
+            Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -353,6 +381,7 @@
             ID: SPA_14536
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 4-5
             Publication date: 1991-04
+            Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -366,6 +395,7 @@
             ID: SPA_14537
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 89-91
             Publication date: 1991-04
+            Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -379,6 +409,7 @@
             ID: SPA_14538
             Periodical: Sovetskaia muzyka, Number 6, Page(s) 90-95
             Publication date: 1991-06
+            Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -391,6 +422,7 @@
             ID: SPA_14539
             Periodical: Sovetskaia muzyka, Number 6, Page(s) 87-89
             Publication date: 1991-06
+            Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Transcript
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -403,6 +435,7 @@
             ID: SPA_14540
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 55-61
             Publication date: 1991-04
+            Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Transcript
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -416,6 +449,7 @@
             ID: SPA_14541
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 71-73
             Publication date: 1991-04
+            Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Transcription
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -429,6 +463,7 @@
             ID: SPA_14542
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 87-88
             Publication date: 1991-04
+            Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -442,6 +477,7 @@
             ID: SPA_14543
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 94-95
             Publication date: 1991-04
+            Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Interview
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -455,6 +491,7 @@
             ID: SPA_14544
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 96-100
             Publication date: 1991-04
+            Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Transcripts
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -468,6 +505,7 @@
             ID: SPA_14545
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 42-46
             Publication date: 1991-04
+            Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Transcript
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -481,6 +519,7 @@
             ID: SPA_14546
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 2-3
             Publication date: 1991-04
+            Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -494,6 +533,7 @@
             ID: SPA_14547
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 106-110
             Publication date: 1991-04
+            Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -508,6 +548,7 @@
             ID: SPA_14548
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 74-81
             Publication date: 1991-04
+            Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essays
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -521,6 +562,7 @@
             ID: SPA_14549
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 88
             Publication date: 1991-04
+            Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Transcript
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -534,6 +576,7 @@
             ID: SPA_14550
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 91-92
             Publication date: 1991-04
+            Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -547,6 +590,7 @@
             ID: SPA_14551
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 8-24
             Publication date: 1991-04
+            Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Interview
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -560,6 +604,7 @@
             ID: SPA_14552
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 4
             Publication date: 1991-04
+            Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -573,6 +618,7 @@
             ID: SPA_14553
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 93-94
             Publication date: 1991-04
+            Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -586,6 +632,7 @@
             ID: SPA_14554
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 100-105
             Publication date: 1991-04
+            Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -599,6 +646,7 @@
             ID: SPA_14555
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 51-52
             Publication date: 1991-04
+            Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -612,6 +660,7 @@
             ID: SPA_14556
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 25-28
             Publication date: 1991-04
+            Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -625,6 +674,7 @@
             ID: SPA_14557
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 7
             Publication date: 1991-04
+            Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -638,6 +688,7 @@
             ID: SPA_14558
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 50
             Publication date: 1991-04
+            Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -651,6 +702,7 @@
             ID: SPA_14559
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 52
             Publication date: 1991-04
+            Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -664,6 +716,7 @@
             ID: SPA_14560
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 53-54
             Publication date: 1991-04
+            Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -677,6 +730,7 @@
             ID: SPA_14561
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 65-70
             Publication date: 1991-04
+            Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Transcript and commentary
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London

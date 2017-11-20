@@ -15,11 +15,10 @@
             <xsl:number count="RECORD"></xsl:number>
         </xsl:variable>
 
-     <!-- Generate EAD number
-          Change 0 to start number (minus 1) -->
+     <!-- Generate EAD number -->
 
         <xsl:variable name="SPA">
-            <xsl:number value="$Recordnum + 14507"/>
+            <xsl:number value="$Recordnum + 14562"/>
         </xsl:variable>
 
         <xsl:comment>EAD SPA_<xsl:number value="$SPA"/></xsl:comment>
