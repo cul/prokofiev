@@ -6,7 +6,6 @@
             Creator: Poliakova, Liudmilla Viktorovna
             ID: SPA_14508
             Periodical: Sovetskaia muzyka, Number 2, Page(s) 101-109
-            Editor: 
             Publication date: 1960-02
             Call Number: SOVMUZ-002
             Document type: Review
@@ -19,7 +18,6 @@
             Creator: Ordzhonikidze, Givi
             ID: SPA_14509
             Periodical: Sovetskaia muzyka, Number 10, Page(s) 27-36
-            Editor: 
             Publication date: 1974-10
             Call Number: SOVMUZ-003
             Document type: Essay
@@ -32,7 +30,6 @@
             Creator: Sabinina, Marina Dmitrievna
             ID: SPA_14510
             Periodical: Sovetskaia muzyka, Number 10, Page(s) 119-122
-            Editor: 
             Publication date: 1974-10
             Call Number: SOVMUZ-003
             Document type: Review
@@ -45,7 +42,6 @@
             Creator: Anon.
             ID: SPA_14511
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 73-77
-            Editor: 
             Publication date: 1985-04
             Call Number: SOVMUZ-004
             Document type: Interview
@@ -58,7 +54,6 @@
             Creator: Cherkashina, M.
             ID: SPA_14512
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 66-68
-            Editor: 
             Publication date: 1985-04
             Call Number: SOVMUZ-004
             Document type: Essay
@@ -71,7 +66,6 @@
             Creator: Chernova, N
             ID: SPA_14513
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 68-70
-            Editor: 
             Publication date: 1985-04
             Call Number: SOVMUZ-004
             Document type: Essay
@@ -84,7 +78,6 @@
             Creator: Keldysh, Iurii Vsevolodovich
             ID: SPA_14514
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 72-73
-            Editor: 
             Publication date: 1985-04
             Call Number: SOVMUZ-004
             Document type: Essay
@@ -97,7 +90,6 @@
             Creator: Klimovtskii, A.
             ID: SPA_14515
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 70
-            Editor: 
             Publication date: 1985-04
             Call Number: SOVMUZ-004
             Document type: Essay
@@ -110,7 +102,6 @@
             Creator: Miller, G.
             ID: SPA_14516
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 63-64
-            Editor: 
             Publication date: 1985-04
             Call Number: SOVMUZ-004
             Document type: Essay
@@ -123,7 +114,6 @@
             Creator: Nestiev, Izrail Vladimirovich
             ID: SPA_14517
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 64-66
-            Editor: 
             Publication date: 1985-04
             Call Number: SOVMUZ-004
             Document type: Essay
@@ -136,7 +126,6 @@
             Creator: Pasynkov, E.
             ID: SPA_14518
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 70-72
-            Editor: 
             Publication date: 1985-04
             Call Number: SOVMUZ-004
             Document type: Essay
@@ -150,7 +139,6 @@
             Creator: Sabinina, Marina Dmitrievna
             ID: SPA_14519
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 59-63
-            Editor: 
             Publication date: 1985-04
             Call Number: SOVMUZ-004
             Document type: Essay
@@ -163,7 +151,6 @@
             Creator: Shcherbakova, T.
             ID: SPA_14520
             Periodical: Sovetskaia muzyka, Number 2, Page(s) 77-80
-            Editor: 
             Publication date: 1986-02
             Call Number: SOVMUZ-005
             Document type: Essay
@@ -176,7 +163,6 @@
             Creator: Pavlinova, V.
             ID: SPA_14521
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 84-87
-            Editor: 
             Publication date: 1986-04
             Call Number: SOVMUZ-006
             Document type: Essay
@@ -189,7 +175,6 @@
             Creator: Tompakova, O.
             ID: SPA_14522
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 92-94
-            Editor: 
             Publication date: 1986-04
             Call Number: SOVMUZ-006
             Document type: Essay
@@ -202,7 +187,6 @@
             Creator: Volkov, Anatolii Isaakovich
             ID: SPA_14523
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 87-92
-            Editor: 
             Publication date: 1986-04
             Call Number: SOVMUZ-006
             Document type: Essay
@@ -215,7 +199,6 @@
             Creator: Iakubov, Manashir
             ID: SPA_14524
             Periodical: Sovetskaia muzyka, Number 5, Page(s) 81-93
-            Editor: 
             Publication date: 1988-05
             Call Number: SOVMUZ-007
             Document type: Essay
@@ -228,7 +211,6 @@
             Creator: Kiselev, V.
             ID: SPA_14525
             Periodical: Sovetskaia muzyka, Number 5, Page(s) 93-94
-            Editor: 
             Publication date: 1988-05
             Call Number: SOVMUZ-007
             Document type: Transcript and commentary
@@ -241,7 +223,6 @@
             Creator: Iasulovich, Natal'ia
             ID: SPA_14526
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 65-67 + illustrations between 64 &amp; 65
-            Editor: 
             Publication date: 1990-04
             Call Number: SOVMUZ-009
             Document type: Essay
@@ -254,7 +235,6 @@
             Creator: Schnittke, Alfred
             ID: SPA_14527
             Periodical: Sovetskaia muzyka, Number 11, Page(s) 1-3
-            Editor: 
             Publication date: 1990-11
             Call Number: SOVMUZ-010
             Document type: Essay
@@ -267,7 +247,6 @@
             Creator: Anon.
             ID: SPA_14528
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 85-86
-            Editor: 
             Publication date: 1991-04
             Call Number: SOVMUZ-011
             Document type: Essays
@@ -281,7 +260,6 @@
             Creator: Alekseev, Dmitrii
             ID: SPA_14529
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 93
-            Editor: 
             Publication date: 1991-04
             Call Number: SOVMUZ-011
             Document type: Essay
@@ -295,7 +273,6 @@
             Creator: Ali-zade, Frangiz
             ID: SPA_14530
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 6-7
-            Editor: 
             Publication date: 1991-04
             Call Number: SOVMUZ-011
             Document type: Essay
@@ -309,7 +286,6 @@
             Creator: Andreev, A.
             ID: SPA_14531
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 29-35
-            Editor: 
             Publication date: 1991-04
             Call Number: SOVMUZ-011
             Document type: Essay
@@ -324,7 +300,6 @@
             Creator: Nestiev, Izrail Vladimirovich
             ID: SPA_14532
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 61-64
-            Editor: 
             Publication date: 1991-04
             Call Number: SOVMUZ-011
             Document type: Transcript and commentary
@@ -338,7 +313,6 @@
             Creator: Deklerk, Iuliia
             ID: SPA_14533
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 47-49
-            Editor: 
             Publication date: 1991-04
             Call Number: SOVMUZ-011
             Document type: Transcript
@@ -352,7 +326,6 @@
             Creator: Dolukhanova, Zara
             ID: SPA_14534
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 92-93
-            Editor: 
             Publication date: 1991-04
             Call Number: SOVMUZ-011
             Document type: Essay
@@ -366,7 +339,6 @@
             Creator: Ekimovskii, Viktor
             ID: SPA_14535
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 52-53
-            Editor: 
             Publication date: 1991-04
             Call Number: SOVMUZ-011
             Document type: Essay
@@ -380,7 +352,6 @@
             Creator: Gakkel', Leonid
             ID: SPA_14536
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 4-5
-            Editor: 
             Publication date: 1991-04
             Call Number: SOVMUZ-011
             Document type: Essay
@@ -394,7 +365,6 @@
             Creator: Gergiev, Valerii
             ID: SPA_14537
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 89-91
-            Editor: 
             Publication date: 1991-04
             Call Number: SOVMUZ-011
             Document type: Essay
@@ -408,7 +378,6 @@
             Creator: Iuzefovich, V. A.
             ID: SPA_14538
             Periodical: Sovetskaia muzyka, Number 6, Page(s) 90-95
-            Editor: 
             Publication date: 1991-06
             Call Number: SOVMUZ-011
             Document type: Essay
@@ -421,7 +390,6 @@
             Creator: Iuzefovich, V. A.
             ID: SPA_14539
             Periodical: Sovetskaia muzyka, Number 6, Page(s) 87-89
-            Editor: 
             Publication date: 1991-06
             Call Number: SOVMUZ-011
             Document type: Transcript
@@ -434,7 +402,6 @@
             Creator: Iuzefovich, Viktor
             ID: SPA_14540
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 55-61
-            Editor: 
             Publication date: 1991-04
             Call Number: SOVMUZ-011
             Document type: Transcript
@@ -448,7 +415,6 @@
             Creator: Khabarov, I.
             ID: SPA_14541
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 71-73
-            Editor: 
             Publication date: 1991-04
             Call Number: SOVMUZ-011
             Document type: Transcription
@@ -462,7 +428,6 @@
             Creator: Kiselev, V.
             ID: SPA_14542
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 87-88
-            Editor: 
             Publication date: 1991-04
             Call Number: SOVMUZ-011
             Document type: Essay
@@ -476,7 +441,6 @@
             Creator: Kisin, Evgenii
             ID: SPA_14543
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 94-95
-            Editor: 
             Publication date: 1991-04
             Call Number: SOVMUZ-011
             Document type: Interview
@@ -490,7 +454,6 @@
             Creator: Kopytova, Galina
             ID: SPA_14544
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 96-100
-            Editor: 
             Publication date: 1991-04
             Call Number: SOVMUZ-011
             Document type: Transcripts
@@ -504,7 +467,6 @@
             Creator: Kozlovoi, Meral'dy
             ID: SPA_14545
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 42-46
-            Editor: 
             Publication date: 1991-04
             Call Number: SOVMUZ-011
             Document type: Transcript
@@ -518,7 +480,6 @@
             Creator: Ledenev, Roman
             ID: SPA_14546
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 2-3
-            Editor: 
             Publication date: 1991-04
             Call Number: SOVMUZ-011
             Document type: Essay
@@ -532,7 +493,6 @@
             Creator: Nestiev, Izrail Vladimirovich
             ID: SPA_14547
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 106-110
-            Editor: 
             Publication date: 1991-04
             Call Number: SOVMUZ-011
             Document type: Essay
@@ -547,7 +507,6 @@
             Creator: Nestieva, Marina
             ID: SPA_14548
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 74-81
-            Editor: 
             Publication date: 1991-04
             Call Number: SOVMUZ-011
             Document type: Essays
@@ -561,7 +520,6 @@
             Creator: Obraztsova, E.
             ID: SPA_14549
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 88
-            Editor: 
             Publication date: 1991-04
             Call Number: SOVMUZ-011
             Document type: Transcript
@@ -575,7 +533,6 @@
             Creator: Oistrakh, Igor'
             ID: SPA_14550
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 91-92
-            Editor: 
             Publication date: 1991-04
             Call Number: SOVMUZ-011
             Document type: Essay
@@ -589,7 +546,6 @@
             Creator: Pantielev, Grigorii
             ID: SPA_14551
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 8-24
-            Editor: 
             Publication date: 1991-04
             Call Number: SOVMUZ-011
             Document type: Interview
@@ -603,7 +559,6 @@
             Creator: Petrov, Andrei
             ID: SPA_14552
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 4
-            Editor: 
             Publication date: 1991-04
             Call Number: SOVMUZ-011
             Document type: Essay
@@ -617,7 +572,6 @@
             Creator: Petrov, Nikolai
             ID: SPA_14553
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 93-94
-            Editor: 
             Publication date: 1991-04
             Call Number: SOVMUZ-011
             Document type: Essay
@@ -631,7 +585,6 @@
             Creator: Rakhmanova, Marina
             ID: SPA_14554
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 100-105
-            Editor: 
             Publication date: 1991-04
             Call Number: SOVMUZ-011
             Document type: Essay
@@ -645,7 +598,6 @@
             Creator: Raskatov, Aleksandr
             ID: SPA_14555
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 51-52
-            Editor: 
             Publication date: 1991-04
             Call Number: SOVMUZ-011
             Document type: Essay
@@ -659,7 +611,6 @@
             Creator: Sabinina, Marina Dmitrievna
             ID: SPA_14556
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 25-28
-            Editor: 
             Publication date: 1991-04
             Call Number: SOVMUZ-011
             Document type: Essay
@@ -673,7 +624,6 @@
             Creator: Shakhidi, Tolib
             ID: SPA_14557
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 7
-            Editor: 
             Publication date: 1991-04
             Call Number: SOVMUZ-011
             Document type: Essay
@@ -687,7 +637,6 @@
             Creator: Sokolov, Ivan
             ID: SPA_14558
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 50
-            Editor: 
             Publication date: 1991-04
             Call Number: SOVMUZ-011
             Document type: Essay
@@ -701,7 +650,6 @@
             Creator: Stankovich, Evgenii
             ID: SPA_14559
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 52
-            Editor: 
             Publication date: 1991-04
             Call Number: SOVMUZ-011
             Document type: Essay
@@ -715,7 +663,6 @@
             Creator: Terterian, Avet
             ID: SPA_14560
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 53-54
-            Editor: 
             Publication date: 1991-04
             Call Number: SOVMUZ-011
             Document type: Essay
@@ -729,7 +676,6 @@
             Creator: Varunts, Viktor P
             ID: SPA_14561
             Periodical: Sovetskaia muzyka, Number 4, Page(s) 65-70
-            Editor: 
             Publication date: 1991-04
             Call Number: SOVMUZ-011
             Document type: Transcript and commentary
