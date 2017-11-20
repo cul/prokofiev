@@ -17,7 +17,7 @@
 
     <xsl:for-each select="RECORD">
 
-<!-- set EAD number variable -->        
+<!-- set EAD number variable -->
         <xsl:variable name="Recordnum">
             <xsl:number count="RECORD"></xsl:number>
         </xsl:variable>
@@ -49,7 +49,7 @@
                         <xsl:apply-templates select="PAGES"></xsl:apply-templates></p>
                     <xsl:text>&#xa;</xsl:text>
 
-                    <xsl:apply-templates select="AUTHORS/PERIODICAL_EDITOR"></xsl:apply-templates>
+        <!--            <xsl:apply-templates select="AUTHORS/PERIODICAL_EDITOR"></xsl:apply-templates> -->
                     <xsl:apply-templates select="PUBLISHER"></xsl:apply-templates>
 
                     <!-- if <DATE> tag exists, use <DATE>; else, use <YEAR> -->
@@ -66,10 +66,11 @@
 
                     </xsl:choose>
 
-                    <xsl:apply-templates select="CUSTOM1"></xsl:apply-templates>
+                    <xsl:apply-templates select="LANGUAGE"></xsl:apply-templates>
+<!--                <xsl:apply-templates select="CUSTOM1"></xsl:apply-templates>  -->
                     <xsl:apply-templates select="CALL_NUMBER"></xsl:apply-templates>
                     <xsl:apply-templates select="ARTICLE_TYPE_OF_WORK"></xsl:apply-templates>
-<!--                    <xsl:apply-templates select="PERIODICAL_TYPE_OF_WORK"></xsl:apply-templates> -->
+<!--                <xsl:apply-templates select="PERIODICAL_TYPE_OF_WORK"></xsl:apply-templates> -->
                     <p>Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London</p>
                     <xsl:apply-templates select="NOTES"></xsl:apply-templates>
 
@@ -142,9 +143,15 @@
         <p>Publication date:&#x20;<xsl:value-of select="."/></p>
     </xsl:template>
 
+    <xsl:template match="LANGUAGE">
+        <p>Language:&#x20;<xsl:value-of select="."/><xsl:text>&#x20;</xsl:text></p><xsl:text>&#xa;</xsl:text>
+    </xsl:template>
+
+<!--
     <xsl:template match="CUSTOM1">
         <p>Language:&#x20;<xsl:value-of select="."/><xsl:text>&#x20;</xsl:text></p><xsl:text>&#xa;</xsl:text>
     </xsl:template>
+  -->
 
     <xsl:template match="CALL_NUMBER">
         <p>Call Number:&#x20;<xsl:value-of select="."/></p>

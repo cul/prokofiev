@@ -2,7 +2,8 @@
           to Series_5_ORA_Complete EAD.xml  - - MS 8/2/17 -->
 
 <!-- number series after digital articles -->
-
+<!-- redone 11/20/17, numbered series after SOVMUZ -->
+    
 <xsl:stylesheet
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xs="http://www.w3.org/2001/XMLSchema"
     exclude-result-prefixes="xs"
@@ -18,7 +19,7 @@
      <!-- Generate EAD number -->
 
         <xsl:variable name="SPA">
-            <xsl:number value="$Recordnum + 14562"/>
+            <xsl:number value="$Recordnum + 14561"/>
         </xsl:variable>
 
         <xsl:comment>EAD SPA_<xsl:number value="$SPA"/></xsl:comment>

@@ -2,16 +2,18 @@
     
     
 <outputxml>
+    
+    
 
-<!--EAD SPA_14293-->
+<!--EAD SPA_14562-->
 <c level="file">
    <did>
       <unittitle>New York City Centre</unittitle>
       <note>
          <p>Creator: Rosenthal, Harold</p>
-         <p>ID: SPA_14293</p>
+         <p>ID: SPA_14562</p>
          <p>Periodical: Opera, Number 1, Page(s) 38</p>
-         <p>Editor: </p>
+         <p>Editor: The Earl of Harewood</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
          <p>Publication date: 1950-02</p>
          <p>Language: English</p>
@@ -23,13 +25,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14294-->
+<!--EAD SPA_14563-->
 <c level="file">
    <did>
       <unittitle>Germany: a Prokofiev 'Fairyland'</unittitle>
       <note>
          <p>Creator: Greville, Rothon</p>
-         <p>ID: SPA_14294</p>
+         <p>ID: SPA_14563</p>
          <p>Periodical: Opera, Number 3, Page(s) 176-178</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -43,13 +45,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14295-->
+<!--EAD SPA_14564-->
 <c level="file">
    <did>
       <unittitle>Russia: Prokofiev's last opera</unittitle>
       <note>
          <p>Creator: Polyanovsky, Georgi</p>
-         <p>ID: SPA_14295</p>
+         <p>ID: SPA_14564</p>
          <p>Periodical: Opera, Number 4, Page(s) 261-262</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -63,13 +65,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14296-->
+<!--EAD SPA_14565-->
 <c level="file">
    <did>
       <unittitle>Prokofiev's Last Opera</unittitle>
       <note>
          <p>Creator: Eckstein, Pavel</p>
-         <p>ID: SPA_14296</p>
+         <p>ID: SPA_14565</p>
          <p>Periodical: Opera, Number 8, Page(s) 530-531</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -82,13 +84,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14297-->
+<!--EAD SPA_14566-->
 <c level="file">
    <did>
       <unittitle>'War and Peace' at the Bolshoi</unittitle>
       <note>
          <p>Creator: Marshall, William</p>
-         <p>ID: SPA_14297</p>
+         <p>ID: SPA_14566</p>
          <p>Periodical: Opera, Number 11, Page(s) 718</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -101,13 +103,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14298-->
+<!--EAD SPA_14567-->
 <c level="file">
    <did>
       <unittitle>'War and Peace' Twice</unittitle>
       <note>
          <p>Creator: Eckstein, Pavel</p>
-         <p>ID: SPA_14298</p>
+         <p>ID: SPA_14567</p>
          <p>Periodical: Opera, Number 5, Page(s) 312-313</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -120,13 +122,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14299-->
+<!--EAD SPA_14568-->
 <c level="file">
    <did>
       <unittitle>Prokofiev and the Opera</unittitle>
       <note>
          <p>Creator: Lloyd-Jones, David</p>
-         <p>ID: SPA_14299</p>
+         <p>ID: SPA_14568</p>
          <p>Periodical: Opera, Number 8, Page(s) 513-517</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -139,13 +141,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14300-->
+<!--EAD SPA_14569-->
 <c level="file">
    <did>
       <unittitle>Prokofiev the dramatist</unittitle>
       <note>
          <p>Creator: Marshall, William</p>
-         <p>ID: SPA_14300</p>
+         <p>ID: SPA_14569</p>
          <p>Periodical: Opera, Number 8, Page(s) 539-540</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -158,13 +160,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14301-->
+<!--EAD SPA_14570-->
 <c level="file">
    <did>
       <unittitle>Czechoslovakia, Prague: May 12-June 4. Review of a festival of Prokofiev's stage works</unittitle>
       <note>
          <p>Creator: Jacobs, Arthur</p>
-         <p>ID: SPA_14301</p>
+         <p>ID: SPA_14570</p>
          <p>Periodical: Opera, Number Festival Issue, Page(s) 53-63</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -180,14 +182,14 @@
    </did>
 </c>
 
-<!--EAD SPA_14302-->
+<!--EAD SPA_14571-->
 <c level="file">
    <did>
       <unittitle>The Bolshoi and its problems</unittitle>
       <note>
          <p>Creator: Anon.</p>
          <p>Secondary creator: Lavery, Mark (trans.)</p>
-         <p>ID: SPA_14302</p>
+         <p>ID: SPA_14571</p>
          <p>Periodical: Opera, Number 3, Page(s) 149-155</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -201,13 +203,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14303-->
+<!--EAD SPA_14572-->
 <c level="file">
    <did>
       <unittitle>The Bolshoi controversy</unittitle>
       <note>
          <p>Creator: Lavery, Mark</p>
-         <p>ID: SPA_14303</p>
+         <p>ID: SPA_14572</p>
          <p>Periodical: Opera, Number 5, Page(s) 309-310</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -220,13 +222,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14304-->
+<!--EAD SPA_14573-->
 <c level="file">
    <did>
       <unittitle>Austria - Graz. Review of 'The Fiery Angel'</unittitle>
       <note>
          <p>Creator: Welsh, Christopher Norton</p>
-         <p>ID: SPA_14304</p>
+         <p>ID: SPA_14573</p>
          <p>Periodical: Opera, Number 12, Page(s) 815</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -239,13 +241,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14305-->
+<!--EAD SPA_14574-->
 <c level="file">
    <did>
       <unittitle>Love for Three Oranges. Sadler's Wells, January 1</unittitle>
       <note>
          <p>Creator: Porter, Andrew</p>
-         <p>ID: SPA_14305</p>
+         <p>ID: SPA_14574</p>
          <p>Periodical: Opera, Number 2, Page(s) 138</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -258,13 +260,13 @@
    </did>
 </c>
 
-    <!--EAD SPA_14306-->
+    <!--EAD SPA_14575-->
 <c level="file">
    <did>
       <unittitle>The Fiery Angel. Sadler's Wells, July 27</unittitle>
       <note>
          <p>Creator: Jacobs, Arthur</p>
-         <p>ID: SPA_14306</p>
+         <p>ID: SPA_14575</p>
          <p>Periodical: Opera, Number 9, Page(s) 675-679</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -278,13 +280,13 @@
    </did>
 </c>
 
-    <!--EAD SPA_14307-->
+    <!--EAD SPA_14576-->
 <c level="file">
    <did>
       <unittitle>City centre's 'Fiery Angel'</unittitle>
       <note>
          <p>Creator: Ardoin, John</p>
-         <p>ID: SPA_14307</p>
+         <p>ID: SPA_14576</p>
          <p>Periodical: Opera, Number 11, Page(s) 799-800</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -298,13 +300,13 @@
    </did>
 </c>
 
-    <!--EAD SPA_14308-->
+    <!--EAD SPA_14577-->
 <c level="file">
    <did>
       <unittitle>Toulouse. Review of The Gambler</unittitle>
       <note>
          <p>Creator: Wolff, Stéphanie</p>
-         <p>ID: SPA_14308</p>
+         <p>ID: SPA_14577</p>
          <p>Periodical: Opera, Number 7, Page(s) 574</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -317,13 +319,13 @@
    </did>
 </c>
 
-    <!--EAD SPA_14309-->
+    <!--EAD SPA_14578-->
 <c level="file">
    <did>
       <unittitle>Cat-calls, whistling, 'Hang 'em!'</unittitle>
       <note>
          <p>Creator: Figueroa, Oscar</p>
-         <p>ID: SPA_14309</p>
+         <p>ID: SPA_14578</p>
          <p>Periodical: Opera, Number 10, Page(s) 810-812</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -338,13 +340,13 @@
    </did>
 </c>
 
-    <!--EAD SPA_14310-->
+    <!--EAD SPA_14579-->
 <c level="file">
    <did>
       <unittitle>Chicago</unittitle>
       <note>
          <p>Creator: Dettmer, Roger</p>
-         <p>ID: SPA_14310</p>
+         <p>ID: SPA_14579</p>
          <p>Periodical: Opera, Number 2, Page(s) 121-123</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -358,14 +360,14 @@
    </did>
 </c>
 
-    <!--EAD SPA_14311-->
+    <!--EAD SPA_14580-->
 <c level="file">
    <did>
       <unittitle>Leeds, Town Hall. Announcement of UK premiere of War and Peace, 19 April
             1967</unittitle>
       <note>
          <p>Creator: Anon.</p>
-         <p>ID: SPA_14311</p>
+         <p>ID: SPA_14580</p>
          <p>Periodical: Opera, Number 4, Page(s) 302</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -378,13 +380,13 @@
    </did>
 </c>
 
-    <!--EAD SPA_14312-->
+    <!--EAD SPA_14581-->
 <c level="file">
    <did>
       <unittitle>War and Peace, Leeds Town Hall, April 19</unittitle>
       <note>
          <p>Creator: Blyth, Alan</p>
-         <p>ID: SPA_14312</p>
+         <p>ID: SPA_14581</p>
          <p>Periodical: Opera, Number 6, Page(s) 523-524</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -398,13 +400,13 @@
    </did>
 </c>
 
-    <!--EAD SPA_14313-->
+    <!--EAD SPA_14582-->
 <c level="file">
    <did>
       <unittitle>The Bolshoi at Montreal. War and Peace</unittitle>
       <note>
          <p>Creator: Bernheimer, Martin</p>
-         <p>ID: SPA_14313</p>
+         <p>ID: SPA_14582</p>
          <p>Periodical: Opera, Number 11, Page(s) 891-892 &amp; 909-910</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -418,13 +420,13 @@
    </did>
 </c>
 
-    <!--EAD SPA_14314-->
+    <!--EAD SPA_14583-->
 <c level="file">
    <did>
       <unittitle>Edward Downes</unittitle>
       <note>
          <p>Creator: Blyth, Alan</p>
-         <p>ID: SPA_14314</p>
+         <p>ID: SPA_14583</p>
          <p>Periodical: Opera, Number 1, Page(s) 14-18</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -437,13 +439,13 @@
    </did>
 </c>
 
-    <!--EAD SPA_14315-->
+    <!--EAD SPA_14584-->
 <c level="file">
    <did>
       <unittitle>Spain: In Slav style. Love for Three Oranges, 31 December</unittitle>
       <note>
          <p>Creator: Price, Gilbert</p>
-         <p>ID: SPA_14315</p>
+         <p>ID: SPA_14584</p>
          <p>Periodical: Opera, Number 4, Page(s) 325-326</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -457,13 +459,13 @@
    </did>
 </c>
 
-    <!--EAD SPA_14316-->
+    <!--EAD SPA_14585-->
 <c level="file">
    <did>
       <unittitle>Frankfurt's 'Fiery Angel'</unittitle>
       <note>
          <p>Creator: Harewood, Lord</p>
-         <p>ID: SPA_14316</p>
+         <p>ID: SPA_14585</p>
          <p>Periodical: Opera, Number 8, Page(s) 685-687</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -477,13 +479,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14317-->
+<!--EAD SPA_14586-->
 <c level="file">
    <did>
       <unittitle>'Angel' and 'Elegy' at Edinburgh. August 24-29</unittitle>
       <note>
          <p>Creator: Sadie, Stanley</p>
-         <p>ID: SPA_14317</p>
+         <p>ID: SPA_14586</p>
          <p>Periodical: Opera, Number Festival Issue, Page(s) 36-38</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -497,13 +499,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14318-->
+<!--EAD SPA_14587-->
 <c level="file">
    <did>
       <unittitle>The Bolshoi Opera comes West</unittitle>
       <note>
          <p>Creator: Rosenthal, Harold</p>
-         <p>ID: SPA_14318</p>
+         <p>ID: SPA_14587</p>
          <p>Periodical: Opera, Number 2, Page(s) 95-99</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -516,13 +518,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14319-->
+<!--EAD SPA_14588-->
 <c level="file">
    <did>
       <unittitle>The Love of Three Oranges</unittitle>
       <note>
          <p>Creator: Blyth, Alan</p>
-         <p>ID: SPA_14319</p>
+         <p>ID: SPA_14588</p>
          <p>Periodical: Opera, Number 2, Page(s) 164-165</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -537,13 +539,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14320-->
+<!--EAD SPA_14589-->
 <c level="file">
    <did>
       <unittitle>Bolshoi 1960-1970. Some reflections</unittitle>
       <note>
          <p>Creator: Jacobs, Arthur</p>
-         <p>ID: SPA_14320</p>
+         <p>ID: SPA_14589</p>
          <p>Periodical: Opera, Number 3, Page(s) 207-211</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -556,13 +558,13 @@
    </did>
 </c>
 
-    <!--EAD SPA_14321-->
+    <!--EAD SPA_14590-->
 <c level="file">
    <did>
       <unittitle>Love for Three Oranges. Sadler's Wells at the Coliseum, 6 August</unittitle>
       <note>
          <p>Creator: Blyth, Alan</p>
-         <p>ID: SPA_14321</p>
+         <p>ID: SPA_14590</p>
          <p>Periodical: Opera, Number 10, Page(s) 968-969</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -577,13 +579,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14322-->
+<!--EAD SPA_14591-->
 <c level="file">
    <did>
       <unittitle>Pushkin and the Opera in Russia</unittitle>
       <note>
          <p>Creator: Cooper, Martin</p>
-         <p>ID: SPA_14322</p>
+         <p>ID: SPA_14591</p>
          <p>Periodical: Opera, Number 2, Page(s) 96-100</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -596,13 +598,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14323-->
+<!--EAD SPA_14592-->
 <c level="file">
    <did>
       <unittitle>The Betrothal in a Monastery</unittitle>
       <note>
          <p>Creator: Anon.</p>
-         <p>ID: SPA_14323</p>
+         <p>ID: SPA_14592</p>
          <p>Periodical: Opera, Number Festival issue, Page(s) 96-97</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -617,13 +619,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14324-->
+<!--EAD SPA_14593-->
 <c level="file">
    <did>
       <unittitle>'War and Peace' at the Coliseum</unittitle>
       <note>
          <p>Creator: Blyth, Alan</p>
-         <p>ID: SPA_14324</p>
+         <p>ID: SPA_14593</p>
          <p>Periodical: Opera, Number 12, Page(s) 1049-1054</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -636,13 +638,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14325-->
+<!--EAD SPA_14594-->
 <c level="file">
    <did>
       <unittitle>War and Peace. Sadler's Wells Opera at the Coliseum, November 21</unittitle>
       <note>
          <p>Creator: Rosenthal, Harold</p>
-         <p>ID: SPA_14325</p>
+         <p>ID: SPA_14594</p>
          <p>Periodical: Opera, Number 1, Page(s) 91-92</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -657,13 +659,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14326-->
+<!--EAD SPA_14595-->
 <c level="file">
    <did>
       <unittitle>Sydney Opera House Opens</unittitle>
       <note>
          <p>Creator: Prerauer, Maria</p>
-         <p>ID: SPA_14326</p>
+         <p>ID: SPA_14595</p>
          <p>Periodical: Opera, Number 1, Page(s) 16-21</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -676,13 +678,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14327-->
+<!--EAD SPA_14596-->
 <c level="file">
    <did>
       <unittitle>The Wexford Festival, 1973</unittitle>
       <note>
          <p>Creator: Milnes, Rodney</p>
-         <p>ID: SPA_14327</p>
+         <p>ID: SPA_14596</p>
          <p>Periodical: Opera, Number 2, Page(s) 115-119</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -695,13 +697,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14328-->
+<!--EAD SPA_14597-->
 <c level="file">
    <did>
       <unittitle>Germany: Tedious Prokofiev</unittitle>
       <note>
          <p>Creator: Rothon, Greville</p>
-         <p>ID: SPA_14328</p>
+         <p>ID: SPA_14597</p>
          <p>Periodical: Opera, Number 2, Page(s) 152-154</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -715,13 +717,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14329-->
+<!--EAD SPA_14598-->
 <c level="file">
    <did>
       <unittitle>War and Peace. Sadler's Wells Opera at the Coliseum, February 13</unittitle>
       <note>
          <p>Creator: Jacobs, Arthur</p>
-         <p>ID: SPA_14329</p>
+         <p>ID: SPA_14598</p>
          <p>Periodical: Opera, Number 4, Page(s) 351-353</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -736,13 +738,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14330-->
+<!--EAD SPA_14599-->
 <c level="file">
    <did>
       <unittitle>America: Caldwell's 'War and Peace'</unittitle>
       <note>
          <p>Creator: Baxter, Robert</p>
-         <p>ID: SPA_14330</p>
+         <p>ID: SPA_14599</p>
          <p>Periodical: Opera, Number 8, Page(s) 692-693</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -756,13 +758,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14331-->
+<!--EAD SPA_14600-->
 <c level="file">
    <did>
       <unittitle>America: Bolshoi realism</unittitle>
       <note>
          <p>Creator: Movshon, George</p>
-         <p>ID: SPA_14331</p>
+         <p>ID: SPA_14600</p>
          <p>Periodical: Opera, Number 9, Page(s) 843-847</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -776,13 +778,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14332-->
+<!--EAD SPA_14601-->
 <c level="file">
    <did>
       <unittitle>War and Peace. English Nationa Opera at the Coliseum, October 23</unittitle>
       <note>
          <p>Creator: Forbes, Elizabeth</p>
-         <p>ID: SPA_14332</p>
+         <p>ID: SPA_14601</p>
          <p>Periodical: Opera, Number 12, Page(s) 1168-1170</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -795,13 +797,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14333-->
+<!--EAD SPA_14602-->
 <c level="file">
    <did>
       <unittitle>Switzerland: Successful Prokofiev</unittitle>
       <note>
          <p>Creator: Boas, Robert</p>
-         <p>ID: SPA_14333</p>
+         <p>ID: SPA_14602</p>
          <p>Periodical: Opera, Number 10, Page(s) 948-949</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -815,13 +817,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14334-->
+<!--EAD SPA_14603-->
 <c level="file">
    <did>
       <unittitle>Diaghilev and Opera</unittitle>
       <note>
          <p>Creator: Rosenthal, Harold</p>
-         <p>ID: SPA_14334</p>
+         <p>ID: SPA_14603</p>
          <p>Periodical: Opera, Number 9, Page(s) 862-864 &amp; 882-884</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -834,14 +836,14 @@
    </did>
 </c>
 
-<!--EAD SPA_14335-->
+<!--EAD SPA_14604-->
 <c level="file">
    <did>
       <unittitle>The Bolshoi Disease</unittitle>
       <note>
          <p>Creator: Romadinova, Dora</p>
          <p>Secondary creator: Makaroff, Dmitri (trans.)</p>
-         <p>ID: SPA_14335</p>
+         <p>ID: SPA_14604</p>
          <p>Periodical: Opera, Number 1, Page(s) 21-30</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -857,13 +859,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14336-->
+<!--EAD SPA_14605-->
 <c level="file">
    <did>
       <unittitle>Private Opera Companies in Russia</unittitle>
       <note>
          <p>Creator: Borovsky, Victor</p>
-         <p>ID: SPA_14336</p>
+         <p>ID: SPA_14605</p>
          <p>Periodical: Opera, Number 4, Page(s) 340-345</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -877,13 +879,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14337-->
+<!--EAD SPA_14606-->
 <c level="file">
    <did>
       <unittitle>Private Opera Companies in Russia: Part 2</unittitle>
       <note>
          <p>Creator: Borovsky, Victor</p>
-         <p>ID: SPA_14337</p>
+         <p>ID: SPA_14606</p>
          <p>Periodical: Opera, Number 6, Page(s) 550-556</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -897,13 +899,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14338-->
+<!--EAD SPA_14607-->
 <c level="file">
    <did>
       <unittitle>Private Opera Companies in Russia: Part 3</unittitle>
       <note>
          <p>Creator: Borovsky, Victor</p>
-         <p>ID: SPA_14338</p>
+         <p>ID: SPA_14607</p>
          <p>Periodical: Opera, Number 7, Page(s) 647-652</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -917,13 +919,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14339-->
+<!--EAD SPA_14608-->
 <c level="file">
    <did>
       <unittitle>Busoni, Gozzi, Prokofiev and 'The Oranges'</unittitle>
       <note>
          <p>Creator: Henderson, Robert</p>
-         <p>ID: SPA_14339</p>
+         <p>ID: SPA_14608</p>
          <p>Periodical: Opera, Number 5, Page(s) 458-464</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -936,13 +938,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14340-->
+<!--EAD SPA_14609-->
 <c level="file">
    <did>
       <unittitle>Stanislavsky - and the Opera</unittitle>
       <note>
          <p>Creator: Cannon, Robert</p>
-         <p>ID: SPA_14340</p>
+         <p>ID: SPA_14609</p>
          <p>Periodical: Opera, Number 11, Page(s) 1112-1117</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -955,13 +957,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14341-->
+<!--EAD SPA_14610-->
 <c level="file">
    <did>
       <unittitle>War and Peace. English National Opera at the London Coliseum, November 4</unittitle>
       <note>
          <p>Creator: Rosenthal, Harold</p>
-         <p>ID: SPA_14341</p>
+         <p>ID: SPA_14610</p>
          <p>Periodical: Opera, Number 1, Page(s) 88-90</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -974,13 +976,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14342-->
+<!--EAD SPA_14611-->
 <c level="file">
    <did>
       <unittitle>Stanislavsky and the Opera - in production</unittitle>
       <note>
          <p>Creator: Cannon, Robert</p>
-         <p>ID: SPA_14342</p>
+         <p>ID: SPA_14611</p>
          <p>Periodical: Opera, Number 7, Page(s) 714-720</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -993,13 +995,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14343-->
+<!--EAD SPA_14612-->
 <c level="file">
    <did>
       <unittitle>The Gambler. English National Opera at the London Coliseum, April 28</unittitle>
       <note>
          <p>Creator: Henderson, Robert</p>
-         <p>ID: SPA_14343</p>
+         <p>ID: SPA_14612</p>
          <p>Periodical: Opera, Number 7, Page(s) 788-791</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -1012,13 +1014,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14344-->
+<!--EAD SPA_14613-->
 <c level="file">
    <did>
       <unittitle>War and Peace. English National Opera at the London Coliseum, March 31</unittitle>
       <note>
          <p>Creator: Jacobs, Arthur</p>
-         <p>ID: SPA_14344</p>
+         <p>ID: SPA_14613</p>
          <p>Periodical: Opera, Number 6, Page(s) 683-684</p>
          <p>Editor: Rosenthal, Harold</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -1031,13 +1033,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14345-->
+<!--EAD SPA_14614-->
 <c level="file">
    <did>
       <unittitle>The Joy of Rimsky</unittitle>
       <note>
          <p>Creator: Poutney, David</p>
-         <p>ID: SPA_14345</p>
+         <p>ID: SPA_14614</p>
          <p>Periodical: Opera, Number 12, Page(s) 1405-1409</p>
          <p>Editor: Milnes, Rodney</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -1050,13 +1052,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14346-->
+<!--EAD SPA_14615-->
 <c level="file">
    <did>
       <unittitle>Tchaikovsky's 'beloved child'</unittitle>
       <note>
          <p>Creator: Downes, Edward</p>
-         <p>ID: SPA_14346</p>
+         <p>ID: SPA_14615</p>
          <p>Periodical: Opera, Number 12, Page(s) 1426-1431</p>
          <p>Editor: Milnes, Rodney</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -1069,13 +1071,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14347-->
+<!--EAD SPA_14616-->
 <c level="file">
    <did>
       <unittitle>Prokofiev Foundation</unittitle>
       <note>
          <p>Creator: Anon.</p>
-         <p>ID: SPA_14347</p>
+         <p>ID: SPA_14616</p>
          <p>Periodical: Opera, Number 1, Page(s) 31</p>
          <p>Editor: Milnes, Rodney</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -1088,13 +1090,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14348-->
+<!--EAD SPA_14617-->
 <c level="file">
    <did>
       <unittitle>Prokofiev's operatic obsession</unittitle>
       <note>
          <p>Creator: Downes, Edward</p>
-         <p>ID: SPA_14348</p>
+         <p>ID: SPA_14617</p>
          <p>Periodical: Opera, Number 4, Page(s) 410-414</p>
          <p>Editor: Milnes, Rodney</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -1107,13 +1109,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14349-->
+<!--EAD SPA_14618-->
 <c level="file">
    <did>
       <unittitle>The Fiery Angel</unittitle>
       <note>
          <p>Creator: Allison, John</p>
-         <p>ID: SPA_14349</p>
+         <p>ID: SPA_14618</p>
          <p>Periodical: Opera, Number 6, Page(s) 726-730</p>
          <p>Editor: Milnes, Rodney</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -1126,13 +1128,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14350-->
+<!--EAD SPA_14619-->
 <c level="file">
    <did>
       <unittitle>Soviet Diary 1927 and Other Writings</unittitle>
       <note>
          <p>Creator: Allison, John</p>
-         <p>ID: SPA_14350</p>
+         <p>ID: SPA_14619</p>
          <p>Periodical: Opera, Number 7, Page(s) 823-824 &amp; 876-877</p>
          <p>Editor: Milnes, Rodney</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -1145,13 +1147,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14351-->
+<!--EAD SPA_14620-->
 <c level="file">
    <did>
       <unittitle>The product of experience: Edward Downes talks to Max Loppert</unittitle>
       <note>
          <p>Creator: Loppert, Max</p>
-         <p>ID: SPA_14351</p>
+         <p>ID: SPA_14620</p>
          <p>Periodical: Opera, Number 1, Page(s) 26-39</p>
          <p>Editor: Milnes, Rodney</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -1164,13 +1166,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14352-->
+<!--EAD SPA_14621-->
 <c level="file">
    <did>
       <unittitle>Russian tradition with a difference</unittitle>
       <note>
          <p>Creator: Allison, John</p>
-         <p>ID: SPA_14352</p>
+         <p>ID: SPA_14621</p>
          <p>Periodical: Opera, Number 5, Page(s) 514-520</p>
          <p>Editor: Milnes, Rodney</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -1183,13 +1185,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14353-->
+<!--EAD SPA_14622-->
 <c level="file">
    <did>
       <unittitle>Valery Gergiev</unittitle>
       <note>
          <p>Creator: Allison, John</p>
-         <p>ID: SPA_14353</p>
+         <p>ID: SPA_14622</p>
          <p>Periodical: Opera, Number 7, Page(s) 766-772</p>
          <p>Editor: Milnes, Rodney</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -1202,13 +1204,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14354-->
+<!--EAD SPA_14623-->
 <c level="file">
    <did>
       <unittitle>Rimsky in St Petersburg</unittitle>
       <note>
          <p>Creator: Allison, John</p>
-         <p>ID: SPA_14354</p>
+         <p>ID: SPA_14623</p>
          <p>Periodical: Opera, Number 4, Page(s) 400-405</p>
          <p>Editor: Milnes, Rodney</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -1221,13 +1223,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14355-->
+<!--EAD SPA_14624-->
 <c level="file">
    <did>
       <unittitle>Yevgeny Onegin. Docklands Sinfonietta London at the Queen Elizabeth Hall</unittitle>
       <note>
          <p>Creator: Allison, John</p>
-         <p>ID: SPA_14355</p>
+         <p>ID: SPA_14624</p>
          <p>Periodical: Opera, Number 5, Page(s) 623-624</p>
          <p>Editor: Milnes, Rodney</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -1240,13 +1242,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14356-->
+<!--EAD SPA_14625-->
 <c level="file">
    <did>
       <unittitle>Opera in Russia: Future Indefinite</unittitle>
       <note>
          <p>Creator: Menkov, Alexey</p>
-         <p>ID: SPA_14356</p>
+         <p>ID: SPA_14625</p>
          <p>Periodical: Opera, Number 4, Page(s) 395-400</p>
          <p>Editor: Milnes, Rodney</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -1259,13 +1261,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14357-->
+<!--EAD SPA_14626-->
 <c level="file">
    <did>
       <unittitle>'Parsifal', and paradoxes. John Allison on the Kirov Opera</unittitle>
       <note>
          <p>Creator: Allison, John</p>
-         <p>ID: SPA_14357</p>
+         <p>ID: SPA_14626</p>
          <p>Periodical: Opera, Number 7, Page(s) 770-773</p>
          <p>Editor: Milnes, Rodney</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -1278,13 +1280,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14358-->
+<!--EAD SPA_14627-->
 <c level="file">
    <did>
       <unittitle>Rebels with a cause. Lyudmila Stolyarenko on Moscow's Helikon Opera</unittitle>
       <note>
          <p>Creator: Stolyarenko, Lyudmila</p>
-         <p>ID: SPA_14358</p>
+         <p>ID: SPA_14627</p>
          <p>Periodical: Opera, Number 10, Page(s) 1170-1173</p>
          <p>Editor: Milnes, Rodney</p>
          <p>Publisher: Rolls House Publishing Company Ltd., London</p>
@@ -1297,16 +1299,16 @@
    </did>
 </c>
 
-<!--EAD SPA_14359-->
+<!--EAD SPA_14628-->
 <c level="file">
    <did>
       <unittitle>Plotting the operas. Gerald R. Seaman salutes Pushkin's bicentenary</unittitle>
       <note>
          <p>Creator: Seaman, Gerald R.</p>
-         <p>ID: SPA_14359</p>
+         <p>ID: SPA_14628</p>
          <p>Periodical: Opera, Number 3, Page(s) 262-270</p>
          <p>Editor: Milnes, Rodney</p>
-         <p>Publisher: , London</p>
+         <p>Publisher: Rolls House Publishing Company Ltd., London</p>
          <p>Publication date: 1999-03</p>
          <p>Language: English</p>
          <p>Call Number: OPERA-063</p>
@@ -1316,16 +1318,16 @@
    </did>
 </c>
 
-<!--EAD SPA_14360-->
+<!--EAD SPA_14629-->
 <c level="file">
    <did>
       <unittitle>Battling on bravely. George Loomis on the Bolshoy</unittitle>
       <note>
          <p>Creator: Loomis, George</p>
-         <p>ID: SPA_14360</p>
+         <p>ID: SPA_14629</p>
          <p>Periodical: Opera, Number 7, Page(s) 776-782</p>
          <p>Editor: Milnes, Rodney</p>
-         <p>Publisher: , London</p>
+         <p>Publisher: Rolls House Publishing Company Ltd., London</p>
          <p>Publication date: 1999-07</p>
          <p>Language: English</p>
          <p>Call Number: OPERA-064</p>
@@ -1335,16 +1337,16 @@
    </did>
 </c>
 
-<!--EAD SPA_14361-->
+<!--EAD SPA_14630-->
 <c level="file">
    <did>
       <unittitle>A window on the future. George Loomis visits the Maryinsky's Academy</unittitle>
       <note>
          <p>Creator: Loomis, George</p>
-         <p>ID: SPA_14361</p>
+         <p>ID: SPA_14630</p>
          <p>Periodical: Opera, Number 1, Page(s) 37-41</p>
          <p>Editor: Allison, John</p>
-         <p>Publisher: , London</p>
+         <p>Publisher: Rolls House Publishing Company Ltd., London</p>
          <p>Publication date: 2000-01</p>
          <p>Language: English</p>
          <p>Call Number: OPERA-065</p>
@@ -1354,13 +1356,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14362-->
+<!--EAD SPA_14631-->
 <c level="file">
    <did>
       <unittitle>'War and Peace' breaks out. John Allison on Prokofiev in Paris</unittitle>
       <note>
          <p>Creator: Allison, John</p>
-         <p>ID: SPA_14362</p>
+         <p>ID: SPA_14631</p>
          <p>Periodical: Opera, Number 5, Page(s) 532-534</p>
          <p>Editor: Allison, John</p>
          <p>Publisher: Seymour Press Ltd., London</p>
@@ -1374,13 +1376,13 @@
    </did>
 </c>
 
-<!--EAD SPA_14363-->
+<!--EAD SPA_14632-->
 <c level="file">
    <did>
       <unittitle>A triumph - and reproach. The Kirov Opera at Covent Garden</unittitle>
       <note>
          <p>Creator: Various</p>
-         <p>ID: SPA_14363</p>
+         <p>ID: SPA_14632</p>
          <p>Periodical: Opera, Number 9, Page(s) 1024-1030</p>
          <p>Editor: Allison, John</p>
          <p>Publisher: Seymour Press Ltd., London</p>
@@ -1394,5 +1396,6 @@
       </note>
    </did>
 </c>
+
 
 </outputxml>

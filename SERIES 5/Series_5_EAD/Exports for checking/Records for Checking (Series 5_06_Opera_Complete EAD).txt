@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+    
+    
 
 
   TITLE: New York City Centre
 
          Creator: Rosenthal, Harold
-         ID: SPA_14293
+         ID: SPA_14562
          Periodical: Opera, Number 1, Page(s) 38
-         Editor: 
+         Editor: The Earl of Harewood
          Publisher: Rolls House Publishing Company Ltd., London
          Publication date: 1950-02
+         Language: English
          Call Number: OPERA-001
          Document type: Review
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
@@ -19,7 +22,7 @@
   TITLE: Germany: a Prokofiev 'Fairyland'
 
          Creator: Greville, Rothon
-         ID: SPA_14294
+         ID: SPA_14563
          Periodical: Opera, Number 3, Page(s) 176-178
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -35,7 +38,7 @@
   TITLE: Russia: Prokofiev's last opera
 
          Creator: Polyanovsky, Georgi
-         ID: SPA_14295
+         ID: SPA_14564
          Periodical: Opera, Number 4, Page(s) 261-262
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -51,7 +54,7 @@
   TITLE: Prokofiev's Last Opera
 
          Creator: Eckstein, Pavel
-         ID: SPA_14296
+         ID: SPA_14565
          Periodical: Opera, Number 8, Page(s) 530-531
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -66,7 +69,7 @@
   TITLE: 'War and Peace' at the Bolshoi
 
          Creator: Marshall, William
-         ID: SPA_14297
+         ID: SPA_14566
          Periodical: Opera, Number 11, Page(s) 718
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -81,7 +84,7 @@
   TITLE: 'War and Peace' Twice
 
          Creator: Eckstein, Pavel
-         ID: SPA_14298
+         ID: SPA_14567
          Periodical: Opera, Number 5, Page(s) 312-313
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -96,7 +99,7 @@
   TITLE: Prokofiev and the Opera
 
          Creator: Lloyd-Jones, David
-         ID: SPA_14299
+         ID: SPA_14568
          Periodical: Opera, Number 8, Page(s) 513-517
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -111,7 +114,7 @@
   TITLE: Prokofiev the dramatist
 
          Creator: Marshall, William
-         ID: SPA_14300
+         ID: SPA_14569
          Periodical: Opera, Number 8, Page(s) 539-540
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -126,7 +129,7 @@
   TITLE: Czechoslovakia, Prague: May 12-June 4. Review of a festival of Prokofiev's stage works
 
          Creator: Jacobs, Arthur
-         ID: SPA_14301
+         ID: SPA_14570
          Periodical: Opera, Number Festival Issue, Page(s) 53-63
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -145,7 +148,7 @@
 
          Creator: Anon.
          Secondary creator: Lavery, Mark (trans.)
-         ID: SPA_14302
+         ID: SPA_14571
          Periodical: Opera, Number 3, Page(s) 149-155
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -161,7 +164,7 @@
   TITLE: The Bolshoi controversy
 
          Creator: Lavery, Mark
-         ID: SPA_14303
+         ID: SPA_14572
          Periodical: Opera, Number 5, Page(s) 309-310
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -176,7 +179,7 @@
   TITLE: Austria - Graz. Review of 'The Fiery Angel'
 
          Creator: Welsh, Christopher Norton
-         ID: SPA_14304
+         ID: SPA_14573
          Periodical: Opera, Number 12, Page(s) 815
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -191,7 +194,7 @@
   TITLE: Love for Three Oranges. Sadler's Wells, January 1
 
          Creator: Porter, Andrew
-         ID: SPA_14305
+         ID: SPA_14574
          Periodical: Opera, Number 2, Page(s) 138
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -206,7 +209,7 @@
   TITLE: The Fiery Angel. Sadler's Wells, July 27
 
          Creator: Jacobs, Arthur
-         ID: SPA_14306
+         ID: SPA_14575
          Periodical: Opera, Number 9, Page(s) 675-679
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -222,7 +225,7 @@
   TITLE: City centre's 'Fiery Angel'
 
          Creator: Ardoin, John
-         ID: SPA_14307
+         ID: SPA_14576
          Periodical: Opera, Number 11, Page(s) 799-800
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -238,7 +241,7 @@
   TITLE: Toulouse. Review of The Gambler
 
          Creator: Wolff, Stéphanie
-         ID: SPA_14308
+         ID: SPA_14577
          Periodical: Opera, Number 7, Page(s) 574
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -253,7 +256,7 @@
   TITLE: Cat-calls, whistling, 'Hang 'em!'
 
          Creator: Figueroa, Oscar
-         ID: SPA_14309
+         ID: SPA_14578
          Periodical: Opera, Number 10, Page(s) 810-812
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -270,7 +273,7 @@
   TITLE: Chicago
 
          Creator: Dettmer, Roger
-         ID: SPA_14310
+         ID: SPA_14579
          Periodical: Opera, Number 2, Page(s) 121-123
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -287,7 +290,7 @@
             1967
 
          Creator: Anon.
-         ID: SPA_14311
+         ID: SPA_14580
          Periodical: Opera, Number 4, Page(s) 302
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -302,7 +305,7 @@
   TITLE: War and Peace, Leeds Town Hall, April 19
 
          Creator: Blyth, Alan
-         ID: SPA_14312
+         ID: SPA_14581
          Periodical: Opera, Number 6, Page(s) 523-524
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -318,7 +321,7 @@
   TITLE: The Bolshoi at Montreal. War and Peace
 
          Creator: Bernheimer, Martin
-         ID: SPA_14313
+         ID: SPA_14582
          Periodical: Opera, Number 11, Page(s) 891-892 &amp; 909-910
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -334,7 +337,7 @@
   TITLE: Edward Downes
 
          Creator: Blyth, Alan
-         ID: SPA_14314
+         ID: SPA_14583
          Periodical: Opera, Number 1, Page(s) 14-18
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -349,7 +352,7 @@
   TITLE: Spain: In Slav style. Love for Three Oranges, 31 December
 
          Creator: Price, Gilbert
-         ID: SPA_14315
+         ID: SPA_14584
          Periodical: Opera, Number 4, Page(s) 325-326
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -365,7 +368,7 @@
   TITLE: Frankfurt's 'Fiery Angel'
 
          Creator: Harewood, Lord
-         ID: SPA_14316
+         ID: SPA_14585
          Periodical: Opera, Number 8, Page(s) 685-687
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -381,7 +384,7 @@
   TITLE: 'Angel' and 'Elegy' at Edinburgh. August 24-29
 
          Creator: Sadie, Stanley
-         ID: SPA_14317
+         ID: SPA_14586
          Periodical: Opera, Number Festival Issue, Page(s) 36-38
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -397,7 +400,7 @@
   TITLE: The Bolshoi Opera comes West
 
          Creator: Rosenthal, Harold
-         ID: SPA_14318
+         ID: SPA_14587
          Periodical: Opera, Number 2, Page(s) 95-99
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -412,7 +415,7 @@
   TITLE: The Love of Three Oranges
 
          Creator: Blyth, Alan
-         ID: SPA_14319
+         ID: SPA_14588
          Periodical: Opera, Number 2, Page(s) 164-165
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -429,7 +432,7 @@
   TITLE: Bolshoi 1960-1970. Some reflections
 
          Creator: Jacobs, Arthur
-         ID: SPA_14320
+         ID: SPA_14589
          Periodical: Opera, Number 3, Page(s) 207-211
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -444,7 +447,7 @@
   TITLE: Love for Three Oranges. Sadler's Wells at the Coliseum, 6 August
 
          Creator: Blyth, Alan
-         ID: SPA_14321
+         ID: SPA_14590
          Periodical: Opera, Number 10, Page(s) 968-969
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -461,7 +464,7 @@
   TITLE: Pushkin and the Opera in Russia
 
          Creator: Cooper, Martin
-         ID: SPA_14322
+         ID: SPA_14591
          Periodical: Opera, Number 2, Page(s) 96-100
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -476,7 +479,7 @@
   TITLE: The Betrothal in a Monastery
 
          Creator: Anon.
-         ID: SPA_14323
+         ID: SPA_14592
          Periodical: Opera, Number Festival issue, Page(s) 96-97
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -493,7 +496,7 @@
   TITLE: 'War and Peace' at the Coliseum
 
          Creator: Blyth, Alan
-         ID: SPA_14324
+         ID: SPA_14593
          Periodical: Opera, Number 12, Page(s) 1049-1054
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -508,7 +511,7 @@
   TITLE: War and Peace. Sadler's Wells Opera at the Coliseum, November 21
 
          Creator: Rosenthal, Harold
-         ID: SPA_14325
+         ID: SPA_14594
          Periodical: Opera, Number 1, Page(s) 91-92
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -525,7 +528,7 @@
   TITLE: Sydney Opera House Opens
 
          Creator: Prerauer, Maria
-         ID: SPA_14326
+         ID: SPA_14595
          Periodical: Opera, Number 1, Page(s) 16-21
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -540,7 +543,7 @@
   TITLE: The Wexford Festival, 1973
 
          Creator: Milnes, Rodney
-         ID: SPA_14327
+         ID: SPA_14596
          Periodical: Opera, Number 2, Page(s) 115-119
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -555,7 +558,7 @@
   TITLE: Germany: Tedious Prokofiev
 
          Creator: Rothon, Greville
-         ID: SPA_14328
+         ID: SPA_14597
          Periodical: Opera, Number 2, Page(s) 152-154
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -571,7 +574,7 @@
   TITLE: War and Peace. Sadler's Wells Opera at the Coliseum, February 13
 
          Creator: Jacobs, Arthur
-         ID: SPA_14329
+         ID: SPA_14598
          Periodical: Opera, Number 4, Page(s) 351-353
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -588,7 +591,7 @@
   TITLE: America: Caldwell's 'War and Peace'
 
          Creator: Baxter, Robert
-         ID: SPA_14330
+         ID: SPA_14599
          Periodical: Opera, Number 8, Page(s) 692-693
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -604,7 +607,7 @@
   TITLE: America: Bolshoi realism
 
          Creator: Movshon, George
-         ID: SPA_14331
+         ID: SPA_14600
          Periodical: Opera, Number 9, Page(s) 843-847
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -620,7 +623,7 @@
   TITLE: War and Peace. English Nationa Opera at the Coliseum, October 23
 
          Creator: Forbes, Elizabeth
-         ID: SPA_14332
+         ID: SPA_14601
          Periodical: Opera, Number 12, Page(s) 1168-1170
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -635,7 +638,7 @@
   TITLE: Switzerland: Successful Prokofiev
 
          Creator: Boas, Robert
-         ID: SPA_14333
+         ID: SPA_14602
          Periodical: Opera, Number 10, Page(s) 948-949
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -651,7 +654,7 @@
   TITLE: Diaghilev and Opera
 
          Creator: Rosenthal, Harold
-         ID: SPA_14334
+         ID: SPA_14603
          Periodical: Opera, Number 9, Page(s) 862-864 &amp; 882-884
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -667,7 +670,7 @@
 
          Creator: Romadinova, Dora
          Secondary creator: Makaroff, Dmitri (trans.)
-         ID: SPA_14335
+         ID: SPA_14604
          Periodical: Opera, Number 1, Page(s) 21-30
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -685,7 +688,7 @@
   TITLE: Private Opera Companies in Russia
 
          Creator: Borovsky, Victor
-         ID: SPA_14336
+         ID: SPA_14605
          Periodical: Opera, Number 4, Page(s) 340-345
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -701,7 +704,7 @@
   TITLE: Private Opera Companies in Russia: Part 2
 
          Creator: Borovsky, Victor
-         ID: SPA_14337
+         ID: SPA_14606
          Periodical: Opera, Number 6, Page(s) 550-556
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -717,7 +720,7 @@
   TITLE: Private Opera Companies in Russia: Part 3
 
          Creator: Borovsky, Victor
-         ID: SPA_14338
+         ID: SPA_14607
          Periodical: Opera, Number 7, Page(s) 647-652
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -733,7 +736,7 @@
   TITLE: Busoni, Gozzi, Prokofiev and 'The Oranges'
 
          Creator: Henderson, Robert
-         ID: SPA_14339
+         ID: SPA_14608
          Periodical: Opera, Number 5, Page(s) 458-464
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -748,7 +751,7 @@
   TITLE: Stanislavsky - and the Opera
 
          Creator: Cannon, Robert
-         ID: SPA_14340
+         ID: SPA_14609
          Periodical: Opera, Number 11, Page(s) 1112-1117
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -763,7 +766,7 @@
   TITLE: War and Peace. English National Opera at the London Coliseum, November 4
 
          Creator: Rosenthal, Harold
-         ID: SPA_14341
+         ID: SPA_14610
          Periodical: Opera, Number 1, Page(s) 88-90
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -778,7 +781,7 @@
   TITLE: Stanislavsky and the Opera - in production
 
          Creator: Cannon, Robert
-         ID: SPA_14342
+         ID: SPA_14611
          Periodical: Opera, Number 7, Page(s) 714-720
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -793,7 +796,7 @@
   TITLE: The Gambler. English National Opera at the London Coliseum, April 28
 
          Creator: Henderson, Robert
-         ID: SPA_14343
+         ID: SPA_14612
          Periodical: Opera, Number 7, Page(s) 788-791
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -808,7 +811,7 @@
   TITLE: War and Peace. English National Opera at the London Coliseum, March 31
 
          Creator: Jacobs, Arthur
-         ID: SPA_14344
+         ID: SPA_14613
          Periodical: Opera, Number 6, Page(s) 683-684
          Editor: Rosenthal, Harold
          Publisher: Rolls House Publishing Company Ltd., London
@@ -823,7 +826,7 @@
   TITLE: The Joy of Rimsky
 
          Creator: Poutney, David
-         ID: SPA_14345
+         ID: SPA_14614
          Periodical: Opera, Number 12, Page(s) 1405-1409
          Editor: Milnes, Rodney
          Publisher: Rolls House Publishing Company Ltd., London
@@ -838,7 +841,7 @@
   TITLE: Tchaikovsky's 'beloved child'
 
          Creator: Downes, Edward
-         ID: SPA_14346
+         ID: SPA_14615
          Periodical: Opera, Number 12, Page(s) 1426-1431
          Editor: Milnes, Rodney
          Publisher: Rolls House Publishing Company Ltd., London
@@ -853,7 +856,7 @@
   TITLE: Prokofiev Foundation
 
          Creator: Anon.
-         ID: SPA_14347
+         ID: SPA_14616
          Periodical: Opera, Number 1, Page(s) 31
          Editor: Milnes, Rodney
          Publisher: Rolls House Publishing Company Ltd., London
@@ -868,7 +871,7 @@
   TITLE: Prokofiev's operatic obsession
 
          Creator: Downes, Edward
-         ID: SPA_14348
+         ID: SPA_14617
          Periodical: Opera, Number 4, Page(s) 410-414
          Editor: Milnes, Rodney
          Publisher: Rolls House Publishing Company Ltd., London
@@ -883,7 +886,7 @@
   TITLE: The Fiery Angel
 
          Creator: Allison, John
-         ID: SPA_14349
+         ID: SPA_14618
          Periodical: Opera, Number 6, Page(s) 726-730
          Editor: Milnes, Rodney
          Publisher: Rolls House Publishing Company Ltd., London
@@ -898,7 +901,7 @@
   TITLE: Soviet Diary 1927 and Other Writings
 
          Creator: Allison, John
-         ID: SPA_14350
+         ID: SPA_14619
          Periodical: Opera, Number 7, Page(s) 823-824 &amp; 876-877
          Editor: Milnes, Rodney
          Publisher: Rolls House Publishing Company Ltd., London
@@ -913,7 +916,7 @@
   TITLE: The product of experience: Edward Downes talks to Max Loppert
 
          Creator: Loppert, Max
-         ID: SPA_14351
+         ID: SPA_14620
          Periodical: Opera, Number 1, Page(s) 26-39
          Editor: Milnes, Rodney
          Publisher: Rolls House Publishing Company Ltd., London
@@ -928,7 +931,7 @@
   TITLE: Russian tradition with a difference
 
          Creator: Allison, John
-         ID: SPA_14352
+         ID: SPA_14621
          Periodical: Opera, Number 5, Page(s) 514-520
          Editor: Milnes, Rodney
          Publisher: Rolls House Publishing Company Ltd., London
@@ -943,7 +946,7 @@
   TITLE: Valery Gergiev
 
          Creator: Allison, John
-         ID: SPA_14353
+         ID: SPA_14622
          Periodical: Opera, Number 7, Page(s) 766-772
          Editor: Milnes, Rodney
          Publisher: Rolls House Publishing Company Ltd., London
@@ -958,7 +961,7 @@
   TITLE: Rimsky in St Petersburg
 
          Creator: Allison, John
-         ID: SPA_14354
+         ID: SPA_14623
          Periodical: Opera, Number 4, Page(s) 400-405
          Editor: Milnes, Rodney
          Publisher: Rolls House Publishing Company Ltd., London
@@ -973,7 +976,7 @@
   TITLE: Yevgeny Onegin. Docklands Sinfonietta London at the Queen Elizabeth Hall
 
          Creator: Allison, John
-         ID: SPA_14355
+         ID: SPA_14624
          Periodical: Opera, Number 5, Page(s) 623-624
          Editor: Milnes, Rodney
          Publisher: Rolls House Publishing Company Ltd., London
@@ -988,7 +991,7 @@
   TITLE: Opera in Russia: Future Indefinite
 
          Creator: Menkov, Alexey
-         ID: SPA_14356
+         ID: SPA_14625
          Periodical: Opera, Number 4, Page(s) 395-400
          Editor: Milnes, Rodney
          Publisher: Rolls House Publishing Company Ltd., London
@@ -1003,7 +1006,7 @@
   TITLE: 'Parsifal', and paradoxes. John Allison on the Kirov Opera
 
          Creator: Allison, John
-         ID: SPA_14357
+         ID: SPA_14626
          Periodical: Opera, Number 7, Page(s) 770-773
          Editor: Milnes, Rodney
          Publisher: Rolls House Publishing Company Ltd., London
@@ -1018,7 +1021,7 @@
   TITLE: Rebels with a cause. Lyudmila Stolyarenko on Moscow's Helikon Opera
 
          Creator: Stolyarenko, Lyudmila
-         ID: SPA_14358
+         ID: SPA_14627
          Periodical: Opera, Number 10, Page(s) 1170-1173
          Editor: Milnes, Rodney
          Publisher: Rolls House Publishing Company Ltd., London
@@ -1033,10 +1036,10 @@
   TITLE: Plotting the operas. Gerald R. Seaman salutes Pushkin's bicentenary
 
          Creator: Seaman, Gerald R.
-         ID: SPA_14359
+         ID: SPA_14628
          Periodical: Opera, Number 3, Page(s) 262-270
          Editor: Milnes, Rodney
-         Publisher: , London
+         Publisher: Rolls House Publishing Company Ltd., London
          Publication date: 1999-03
          Language: English
          Call Number: OPERA-063
@@ -1048,10 +1051,10 @@
   TITLE: Battling on bravely. George Loomis on the Bolshoy
 
          Creator: Loomis, George
-         ID: SPA_14360
+         ID: SPA_14629
          Periodical: Opera, Number 7, Page(s) 776-782
          Editor: Milnes, Rodney
-         Publisher: , London
+         Publisher: Rolls House Publishing Company Ltd., London
          Publication date: 1999-07
          Language: English
          Call Number: OPERA-064
@@ -1063,10 +1066,10 @@
   TITLE: A window on the future. George Loomis visits the Maryinsky's Academy
 
          Creator: Loomis, George
-         ID: SPA_14361
+         ID: SPA_14630
          Periodical: Opera, Number 1, Page(s) 37-41
          Editor: Allison, John
-         Publisher: , London
+         Publisher: Rolls House Publishing Company Ltd., London
          Publication date: 2000-01
          Language: English
          Call Number: OPERA-065
@@ -1078,7 +1081,7 @@
   TITLE: 'War and Peace' breaks out. John Allison on Prokofiev in Paris
 
          Creator: Allison, John
-         ID: SPA_14362
+         ID: SPA_14631
          Periodical: Opera, Number 5, Page(s) 532-534
          Editor: Allison, John
          Publisher: Seymour Press Ltd., London
@@ -1094,7 +1097,7 @@
   TITLE: A triumph - and reproach. The Kirov Opera at Covent Garden
 
          Creator: Various
-         ID: SPA_14363
+         ID: SPA_14632
          Periodical: Opera, Number 9, Page(s) 1024-1030
          Editor: Allison, John
          Publisher: Seymour Press Ltd., London
@@ -1106,4 +1109,5 @@
          Notes: Reviews of performances during Kirov's residency at Covent Garden in 2000.
             Includes Semyon Kotko and War and Peace
       
+
 

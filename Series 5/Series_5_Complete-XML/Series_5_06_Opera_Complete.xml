@@ -13,7 +13,7 @@
         <REFNUM>2130</REFNUM>
         <AUTHORS>
             <ARTICLE_AUTHOR>Rosenthal, Harold</ARTICLE_AUTHOR>
-            <PERIODICAL_EDITOR></PERIODICAL_EDITOR>
+            <PERIODICAL_EDITOR>The Earl of Harewood</PERIODICAL_EDITOR>
         </AUTHORS>
         <YEAR>1950</YEAR>
         <ARTICLE_TITLE>New York City Centre</ARTICLE_TITLE>
@@ -26,7 +26,7 @@
         <DATE>1950-02</DATE>
         <ARTICLE_TYPE_OF_WORK>Review</ARTICLE_TYPE_OF_WORK>
         <PERIODICAL_TYPE_OF_WORK>Journal</PERIODICAL_TYPE_OF_WORK>
-        <LANGUAGE>English</LANGUAGE>
+        <CUSTOM1>English</CUSTOM1>
         <CUSTOM5>07/10/2005</CUSTOM5>
         <CUSTOM6>Original</CUSTOM6>
         <NOTES>Review of Love for Three Oranges</NOTES>
@@ -1607,7 +1607,7 @@
         <SUBSIDIARY_ARTICLE_TITLE>Gerald R. Seaman salutes Pushkin's bicentenary</SUBSIDIARY_ARTICLE_TITLE>
         <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
-        <PUBLISHER></PUBLISHER>
+        <PUBLISHER>Rolls House Publishing Company Ltd.</PUBLISHER>
         <VOLUME>50</VOLUME>
         <NUMBER>3</NUMBER>
         <PAGES>262-270</PAGES>
@@ -1631,7 +1631,7 @@
         <SUBSIDIARY_ARTICLE_TITLE>George Loomis on the Bolshoy</SUBSIDIARY_ARTICLE_TITLE>
         <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
-        <PUBLISHER></PUBLISHER>
+        <PUBLISHER>Rolls House Publishing Company Ltd.</PUBLISHER>
         <VOLUME>50</VOLUME>
         <NUMBER>7</NUMBER>
         <PAGES>776-782</PAGES>
@@ -1655,7 +1655,7 @@
         <SUBSIDIARY_ARTICLE_TITLE>George Loomis visits the Maryinsky's Academy</SUBSIDIARY_ARTICLE_TITLE>
         <PERIODICAL_TITLE>Opera</PERIODICAL_TITLE>
         <PLACE_PUBLISHED>London</PLACE_PUBLISHED>
-        <PUBLISHER></PUBLISHER>
+        <PUBLISHER>Rolls House Publishing Company Ltd.</PUBLISHER>
         <VOLUME>51</VOLUME>
         <NUMBER>1</NUMBER>
         <PAGES>37-41</PAGES>
