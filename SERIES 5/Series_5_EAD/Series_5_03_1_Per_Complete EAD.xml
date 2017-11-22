@@ -1,9 +1,5 @@
-<c level="subseries">
-          <did>
-             <unittitle>Subseries V.3: Periodicals and Articles<unitdate type="inclusive"
-             /></unittitle>
-          </did>
-
+<?xml version="1.0" encoding="UTF-8"?>
+<outputxml>
 <!--EAD SPA_13775-->
 <c level="file">
    <did>
@@ -64,7 +60,7 @@
    <did>
       <unittitle>Anglo Soviet Journal</unittitle>
       <note>
-         <p>Creator: Vevers, G M</p>
+         <p>Editor: Vevers, G M</p>
          <p>ID: SPA_13778</p>
          <p>Periodical: Anglo Soviet Journal, Volume 3, Number 3</p>
          <p>Publication date: 1942-07/09</p>
@@ -81,7 +77,7 @@
    <did>
       <unittitle>BBC Music Magazine</unittitle>
       <note>
-         <p>Creator: Maddocks, Fiona</p>
+         <p>Editor: Maddocks, Fiona</p>
          <p>ID: SPA_13779</p>
          <p>Periodical: BBC Music Magazine, Volume 4, Number 1</p>
          <p>Publication date: 1995-09</p>
@@ -226,7 +222,7 @@
    <did>
       <unittitle>Christian Science Journal</unittitle>
       <note>
-         <p>Creator: DeWitt, John</p>
+         <p>Editor: DeWitt, John</p>
          <p>ID: SPA_13787</p>
          <p>Periodical: Christian Science Journal, Volume 101, Number 4</p>
          <p>Publication date: 1983-04</p>
@@ -243,7 +239,7 @@
    <did>
       <unittitle>Christian Science Quarterly</unittitle>
       <note>
-         <p>Creator: Anon.</p>
+         <p>Editor: Anon.</p>
          <p>ID: SPA_13788</p>
          <p>Periodical: Christian Science Quarterly</p>
          <p>Publication date: 1984-10/12</p>
@@ -260,7 +256,7 @@
    <did>
       <unittitle>Christian Science Quarterly</unittitle>
       <note>
-         <p>Creator: Anon.</p>
+         <p>Editor: Anon.</p>
          <p>ID: SPA_13789</p>
          <p>Periodical: Christian Science Quarterly</p>
          <p>Publication date: 1985-01/03</p>
@@ -277,7 +273,7 @@
    <did>
       <unittitle>Christian Science Sentinel</unittitle>
       <note>
-         <p>Creator: DeWitt, John</p>
+         <p>Editor: DeWitt, John</p>
          <p>ID: SPA_13790</p>
          <p>Periodical: Christian Science Sentinel, Volume 84, Number 14</p>
          <p>Publication date: 1982-04-05</p>
@@ -294,7 +290,7 @@
    <did>
       <unittitle>Christian Science Sentinel</unittitle>
       <note>
-         <p>Creator: DeWitt, John</p>
+         <p>Editor: DeWitt, John</p>
          <p>ID: SPA_13791</p>
          <p>Periodical: Christian Science Sentinel, Volume 85, Number 48</p>
          <p>Publication date: 1983-11-28</p>
@@ -497,7 +493,7 @@
    <did>
       <unittitle>FRMS Bulletin</unittitle>
       <note>
-         <p>Creator: Heayes, Neil</p>
+         <p>Editor: Heayes, Neil</p>
          <p>ID: SPA_13802</p>
          <p>Periodical: FRMS Bulletin, Number 113</p>
          <p>Publication date: 1990-09</p>
@@ -934,7 +930,7 @@
    <did>
       <unittitle>Music in the USSR</unittitle>
       <note>
-         <p>Creator: Anon.</p>
+         <p>Editor: Anon.</p>
          <p>ID: SPA_13826</p>
          <p>Periodical: Music in the USSR</p>
          <p>Publication date: 1982</p>
@@ -951,7 +947,7 @@
    <did>
       <unittitle>Music in the USSR</unittitle>
       <note>
-         <p>Creator: Anon.</p>
+         <p>Editor: Anon.</p>
          <p>ID: SPA_13827</p>
          <p>Periodical: Music in the USSR, Volume 1</p>
          <p>Publication date: 1983</p>
@@ -968,7 +964,7 @@
    <did>
       <unittitle>Music in the USSR</unittitle>
       <note>
-         <p>Creator: Anon.</p>
+         <p>Editor: Anon.</p>
          <p>ID: SPA_13828</p>
          <p>Periodical: Music in the USSR, Volume 2</p>
          <p>Publication date: 1983</p>
@@ -985,7 +981,7 @@
    <did>
       <unittitle>Music in the USSR</unittitle>
       <note>
-         <p>Creator: Anon.</p>
+         <p>Editor: Anon.</p>
          <p>ID: SPA_13829</p>
          <p>Periodical: Music in the USSR, Number 1</p>
          <p>Publication date: 1984</p>
@@ -1002,7 +998,7 @@
    <did>
       <unittitle>Music in the USSR</unittitle>
       <note>
-         <p>Creator: Anon.</p>
+         <p>Editor: Anon.</p>
          <p>ID: SPA_13830</p>
          <p>Periodical: Music in the USSR, Number 2</p>
          <p>Publication date: 1984</p>
@@ -1321,7 +1317,7 @@
          <p>Language: English</p>
          <p>Call Number: spa-tex-per-0064</p>
          <p>Document type: Essay</p>
-         <p>Periodical type: English</p>
+         <p>Periodical type: Journal</p>
          <p>Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London</p>
          <p>Notes: (Blurb) San Francisco Opera's new productions of War and Peace in rehearsal; Brief interviews with some key participants; Thoughts about 1991 realities intermingling with those of 1812. </p>
       </note>
@@ -1370,7 +1366,7 @@
    <did>
       <unittitle>Social Studies Review</unittitle>
       <note>
-         <p>Creator: Jackson, Professor Peter</p>
+         <p>Editor: Jackson, Professor Peter</p>
          <p>ID: SPA_13850</p>
          <p>Periodical: Social Studies Review, Volume 6, Number 1</p>
          <p>Publication date: 1990-09</p>
@@ -1405,7 +1401,7 @@
    <did>
       <unittitle>Stagebill, Lincoln Center</unittitle>
       <note>
-         <p>Creator: Laine, Barry</p>
+         <p>Editor: Laine, Barry</p>
          <p>ID: SPA_13852</p>
          <p>Periodical: Stagebill, Lincoln Center, Volume XIII, Number 3</p>
          <p>Publication date: 1985-11</p>
@@ -1857,7 +1853,7 @@
    <did>
       <unittitle>Classica: Un regard neuf sur le classique</unittitle>
       <note>
-         <p>Creator: Dermoncourt, Bertrand</p>
+         <p>Editor: Dermoncourt, Bertrand</p>
          <p>ID: SPA_13876</p>
          <p>Periodical: Classica: Un regard neuf sur le classique, Number 22</p>
          <p>Publication date: 2000-05</p>
@@ -1874,7 +1870,7 @@
    <did>
       <unittitle>Classica: Un regard neuf sur le classique</unittitle>
       <note>
-         <p>Creator: Dermoncourt, Bertrand</p>
+         <p>Editor: Dermoncourt, Bertrand</p>
          <p>ID: SPA_13877</p>
          <p>Periodical: Classica: Un regard neuf sur le classique, Number 25</p>
          <p>Publication date: 2000-09</p>
@@ -2017,7 +2013,7 @@
    <did>
       <unittitle>L'express</unittitle>
       <note>
-         <p>Creator: Cuau, Yves</p>
+         <p>Editor: Cuau, Yves</p>
          <p>ID: SPA_13885</p>
          <p>Periodical: L'express, Number 1625</p>
          <p>Publication date: 1982-08-27 - 1982-09-02</p>
@@ -2146,7 +2142,7 @@
    <did>
       <unittitle>Le monde de la Musique</unittitle>
       <note>
-         <p>Creator: Krafft, Nathalie</p>
+         <p>Editor: Krafft, Nathalie</p>
          <p>ID: SPA_13892</p>
          <p>Periodical: Le monde de la Musique, Number 244</p>
          <p>Publication date: 2000-06</p>
@@ -2890,7 +2886,7 @@
    <did>
       <unittitle>Muzyka i Revoliutsiia</unittitle>
       <note>
-         <p>Creator: Cheliapov, N</p>
+         <p>Editor: Cheliapov, N</p>
          <p>ID: SPA_13932</p>
          <p>Periodical: Muzyka i Revoliutsiia, Number 6</p>
          <p>Publication date: 1929</p>
@@ -2907,7 +2903,7 @@
    <did>
       <unittitle>Muzykal'naia Akademiia</unittitle>
       <note>
-         <p>Creator: Korev, Iurii Semenovich</p>
+         <p>Editor: Korev, Iurii Semenovich</p>
          <p>ID: SPA_13933</p>
          <p>Periodical: Muzykal'naia Akademiia, Volume 1, Number 3-4 (kniga vtoraia)</p>
          <p>Publication date: 1998</p>
@@ -2924,7 +2920,7 @@
    <did>
       <unittitle>Muzykal'naia Akademiia</unittitle>
       <note>
-         <p>Creator: Korev, Iurii Semenovich</p>
+         <p>Editor: Korev, Iurii Semenovich</p>
          <p>ID: SPA_13934</p>
          <p>Periodical: Muzykal'naia Akademiia, Volume 2, Number 3-4 (kniga vtoraia)</p>
          <p>Publication date: 1998</p>
@@ -2941,7 +2937,7 @@
    <did>
       <unittitle>Muzykal'naia Akademiia</unittitle>
       <note>
-         <p>Creator: Korev, Iurii Semenovich</p>
+         <p>Editor: Korev, Iurii Semenovich</p>
          <p>ID: SPA_13935</p>
          <p>Periodical: Muzykal'naia Akademiia, Number 1</p>
          <p>Publication date: 1999</p>
@@ -2958,7 +2954,7 @@
    <did>
       <unittitle>Muzykal'naia Akademiia</unittitle>
       <note>
-         <p>Creator: Korev, Iurii Semenovich</p>
+         <p>Editor: Korev, Iurii Semenovich</p>
          <p>ID: SPA_13936</p>
          <p>Periodical: Muzykal'naia Akademiia, Number 2</p>
          <p>Publication date: 1999</p>
@@ -3266,7 +3262,7 @@
    <did>
       <unittitle>Muzykal'naia Zhizn'</unittitle>
       <note>
-         <p>Creator: Belyi, Viktor Arkadevich</p>
+         <p>Editor: Belyi, Viktor Arkadevich</p>
          <p>ID: SPA_13952</p>
          <p>Periodical: Muzykal'naia Zhizn', Number 6 (368)</p>
          <p>Publication date: 1973-03</p>
@@ -3319,7 +3315,7 @@
    <did>
       <unittitle>Muzykal'naia Zhizn'</unittitle>
       <note>
-         <p>Creator: Popov, I. E.</p>
+         <p>Editor: Popov, I. E.</p>
          <p>ID: SPA_13955</p>
          <p>Periodical: Muzykal'naia Zhizn', Number 12 (782)</p>
          <p>Publication date: 1990-06</p>
@@ -3374,7 +3370,7 @@
    <did>
       <unittitle>Muzykal'naia Zhizn'</unittitle>
       <note>
-         <p>Creator: Platek, Ia M</p>
+         <p>Editor: Platek, Ia M</p>
          <p>ID: SPA_13958</p>
          <p>Periodical: Muzykal'naia Zhizn', Number 1 (914)</p>
          <p>Publication date: 1998-01</p>
@@ -3391,7 +3387,7 @@
    <did>
       <unittitle>Muzykal'naia Zhizn'</unittitle>
       <note>
-         <p>Creator: Platek, Ia M</p>
+         <p>Editor: Platek, Ia M</p>
          <p>ID: SPA_13959</p>
          <p>Periodical: Muzykal'naia Zhizn', Number 2 (915)</p>
          <p>Publication date: 1998-02</p>
@@ -3408,7 +3404,7 @@
    <did>
       <unittitle>Muzykal'naia Zhizn'</unittitle>
       <note>
-         <p>Creator: Platek, Ia M</p>
+         <p>Editor: Platek, Ia M</p>
          <p>ID: SPA_13960</p>
          <p>Periodical: Muzykal'naia Zhizn', Number 3 (916)</p>
          <p>Publication date: 1998-03</p>
@@ -3425,7 +3421,7 @@
    <did>
       <unittitle>Muzykal'naia Zhizn'</unittitle>
       <note>
-         <p>Creator: Platek, Ia M</p>
+         <p>Editor: Platek, Ia M</p>
          <p>ID: SPA_13961</p>
          <p>Periodical: Muzykal'naia Zhizn', Number 4 (917)</p>
          <p>Publication date: 1998-04</p>
@@ -3442,7 +3438,7 @@
    <did>
       <unittitle>Muzykal'naia Zhizn'</unittitle>
       <note>
-         <p>Creator: Platek, Ia M</p>
+         <p>Editor: Platek, Ia M</p>
          <p>ID: SPA_13962</p>
          <p>Periodical: Muzykal'naia Zhizn', Number 5 (918)</p>
          <p>Publication date: 1998-05</p>
@@ -3459,7 +3455,7 @@
    <did>
       <unittitle>Muzykal'naia Zhizn'</unittitle>
       <note>
-         <p>Creator: Platek, Ia M</p>
+         <p>Editor: Platek, Ia M</p>
          <p>ID: SPA_13963</p>
          <p>Periodical: Muzykal'naia Zhizn', Number 5 (919)</p>
          <p>Publication date: 1998-06</p>
@@ -3476,7 +3472,7 @@
    <did>
       <unittitle>Muzykal'naia Zhizn'</unittitle>
       <note>
-         <p>Creator: Platek, Ia M</p>
+         <p>Editor: Platek, Ia M</p>
          <p>ID: SPA_13964</p>
          <p>Periodical: Muzykal'naia Zhizn', Number 7 (920)</p>
          <p>Publication date: 1998-07</p>
@@ -3493,7 +3489,7 @@
    <did>
       <unittitle>Muzykal'naia Zhizn'</unittitle>
       <note>
-         <p>Creator: Platek, Ia M</p>
+         <p>Editor: Platek, Ia M</p>
          <p>ID: SPA_13965</p>
          <p>Periodical: Muzykal'naia Zhizn', Number 8 (921)</p>
          <p>Publication date: 1998-08</p>
@@ -3510,7 +3506,7 @@
    <did>
       <unittitle>Muzykal'naia Zhizn'</unittitle>
       <note>
-         <p>Creator: Platek, Ia M</p>
+         <p>Editor: Platek, Ia M</p>
          <p>ID: SPA_13966</p>
          <p>Periodical: Muzykal'naia Zhizn', Number 9 (922)</p>
          <p>Publication date: 1998-09</p>
@@ -3527,7 +3523,7 @@
    <did>
       <unittitle>Muzykal'naia Zhizn'</unittitle>
       <note>
-         <p>Creator: Platek, Ia M</p>
+         <p>Editor: Platek, Ia M</p>
          <p>ID: SPA_13967</p>
          <p>Periodical: Muzykal'naia Zhizn', Number 10 (923)</p>
          <p>Publication date: 1998-10</p>
@@ -3544,7 +3540,7 @@
    <did>
       <unittitle>Muzykal'naia Zhizn'</unittitle>
       <note>
-         <p>Creator: Platek, Ia M</p>
+         <p>Editor: Platek, Ia M</p>
          <p>ID: SPA_13968</p>
          <p>Periodical: Muzykal'naia Zhizn', Number 11 (924)</p>
          <p>Publication date: 1998-11</p>
@@ -3561,7 +3557,7 @@
    <did>
       <unittitle>Muzykal'naia Zhizn'</unittitle>
       <note>
-         <p>Creator: Platek, Ia M</p>
+         <p>Editor: Platek, Ia M</p>
          <p>ID: SPA_13969</p>
          <p>Periodical: Muzykal'naia Zhizn', Number 12 (925)</p>
          <p>Publication date: 1998-12</p>
@@ -3578,7 +3574,7 @@
    <did>
       <unittitle>Muzykal'naia Zhizn'</unittitle>
       <note>
-         <p>Creator: Platek, Ia M</p>
+         <p>Editor: Platek, Ia M</p>
          <p>ID: SPA_13970</p>
          <p>Periodical: Muzykal'naia Zhizn', Number 1 (926)</p>
          <p>Publication date: 1999-01</p>
@@ -3595,7 +3591,7 @@
    <did>
       <unittitle>Muzykal'naia Zhizn'</unittitle>
       <note>
-         <p>Creator: Platek, Ia M</p>
+         <p>Editor: Platek, Ia M</p>
          <p>ID: SPA_13971</p>
          <p>Periodical: Muzykal'naia Zhizn', Number 2 (927)</p>
          <p>Publication date: 1999-02</p>
@@ -3612,7 +3608,7 @@
    <did>
       <unittitle>Muzykal'naia Zhizn'</unittitle>
       <note>
-         <p>Creator: Platek, Ia M</p>
+         <p>Editor: Platek, Ia M</p>
          <p>ID: SPA_13972</p>
          <p>Periodical: Muzykal'naia Zhizn', Number 3 (928)</p>
          <p>Publication date: 1999-03</p>
@@ -3629,7 +3625,7 @@
    <did>
       <unittitle>Muzykal'naia Zhizn'</unittitle>
       <note>
-         <p>Creator: Platek, Ia M</p>
+         <p>Editor: Platek, Ia M</p>
          <p>ID: SPA_13973</p>
          <p>Periodical: Muzykal'naia Zhizn', Number 4 (929)</p>
          <p>Publication date: 1999-04</p>
@@ -3646,7 +3642,7 @@
    <did>
       <unittitle>Muzykal'naia Zhizn'</unittitle>
       <note>
-         <p>Creator: Platek, Ia M</p>
+         <p>Editor: Platek, Ia M</p>
          <p>ID: SPA_13974</p>
          <p>Periodical: Muzykal'naia Zhizn', Number 5 (930)</p>
          <p>Publication date: 1999-05</p>
@@ -3663,7 +3659,7 @@
    <did>
       <unittitle>Muzykal'naia Zhizn'</unittitle>
       <note>
-         <p>Creator: Platek, Ia M</p>
+         <p>Editor: Platek, Ia M</p>
          <p>ID: SPA_13975</p>
          <p>Periodical: Muzykal'naia Zhizn', Number 6 (931)</p>
          <p>Publication date: 1999-06</p>
@@ -3680,7 +3676,7 @@
    <did>
       <unittitle>Muzykal'naia Zhizn'</unittitle>
       <note>
-         <p>Creator: Platek, Ia M</p>
+         <p>Editor: Platek, Ia M</p>
          <p>ID: SPA_13976</p>
          <p>Periodical: Muzykal'naia Zhizn', Number 7 (932)</p>
          <p>Publication date: 1999-07</p>
@@ -3697,7 +3693,7 @@
    <did>
       <unittitle>Muzykal'naia Zhizn'</unittitle>
       <note>
-         <p>Creator: Platek, Ia M</p>
+         <p>Editor: Platek, Ia M</p>
          <p>ID: SPA_13977</p>
          <p>Periodical: Muzykal'naia Zhizn', Number 8 (933)</p>
          <p>Publication date: 1999-08</p>
@@ -3714,7 +3710,7 @@
    <did>
       <unittitle>Muzykal'naia Zhizn'</unittitle>
       <note>
-         <p>Creator: Platek, Ia M</p>
+         <p>Editor: Platek, Ia M</p>
          <p>ID: SPA_13978</p>
          <p>Periodical: Muzykal'naia Zhizn', Number 9 (934)</p>
          <p>Publication date: 1999-09</p>
@@ -3749,7 +3745,7 @@
    <did>
       <unittitle>Muzykal'naia Zhizn'</unittitle>
       <note>
-         <p>Creator: Platek, Ia M</p>
+         <p>Editor: Platek, Ia M</p>
          <p>ID: SPA_13980</p>
          <p>Periodical: Muzykal'naia Zhizn', Number 4 (941)</p>
          <p>Publication date: 2000-04</p>
@@ -3784,7 +3780,7 @@
    <did>
       <unittitle>Muzykal'naia Zhizn'</unittitle>
       <note>
-         <p>Creator: Platek, Ia M</p>
+         <p>Editor: Platek, Ia M</p>
          <p>ID: SPA_13982</p>
          <p>Periodical: Muzykal'naia Zhizn', Number 8 (957)</p>
          <p>Publication date: 2001-08</p>
@@ -3801,7 +3797,7 @@
    <did>
       <unittitle>Muzykal'naia Zhizn'</unittitle>
       <note>
-         <p>Creator: Platek, Ia M</p>
+         <p>Editor: Platek, Ia M</p>
          <p>ID: SPA_13983</p>
          <p>Periodical: Muzykal'naia Zhizn', Number 9 (958)</p>
          <p>Publication date: 2001-09</p>
@@ -3818,7 +3814,7 @@
    <did>
       <unittitle>Muzykal'naia Zhizn'</unittitle>
       <note>
-         <p>Creator: Platek, Ia M</p>
+         <p>Editor: Platek, Ia M</p>
          <p>ID: SPA_13984</p>
          <p>Periodical: Muzykal'naia Zhizn', Number 10 (989)</p>
          <p>Publication date: 2001-10</p>
@@ -3854,7 +3850,7 @@
    <did>
       <unittitle>Muzykal'naia Zhizn'</unittitle>
       <note>
-         <p>Creator: Platek, Ia M</p>
+         <p>Editor: Platek, Ia M</p>
          <p>ID: SPA_13986</p>
          <p>Periodical: Muzykal'naia Zhizn', Number 12 (991)</p>
          <p>Publication date: 2001-12</p>
@@ -3871,7 +3867,7 @@
    <did>
       <unittitle>Muzykal'naia Zhizn'</unittitle>
       <note>
-         <p>Creator: Platek, Ia M</p>
+         <p>Editor: Platek, Ia M</p>
          <p>ID: SPA_13987</p>
          <p>Periodical: Muzykal'naia Zhizn', Number 1 (992)</p>
          <p>Publication date: 2002-01</p>
@@ -3906,7 +3902,7 @@
    <did>
       <unittitle>Ogonek</unittitle>
       <note>
-         <p>Creator: Sofronov, A. V.</p>
+         <p>Editor: Sofronov, A. V.</p>
          <p>ID: SPA_13989</p>
          <p>Periodical: Ogonek, Number 29 (2402)</p>
          <p>Publication date: 1973-07-14</p>
@@ -3923,7 +3919,7 @@
    <did>
       <unittitle>Ogonek</unittitle>
       <note>
-         <p>Creator: Korotich, V. A.</p>
+         <p>Editor: Korotich, V. A.</p>
          <p>ID: SPA_13990</p>
          <p>Periodical: Ogonek, Number 12 (3322)</p>
          <p>Publication date: 1991-03-16/23</p>
@@ -4013,7 +4009,7 @@
    <did>
       <unittitle>The Pianola Journal</unittitle>
       <note>
-         <p>Creator: Anon.</p>
+         <p>Editor: Anon.</p>
          <p>ID: SPA_13995</p>
          <p>Periodical: The Pianola Journal, Number 3</p>
          <p>Publication date: 1990</p>
@@ -4031,7 +4027,7 @@
    <did>
       <unittitle>The Pianola Journal</unittitle>
       <note>
-         <p>Creator: Anon.</p>
+         <p>Editor: Anon.</p>
          <p>ID: SPA_13996</p>
          <p>Periodical: The Pianola Journal, Number 5</p>
          <p>Publication date: 1993</p>
@@ -4049,7 +4045,7 @@
    <did>
       <unittitle>The Pianola Journal</unittitle>
       <note>
-         <p>Creator: Anon.</p>
+         <p>Editor: Anon.</p>
          <p>ID: SPA_13997</p>
          <p>Periodical: The Pianola Journal, Number 10</p>
          <p>Publication date: 1998</p>
@@ -4085,7 +4081,7 @@
    <did>
       <unittitle>The Pianola Journal</unittitle>
       <note>
-         <p>Creator: Anon.</p>
+         <p>Editor: Anon.</p>
          <p>ID: SPA_13999</p>
          <p>Periodical: The Pianola Journal, Number 12</p>
          <p>Publication date: 1999</p>
@@ -4675,7 +4671,7 @@
    <did>
       <unittitle>Gramophone</unittitle>
       <note>
-         <p>Creator: Jolly, James</p>
+         <p>Editor: Jolly, James</p>
          <p>ID: SPA_14030</p>
          <p>Periodical: Gramophone, Volume 68</p>
          <p>Publication date: 1991-01</p>
@@ -4890,7 +4886,7 @@
          <p>Language: German</p>
          <p>Call Number: spa-tex-per-0188</p>
          <p>Document type: Essay</p>
-         <p>Document type: Journal</p>
+         <p>Periodical type: Journal</p>
          <p>Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London</p>
          <p>Notes: Regarding the Prokofiev 2003 celebrations</p>
       </note>
@@ -5189,7 +5185,7 @@
    <did>
       <unittitle>Le Monde de la Musique: Radio Classique</unittitle>
       <note>
-         <p>Creator: Meillat, Bernard</p>
+         <p>Editor: Meillat, Bernard</p>
          <p>ID: SPA_14057</p>
          <p>Periodical: Le Monde de la Musique: Radio Classique, Number 274 - cahier no. 2</p>
          <p>Publication date: 2003-03</p>
@@ -5245,7 +5241,7 @@
    <did>
       <unittitle>Akkord: Zhurnal muzykal'noi kultury</unittitle>
       <note>
-         <p>Creator: Speranskii, Sergei L.</p>
+         <p>Editor: Speranskii, Sergei L.</p>
          <p>ID: SPA_14060</p>
          <p>Periodical: Akkord: Zhurnal muzykal'noi kultury</p>
          <p>Language: Russian</p>
@@ -5593,7 +5589,7 @@
          <p>Language: English</p>
          <p>Call Number: spa-tex-per-0204</p>
          <p>Document type: Essay</p>
-         <p>Document type: Journal</p>
+         <p>Periodical type: Journal</p>
          <p>Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London</p>
          <p>Notes: Edition title: À la recherche d'un texte: Prokofiev et la
             littérature</p>
@@ -5613,7 +5609,7 @@
          <p>Language: French</p>
          <p>Call Number: spa-tex-per-0204</p>
          <p>Document type: Essay</p>
-         <p>Document type: Journal</p>
+         <p>Periodical type: Journal</p>
          <p>Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London</p>
          <p>Notes: Edition title: À la recherche d'un texte: Prokofiev et la
             littérature</p>
@@ -5633,7 +5629,7 @@
          <p>Language: English</p>
          <p>Call Number: spa-tex-per-0204</p>
          <p>Document type: Essay</p>
-         <p>Document type: Journal</p>
+         <p>Periodical type: Journal</p>
          <p>Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London</p>
          <p>Notes: Edition title: À la recherche d'un texte: Prokofiev et la
             littérature</p>
@@ -5654,11 +5650,13 @@
          <p>Language: English</p>
          <p>Call Number: spa-tex-per-0204</p>
          <p>Document type: Essay</p>
-         <p>Document type: Journal</p>
+         <p>Periodical type: Journal</p>
          <p>Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London</p>
          <p>Notes: Edition title: À la recherche d'un texte: Prokofiev et la
             littérature</p>
       </note>
    </did>
 </c>
-</c>
+</outputxml>
+
+
