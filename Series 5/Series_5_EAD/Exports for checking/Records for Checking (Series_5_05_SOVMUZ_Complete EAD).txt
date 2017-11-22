@@ -10,6 +10,7 @@
             Language: Russian 
             Call Number: SOVMUZ-002
             Document type: Review
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          
 
@@ -23,6 +24,7 @@
             Language: Russian 
             Call Number: SOVMUZ-003
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          
 
@@ -36,6 +38,7 @@
             Language: Russian 
             Call Number: SOVMUZ-003
             Document type: Review
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          
 
@@ -49,6 +52,7 @@
             Language: Russian 
             Call Number: SOVMUZ-004
             Document type: Interview
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          
 
@@ -62,6 +66,7 @@
             Language: Russian 
             Call Number: SOVMUZ-004
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          
 
@@ -75,6 +80,7 @@
             Language: Russian 
             Call Number: SOVMUZ-004
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          
 
@@ -88,6 +94,7 @@
             Language: Russian 
             Call Number: SOVMUZ-004
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          
 
@@ -101,6 +108,7 @@
             Language: Russian 
             Call Number: SOVMUZ-004
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          
 
@@ -114,6 +122,7 @@
             Language: Russian 
             Call Number: SOVMUZ-004
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          
 
@@ -127,6 +136,7 @@
             Language: Russian 
             Call Number: SOVMUZ-004
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          
 
@@ -140,6 +150,7 @@
             Language: Russian 
             Call Number: SOVMUZ-004
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          
 
@@ -154,6 +165,7 @@
             Language: Russian 
             Call Number: SOVMUZ-004
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          
 
@@ -167,6 +179,7 @@
             Language: Russian 
             Call Number: SOVMUZ-005
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          
 
@@ -180,6 +193,7 @@
             Language: Russian 
             Call Number: SOVMUZ-006
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          
 
@@ -193,6 +207,7 @@
             Language: Russian 
             Call Number: SOVMUZ-006
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          
 
@@ -206,6 +221,7 @@
             Language: Russian 
             Call Number: SOVMUZ-006
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          
 
@@ -219,6 +235,7 @@
             Language: Russian 
             Call Number: SOVMUZ-007
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          
 
@@ -232,6 +249,7 @@
             Language: Russian 
             Call Number: SOVMUZ-007
             Document type: Transcript and commentary
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          
 
@@ -245,6 +263,7 @@
             Language: Russian 
             Call Number: SOVMUZ-009
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          
 
@@ -258,6 +277,7 @@
             Language: Russian 
             Call Number: SOVMUZ-010
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          
 
@@ -271,6 +291,7 @@
             Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essays
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
             Notes: Dedicated Prokofiev Issue
          
@@ -285,6 +306,7 @@
             Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
             Notes: Dedicated Prokofiev Issue
          
@@ -299,6 +321,7 @@
             Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
             Notes: Dedicated Prokofiev Issue
          
@@ -313,6 +336,7 @@
             Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
             Notes: Dedicated Prokofiev Issue
          
@@ -328,6 +352,7 @@
             Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Transcript and commentary
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
             Notes: Dedicated Prokofiev Issue
          
@@ -342,6 +367,7 @@
             Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Transcript
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
             Notes: Dedicated Prokofiev Issue
          
@@ -356,6 +382,7 @@
             Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
             Notes: Dedicated Prokofiev Issue
          
@@ -370,6 +397,7 @@
             Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
             Notes: Dedicated Prokofiev Issue
          
@@ -384,6 +412,7 @@
             Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
             Notes: Dedicated Prokofiev Issue
          
@@ -398,6 +427,7 @@
             Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
             Notes: Dedicated Prokofiev Issue
          
@@ -412,6 +442,7 @@
             Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          
 
@@ -425,6 +456,7 @@
             Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Transcript
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          
 
@@ -438,6 +470,7 @@
             Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Transcript
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
             Notes: Dedicated Prokofiev Issue
          
@@ -452,6 +485,7 @@
             Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Transcription
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
             Notes: Dedicated Prokofiev Issue
          
@@ -466,6 +500,7 @@
             Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
             Notes: Dedicated Prokofiev Issue
          
@@ -480,6 +515,7 @@
             Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Interview
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
             Notes: Dedicated Prokofiev Issue
          
@@ -494,6 +530,7 @@
             Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Transcripts
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
             Notes: Dedicated Prokofiev Issue
          
@@ -508,6 +545,7 @@
             Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Transcript
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
             Notes: Dedicated Prokofiev Issue
          
@@ -522,6 +560,7 @@
             Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
             Notes: Dedicated Prokofiev Issue
          
@@ -536,6 +575,7 @@
             Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
             Notes: Dedicated Prokofiev Issue
          
@@ -551,6 +591,7 @@
             Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essays
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
             Notes: Dedicated Prokofiev Issue
          
@@ -565,6 +606,7 @@
             Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Transcript
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
             Notes: Dedicated Prokofiev Issue
          
@@ -579,6 +621,7 @@
             Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
             Notes: Dedicated Prokofiev Issue
          
@@ -593,6 +636,7 @@
             Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Interview
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
             Notes: Dedicated Prokofiev Issue
          
@@ -607,6 +651,7 @@
             Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
             Notes: Dedicated Prokofiev Issue
          
@@ -621,6 +666,7 @@
             Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
             Notes: Dedicated Prokofiev Issue
          
@@ -635,6 +681,7 @@
             Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
             Notes: Dedicated Prokofiev Issue
          
@@ -649,6 +696,7 @@
             Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
             Notes: Dedicated Prokofiev Issue
          
@@ -663,6 +711,7 @@
             Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
             Notes: Dedicated Prokofiev Issue
          
@@ -677,6 +726,7 @@
             Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
             Notes: Dedicated Prokofiev Issue
          
@@ -691,6 +741,7 @@
             Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
             Notes: Dedicated Prokofiev Issue
          
@@ -705,6 +756,7 @@
             Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
             Notes: Dedicated Prokofiev Issue
          
@@ -719,6 +771,7 @@
             Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Essay
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
             Notes: Dedicated Prokofiev Issue
          
@@ -733,6 +786,7 @@
             Language: Russian 
             Call Number: SOVMUZ-011
             Document type: Transcript and commentary
+            Periodical type: Journal
             Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
             Notes: Dedicated Prokofiev Issue
          

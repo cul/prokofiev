@@ -9,8 +9,14 @@
     exclude-result-prefixes="xs"
     version="2.0">
     <xsl:output method="xml" indent="yes"/>
-
-    <xsl:template match="outputxml/RECORD">
+    <xsl:template match="outputxml">
+        
+        <outputxml>
+            <xsl:text>&#xa;</xsl:text>
+            
+            
+            <xsl:for-each select="RECORD">
+  
 
         <xsl:variable name="Recordnum">
             <xsl:number count="RECORD"></xsl:number>
@@ -46,6 +52,7 @@
                      <xsl:apply-templates select="CUSTOM1"></xsl:apply-templates>
                      <xsl:apply-templates select="CALL_NUMBER"></xsl:apply-templates>
                      <xsl:apply-templates select="ARTICLE_TYPE_OF_WORK"></xsl:apply-templates>
+                     <xsl:apply-templates select="PERIODICAL_TYPE_OF_WORK"></xsl:apply-templates>
                      <p>Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London</p>
                      <xsl:apply-templates select="NOTES"></xsl:apply-templates>
 
@@ -53,6 +60,14 @@
              </did>
         </c>
         <xsl:text>&#xa;</xsl:text>
+        <xsl:text>&#xa;</xsl:text>               
+
+            </xsl:for-each>
+            
+        <xsl:text>&#xa;</xsl:text>
+            
+        </outputxml>
+        
     </xsl:template>
 
 
@@ -119,6 +134,10 @@
         <p>Document type:&#x20;<xsl:value-of select="."/></p>
     </xsl:template>
 
+    <xsl:template match="PERIODICAL_TYPE_OF_WORK">
+        <p>Periodical type:&#x20;<xsl:value-of select="."/></p>
+    </xsl:template>
+    
     <xsl:template match="NOTES">
         <p>Notes:&#x20;<xsl:value-of select="."/></p>
     </xsl:template>
@@ -126,5 +145,5 @@
     <xsl:template match="REFERENCE_TYPE">
         <p>Reference TYPE: <xsl:value-of select="."/><xsl:text>&#x20;</xsl:text></p>
     </xsl:template>
-
+ 
 </xsl:stylesheet>

@@ -2,6 +2,9 @@
           to Series_5_SOVMUZ EAD.xml  - - rev MS 9/23/17 -->
 
 <!-- number series after digital articles -->
+<!-- update to start SPA number after ORA 
+     add <p>Periodical type:</p>   11/21/17  -->
+
 
 <xsl:stylesheet
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xs="http://www.w3.org/2001/XMLSchema"
@@ -70,7 +73,7 @@
 <!--                <xsl:apply-templates select="CUSTOM1"></xsl:apply-templates>  -->
                     <xsl:apply-templates select="CALL_NUMBER"></xsl:apply-templates>
                     <xsl:apply-templates select="ARTICLE_TYPE_OF_WORK"></xsl:apply-templates>
-<!--                <xsl:apply-templates select="PERIODICAL_TYPE_OF_WORK"></xsl:apply-templates> -->
+                    <xsl:apply-templates select="PERIODICAL_TYPE_OF_WORK"></xsl:apply-templates>
                     <p>Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London</p>
                     <xsl:apply-templates select="NOTES"></xsl:apply-templates>
 
@@ -160,11 +163,11 @@
     <xsl:template match="ARTICLE_TYPE_OF_WORK">
         <p>Document type:&#x20;<xsl:value-of select="."/></p>
     </xsl:template>
-    <!--
+    
     <xsl:template match="PERIODICAL_TYPE_OF_WORK">
         <p>Periodical type:&#x20;<xsl:value-of select="."/></p>
     </xsl:template>
-    -->
+    
     <xsl:template match="NOTES">
         <p>Notes:&#x20;<xsl:value-of select="."/></p>
     </xsl:template>

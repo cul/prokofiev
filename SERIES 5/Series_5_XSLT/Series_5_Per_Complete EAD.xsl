@@ -9,32 +9,32 @@
     exclude-result-prefixes="xs"
     version="2.0">
     <xsl:output method="xml" indent="yes"/>
- 
+
 
     <xsl:template match="outputxml/RECORD">
 
 <!-- One SPA number is calculated for each RECORD and
      assigned to the variable $SPA. Then current value
-     of $SPA is inserted in the comment header and 
+     of $SPA is inserted in the comment header and
      in each xsl:choice template -->
-        
+
         <xsl:variable name="Recordnum">
             <xsl:number count="RECORD"></xsl:number>
         </xsl:variable>
-        
+
         <xsl:variable name="SPA">
             <xsl:number value="$Recordnum + 13774"/>
         </xsl:variable>
-        
+
         <xsl:comment>EAD SPA_<xsl:number value="$SPA"/></xsl:comment>
-        <xsl:text>&#xa;</xsl:text>       
- 
+        <xsl:text>&#xa;</xsl:text>
+
 <!-- WHEN the element ARTICLE_TITLE exists, then assume the record
      is an article and not an issue of a periodical, and apply this template -->
 
         <xsl:choose>
         <xsl:when test="ARTICLE_TITLE">
-        
+
        <c level="file">
            <did>
                <unittitle><xsl:apply-templates select="ARTICLE_TITLE"></xsl:apply-templates>
@@ -43,16 +43,16 @@
                     <note>
                        <xsl:apply-templates select="AUTHORS/ARTICLE_AUTHOR"></xsl:apply-templates>
                        <xsl:apply-templates select="SUBSIDIARY_AUTHORS/SUBSIDIARY_AUTHOR"></xsl:apply-templates>
-                        
-                           <p>ID: SPA_<xsl:number value="$SPA"/></p>    
-                        
+
+                           <p>ID: SPA_<xsl:number value="$SPA"/></p>
+
                            <p>Periodical: <xsl:apply-templates select="PERIODICAL_TITLE"></xsl:apply-templates>
                               <xsl:apply-templates select="SUBSIDIARY_PERIODICAL_TITLE"></xsl:apply-templates>                             <xsl:apply-templates select="VOLUME"></xsl:apply-templates>
                               <xsl:apply-templates select="ISSUE"></xsl:apply-templates>
                               <xsl:apply-templates select="NUMBER"></xsl:apply-templates>
                               <xsl:apply-templates select="PAGES"></xsl:apply-templates></p>
                               <xsl:text>&#xa;</xsl:text>
-                        
+
                         <xsl:apply-templates select="DATE"></xsl:apply-templates>
                         <xsl:apply-templates select="CUSTOM1"></xsl:apply-templates>
                         <xsl:apply-templates select="CALL_NUMBER"></xsl:apply-templates>
@@ -61,16 +61,16 @@
                         <xsl:apply-templates select="ALTERNATE_TITLE"></xsl:apply-templates>
                         <p>Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London</p>
                         <xsl:apply-templates select="NOTES"></xsl:apply-templates>
-                        
+
                     </note>
                 </did>
             </c>
-    
+
             </xsl:when>
-        
-  <!--OTHERWISE - if no ARITICLE_TITLE element, then assume it 
+
+  <!--OTHERWISE - if no ARITICLE_TITLE element, then assume it
 must be a record of a periodical issue, and apply this template -->
-        
+
             <xsl:otherwise>
                 <c level="file">
                     <did>
@@ -79,9 +79,9 @@ must be a record of a periodical issue, and apply this template -->
                         <xsl:text>&#xa;</xsl:text>
                         <note>
                             <xsl:apply-templates select="AUTHORS/PERIODICAL_EDITOR"></xsl:apply-templates>
-                            
-                            <p>ID: SPA_<xsl:number value="$SPA"/></p>    
-                            
+
+                            <p>ID: SPA_<xsl:number value="$SPA"/></p>
+
                             <p>Periodical: <xsl:apply-templates select="PERIODICAL_TITLE"></xsl:apply-templates>
                                 <xsl:apply-templates select="SUBSIDIARY_PERIODICAL_TITLE"></xsl:apply-templates>
                                 <xsl:apply-templates select="VOLUME"></xsl:apply-templates>
@@ -89,7 +89,7 @@ must be a record of a periodical issue, and apply this template -->
                                 <xsl:apply-templates select="NUMBER"></xsl:apply-templates>
                                 <xsl:apply-templates select="PAGES"></xsl:apply-templates></p>
                             <xsl:text>&#xa;</xsl:text>
-                            
+
                             <xsl:apply-templates select="DATE"></xsl:apply-templates>
                             <xsl:apply-templates select="CUSTOM1"></xsl:apply-templates>
                             <xsl:apply-templates select="CALL_NUMBER"></xsl:apply-templates>
@@ -97,57 +97,59 @@ must be a record of a periodical issue, and apply this template -->
                             <xsl:apply-templates select="ALTERNATE_TITLE"></xsl:apply-templates>
                             <p>Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London</p>
                             <xsl:apply-templates select="NOTES"></xsl:apply-templates>
-                            
+
                         </note>
                     </did>
                 </c>
-            
+
             </xsl:otherwise>
-        </xsl:choose>     
+        </xsl:choose>
       <xsl:text>&#xa;</xsl:text>
     </xsl:template>
-    
+
+<!-- NB: The editor is named here as "Editor" and not "Creator" -->
+
     <xsl:template match="AUTHORS/PERIODICAL_EDITOR">
-        <p>Creator:&#x20;<xsl:value-of select="."/></p>
+        <p>Editor:&#x20;<xsl:value-of select="."/></p>
     </xsl:template>
-    
+
     <xsl:template match="AUTHORS/ARTICLE_AUTHOR">
         <p>Creator:&#x20;<xsl:value-of select="."/></p>
     </xsl:template>
-    
+
     <xsl:template match="SUBSIDIARY_AUTHORS/SUBSIDIARY_AUTHOR">
         <p>Secondary creator:&#x20;<xsl:value-of select="."/></p>
-    </xsl:template>    
-    
+    </xsl:template>
+
     <xsl:template match="PERIODICAL_TITLE">
         <xsl:value-of select="."/>
     </xsl:template>
-    
+
     <xsl:template match="SUBSIDIARY_PERIODICAL_TITLE">
         <xsl:text>,&#x20;</xsl:text><xsl:value-of select="."/>
     </xsl:template>
-    
-      
+
+
     <xsl:template match="VOLUME">
         <xsl:text>, Volume </xsl:text><xsl:value-of select="."/>
-    </xsl:template>       
-    
+    </xsl:template>
+
     <xsl:template match="ISSUE">
         <xsl:text>, Issue</xsl:text><xsl:value-of select="."/>
     </xsl:template>
-    
+
     <xsl:template match="NUMBER">
                 <xsl:text>, Number </xsl:text><xsl:value-of select="."/>
     </xsl:template>
-    
+
     <xsl:template match="PAGES">
         <xsl:text>, Page(s) </xsl:text><xsl:value-of select="."/>
     </xsl:template>
-    
+
     <xsl:template match="ARTICLE_TITLE">
         <xsl:value-of select="."/>
     </xsl:template>
-    
+
     <xsl:template match="SUBSIDIARY_ARTICLE_TITLE">
         <xsl:text>.&#x20;</xsl:text><xsl:value-of select="."/>
     </xsl:template>
@@ -175,8 +177,8 @@ must be a record of a periodical issue, and apply this template -->
     <xsl:template match="ALTERNATE_TITLE">
         <p>Periodical type:&#x20;<xsl:value-of select="."/></p>
     </xsl:template>
-    
-    
+
+
     <xsl:template match="NOTES">
         <p>Notes:&#x20;<xsl:value-of select="."/></p>
     </xsl:template>

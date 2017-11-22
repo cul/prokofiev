@@ -2,6 +2,7 @@
 <outputxml>
     <!-- 36 items -->
     <!-- Replaced <EDITOR> with <PERIODICAL_EDITOR> -->
+    <!-- Fixed call number spa-tex-atl-0182 added "-ef" at end -->
 <RECORD>
         <REFERENCE_TYPE>1</REFERENCE_TYPE>
         <REFNUM>33</REFNUM>
@@ -488,7 +489,7 @@
         <KEYWORDS>
             <KEYWORD>The Fiery Angel (Op. 37)</KEYWORD>
         </KEYWORDS>
-        <CALL_NUMBER>spa-tex-atl-0182</CALL_NUMBER>
+        <CALL_NUMBER>spa-tex-atl-0182-ef</CALL_NUMBER>
     </RECORD>
 <RECORD>
         <REFERENCE_TYPE>1</REFERENCE_TYPE>
