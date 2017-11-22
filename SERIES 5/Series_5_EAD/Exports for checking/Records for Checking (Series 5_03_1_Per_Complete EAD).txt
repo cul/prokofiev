@@ -51,6 +51,8 @@
          Publication date: 1942-07/09
          Language: English
          Call Number: spa-tex-per-0004
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -64,6 +66,8 @@
          Publication date: 1995-09
          Language: English
          Call Number: spa-tex-per-0005
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -177,6 +181,8 @@
          Publication date: 1983-04
          Language: English
          Call Number: spa-tex-per-0013
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -190,6 +196,8 @@
          Publication date: 1984-10/12
          Language: English
          Call Number: spa-tex-per-0014
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -203,6 +211,8 @@
          Publication date: 1985-01/03
          Language: English
          Call Number: spa-tex-per-0015
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -216,6 +226,8 @@
          Publication date: 1982-04-05
          Language: English
          Call Number: spa-tex-per-0016
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -229,6 +241,8 @@
          Publication date: 1983-11-28
          Language: English
          Call Number: spa-tex-per-0017
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -388,6 +402,8 @@
          Publication date: 1990-09
          Language: English
          Call Number: spa-tex-per-0024
+         Document type: Issue
+         Periodical type: Newsletter
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -729,6 +745,8 @@
          Publication date: 1982
          Language: English
          Call Number: spa-tex-per-0046
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -742,6 +760,8 @@
          Publication date: 1983
          Language: English
          Call Number: spa-tex-per-0047
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -755,6 +775,8 @@
          Publication date: 1983
          Language: English
          Call Number: spa-tex-per-0048
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -768,6 +790,8 @@
          Publication date: 1984
          Language: English
          Call Number: spa-tex-per-0049
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -781,6 +805,8 @@
          Publication date: 1984
          Language: English
          Call Number: spa-tex-per-0050
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -1069,6 +1095,8 @@
          Publication date: 1990-09
          Language: English
          Call Number: spa-tex-per-0066
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -1096,6 +1124,8 @@
          Publication date: 1985-11
          Language: English
          Call Number: spa-tex-per-0068
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -1452,6 +1482,8 @@
          Publication date: 2000-05
          Language: French
          Call Number: spa-tex-per-0084
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -1465,6 +1497,8 @@
          Publication date: 2000-09
          Language: French
          Call Number: spa-tex-per-0085
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -1576,6 +1610,8 @@
          Publication date: 1982-08-27 - 1982-09-02
          Language: French
          Call Number: spa-tex-per-0088
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -1677,6 +1713,8 @@
          Publication date: 2000-06
          Language: French
          Call Number: spa-tex-per-0093
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -2261,6 +2299,8 @@
          Publication date: 1929
          Language: Russian
          Call Number: spa-tex-per-0108
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: LOCATION: Publications-fragile: box 1. No article specific to Prokofiev.
       
@@ -2274,6 +2314,8 @@
          Publication date: 1998
          Language: Russian
          Call Number: spa-tex-per-0109
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: per-109 and per-110 are 2 volumes of the same issue. No article specific to Prokofiev.
       
@@ -2287,6 +2329,8 @@
          Publication date: 1998
          Language: Russian
          Call Number: spa-tex-per-1
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: per-109 and per-110 are 2 volumes of the same issue. No article specific to Prokofiev.
       
@@ -2300,6 +2344,8 @@
          Publication date: 1999
          Language: Russian
          Call Number: spa-tex-per-0111
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev.
       
@@ -2313,6 +2359,8 @@
          Publication date: 1999
          Language: Russian
          Call Number: spa-tex-per-0112
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev.
       
@@ -2557,6 +2605,8 @@
          Publication date: 1973-03
          Language: Russian
          Call Number: spa-tex-per-0115
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -2598,6 +2648,8 @@
          Publication date: 1990-06
          Language: Russian
          Call Number: spa-tex-per-0117
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -2641,6 +2693,8 @@
          Publication date: 1998-01
          Language: Russian
          Call Number: spa-tex-per-0120
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -2654,6 +2708,8 @@
          Publication date: 1998-02
          Language: Russian
          Call Number: spa-tex-per-0121
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -2667,6 +2723,8 @@
          Publication date: 1998-03
          Language: Russian
          Call Number: spa-tex-per-0122
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -2680,6 +2738,8 @@
          Publication date: 1998-04
          Language: Russian
          Call Number: spa-tex-per-0123
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -2693,6 +2753,8 @@
          Publication date: 1998-05
          Language: Russian
          Call Number: spa-tex-per-0124
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -2706,6 +2768,8 @@
          Publication date: 1998-06
          Language: Russian
          Call Number: spa-tex-per-0125
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -2719,6 +2783,8 @@
          Publication date: 1998-07
          Language: Russian
          Call Number: spa-tex-per-0126
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -2732,6 +2798,8 @@
          Publication date: 1998-08
          Language: Russian
          Call Number: spa-tex-per-0127
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -2745,6 +2813,8 @@
          Publication date: 1998-09
          Language: Russian
          Call Number: spa-tex-per-0128
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -2758,6 +2828,8 @@
          Publication date: 1998-10
          Language: Russian
          Call Number: spa-tex-per-0129
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -2771,6 +2843,8 @@
          Publication date: 1998-11
          Language: Russian
          Call Number: spa-tex-per-0130
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -2784,6 +2858,8 @@
          Publication date: 1998-12
          Language: Russian
          Call Number: spa-tex-per-0131
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -2797,6 +2873,8 @@
          Publication date: 1999-01
          Language: Russian
          Call Number: spa-tex-per-0132
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -2810,6 +2888,8 @@
          Publication date: 1999-02
          Language: Russian
          Call Number: spa-tex-per-0133
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -2823,6 +2903,8 @@
          Publication date: 1999-03
          Language: Russian
          Call Number: spa-tex-per-0134
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -2836,6 +2918,8 @@
          Publication date: 1999-04
          Language: Russian
          Call Number: spa-tex-per-0135
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -2849,6 +2933,8 @@
          Publication date: 1999-05
          Language: Russian
          Call Number: spa-tex-per-0136
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -2862,6 +2948,8 @@
          Publication date: 1999-06
          Language: Russian
          Call Number: spa-tex-per-0137
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -2875,6 +2963,8 @@
          Publication date: 1999-07
          Language: Russian
          Call Number: spa-tex-per-0138
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -2888,6 +2978,8 @@
          Publication date: 1999-08
          Language: Russian
          Call Number: spa-tex-per-0139
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -2901,6 +2993,8 @@
          Publication date: 1999-09
          Language: Russian
          Call Number: spa-tex-per-0140
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -2928,6 +3022,8 @@
          Publication date: 2000-04
          Language: Russian
          Call Number: spa-tex-per-0142
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -2955,6 +3051,8 @@
          Publication date: 2001-08
          Language: Russian
          Call Number: spa-tex-per-0144
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -2968,6 +3066,8 @@
          Publication date: 2001-09
          Language: Russian
          Call Number: spa-tex-per-0145
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -2981,6 +3081,8 @@
          Publication date: 2001-10
          Language: Russian
          Call Number: spa-tex-per-0146
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -3009,6 +3111,8 @@
          Publication date: 2001-12
          Language: Russian
          Call Number: spa-tex-per-0148
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -3022,6 +3126,8 @@
          Publication date: 2002-01
          Language: Russian
          Call Number: spa-tex-per-0149
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -3049,6 +3155,8 @@
          Publication date: 1973-07-14
          Language: Russian
          Call Number: spa-tex-per-0151
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -3062,6 +3170,8 @@
          Publication date: 1991-03-16/23
          Language: Russian
          Call Number: spa-tex-per-0152
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev
       
@@ -3132,6 +3242,8 @@
          Publication date: 1990
          Language: English
          Call Number: spa-tex-per-0157
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev. Contributors: Edwin Evans; Denis Hall; Rex Lawson; Michael Magnus Osborn; Gerald
             Stonehill
@@ -3146,6 +3258,8 @@
          Publication date: 1993
          Language: English
          Call Number: spa-tex-per-0158
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev. Contributors: Drui Fergison; Denis Hall; Rex Lawson; Colin Osman; David Smith; Guy
             Montrose Whipple
@@ -3160,6 +3274,8 @@
          Publication date: 1998
          Language: English
          Call Number: spa-tex-per-0159
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev. Contributors: Charles Amirkhanian; Denis Hall; Wendy Hiscocks; Lionel Salter
       
@@ -3188,6 +3304,8 @@
          Publication date: 1999
          Language: English
          Call Number: spa-tex-per-0161
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev. Contributors: Julian Dyer; Denis Hall; Rex Lawson; Nigel Simone
       
@@ -3654,6 +3772,8 @@
          Publication date: 1991-01
          Language: English
          Call Number: spa-tex-per-0182
+         Document type: Issue
+         Periodical type: Magazine
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
       
 
@@ -4060,6 +4180,8 @@
          Publication date: 2003-03
          Language: French
          Call Number: spa-tex-per-0193
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: Full radio playlist for March 2003. Regarding the Prokofiev 2003
             celebrations
@@ -4103,6 +4225,8 @@
          Periodical: Akkord: Zhurnal muzykal'noi kultury
          Language: Russian
          Call Number: spa-tex-per-0196
+         Document type: Issue
+         Periodical type: Journal
          Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
          Notes: No article specific to Prokofiev.
       
@@ -4428,3 +4552,4 @@
          Notes: Edition title: À la recherche d'un texte: Prokofiev et la
             littérature
       
+

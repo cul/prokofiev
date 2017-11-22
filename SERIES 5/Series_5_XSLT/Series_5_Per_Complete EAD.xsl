@@ -93,7 +93,8 @@ must be a record of a periodical issue, and apply this template -->
                             <xsl:apply-templates select="DATE"></xsl:apply-templates>
                             <xsl:apply-templates select="CUSTOM1"></xsl:apply-templates>
                             <xsl:apply-templates select="CALL_NUMBER"></xsl:apply-templates>
-                            <xsl:apply-templates select="TYPE_OF_WORK"></xsl:apply-templates>
+                            <p>Document type: Issue</p>
+                            <xsl:apply-templates select="PERIODICAL_TYPE_OF_WORK"></xsl:apply-templates>
                             <xsl:apply-templates select="ALTERNATE_TITLE"></xsl:apply-templates>
                             <p>Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London</p>
                             <xsl:apply-templates select="NOTES"></xsl:apply-templates>
