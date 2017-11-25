@@ -3501,7 +3501,7 @@ Contains combined records from 3 EndNote exports:
            Publication date: 2003-03/04
            Language: English
            Call Number: spa-tex-per-0169
-           Document type: Essy
+           Document type: Essay
            Periodical type: Journal
            Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
            Notes: Relates to the Prokofiev 2003 celebrations
