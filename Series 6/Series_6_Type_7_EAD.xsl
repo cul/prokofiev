@@ -2,7 +2,8 @@
           to Series 6 - Type 7 EAD  - - MS 5/26/18 -->
 
 <!-- REVISION 7/21/2018
-      PRESORT :
+      Separate XSL transforms for each type
+      located in nested XSLT folder
 
 Audio Tape
 CD
