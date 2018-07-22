@@ -1,11 +1,22 @@
 <!-- convert EADPAC_type7.xml to
           to Series 6 - Type 7 EAD  - - MS 5/26/18 -->
 
+<!-- REVISION 7/21/2018
+      PRESORT :
+
+Audio Tape
+CD
+DVD
+Video Tape
+LP
+CDRom
+-->
+
 <xsl:stylesheet
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xs="http://www.w3.org/2001/XMLSchema"
     exclude-result-prefixes="xs"
     version="2.0">
-    
+
     <xsl:output method="xml" indent="yes"/>
 
     <xsl:template match="outputxml/RECORD">
@@ -15,9 +26,9 @@
       </xsl:variable>
 
         <xsl:text>&#xa;</xsl:text>
-        
+
 <!-- Generate EAD number
-     
+
         Type 7 starts numbering after OPERA  14633 -->
 
       <xsl:variable name="SPA">
@@ -42,7 +53,7 @@
                       <xsl:apply-templates select="YEAR"></xsl:apply-templates>
                       <xsl:apply-templates select="CUSTOM1"></xsl:apply-templates>
                       <xsl:apply-templates select="CALL_NUMBER"></xsl:apply-templates>
-                      <xsl:apply-templates select="ACCESSION_NUMBER"></xsl:apply-templates>  
+                      <xsl:apply-templates select="ACCESSION_NUMBER"></xsl:apply-templates>
                       <xsl:apply-templates select="TYPE_OF_WORK"></xsl:apply-templates>
                       <p>Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London</p>
                       <xsl:apply-templates select="NOTES"></xsl:apply-templates>
@@ -88,11 +99,11 @@
     <xsl:template match="CALL_NUMBER">
         <p>Call Number:&#x20;<xsl:value-of select="."/></p>
     </xsl:template>
-    
+
     <xsl:template match="ACCESSION_NUMBER">
         <p>Accession Number:&#x20;<xsl:value-of select="."/></p>
     </xsl:template>
-    
+
     <xsl:template match="TYPE_OF_WORK">
         <p>Document type:&#x20;<xsl:value-of select="."/></p>
     </xsl:template>
@@ -100,6 +111,6 @@
     <xsl:template match="NOTES">
         <p>Notes:&#x20;<xsl:value-of select="."/></p>
     </xsl:template>
-    
+
 
 </xsl:stylesheet>
