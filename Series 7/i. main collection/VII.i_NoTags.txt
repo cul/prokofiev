@@ -1,0 +1,1273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+Title:   Sergei Prokofiev, as infant
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15581
+         Date: 189x-xx-xx (inferred)
+         Duplicates: 3, Box 270
+         Also available in Digital: SPA_15746
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0001
+         Notes: Old photo numbering: 033. The implied date: ca. 1892-1894, based on SSP's approximate age.
+         Box: 261
+
+
+Title:   Parents with infant Sergei
+
+         Name of subject(s): Sergei Sergeevich Prokofiev; Sergei Alekseevich Prokofiev; Maria Grigorievna Prokofieva
+         ID: SPA_15582
+         Date: 189x-xx-xx (inferred)
+         Also available in Digital: SPA_15749
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0002
+         Notes: Old photo numbering: 032. The implied date: ca. 1892-1894, based on SSP's age.
+         Box: 261
+
+
+Title:   Sergei Prokofiev, as child with score of ‘Giant’
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15583
+         Date: 1900-xx-xx (inferred)
+         Duplicates: 5, Box 270
+         Also available in Digital: SPA_15741
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0003
+         Notes: Old photo numbering: 024. The implied date is the year of creation of 'The Giant'
+         Box: 261
+
+
+Title:   Sergei Prokofiev, as child
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15584
+         Date: unknown
+         Duplicates: 1, Box 270
+         Also available in Digital: SPA_15754
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0004
+         Notes: Old photo numbering: 029. The digital copy is under folder named "1871-1899", so the photo was likely taken between 1895 and 1899, based on SP's hypothetical age and the folder name
+         Box: 261
+
+
+Title:   Prokofiev (young) with Mozart bust at a ball at the St Petersburg Conservatory
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15585
+         Date: 1908-01-xx (approximate)
+         Duplicates: 3, Box 270
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0005
+         Notes: Old photo numbering: 048. Source: Shlifstein, album
+         Box: 261
+
+
+Title:   Sergei Prokofiev in uniform
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15586
+         Date: unknown
+         Duplicates: 3, Box 270
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0006
+         Notes: Old photo numbering: 003
+         Box: 261
+
+
+Title:   Prokofiev (young) at piano, Nikopol
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15587
+         Date: 1910-xx-xx (approximate)
+         Duplicates: 2, Box 270
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0007
+         Notes: Old photo numbering: 042
+         Box: 261
+
+
+Title:   Prokofiev &amp; Morolev, playing chess
+
+         Name of subject(s): Sergei Sergeevich Prokofiev, Vasilii Mitrofanovich Morolev
+         ID: SPA_15588
+         Date: 1909-xx-xx (approximate)
+         Duplicates: 1, Box 270
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0008
+         Notes: Old photo numbering: 018
+         Box: 261
+
+
+Title:   Prokofiev  at piano, with Morolev
+
+         Name of subject(s): Sergei Sergeevich Prokofiev, Vasilii Mitrofanovich Morolev
+         ID: SPA_15589
+         Date: 1910-xx-xx (inferred)
+         Duplicates: 4, Box 270
+         Also available in Digital: SPA_15774
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0009
+         Notes: Old photo numbering: 026. Date inferred based on the year in the name of the digital copy
+         Box: 261
+
+
+Title:   Serge Prokofiev standing in white suit
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15590
+         Date: 1915-xx-xx (inferred)
+         Duplicates: 1, Box 270
+         Also available in Digital: SPA_15786
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0010
+         Notes: Old photo numbering: 087. Date inferred based on the inscription on the reverse side of the photo.
+         Box: 261
+
+
+Title:   Serge Prokofiev leaning on piano looking at a score New York
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15591
+         Date: 1920-xx-xx (approximate)
+         Duplicates: 2, Box 270
+         Also available in Digital: SPA_15790
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0011
+         Notes: Old photo numbering: 099. The PHOTOGRAPH COLLECTION_listing.xls spreadsheet lists the date for this photo as ca. 1918-1919; however, there is a date on the back of the photo that says ca. 1920. The timestamp in the filename of the digital copy suggests 1918.
+         Box: 261
+
+
+Title:   Serge Prokofiev portrait New York
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15592
+         Date: 1920-xx-xx (approximate)
+         Duplicates: 1, Box 270
+         Also available in Digital: SPA_15793
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0012
+         Notes: Old photo numbering: 092. The PHOTOGRAPH COLLECTION_listing.xls spreadsheet lists the date for this photo as ca. 1918-1919; however, there is a date on the back of the photo that says ca. 1920. The timestamp in the filename of the digital copy suggests 1918.
+         Box: 261
+
+
+Title:   Sergei Prokofiev, in street in overcoat/logo, Chicago
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15593
+         Date: 1919-xx-xx (approximate)
+         Duplicates: 4, Box 270
+         Also available in Digital: SPA_15797
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0013
+         Notes: Old photo numbering: 023
+         Box: 261
+
+
+Title:   Sergei Prokofiev, at piano
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15594
+         Date: unknown
+         Duplicates: 1, Box 270
+         Also available in Digital: SPA_15792
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0014
+         Notes: Old photo numbering: 022
+         Box: 261
+
+
+Title:   Serge Prokofiev sat at a bureau New York
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15595
+         Date: 1918-xx-xx (approximate)
+         Duplicates: 1, Box 270
+         Also available in Digital: SPA_15789
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0015
+         Notes: Old photo numbering: 100. Date: ca. 1918-1919.
+         Box: 261
+
+
+Title:   Serge Prokofiev portrait (head and shoulders)
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15596
+         Date: 1920-xx-xx (approximate)
+         Also available in Digital: SPA_15798
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0016
+         Notes: Old photo numbering: 096. The inscription on the back of the photo suggests 1919 or 1920 as possible dates (1919 is crossed out).
+         Box: 261
+
+
+Title:   Ansermet,Diaghilev, Stravinsky &amp; Prokofiev
+
+         Name of subject(s): Ernest Ansermet, Sergei Pavlovich Diaghilev; Igor Fyodorovich Stravinsky; Sergei Sergeevich Prokofiev
+         ID: SPA_15597
+         Date: unknown
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0017
+         Notes: Old photo numbering: 055
+         Box: 261
+
+
+Title:   Serge Prokofiev in suit with bow tie
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15598
+         Date: 1924-06-14 (exact)
+         Duplicates: 1, Box 270
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0018
+         Notes: Old photo numbering: 102
+         Box: 261
+
+
+Title:   Serge Prokofiev (head and shoulders, with glasses)
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15599
+         Date: unknown
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0019
+         Notes: Old photo numbering: 098
+         Box: 261
+
+
+Title:   Sergei Prokofiev, in evening dress 
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15600
+         Date: 1924-10-23 (exact)
+         Duplicates: 1, Box 270
+         Also available in Digital: SPA_15867
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0020
+         Notes: Old photo numbering: 014
+         Box: 261
+
+
+Title:   Group of four, including Prokofiev &amp; Stravinsky
+
+         Name of subject(s): Sergei Sergeevich Prokofiev; Igor Fyodorovich Stravinsky; two unknown men
+         ID: SPA_15601
+         Date: unknown
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0021
+         Notes: Old photo numbering: 051
+         Box: 261
+
+
+Title:   Sergei &amp; Vera Janacopoulos.  Lina Prokofiev in the car.  Mont St Michel
+
+         Name of subject(s): Sergei Janacopoulos; Vera Janacopoulos; Lina Prokofiev
+         ID: SPA_15602
+         Date: 1921-xx-xx (approximate)
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0022
+         Notes: Old photo numbering: 059
+         Box: 261
+
+
+Title:   Sergei Prokofiev
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15603
+         Date: unknown
+         Duplicates: 1, Box 270
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0023
+         Notes: Old photo numbering: 027
+         Box: 261
+
+
+Title:   Lina and Serge Prokofiev with Stravinsky, unknown man and unknown boy outside. [Blurred image]
+
+         Name of subject(s): Sergei Sergeevich Prokofiev; Lina Prokofiev; Igor Fyodorovich Stravinsky
+         ID: SPA_15604
+         Date: unknown
+         Duplicates: 5, Box 270
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0024
+         Notes: Old photo numbering: 199
+         Box: 261
+
+
+Title:   Ansermet, Stravinsky, Prokofiev Switzerland
+
+         Name of subject(s): Sergei Sergeevich Prokofiev; Igor Fyodorovich Stravinsky; Ernest Ansermet
+         ID: SPA_15605
+         Date: 1929-xx-xx (approximate)
+         Also available in Digital: SPA_16022
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0025
+         Notes: Old photo numbering: 080
+         Box: 261
+
+
+Title:   Prokofiev, Glazunov &amp; Alexander Winkler
+
+         Name of subject(s): Sergei Sergeevich Prokofiev; Alexander Konstantinovich Glazunov; Alexander Adolphovich Winkler
+         ID: SPA_15606
+         Date: unknown
+         Duplicates: 1, Box 270
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0026
+         Notes: Old photo numbering: 057. Winkler: see Prokofiev Diaries (Vol. 1, p. 771)
+         Box: 261
+
+
+Title:   Serge Prokofiev with Boris Asafiev at Detskoe Selo
+
+         Name of subject(s): Sergei Sergeevich Prokofiev; Boris Vladimirovich Asafiev
+         ID: SPA_15607
+         Date: 1927-xx-xx (approximate)
+         Also available in Digital: SPA_15925
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0027
+         Notes: Old photo numbering:204
+         Box: 261
+
+
+Title:   Asafiev, Miaskovsky and Serge Prokofiev at Detskoe Selo
+
+         Name of subject(s): Sergei Sergeevich Prokofiev; Boris Vladimirovich Asafiev; Nikolai Yakovlevich Miaskovsky
+         ID: SPA_15608
+         Date: 1927-xx-xx (approximate)
+         Also available in Digital: SPA_15923
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0028
+         Notes: Old photo numbering: 201
+         Box: 261
+
+
+Title:   Asafiev, Miaskovsky and Lina Prokofiev at Detskoe Selo
+
+         Name of subject(s): Lina Prokofiev; Boris Vladimirovich Asafiev; Nikolai Yakovlevich Miaskovsky
+         ID: SPA_15609
+         Date: 1927-xx-xx (approximate)
+         Also available in Digital: SPA_15922
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0029
+         Notes: Old photo numbering: 173
+         Box: 261
+
+
+Title:   Sergei Prokofiev, face
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15610
+         Date: 1932-xx-xx (approximate)
+         Duplicates: 3, Box 270
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0030
+         Notes: Old photo numbering: 021. Paris.
+         Box: 261
+
+
+Title:   Serge Prokofiev sitting in chair with white cover
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15611
+         Date: 1925-xx-xx (inferred)
+         Also available in Digital: SPA_15893
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0031
+         Notes: Old photo numbering:090. Date inferred based on the dating of the digital copy
+         Box: 261
+
+
+Title:   In the Streets of New York. Overcoat and hat
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15612
+         Date: 193x-xx-xx (N/A)
+         Duplicates: 1, Box 270
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0032
+         Notes: Old photo numbering: 083
+         Box: 261
+
+
+Title:   Prokofiev, in armchair, hands folded
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15613
+         Date: 1930-xx-xx (inferred)
+         Duplicates: 1, Box 270
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0033
+         Notes: Old photo numbering:047. The inferred date based on the date on the back of the photo
+         Box: 261
+
+
+Title:   Sergei Prokofiev, full face
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15614
+         Date: 1925-07-xx (approximate)
+         Duplicates: 1, Box 270
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0034
+         Notes: Old photo numbering: 005
+         Box: 261
+
+
+Title:   Serge Prokofiev, photograph portrait by Studio IRIS, Paris
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15615
+         Date: 1933-xx-xx (approximate)
+         Also available in Digital: SPA_16076
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0035
+         Notes: Old photo numbering: 206. Date approximate: ca. 1933-1934
+         Box: 261
+
+
+Title:   Serge Prokofiev, photograph portrait by Studio IRIS, Paris
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15616
+         Date: 1933-xx-xx (approximate)
+         Also available in Digital: SPA_16074
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0036
+         Notes: Old photo numbering: 207. discrepancy between the date written on the back of the physical copy of the photo and the date stamp in the filename of the digital copy
+         Box: 261
+
+
+Title:   Serge Prokofiev at the piano (Moscow)
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15617
+         Date: 193x-xx-xx (approximate)
+         Also available in Digital: SPA_16042
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0037
+         Notes: Old photo numbering: 089. Early 1930's or late 1920's.
+         Box: 261
+
+
+Title:   Serge Prokofiev at the piano (head and shoulders)
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15618
+         Date: 193x-xx-xx (inferred)
+         Also available in Digital: SPA_16043
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0038
+         Notes: Old photo numbering: 091. Chalon collection.Date inferred based on the Photo ID 0037. Photos ID 0037, 0038, 0039, 0040 (and, likely, 0041)  are set in the same place and clearly are taken during the same photoshoot.
+         Box: 261
+
+
+Title:   Prokofiev at the piano
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15619
+         Date: 193x-xx-xx (inferred)
+         Duplicates: 1, Box 270
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0039
+         Notes: Old photo numbering: 151. Date inferred based on the Photo ID 0037. Photos ID 0037, 0038, 0039, 0040 are set in the same place and clearly are taken during the same photoshoot.
+         Box: 261
+
+
+Title:   Prokofiev at the piano
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15620
+         Date: 193x-xx-xx (inferred)
+         Duplicates: 1, Box 270
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0040
+         Notes: Old photo numbering: 152. Chalon collection. Date inferred based on the Photo ID 0037. Photos ID 0037, 0038, 0039, 0040 (and, likely, 0041) are set in the same place and clearly are taken during the same photoshoot.
+         Box: 261
+
+
+Title:   Prokofiev looking at the camera from the piano
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15621
+         Date: 193x-xx-xx (inferred)
+         Duplicates: 1, Box 270
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0041
+         Notes: Old photo numbering: 153. Chalon collection. Likely belongs to the series of photos of Prokofiev at the piano, all taken at the same time: ID 0037, 0038, 0039, 0040.
+         Box: 261
+
+
+Title:   Mab Chalon, Serge and Lina Prokofiev
+
+         Name of subject(s): Mab Chalon; Sergei Sergeevich Prokofiev; Lina Prokofiev
+         ID: SPA_15622
+         Date: unknown
+         Duplicates: 1, Box 270
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0042
+         Notes: Old photo numbering: 148
+         Box: 261
+
+
+Title:   Mab Chalon and Serge Prokofiev
+
+         Name of subject(s): Mab Chalon; Sergei Sergeevich Prokofiev
+         ID: SPA_15623
+         Date: unknown
+         Duplicates: 1, Box 270
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0043
+         Notes: Old photo numbering: 149
+         Box: 261
+
+
+Title:   Serge Prokofiev and Mab Chalon with two dogs
+
+         Name of subject(s): Mab Chalon; Sergei Sergeevich Prokofiev
+         ID: SPA_15624
+         Date: unknown
+         Duplicates: 1, Box 270
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0044
+         Notes: Old photo numbering:150
+         Box: 261
+
+
+Title:   Serge Prokofiev at the piano (focus on hands)
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15625
+         Date: 193x-xx-xx (inferred)
+         Also available in Digital: SPA_16044
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0045
+         Notes: Old photo numbering: 088. Likely belongs to the series of photos of Prokofiev at the piano, all taken at the same time: ID 0037, 0038, 0039, 0040, likely 0041. The spreadsheet with data lists the year as 1927.
+         Box: 261
+
+
+Title:   Sergei Prokofiev, in raincoat; Ivanovo [NM] or 1935 at Polenovo [SP Jr.]
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15626
+         Date: 1944-xx-xx (approximate)
+         Duplicates: 1, Box 270
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0046
+         Notes: Old photo numbering: 010
+         Box: 261
+
+
+Title:   Prokofiev &amp; Meyerhold
+
+         Name of subject(s): Sergei Sergeevich Prokofiev; Vsevolod Emilievich Meyerhold
+         ID: SPA_15627
+         Date: unknown
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0047
+         Notes: Old photo numbering: 040
+         Box: 261
+
+
+Title:   Prokofiev &amp; Meyerhold
+
+         Name of subject(s): Sergei Sergeevich Prokofiev; Vsevolod Emilievich Meyerhold
+         ID: SPA_15628
+         Date: unknown
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0048
+         Notes: Old photo numbering: 035
+         Box: 261
+
+
+Title:   Prokofiev &amp; Eisenstein 
+
+         Name of subject(s): Sergei Sergeevich Prokofiev; Sergei Mikhailovich Eisenstein
+         ID: SPA_15629
+         Date: unknown
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0049
+         Notes: Old photo numbering: 050
+         Box: 261
+
+
+Title:   Prokofiev, writing musical score
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15630
+         Date: unknown
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0050
+         Notes: Old photo numbering: 043
+         Box: 261
+
+
+Title:   Prokofiev, playing cards
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15631
+         Date: unknown
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0051
+         Notes: Old photo numbering: 044
+         Box: 261
+
+
+Title:   Serge Prokofiev sat in a chair reading a book
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15632
+         Date: unknown
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0052
+         Notes: Old photo numbering: 097
+         Box: 261
+
+
+Title:   Sergei Prokofiev, at Nikolina Gora
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15633
+         Date: 1951-xx-xx (approximate)
+         Duplicates: 3, Box 270
+         Also available in Digital: PHOTOS &gt; Contemporary to SP  &gt; photo_album &gt; 1950-1952 &gt; 195002s.jpg
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0053
+         Notes: Old photo numbering: 009. The year stamp in the name of the digital copy is 1950. The digital copy zoomed out a little compared to the original, but it's definitely the same photo
+         Box: 261
+
+
+Title:   Serge Prokofiev sat in wicker chair at dacha in Nikolina Gora
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15634
+         Date: 1950-xx-xx (approximate)
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0054
+         Notes: Old photo numbering: 086
+         Box: 261
+
+
+Title:   Serge Prokofiev in front of Miaskovsky plaque
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15635
+         Date: 1951-xx-xx (inferred)
+         Also available in Digital: PHOTOS &gt; Contemporary to SP  &gt; photo_album &gt; 1950-1952 &gt; 195104s.jpg
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0055
+         Notes: Old photo numbering: 053. Date inferred based on the year in the filename of the digital copy. The digital copy zoomed out a little
+         Box: 261
+
+
+Title:   Last photo by Sviatoslav
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15636
+         Date: 1952-xx-xx (approximate)
+         Duplicates: 3, Box 270
+         Also available in Digital: PHOTOS &gt; Contemporary to SP  &gt; photo_album &gt; 1950-1952 &gt; 195201s.jpg
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0056
+         Notes: Old photo numbering: 081
+         Box: 261
+
+
+Title:   Prokofiev &amp; Mira Mendelsohn Prokofiev
+
+         Name of subject(s): Sergei Sergeevich Prokofiev; Mira Aleksandrovna Mendelsohn-Prokofiev
+         ID: SPA_15637
+         Date: 1941-05-12 (exact)
+         Duplicates: 3, Box 270
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0057
+         Notes: Old photo numbering: 041. Date on the back of the photo, mistaken for 1948 in the PHOTOGRAPHS_COLLECTION_listing.xlsx document
+         Box: 261
+
+
+Title:   Prokofiev &amp; Mira Mendelsohn Prokofiev
+
+         Name of subject(s): Sergei Sergeevich Prokofiev; Mira Aleksandrovna Mendelsohn-Prokofiev
+         ID: SPA_15638
+         Date: 194x-xx-xx (approximate)
+         Duplicates: 1, Box 270
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0058
+         Notes: Old photo numbering: 049
+         Box: 261
+
+
+Title:   Sergei Prokofiev, conducting in USSR
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15639
+         Date: 193x-xx-xx (approximate)
+         Duplicates: 8, Box 270
+         Also available in Digital: SPA_16145
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0059
+         Notes: Old photo numbering: 011. Late 1930s, according to the date on the back of the photo. The year in the filename of the digital copy -- 1934.
+         Box: 261
+
+
+Title:   Prokofiev at piano, with Natalya Sats
+
+         Name of subject(s): Sergei Sergeevich Prokofiev; Natalya Ilyinichna Sats
+         ID: SPA_15640
+         Date: unknown
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0060
+         Notes: Old photo numbering: 054
+         Box: 261
+
+
+Title:   Sergei Prokofiev, on podium with baton
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15641
+         Date: unknown
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0061
+         Notes: Old photo numbering: 037
+         Box: 261
+
+
+Title:   Prokofiev, on podium at concert &amp; Mravinsky
+
+         Name of subject(s): Sergei Sergeevich Prokofiev; Yevgeny Aleksandrovich Mravinsky
+         ID: SPA_15642
+         Date: 1947-10-11 (exact)
+         Duplicates: 2, Box 270
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0062
+         Notes: Old photo numbering: 046
+         Box: 261
+
+
+Title:   Prokofiev, in evening dress on podium, caption on verso ‘5th Symphony’
+
+         Name of subject(s): Sergei Sergeevich Prokofiev
+         ID: SPA_15643
+         Date: unknown
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0063
+         Notes: Old photo numbering: 038
+         Box: 261
+
+
+Title:   Lina Prokofiev, in white lace mantilla
+
+         Name of subject(s): Lina Prokofiev
+         ID: SPA_15644
+         Date: 1920-xx-xx (approximate)
+         Duplicates: 3, Box 270
+         Also available in Digital: SPA_15802
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0064
+         Notes: Old photo numbering: 036. Digital copy zoomed out
+         Box: 261
+
+
+Title:   Lina Prokofiev
+
+         Name of subject(s): Lina Prokofiev
+         ID: SPA_15645
+         Date: 1924-06-14 (inferred)
+         Duplicates: 7, Box 270
+         Also available in Digital: SPA_15831
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0065
+         Notes: Old photo numbering: 030. Date inferred since the photo seems to belong to the same set as photos ID 0066, 0067, 0068
+         Box: 261
+
+
+Title:   Sergei and Lina
+
+         Name of subject(s): Sergei Sergeevich Prokofiev; Lina Prokofiev
+         ID: SPA_15646
+         Date: 1924-06-14 (exact)
+         Duplicates: 1, Box 270
+         Also available in Digital: SPA_15833
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0066
+         Notes: Old photo numbering: 007
+         Box: 261
+
+
+Title:   Lina Prokofiev portrait (waist to head)
+
+         Name of subject(s): Lina Prokofiev
+         ID: SPA_15647
+         Date: 1924-06-14 (exact)
+         Also available in Digital: SPA_15830
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0067
+         Notes: Old photo numbering: 104. Date on verso -- July 1924
+         Box: 261
+
+
+Title:   Serge and Lina Prokofiev portrait
+
+         Name of subject(s): Sergei Sergeevich Prokofiev; Lina Prokofiev
+         ID: SPA_15648
+         Date: 1924-06-14 (exact)
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0068
+         Notes: Old photo numbering: 110. Date on verso -- July 1924
+         Box: 261
+
+
+Title:   Sergei, Lina &amp; Sviatoslav Prokofiev
+
+         Name of subject(s): Sergei Sergeevich Prokofiev; Lina Prokofiev; Sviatoslav Sergeevich Prokofiev
+         ID: SPA_15649
+         Date: 1924-xx-xx (inferred)
+         Duplicates: 4, Box 270
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0069
+         Notes: Old photo numbering: 016. Date inferred since the photo is almost identical to photo ID 0070 and clearly taken at the same time
+         Box: 261
+
+
+Title:   Lina, Sviatoslav and Serge Prokofiev in garden, France
+
+         Name of subject(s): Sergei Sergeevich Prokofiev; Lina Prokofiev; Sviatoslav Sergeevich Prokofiev
+         ID: SPA_15650
+         Date: 1924-xx-xx (approximate)
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0070
+         Notes: Old photo numbering: 132.
+         Box: 261
+
+
+Title:   Lina and Sviatoslav Prokofiev
+
+         Name of subject(s): Lina Prokofiev; Sviatoslav Sergeevich Prokofiev
+         ID: SPA_15651
+         Date: 1925-xx-xx (inferred)
+         Duplicates: 2, Box 270
+         Also available in Digital: SPA_15876
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0071
+         Notes: Old photo numbering: 114
+         Box: 261
+
+
+Title:   Lina &amp; Sviatoslav Prokofiev
+
+         Name of subject(s): Lina Prokofiev; Sviatoslav Sergeevich Prokofiev
+         ID: SPA_15652
+         Date: 1925-xx-xx (approximate)
+         Duplicates: 1, Box 270
+         Also available in Digital: SPA_15888
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0072
+         Notes: Old photo numbering: 017
+         Box: 261
+
+
+Title:   Lina Prokofiev and son
+
+         Name of subject(s): Lina Prokofiev; Sviatoslav Sergeevich Prokofiev
+         ID: SPA_15653
+         Date: 1925-xx-xx (approximate)
+         Duplicates: 5, Box 270
+         Also available in Digital: SPA_15875
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0073
+         Notes: Old photo numbering: 001
+         Box: 261
+
+
+Title:   Lina Prokofiev (head and shoulders)
+
+         Name of subject(s): Lina Prokofiev
+         ID: SPA_15654
+         Date: 1925-07-xx (approximate)
+         Duplicates: 1, Box 270
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0074
+         Notes: Old photo numbering: 106
+         Box: 261
+
+
+Title:   Lina Prokofiev (back to camera looking over left shoulder)
+
+         Name of subject(s): Lina Prokofiev
+         ID: SPA_15655
+         Date: 1925-07-xx (approximate)
+         Duplicates: 2, Box 270
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0075
+         Notes: Old photo numbering: 107
+         Box: 261
+
+
+Title:   Sergei and Lina Prokofiev
+
+         Name of subject(s): Sergei Sergeevich Prokofiev; Lina Prokofiev
+         ID: SPA_15656
+         Date: 1925-07-xx (approximate)
+         Duplicates: 4, Box 270
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0076
+         Notes: Old photo numbering: 008
+         Box: 261
+
+
+Title:   Lina Prokofiev (head and shoulders, in white top)
+
+         Name of subject(s): Lina Prokofiev
+         ID: SPA_15657
+         Date: 1932-xx-xx (inferred)
+         Duplicates: 1, Box 270
+         Also available in Digital: PHOTOS &gt; Contemporary to SP  &gt; photo_album &gt; 1932 &gt; 193232.jpg
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0077
+         Notes: Old photo numbering: 108
+         Box: 261
+
+
+Title:   Lina Prokofiev portrait (with fur collar, looking down)
+
+         Name of subject(s): Lina Prokofiev
+         ID: SPA_15658
+         Date: 1924-xx-xx (inferred)
+         Also available in Digital: SPA_15844
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0078
+         Notes: Old photo numbering: 103
+         Box: 261
+
+
+Title:   Lina Prokofiev (head and shoulders)
+
+         Name of subject(s): Lina Prokofiev
+         ID: SPA_15659
+         Date: 1930-xx-xx (approximate)
+         Also available in Digital: PHOTOS &gt; Contemporary to SP  &gt; photo_album &gt; 1932 &gt; 193233.jpg
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0079
+         Notes: Old photo numbering: 105. Date written on the back of the photo -- ca. 1930. The filename of the electronic copy suggests 1932.
+         Box: 261
+
+
+Title:   Serge and Lina Prokofiev
+
+         Name of subject(s): Sergei Sergeevich Prokofiev; Lina Prokofiev
+         ID: SPA_15660
+         Date: 1929-xx-xx (inferred)
+         Also available in Digital: SPA_16048
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0080
+         Notes: Old photo numbering: 109. Date uncertain; the data spreadsheet suggests 1930's with a question mark; the digital copy's filename has 1929 in it.
+         Box: 261
+
+
+Title:   Serge and Lina Prokofiev
+
+         Name of subject(s): Sergei Sergeevich Prokofiev; Lina Prokofiev
+         ID: SPA_15661
+         Date: 1938-xx-xx (approximate)
+         Duplicates: 1, Box 270
+         Also available in Digital: SPA_16188
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0081
+         Notes: Old photo numbering: 111
+         Box: 261
+
+
+Title:   Sviatoslav (aged 9) and Oleg Prokofiev (aged 4) playing in the sea at Ste Maxime. Both are wearing swimming trunks and standing in shallow surf. In the background is a coastline with buildings, and hills behind.
+
+         Name of subject(s): Sviatoslav Sergeevich Prokofiev; Oleg Sergeevich Prokofiev
+         ID: SPA_15662
+         Date: 1933-xx-xx (approximate)
+         Also available in Digital: SPA_16137
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0082
+         Notes: Old photo numbering: 202
+         Box: 261
+
+
+Title:   Portrait of Serge Prokofiev, aged 45, wearing a dark jacket and patterned tie, Lina Prokofiev, wearing a light-coloured dress, Sviatoslav, wearing a light-coloured jacket and patterned tie, and Oleg, wearing a light-coloured knitted top. Moscow.
+
+         Name of subject(s): Sergei Sergeevich Prokofiev; Lina Prokofiev; Sviatoslav Sergeevich Prokofiev; Oleg Sergeevich Prokofiev.
+         ID: SPA_15663
+         Date: 1936-xx-xx (approximate)
+         Duplicates: 3, Box 270
+         Also available in Digital: SPA_16179
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0083
+         Notes: Old photo numbering: 004
+         Box: 261
+
+
+Title:   Portrait of Serge Prokofiev, aged 45, wearing a dark jacket and patterned tie, Sviatoslav, wearing a light-coloured jacket and patterned tie, and Oleg, wearing a light-coloured knitted top. Moscow.
+
+         Name of subject(s): Sergei Sergeevich Prokofiev; Sviatoslav Sergeevich Prokofiev; Oleg Sergeevich Prokofiev.
+         ID: SPA_15664
+         Date: 1936-xx-xx (inferred)
+         Duplicates: 1, Box 270
+         Also available in Digital: SPA_16180
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0084
+         Notes: Old photo numbering: 112. The date on the back of the photo is 1935, but the photo appears to be part of the same photoset as photo ID 0083, which is dated uncontroversially as 1936.
+         Box: 261
+
+
+Title:   Serge Prokofiev, aged 45, wearing a dark short-sleeved shirt and glasses, sitting indoors at a table with Lina Prokofiev, wearing a dark garment over a white top. Standing next to her, with his arm round her neck, Oleg wearing a light short-sleeved shirt. On the table are plates and pots.
+
+         Name of subject(s): Sergei Sergeevich Prokofiev; Lina Prokofiev; Oleg Sergeevich Prokofiev.
+         ID: SPA_15665
+         Date: 1936-xx-xx (approximate)
+         Also available in Digital: SPA_16184
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0085
+         Notes: Old photo numbering: 113. Typo in the photo data spreadsheet, as it specifies 1935 for the date, while both the digital and physical copy point to 1936
+         Box: 261
+
+
+Title:   Serge Prokofiev, aged 47, wearing a mid-coloured jacket over a dark pullover and shirt with a dark tie, and glasses, standing indoors, his arms round Sviatoslav, wearing a dark pullover, and Oleg, wearing a checked top. In the background stands an unidentified man, wearing a dark suit.
+
+         Name of subject(s): Sergei Sergeevich Prokofiev; Sviatoslav Sergeevich Prokofiev; Oleg Sergeevich Prokofiev
+         ID: SPA_15666
+         Date: 1938-xx-xx (approximate)
+         Also available in Digital: SPA_16193
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0086
+         Notes: Old photo numbering: 203
+         Box: 261
+
+
+Title:   Sergei, Sviatoslav &amp; Oleg at the dacha, Nikolina Gora 
+
+         Name of subject(s): Sergei Sergeevich Prokofiev; Sviatoslav Sergeevich Prokofiev; Oleg Sergeevich Prokofiev
+         ID: SPA_15667
+         Date: 1950-xx-xx (approximate)
+         Duplicates: 1, Box 270
+         Also available in Digital: SPA_16213
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0087
+         Notes: Old photo numbering: 020
+         Box: 261
+
+
+Title:   Konstantin Dmitrievich Balmont
+
+         Name of subject(s): Konstantin Dmitrievich Balmont
+         ID: SPA_15668
+         Date: unknown
+         Also available in Digital: SPA_16214
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0088
+         Notes: Old photo numbering: 161
+         Box: 261
+
+
+Title:   Konstantin Dmitrievich Balmont
+
+         Name of subject(s): Konstantin Dmitrievich Balmont
+         ID: SPA_15669
+         Date: unknown
+         Also available in Digital: SPA_16215
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0089
+         Notes: Old photo numbering: 166
+         Box: 261
+
+
+Title:   Konstantin Dmitrievich Balmont in front of train car
+
+         Name of subject(s): Konstantin Dmitrievich Balmont 
+         ID: SPA_15670
+         Date: unknown
+         Also available in Digital: SPA_16216
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0090
+         Notes: Old photo numbering: 165
+         Box: 261
+
+
+Title:   Konstantin Dmitrievich Balmont sunbathing on beach
+
+         Name of subject(s): Konstantin Dmitrievich Balmont
+         ID: SPA_15671
+         Date: unknown
+         Also available in Digital: SPA_16217
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0091
+         Notes: Old photo numbering: 164
+         Box: 261
+
+
+Title:   Konstantin Dmitrievich Balmont on beach
+
+         Name of subject(s): Konstantin Dmitrievich Balmont
+         ID: SPA_15672
+         Date: unknown
+         Also available in Digital: SPA_16218
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0092
+         Notes: Old photo numbering:163
+         Box: 261
+
+
+Title:   Konstantin Balmont on beach with Lina Prokofiev and 3 others [20.06.2011: possibly including Anna Nikolaevna Ivanova, Dagmar Shakhovskaia? Info from Svetlana Shales (Balmont's daughter) and Véronique Mathot]
+
+         Name of subject(s): Konstantin Dmitrievich Balmont; Lina Prokofiev
+         ID: SPA_15673
+         Date: unknown
+         Also available in Digital: SPA_16219
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0093
+         Notes: Old photo numbering: 162
+         Box: 261
+
+
+Title:   Portrait photo of Nikolay Andreevich Rimsky-Korsakov, seated
+
+         Name of subject(s): Nikolay Andreevich Rimsky-Korsakov
+         ID: SPA_15674
+         Date: unknown
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0094
+         Notes: Old photo numbering: 155
+         Box: 261
+
+
+Title:   Portrait photograph of Nikolay Andreevich Rimsky-Korsakov
+
+         Name of subject(s): Nikolay Andreevich Rimsky-Korsakov
+         ID: SPA_15675
+         Date: unknown
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0095
+         Notes: Old photo numbering: 154
+         Box: 261
+
+
+Title:   Left to right: Anatoly Konstantinovich Liadov (seated), Alexander Konstantinovich Glazunov (standing), and Nikolay Andreevich Rimsky-Korsakov (seated)
+
+         Name of subject(s): Alexander Konstantinovich Glazunov; Anatoly Konstantinovich Liadov; Nikolay Andreevich Rimsky-Korsakov
+         ID: SPA_15676
+         Date: unknown
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0096
+         Notes: Old photo numbering: 142
+         Box: 261
+
+
+Title:   Left to right: NIkolay Andreevich Rimsky-Korsakov, Alexander Konstantinovich Glazunov, and Anatoly Konstantinovich Liadov (all seated)
+
+         Name of subject(s): Alexander Konstantinovich Glazunov; Anatoly Konstantinovich Liadov; Nikolay Andreevich Rimsky-Korsakov
+         ID: SPA_15677
+         Date: unknown
+         Also available in Digital: SPA_16220
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0097
+         Notes: Old photo numbering: 135
+         Box: 261
+
+
+Title:   Anatoly Konstantinovich Liadov, seated
+
+         Name of subject(s): Anatoly Konstantinovich Liadov
+         ID: SPA_15678
+         Date: unknown
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0098
+         Notes: Old photo numbering: 157
+         Box: 261
+
+
+Title:   Anna Nikolaevna Esipova at the piano
+
+         Name of subject(s): Anna Nikolaevna Esipova
+         ID: SPA_15679
+         Date: unknown
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0099
+         Notes: Old photo numbering: 140
+         Box: 261
+
+
+Title:   Anna Nikolaevna Esipova playing an organ
+
+         Name of subject(s): Anna Nikolaevna Esipova
+         ID: SPA_15680
+         Date: unknown
+         Also available in Digital: SPA_15806
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0100
+         Notes: Old photo numbering: 139
+         Box: 261
+
+
+Title:   At St Petersburg. Conservatory with Anatoly Konstantinovich Liadov
+
+         Name of subject(s): Anatoly Konstantinovich Liadov
+         ID: SPA_15681
+         Date: unknown
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0101
+         Notes: Old photo numbering: 082
+         Box: 261
+
+
+Title:   Group portrait of members of the St Petersburg Conservatory, including Serge Prokofiev, aged 17
+
+
+         Name of subject(s): M. Piastro, I. Gvirtsman, K. Vansheidt, A. Shmidt, N. Vilik, Serge Prokofiev, aged 17, I. Dobrzhenets; L. Glagoleva, N. Popova, Alexei Petrovich; N. V. Balaev; Petrov; A. K. Glazunov, O. Abramycheva, N. I. Abramychev; A. Flige, E. Kadovskaia, E. Shvarts, Samariatinova; E. Bezsonova, A. Shulzinger, I. Nodelman, R. Ospovat, K. Anisimova, V. Alpers.
+         ID: SPA_15682
+         Date: 1908-xx-xx
+         Also available in Digital: PHOTOS &gt; Contemporary to SP &gt; photo_album &gt; 1900-1920 &gt; 190802.jpg
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0102
+         Notes: Old photo numbering: 141; Back row: M. Piastro, I. Gvirtsman, K. Vansheidt, A. Shmidt, N. Vilik, Serge Prokofiev, aged 17, I. Dobrzhenets; middle row: L. Glagoleva, N. Popova, Alexei Petrovich (history teacher), N. V. Balaev (Russian literature teacher), the priest Petrov (Ecclesiastical Law teacher), the director of the Conservatory A. K. Glazunov, O. Abramycheva, N. I. Abramychev (assistant inspector for the academic programme), A. Flige, E. Kadovskaia, E. Shvarts, Samariatinova; front row: E. Bezsonova, A. Shulzinger, I. Nodelman, R. Ospovat, K. Anisimova, V. Alpers.
+         Box: 261
+
+
+Title:   Young students’ class with Glazunov (image inverted)
+
+         Name of subject(s): 
+         ID: SPA_15683
+         Date: unknown
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0103
+         Notes: Old photo numbering: 156
+         Box: 261
+
+
+Title:   Glazunov and Esipova leading procession onto platform, St. Petersburg Conservatoire
+
+         Name of subject(s): 
+         ID: SPA_15684
+         Date: unknown
+         Also available in Digital: PHOTOS &gt; Contemporary to SP  &gt; photo_album &gt; 1900-1920 &gt; stptrsb_cnsrvtry_1.tif
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0104
+         Notes: Old photo numbering: 136
+         Box: 261
+
+
+Title:   Glazunov at the piano with students during a class
+
+         Name of subject(s): 
+         ID: SPA_15685
+         Date: unknown
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0105
+         Notes: Old photo numbering: 137
+         Box: 261
+
+
+Title:   Group of students on stairwell (St. Petersburg Conservatoire [?])
+
+         Name of subject(s): 
+         ID: SPA_15686
+         Date: unknown
+         Previous holding library: Serge Prokofiev Archive at Goldsmiths College, University of London
+         Goldsmiths ID: 0106
+         Notes: Old photo numbering: 138
+         Box: 261
+

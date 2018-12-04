@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+<outputxml>
 <!--EAD SPA_15704-->
 <c level="file">
    <did>
@@ -572,3 +572,4 @@
       </note>
    </did>
 </c>
+</outputxml>
